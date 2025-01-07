@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 162.18244 162.18244">
+	<style>
+		.cls0 { fill: #fff; }
+		.cls1 { fill: url(#e); }
+		.cls2 { fill: url(#f); }
+		.cls3 { fill: url(#g); }
+		.cls4 { fill: #4d4d4d; }
+	</style>
+	<defs>
+		<linearGradient id="f" x1="54.759" x2="49.053" y1="600.57" y2="631.41" gradientTransform="scale(1.5608 .64069)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<linearGradient id="g" x1="32.103" x2="56.402" y1="808.54" y2="808.54" gradientTransform="scale(2.195 .45558)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<linearGradient id="e" x1="48.693" x2="46.452" y1="670.39" y2="673.16" gradientTransform="scale(1.7812 .56142)" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity=".408" offset="0"/>
+			<stop stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="a">
+			<stop stop-color="#fff" stop-opacity=".175" offset="0"/>
+			<stop stop-color="#fff" stop-opacity=".375" offset="1"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(-16.984 -331)" fill-rule="evenodd">
+		<path d="M 48.388,396.53 C 49.3479,392.2561 50.3078,362.814 58.947,363.289 C 89.664,364.23874 121.341,332.422 144.379,403.179 C 215.412,436.42 149.3181,463.132 93.084,460.758 C 37.517,458.4316 -9.926,418.375 48.388,396.531 L 48.388,396.53" fill-opacity=".992"/>
+		<path d="M 46.948,406.03 C 82.464,428.349 141.019,414.5778 143.418,403.6556 C 146.7777,407.4546 143.418,417.9016 143.418,417.9016 C 128.06,437.8466 53.667,433.5726 45.508,419.3262 C 44.54809,415.5272 46.4679,407.4542 46.9479,406.0302 L 46.948,406.03" class="cls0"/>
+		<g stroke-width="1.25">
+			<path d="M 60.387,370.41 C 69.5061,362.3371 109.342,373.7341 114.622,379.9075 C 116.5418,390.3545 65.667,382.2819 60.387,370.41" class="cls1"/>
+			<path d="M 60.387,382.29 C 64.7066,392.2624 81.505,415.531 109.822,393.212 C 86.304,394.16177 76.225,391.3125 60.387,382.29" class="cls2"/>
+			<path d="M 70.466,362.82 C 76.7054,365.6692 116.062,376.591 120.381,373.267 C 125.1805,371.3675 124.2206,370.4177 121.8209,369.9429 C 117.9813,372.3173 111.2619,373.7419 70.4659,362.8198 L 70.466,362.82" class="cls3"/>
+		</g>
+		<path d="M 52.701,411.24 C 58.463,413.9724 76.229,417.6156 82.952,418.071 C 87.7537,421.2588 85.3528,426.2682 83.43219,429.911 C 70.46819,429.911 55.58219,426.7232 51.74119,422.6246 C 49.34039,418.526 50.30069,415.3382 52.70153,411.2396 L 52.701,411.24" fill-opacity=".317" class="cls4"/>
+	</g>
+	<circle cx="81.091" cy="81.091" r="75.091" fill="none" stroke="#f00" stroke-width="12"/>
+	<path d="M 26.794,25.237 L 132.684,138.027" fill="none" stroke="#f00" stroke-width="12"/>
+	<g transform="translate(-16.984 -331)">
+		<g transform="matrix(1.0215 0 0 .99183 -1.0406 3.2411)" fill-rule="evenodd">
+			<path d="M 48.388,396.53 C 17.877,437.512 47.2935,426.806 93.084,460.758 C 37.517,458.4316 -9.926,418.375 48.388,396.531 L 48.388,396.53" fill-opacity=".992"/>
+		</g>
+	</g>
+</svg>

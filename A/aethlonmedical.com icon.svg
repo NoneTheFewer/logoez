@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1536 1534">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2911.52 0h4446.66v1533.76h-4446.66z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-2911.52 0h4446.66v1533.76h-4446.66z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m-2911.52 0h4446.66v1533.76h-4446.66z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #346699 } 
+		.s1 { fill: #020302 } 
+	</style>
+	<g id="g207">
+		<g id="Clip-Path: Clip-Path" clip-path="url(#cp1)">
+			<g id="Clip-Path">
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m767.7 0.6c-424.1 0-767.7 343.3-767.7 766.8 0 98.3 18.9 192.3 52.7 278.9l292.9-534.5c38.4-63.9 55.3-93.7 93.7-93.7h379.4c42.7 0 68.2 21.2 106.6 93.7l417.8 762.6c119.5-135.3 192-312.7 192-507 0-423.5-343.6-766.8-767.4-766.8z"/>
+			</g>
+		</g>
+		<g id="Clip-Path: g201" clip-path="url(#cp2)">
+			<g id="g201">
+				<path id="path199" fill-rule="evenodd" class="s0" d="m652.8 837.6l-310.9 567.4c31.2 21 63.9 39.3 98 55.3 34.1 16.4 69 29.8 105.2 40.7 36.1 10.9 72.7 19.2 110 24.7 37.2 5.4 74.8 8 112.6 8 214.7 0 408.4-88 547.6-230.1h-407.2z"/>
+			</g>
+		</g>
+		<g id="Clip-Path: g205" clip-path="url(#cp3)">
+			<g id="g205">
+				<path id="path203" fill-rule="evenodd" class="s1" d="m1315.3 1303.6h-409.2l-253.3-466 178.8-326.4c16.9-29.8 44.7-8.6 65.9 29.8z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 33.8 13.608">
+	<defs>
+		<linearGradient id="vlpb" x1=".1521" x2=".5468" y1="-.5875" y2="-.4003" gradientTransform="matrix(70.15 -70.15 70.15 70.15 31.51 66.85)" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#6fdc8c" offset="0"/>
+			<stop style="stop-color:#6fdc8c" offset=".3049"/>
+			<stop style="stop-color:#009d9a" offset=".9279"/>
+			<stop style="stop-color:#009d9a" offset="1"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(-0.39 -.097)">
+		<g transform="matrix(.9865 0 0 .9865 -.9241 -.976)">
+			<g transform="scale(.9942 1.006)" style="fill:url(#vlpb);stroke-width:.7367">
+				<path d="M 10.91,14.79 L 9.9277,11.529 L 5.3497,11.529 L 4.3674,14.79 L 1.3424,14.79 L 5.8614,1.08 L 9.5544,1.08 L 14.0144,14.79 L 10.91,14.79 M 7.668,3.79 L 7.56977,3.79 L 6.05677,8.996 L 9.19977,8.996 L 7.668,3.79" style="fill:url(#vlpb);stroke-width:.7367"/>
+				<path d="M 15.39,14.79 L 15.39,12.413 L 17.158,12.413 L 17.158,3.454 L 15.39,3.454 L 15.39,1.077 L 21.912,1.077 L 21.912,3.454 L 20.144,3.454 L 20.144,12.413 L 21.912,12.413 L 21.912,14.79 L 15.39,14.79" style="fill:url(#vlpb);stroke-width:.7367"/>
+				<path d="M 35.8,14.79 L 32.342,14.79 L 29.375,9.741 L 29.31606,9.741 L 26.42806,14.79 L 23.20606,14.79 L 27.60706,7.698 L 23.42206,1.077 L 26.89906,1.077 L 29.57106,5.713 L 29.63,5.713 L 32.341,1.077 L 35.563,1.077 L 31.339,7.757 L 35.8,14.79" style="fill:url(#vlpb);stroke-width:.7367"/>
+			</g>
+		</g>
+	</g>
+</svg>

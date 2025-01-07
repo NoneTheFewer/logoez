@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1545 512">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h2860.34v523.29h-2860.34z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0h2860.34v523.29h-2860.34z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m0 0h2860.34v523.29h-2860.34z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #007b9f } 
+	</style>
+	<g id="Symbols">
+		<g id="Logo">
+			<g id="Group-12">
+				<g id="Clip-Path: Fill-9" clip-path="url(#cp1)">
+					<path id="Fill-9" fill-rule="evenodd" class="s0" d="m516 216.5c-12.1-7.4-31.3-18.3-44.2-24.2-27.3 17.4-58.3 38.2-87.8 51.8-115.2 64-265.3 95.7-384 23.3 156 149 372 62.3 524.5-45.8z"/>
+				</g>
+				<g id="Clip-Path: Fill-10" clip-path="url(#cp2)">
+					<path id="Fill-10" fill-rule="evenodd" class="s0" d="m535.1 157.1c47.3 23.7 32.4 37.3 65.6 9.2 43.1-29.9 92.2-58.2 141.2-77 220.3-89.9 457.7-7.3 641 126.5-171.6-141.8-403-266.4-629.7-195.1-85 23.8-157.2 79-225.6 132.5z"/>
+				</g>
+				<g id="Clip-Path: Fill-11" clip-path="url(#cp3)">
+					<path id="Fill-11" fill-rule="evenodd" class="s0" d="m1501.5 293.5c10.7-10.4 32.3-31.3 43.1-41.7-163.2 141.8-385.5 254-600.8 165.4-95-34.3-172.4-103.8-245.7-171-152.9-133.2-371.1-250.8-532.2-62.2 167.3-127.3 373.8 3.6 506.8 120.8 72.1 66.8 143 141.1 236.5 177.4 214.3 90.5 436.9-45.8 592.3-188.7z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

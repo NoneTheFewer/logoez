@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: url(#b); }
+		.cls1 { fill: url(#c); }
+	</style>
+	<defs>
+		<linearGradient id="b" x1="18.06" y1="-27.96" x2="107.09" y2="70.92" gradientTransform="translate(0 108) scale(1 -1)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff5416"/>
+			<stop offset=".25" stop-color="#ff5115"/>
+			<stop offset=".46" stop-color="#ff4712"/>
+			<stop offset=".65" stop-color="#ff350e"/>
+			<stop offset=".83" stop-color="#ff1e08"/>
+			<stop offset="1" stop-color="red"/>
+		</linearGradient>
+		<linearGradient id="c" x1="35.33" y1="-34.36" x2="87.96" y2="24.09" xlink:href="#b"/>
+	</defs>
+	<path d="M 63.63,12.5 L 10.39,109.95 L 0.0,102.67 L 49.26,12.5 L 63.62,12.5 L 63.63,12.5 M 64.37,12.5 L 117.61,109.95 L 128.0,102.67 L 78.74,12.5 L 64.38,12.5 L 64.37,12.5" class="cls0"/>
+	<path d="M 116.87,110.52 L 64.0,69.11 L 11.13,110.52 L 21.92,118.07 L 64.0,85.13 L 106.08,118.07 L 116.87,110.52" class="cls1"/>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1558 1218">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m665.41 177.29l315.94 501.14h-211.18v185.18h327.94l223.09 353.86h235.84l-778.3-1217.47z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="935.6" y1="45.6" x2="1293.5" y2="1193.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d85231"/>
+			<stop offset="1" stop-color="#ef694b"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0.41 1217.47h1234.12l-119.17-188.99h-758.58l381.94-597.42-116.97-185.5z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="617.5" y1="283.2" x2="617.5" y2="1247.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1d3d70"/>
+			<stop offset="1" stop-color="#2d5690"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Symbols">
+		<g id="Group">
+			<g id="Group-3">
+				<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+					<path id="Fill-1" class="s0" d="m665.4 177.3l316 501.1h-211.2v185.2h327.9l223.1 353.9h235.8l-778.3-1217.5z"/>
+				</g>
+			</g>
+			<g id="Group-6">
+				<g id="Clip-Path: Fill-4" clip-path="url(#cp2)">
+					<path id="Fill-4" class="s1" d="m0.4 1217.5h1234.1l-119.1-189h-758.6l381.9-597.4-117-185.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

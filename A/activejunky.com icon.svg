@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 370.42 370.42">
+	<defs>
+		<filter id="filter1582" color-interpolation-filters="sRGB">
+			<feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+			<feGaussianBlur in="composite1" result="blur" stdDeviation="2.8048"/>
+			<feOffset dx="2" dy="2" result="offset"/>
+			<feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+		</filter>
+		<filter id="filter1594" color-interpolation-filters="sRGB">
+			<feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+			<feGaussianBlur in="composite1" result="blur" stdDeviation="2.8048"/>
+			<feOffset dx="2" dy="2" result="offset"/>
+			<feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+		</filter>
+	</defs>
+	<g transform="translate(60.48 60.84)" stroke-width=".5622">
+		<path d="m-5.5752 193.48c-2.0149-0.81183-2.5204-2.3746-1.4169-4.3808 0.52715-0.95838 15.505-16.993 33.285-35.632 17.78-18.639 42.818-44.9 55.642-58.357 35.254-36.998 35.583-37.337 37.561-38.765 2.7088-1.9559 6.5306-2.1588 9.5121-0.50512 2.5414 1.4095 126.04 130.46 127.55 133.29 1.0112 1.8882 0.31738 3.5723-1.8041 4.3789-1.8139 0.68962-258.62 0.65923-260.33-0.0307z" fill="#2d518b"/>
+		<path d="m96.121 111.97 17.262-8.5562 10.768 6.6176c5.9223 3.6396 11.069 6.6175 11.437 6.6175 1.1393 0 18.959-14.878 18.778-15.678-0.20468-0.90685-29.007-31.173-29.666-31.173-0.54225 0-49.12 50.88-49.411 51.752-0.27667 0.83003 1.182 0.15922 20.832-9.5809z" fill="#1099d2" filter="url(#filter1594)"/>
+		<path d="m29.104 174.62c20.057-13.091 39.612-22.18 53.291-24.768 6.5247-1.2348 17.055-0.77936 26.261 1.1358 3.7106 0.7719 12.312 3.1909 19.115 5.3754 24.018 7.713 31.575 8.0527 43.571 1.9585 7.7715-3.9481 22.144-15.225 21.817-17.117-0.17732-1.024-31.673-34.306-32.465-34.306-0.24451 0-5.7213 4.3009-12.171 9.5575-6.4493 5.2566-11.986 9.5564-12.304 9.5551-0.31769-1e-3 -5.4941-3.0372-11.503-6.7465-6.009-3.7093-11.448-6.7227-12.087-6.6966-0.63903 0.0261-13.432 6.1612-28.429 13.634l-27.267 13.586-19.248 20.164c-17.346 18.171-21.578 23.179-17.102 20.237 0.8217-0.54002 4.6564-3.0459 8.5215-5.5686z" fill="#fff" filter="url(#filter1582)"/>
+	</g>
+</svg>
