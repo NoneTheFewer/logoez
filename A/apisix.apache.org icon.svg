@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: #f8423f; }
+		.cls1 { fill: url(#a); }
+		.cls2 { fill: url(#b); }
+	</style>
+	<defs>
+		<linearGradient id="a" x1="103.54" y1="102.14" x2="8.4" y2="-17.9" gradientTransform="matrix(1 0 0 -1 0 108)" gradientUnits="userSpaceOnUse">
+			<stop offset=".54" stop-color="#fc0a04"/>
+			<stop offset="1" stop-color="#cf0500" stop-opacity=".77"/>
+		</linearGradient>
+		<linearGradient id="b" x1="61.07" y1="74.24" x2="120.92" y2="-19.86" gradientTransform="matrix(1 0 0 -1 0 108)" gradientUnits="userSpaceOnUse">
+			<stop offset=".47" stop-color="#e2423e"/>
+			<stop offset="1" stop-color="#e2423e" stop-opacity=".77"/>
+		</linearGradient>
+	</defs>
+	<path d="M 0.0,118.81 L 65.0,11.22 L 128.0,118.81 L 96.86,118.81 L 65.0,68.64 L 29.41,118.81 L 0.0,118.81" class="cls0"/>
+	<path d="M 65.0,68.3 L 29.41,118.46 L 0.0,118.46 L 52.93,50.66 L 65.0,68.3" class="cls1"/>
+	<path d="M 96.86,118.81 L 128.0,118.81 L 65.0,11.22 L 96.86,118.81" class="cls2"/>
+</svg>

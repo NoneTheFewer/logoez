@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1540 1138">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,466.03,-760.736,0,656.444,10.405)">
+			<stop offset="0" stop-color="#2b56a7"/>
+			<stop offset=".064" stop-color="#2b5eac"/>
+			<stop offset=".266" stop-color="#2f72b9"/>
+			<stop offset=".464" stop-color="#3384c6"/>
+			<stop offset=".656" stop-color="#3591cf"/>
+			<stop offset=".838" stop-color="#3699d5"/>
+			<stop offset="1" stop-color="#369cd7"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,506.791,-774.228,0,379.961,626.849)">
+			<stop offset="0" stop-color="#2b56a7"/>
+			<stop offset=".064" stop-color="#2b5eac"/>
+			<stop offset=".266" stop-color="#2f72b9"/>
+			<stop offset=".464" stop-color="#3384c6"/>
+			<stop offset=".656" stop-color="#3591cf"/>
+			<stop offset=".838" stop-color="#3699d5"/>
+			<stop offset="1" stop-color="#369cd7"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,506.791,-770.153,0,695.209,626.85)">
+			<stop offset="0" stop-color="#4bb8e9"/>
+			<stop offset=".2" stop-color="#58bbe8"/>
+			<stop offset=".514" stop-color="#76c5e7"/>
+			<stop offset=".902" stop-color="#9fd8e9"/>
+			<stop offset="1" stop-color="#aadeea"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1137.585,-970.538,0,1053.754,-9.269)">
+			<stop offset="0" stop-color="#b6e2ea"/>
+			<stop offset=".033" stop-color="#a7d6e7"/>
+			<stop offset=".117" stop-color="#85c1e1"/>
+			<stop offset=".203" stop-color="#6bb3dd"/>
+			<stop offset=".293" stop-color="#56a9db"/>
+			<stop offset=".389" stop-color="#48a4da"/>
+			<stop offset=".5" stop-color="#43a2da"/>
+			<stop offset=".611" stop-color="#439fd8"/>
+			<stop offset=".735" stop-color="#4497d2"/>
+			<stop offset=".866" stop-color="#4589c9"/>
+			<stop offset="1" stop-color="#4578bc"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Logo">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m568.5 0.1c-57.6-0.3-115.3 31.2-141 94.3l-147 366.4h379.8c67.3 0 128.2-41.2 153.2-103.6l105.4-262.8c25.5-62.6 56.3-94 113.6-94.3z"/>
+				<path id="Layer" class="s1" d="m316.5 639.3c-65-0.8-131.1 39.5-163.7 130.2l-152.7 367.1h382.7c67.3 0 128.3-40.9 153.8-103.3l107.7-263.8c32.2-89.7 51.2-130.2 115.5-130.2z"/>
+				<path id="Layer" class="s2" d="m999 808.7l-128.6-125.2c-31.4-28.7-70.8-44.2-110.6-44.2h-443.3c38.9 0.6 77.6 15.9 108.4 44.2l423.7 412.3c111.4 105.7 264.1-7.9 216.4-125z"/>
+				<path id="Layer" class="s3" d="m1032.3 0.1c57.6-0.1 115.2 31.2 140.8 94.3l357 876.4c34.1 83.8-34.4 165.9-117 166.9h-468.3c84.1 1 154.8-82.1 120.2-166.9l-357-876.4c-25.5-62.5-82.5-94-139.5-94.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

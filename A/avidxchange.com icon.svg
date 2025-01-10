@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1588 1585">
+	<defs>
+		<linearGradient id="g1" x1="-59.1" y1="943.3" x2="3433.6" y2="327.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0097dc"/>
+			<stop offset=".4" stop-color="#0073a8"/>
+			<stop offset=".8" stop-color="#005882"/>
+			<stop offset="1" stop-color="#004e74"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1177.3" y1="181.4" x2="356" y2="1604" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#a6ce39"/>
+			<stop offset="1" stop-color="#00b04c"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1101" y1="1223.4" x2="422.1" y2="328.3" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#a6ce39"/>
+			<stop offset="1" stop-color="#00b04c"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="372.6" y1="644.2" x2="1411" y2="644.2" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#d1d3d4"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: #ffffff } 
+		.s5 { opacity: .1;fill: #010101 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer_3">
+			<rect id="Layer" class="s0" x=".4" y=".6" width="1586.7" height="1584.1" rx="349"/>
+			<path id="Layer" class="s1" d="m998.2 263.8h325.2l-369.2 531h-320.8z"/>
+			<path id="Layer" class="s2" d="m633.4 794.8h320.8l369.2 526.6h-325.2z"/>
+			<path id="Layer" class="s3" d="m954.2 794.8l-162.6 228.2-527.4-759.2h325.2z"/>
+			<path id="Layer" class="s4" d="m589.4 1321.4h-325.2l527.4-759.2 162.6 232.6z"/>
+			<path id="Layer" class="s5" d="m633.4 794.8l-39.6-57 197.8-175.6z"/>
+		</g>
+	</g>
+</svg>

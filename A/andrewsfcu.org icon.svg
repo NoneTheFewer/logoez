@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 197.1 197.1">
+	
+	<g id="g1316" transform="translate(-82.9 46.95)" fill="#0075c9" fill-opacity="1">
+		<path id="polyline392" d="M 82.9,67.9 L 82.9,102.3 L 160.7,33.6 L 160.7,0.9 L 82.9,67.9"/>
+		<g id="g414">
+			<g id="g402">
+				<defs id="defs395">
+					<path id="SVGID_1_" d="M 0.0,0.9 L 415.0,0.9 L 415.0,202.0 L 0.0,202.0 L 0.0,0.9"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use height="100%" width="100%" y="0" x="0" id="use397" xlink:href="#SVGID_1_" overflow="visible"/>
+				</clipPath>
+				<path id="polyline400" clip-path="url(#SVGID_2_)" fill="#0075c9" fill-opacity="1" d="M 142.5,67.9 L 142.5,102.3 L 220.4,33.6 L 220.4,0.9 L 142.5,67.9"/>
+			</g>
+			<g id="g412">
+				<defs id="defs405">
+					<path id="SVGID_3_" d="M 0.0,0.9 L 415.0,0.9 L 415.0,202.0 L 0.0,202.0 L 0.0,0.9"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use height="100%" width="100%" y="0" x="0" id="use407" xlink:href="#SVGID_3_" overflow="visible"/>
+				</clipPath>
+				<path id="polyline410" clip-path="url(#SVGID_4_)" fill="#0075c9" fill-opacity="1" d="M 280.0,0.9 L 202.2,67.9 L 202.2,102.3 L 280.0,33.6 L 280.0,0.9"/>
+			</g>
+		</g>
+	</g>
+</svg>

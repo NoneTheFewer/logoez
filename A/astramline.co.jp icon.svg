@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1600 1600" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" clip-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <style>
+      .fil1{fill:#404040}
+    </style>
+  </defs>
+  <g id="Слой_x0020_1">
+    <path fill="#ffa040" d="M0 0h1600v1600H0z"/>
+    <circle cx="270" cy="270" r="126" class="fil1"/>
+    <circle cx="623" cy="270" r="126" class="fil1"/>
+    <circle cx="623" cy="623" r="126" class="fil1"/>
+    <circle cx="976" cy="270" r="126" class="fil1"/>
+    <circle cx="1329" cy="270" r="126" class="fil1"/>
+    <circle cx="270" cy="623" r="126" class="fil1"/>
+    <circle cx="976" cy="623" r="126" class="fil1"/>
+    <circle cx="1329" cy="623" r="126" class="fil1"/>
+    <circle cx="270" cy="976" r="126" class="fil1"/>
+    <circle cx="623" cy="976" r="126" class="fil1"/>
+    <circle cx="976" cy="976" r="126" class="fil1"/>
+    <circle cx="1329" cy="976" r="126" class="fil1"/>
+    <circle cx="270" cy="1329" r="126" class="fil1"/>
+    <circle cx="623" cy="1329" r="126" class="fil1"/>
+    <circle cx="976" cy="1329" r="126" class="fil1"/>
+    <circle cx="1330" cy="1330" r="126" class="fil1"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1512 1025">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1478.971,-853.974,466.072,807.175,113.093,1184.867)">
+			<stop offset="0" stop-color="#5ae5b6"/>
+			<stop offset=".07" stop-color="#47bb8e"/>
+			<stop offset=".16" stop-color="#318c62"/>
+			<stop offset=".25" stop-color="#206840"/>
+			<stop offset=".33" stop-color="#144d27"/>
+			<stop offset=".4" stop-color="#0d3d18"/>
+			<stop offset=".45" stop-color="#0b3813"/>
+			<stop offset=".53" stop-color="#124822"/>
+			<stop offset=".68" stop-color="#26754c"/>
+			<stop offset=".89" stop-color="#47bb8f"/>
+			<stop offset="1" stop-color="#5ae5b6"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Arcadium Lithium_Logo_Negative Horizontal 1">
+		<path id="Vector_2" class="s0" d="m0.3 885.5c648.1 592.1 1057.9-885.5 1298.6-885.2 117.6 0.1 222.6 224.9 212.2 887.9l-1510.9-2.7z"/>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169 169">
+	<style>
+		.cls0 { fill: url(#a997e203-1d7d-4cb9-b131-5dc44e029b46); }
+		.cls1 { fill: url(#e122e9d8-aee5-4f1a-a60e-b1eae355daa5); }
+	</style>
+	<defs>
+		<linearGradient id="a997e203-1d7d-4cb9-b131-5dc44e029b46" x1="5.23" y1="17.45" x2="5.23" y2="8.09" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1988d9"/>
+			<stop offset="0.9" stop-color="#54aef0"/>
+		</linearGradient>
+		<linearGradient id="e122e9d8-aee5-4f1a-a60e-b1eae355daa5" x1="11.5" y1="12.45" x2="11.5" y2="0.55" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#198ab3"/>
+			<stop offset="0.01" stop-color="#198bb4"/>
+			<stop offset="0.44" stop-color="#27b2d7"/>
+			<stop offset="0.79" stop-color="#2fcbed"/>
+			<stop offset="1" stop-color="#32d4f5"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(-5.5 -5.5)">
+		<g transform="scale(10)">
+			<path d="M 5.59,13.13 L 9.91,13.13 L 9.91,17.45 L 5.59,17.45 L 5.59,13.13 M 1.15,17.45 L 4.87,17.45 L 4.87,13.13 L 0.55,13.13 L 0.55,16.85 A 0.6,0.6 0.0 0,0 1.15,17.45 M 0.55,12.45 L 4.87,12.45 L 4.87,8.09 L 0.55,8.09 L 0.55,12.45" class="cls0"/>
+			<path d="M 11.5,0.55 A 5.89,5.89 0.0 0,1 17.45,6.55 A 5.89,5.89 0.0 0,1 11.5,12.5 L 5.55,12.5 L 5.55,6.5 A 5.89,5.89 0.0 0,1 11.5,0.55" fill-rule="evenodd" class="cls1"/>
+			<rect x="7.59" y="5.65" width="1.36" height="4.08" fill="#fff"/>
+			<rect x="10.31" y="7.01" width="1.36" height="2.72" fill="#fff"/>
+			<rect x="13.03" y="4.29" width="1.36" height="5.44" fill="#fff"/>
+		</g>
+	</g>
+</svg>

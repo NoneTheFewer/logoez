@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.242 34.242">
+	<defs>
+		<linearGradient id="linear-gradient" x2="1" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#005e2d"/>
+			<stop offset=".209" stop-color="#0c6b30"/>
+			<stop offset=".598" stop-color="#2f8e3a"/>
+			<stop offset=".994" stop-color="#58b847"/>
+		</linearGradient>
+		<style>.cls-1{fill:#069548}</style>
+	</defs>
+	<g id="Group_4686" data-name="Group 4686">
+		<path id="Path_7577" d="M 27.542,0.0 L 22.423,0.0 L 0.623,30.758 L 5.289,34.241 L 24.839,26.766 A 13.482,13.482 0.0 0,0 14.159,25.641 L 10.082,27.041 L 23.482,7.774 L 27.549,31.485 L 33.61,31.516 L 27.542,0.0" class="cls-1" data-name="Path 7577"/>
+		<path id="Path_7578" fill="url(#linear-gradient)" d="M 5.314,34.242 L 24.997,26.767 A 13.608,13.608 0.0 0,0 14.216,25.631 L 10.1,27.041 L 5.314,34.242" data-name="Path 7578"/>
+	</g>
+</svg>

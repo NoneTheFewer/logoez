@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1595 1593">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1153.83 0.83l127.91 1318.92q-32.28 1.96-64.54 4.32-32.26 2.35-64.48 5.1-32.23 2.75-64.42 5.89-32.19 3.14-64.34 6.67l129.8-1340.9z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1154.24 2.25l440.32 0.2-0.41 1306.15q-39.04 0.09-78.08 0.74-39.03 0.65-78.06 1.85-39.02 1.2-78.02 2.95-39 1.76-77.98 4.06l-127.77-1315.75z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1153.7-0.31v0.14l-129.81 1340.9c-399.35 44.3-752.25 132.68-1023.21 251.22l-0.68-1592.12z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffd400 } 
+		.s1 { fill: #66b24c } 
+		.s2 { fill: #004fb6 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m624.4-398.8h1056.9v2140.1h-1056.9z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<path id="Layer" fill-rule="evenodd" class="s1" d="m754.8-397.3h1239.2v2115.1h-1239.2z"/>
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp3)">
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m-399.6-399.9h1952.8v2391.4h-1952.8z"/>
+		</g>
+	</g>
+</svg>

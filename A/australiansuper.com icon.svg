@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 25.49 15.12">
+	<path fill="url(#a)" d="M 110.16,2.13 C 109.54,2.18 109.49,3.05 110.08,3.19 L 123.48,6.29 C 124.53,3.79 124.55,1.56 122.78,1.04 L 110.16,2.13" transform="translate(-109.67)"/>
+	<path fill="url(#b)" d="M 134.57,0.0 C 135.07,-0.04 135.35,0.57 134.99,0.92 L 120.57,14.96 C 120.15,15.39 119.47,14.89 119.7,14.35 L 123.46,6.29 C 124.51,3.79 124.53,1.59 122.76,1.04 L 134.57,0.0" transform="translate(-109.67)"/>
+	<defs>
+		<linearGradient id="a" x1="114.43" x2="120.88" y1="6.92" y2="-.78" gradientUnits="userSpaceOnUse">
+			<stop offset=".12" stop-color="#EA4403"/>
+			<stop offset=".26" stop-color="#EA4A03"/>
+			<stop offset=".46" stop-color="#EC5A03"/>
+			<stop offset=".65" stop-color="#EE7203"/>
+			<stop offset=".77" stop-color="#F18402"/>
+			<stop offset="1" stop-color="#F8AE00"/>
+		</linearGradient>
+		<linearGradient id="b" x1="120.34" x2="134.5" y1="6.94" y2="8.18" gradientUnits="userSpaceOnUse">
+			<stop offset=".12" stop-color="#EA4403"/>
+			<stop offset=".24" stop-color="#EA4A03"/>
+			<stop offset=".39" stop-color="#EC5A03"/>
+			<stop offset=".55" stop-color="#EE7203"/>
+			<stop offset=".65" stop-color="#F18402"/>
+			<stop offset=".86" stop-color="#F9B301"/>
+			<stop offset="1" stop-color="#FFD500"/>
+			<stop offset="1" stop-color="#FFD500"/>
+		</linearGradient>
+	</defs>
+</svg>

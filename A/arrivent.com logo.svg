@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1545 257">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,104.969,-171.35,0,148.31,2.569)">
+			<stop offset="0" stop-color="#2b56a7"/>
+			<stop offset=".064" stop-color="#2b5eac"/>
+			<stop offset=".266" stop-color="#2f72b9"/>
+			<stop offset=".464" stop-color="#3384c6"/>
+			<stop offset=".656" stop-color="#3591cf"/>
+			<stop offset=".838" stop-color="#3699d5"/>
+			<stop offset="1" stop-color="#369cd7"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,114.15,-174.389,0,86.034,141.417)">
+			<stop offset="0" stop-color="#2b56a7"/>
+			<stop offset=".064" stop-color="#2b5eac"/>
+			<stop offset=".266" stop-color="#2f72b9"/>
+			<stop offset=".464" stop-color="#3384c6"/>
+			<stop offset=".656" stop-color="#3591cf"/>
+			<stop offset=".838" stop-color="#3699d5"/>
+			<stop offset="1" stop-color="#369cd7"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,114.15,-173.471,0,157.041,141.418)">
+			<stop offset="0" stop-color="#4bb8e9"/>
+			<stop offset=".2" stop-color="#58bbe8"/>
+			<stop offset=".514" stop-color="#76c5e7"/>
+			<stop offset=".902" stop-color="#9fd8e9"/>
+			<stop offset="1" stop-color="#aadeea"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,256.231,-218.607,0,237.801,-1.862)">
+			<stop offset="0" stop-color="#b6e2ea"/>
+			<stop offset=".033" stop-color="#a7d6e7"/>
+			<stop offset=".117" stop-color="#85c1e1"/>
+			<stop offset=".203" stop-color="#6bb3dd"/>
+			<stop offset=".293" stop-color="#56a9db"/>
+			<stop offset=".389" stop-color="#48a4da"/>
+			<stop offset=".5" stop-color="#43a2da"/>
+			<stop offset=".611" stop-color="#439fd8"/>
+			<stop offset=".735" stop-color="#4497d2"/>
+			<stop offset=".866" stop-color="#4589c9"/>
+			<stop offset="1" stop-color="#4578bc"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: #414042 } 
+	</style>
+	<g id="Background">
+	</g>
+	<g id="Logo">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m128.5 0.3c-13-0.1-26 7-31.8 21.2l-33.1 82.5h85.6c15.1 0 28.8-9.3 34.5-23.3l23.7-59.2c5.8-14.1 12.7-21.2 25.6-21.2z"/>
+				<path id="Layer" class="s1" d="m71.7 144.2c-14.6-0.2-29.5 8.9-36.8 29.3l-34.4 82.7h86.2c15.1 0 28.9-9.2 34.6-23.2l24.3-59.5c7.2-20.2 11.5-29.3 26-29.3z"/>
+				<path id="Layer" class="s2" d="m225.5 182.4l-29-28.2c-7.1-6.5-15.9-10-24.9-10h-99.9c8.8 0.2 17.5 3.6 24.5 10l95.4 92.8c25.1 23.9 59.5-1.7 48.7-28.1z"/>
+				<path id="Layer" class="s3" d="m233 0.3c12.9-0.1 25.9 7 31.7 21.2l80.4 197.4c7.7 18.9-7.7 37.4-26.4 37.6h-105.4c18.9 0.2 34.8-18.5 27-37.6l-80.4-197.4c-5.7-14.1-18.6-21.2-31.4-21.2z"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s4" d="m538.9 198h-25.9l-12.5-31.3h-68l-12.5 31.3h-26.1l55.8-139.2h33.6zm-47.8-54.5l-24.7-61.6-24.5 61.6z"/>
+				<path id="Layer" fill-rule="evenodd" class="s4" d="m696.2 198h-30.3l-32.1-43h-42.1v43h-25.7v-139.2h73.1c26.9 0 48.9 21.7 48.9 48.2 0 19.1-11.4 35.4-27.7 43.2zm-33.9-91c0-13-10.8-23.5-23.9-23.5h-46.7v46.8h46.7c13.1 0 23.9-10.4 23.9-23.3z"/>
+				<path id="Layer" fill-rule="evenodd" class="s4" d="m855.2 198h-30.3l-32.1-43h-42.1v43h-25.7v-139.2h73.1c26.9 0 48.9 21.7 48.9 48.2 0 19.1-11.4 35.4-27.7 43.2zm-33.9-91c0-13-10.8-23.5-23.9-23.5h-46.6v46.8h46.6c13.1 0 23.9-10.4 23.9-23.3z"/>
+				<path id="Layer" class="s4" d="m885.5 58.8h25.7v139.2h-25.7z"/>
+				<path id="Layer" class="s4" d="m1081.6 58.8l-55.8 139.2h-28.7l-55.8-139.2h26.5l43.6 108.9 43.8-108.9z"/>
+				<path id="Layer" class="s4" d="m1138 82.7v33.6h71.5v24.1h-71.5v33.5h86.5v24.1h-112.2v-139.2h112.2v23.9z"/>
+				<path id="Layer" class="s4" d="m1389.1 198h-18.8l-82.2-95.6v95.6h-25.7v-139.2h18.7l82.3 95.3v-95.3h25.7c0 0 0 139.2 0 139.2z"/>
+				<path id="Layer" class="s4" d="m1544.3 58.8v23.9h-48.8v115.2h-25.5v-115.2h-48.9v-23.9z"/>
+			</g>
+		</g>
+	</g>
+</svg>

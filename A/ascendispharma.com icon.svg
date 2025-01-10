@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1516 1377">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m184.24 135.9c-123.84 0-176.4 101.54-183.65 156.54v600.76c307.49-70.11 970.79-262.91 1418.43-715.6 33.23-33.84 65.25-69.5 96.06-106.37-22.35-45.33-63.43-70.71-134.11-70.71z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="757.8" y1="1722.8" x2="757.8" y2="-65.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#251e54"/>
+			<stop offset=".15" stop-color="#251e54"/>
+			<stop offset=".53" stop-color="#0b6490"/>
+			<stop offset=".68" stop-color="#0083aa"/>
+			<stop offset=".74" stop-color="#158fb2"/>
+			<stop offset=".87" stop-color="#4dacc5"/>
+			<stop offset="1" stop-color="#8ccedb"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0.59 974.19v232.69c0 139.01 95.45 168.63 155.86 169.23h993.14c103.91 0 174.59-72.53 181.24-127.53l157.67-808.07c-191.5 140.83-656.06 414.62-1487.91 533.68z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="744.5" y1="1722.8" x2="744.5" y2="-65.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#251e54"/>
+			<stop offset=".15" stop-color="#251e54"/>
+			<stop offset=".53" stop-color="#0b6490"/>
+			<stop offset=".68" stop-color="#0083aa"/>
+			<stop offset=".74" stop-color="#158fb2"/>
+			<stop offset=".87" stop-color="#4dacc5"/>
+			<stop offset="1" stop-color="#8ccedb"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Layer">
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m0.6 0.5h1514.5v892.7h-1514.5z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Clip-Path" clip-path="url(#cp2)">
+			<g id="Layer">
+				<path id="Layer" class="s1" d="m0.6 440.5h1487.9v935.6h-1487.9z"/>
+			</g>
+		</g>
+	</g>
+</svg>
