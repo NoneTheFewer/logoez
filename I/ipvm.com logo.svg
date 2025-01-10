@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:serif="http://www.serif.com/" viewBox="0 0 768 195" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+	<rect id="ipvm_logo" x="0" y="0" width="768" height="194.604" style="fill:none;"/>
+	<clipPath id="_clip1">
+		<rect id="ipvm_logo1" serif:id="ipvm_logo" x="0" y="0" width="768" height="194.604"/>
+	</clipPath>
+	<g clip-path="url(#_clip1)">
+		<g>
+			<rect x="0" y="0" width="51.818" height="194.597" style="fill:#002a5d;"/>
+			<path d="M128.147,0.006l82.83,0c19.481,0 38.161,7.739 51.945,21.511c13.772,13.784 21.511,32.464 21.511,51.945l0,0.012c0,19.48 -7.739,38.16 -21.511,51.933c-13.784,13.783 -32.464,21.522 -51.945,21.522l-82.83,0l0,47.675l-49.566,0l0,-194.598l49.566,0Zm0,42.036l0,63.42l77.157,0c17.519,0 31.721,-14.19 31.721,-31.71c0,-17.52 -14.202,-31.71 -31.721,-31.71l-77.157,0Z" style="fill:#002a5d;fill-rule:nonzero;"/>
+			<path d="M502.331,194.6l0,-194.6l72.832,0l60.165,165.996l60.164,-165.996l72.508,0l0,194.6l-47.703,0l3.111,-141.165l-46.912,141.165l-80.055,0l-48.546,-143.084l3.864,143.084l-49.428,0Z" style="fill:#002a5d;fill-rule:nonzero;"/>
+			<path d="M276.694,0.006l52.641,0l56.214,165.476l56.214,-165.476l52.641,0l-68.142,194.598l-81.426,0l-68.142,-194.598Z" style="fill:#002a5d;fill-rule:nonzero;"/>
+		</g>
+	</g>
+</svg>

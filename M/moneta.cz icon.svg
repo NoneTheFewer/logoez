@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1336 1536">
+	<defs>
+		<linearGradient id="g1" x1="-40.9" y1="1479.9" x2="1388.3" y2="51.3" gradientUnits="userSpaceOnUse">
+			<stop offset=".25" stop-color="#140757"/>
+			<stop offset=".286" stop-color="#270953"/>
+			<stop offset=".427" stop-color="#6d1042"/>
+			<stop offset=".553" stop-color="#a41535"/>
+			<stop offset=".662" stop-color="#cc192c"/>
+			<stop offset=".747" stop-color="#e41b26"/>
+			<stop offset=".8" stop-color="#ed1c24"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m1335.8 0.3v1535.6l-549.6-532.2 123.6-119.7 254.8 245.1v-729.7l-378.4 364.9-127.4 121.5-657.9 636.8v-1516.6l661.7 638.5 667.5-644.2zm-1175.2 399.1q0 0 0 0zm0 0c0.1 0.2 0.1 729.7 0.1 729.7l378.4-364.8z"/>
+</svg>

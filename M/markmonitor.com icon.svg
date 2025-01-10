@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179.3 179.3" >
+	<defs>
+		<linearGradient id="g1" x1="82" y1="126" x2="82" y2="4.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#151b4d"/>
+			<stop offset=".1" stop-color="#495d86"/>
+			<stop offset=".5" stop-color="#7d8ba9"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="3.5" y1="106.5" x2="83.4" y2=".5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#23c2f2"/>
+			<stop offset=".1" stop-color="#29b9ec"/>
+			<stop offset=".5" stop-color="#385daa"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="39.2" y1="30.6" x2="151.5" y2="2.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#23c2f2"/>
+			<stop offset=".5" stop-color="#385daa"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #001750 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+	</style>
+	<g id="Layer 1" transform="translate(0 26.05)">
+		<g id="&lt;Group&gt;">
+			<path fill-rule="evenodd" class="s1" d="M 164.0,126.0 L 0.0,126.0 L 85.2,4.4 L 89.4,4.6 L 164.0,126.0 M 28.0,111.4 L 139.0,111.4 L 86.8,27.6 L 28.0,111.4"/>
+			<path class="s2" d="M 95.4,14.8 L 86.6,27.8 L 28.0,111.2 L 10.2,111.2 L 85.2,4.8 L 89.4,5.0 L 95.4,14.8"/>
+			<path class="s0" d="M 164.2,126.0 L 148.2,126.0 L 86.8,27.4 L 78.4,14.2 L 85.2,4.4 L 87.4,1.2 L 89.4,4.6 L 164.2,126.0"/>
+			<path class="s3" d="M 120.0,14.6 L 124.2,14.2 L 179.2,104.0 L 163.0,104.0 L 121.8,37.4 L 75.6,103.8 L 57.4,103.8 L 120.0,14.6"/>
+			<path class="s0" d="M 163.0,104.0 L 121.6,37.8 L 113.2,24.2 L 120.0,14.6 L 122.4,11.2 L 124.2,14.2 L 179.2,104.0 L 163.0,104.0"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"  inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="Apache_Helix_logo.svg" version="1.1" viewBox="0 0 62.5 17">
+	<defs>
+		<linearGradient id="cvfa" x1="-98.3" x2="-38.5" y1="153" y2="153" gradientTransform="translate(.0277 .271)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+			<stop style="stop-color:#0071a0" offset="0"/>
+			<stop style="stop-color:#106999" offset="1"/>
+		</linearGradient>
+		<clipPath id="cvfb">
+			<path d="m-86.7 144s30.5-13 43.2-11l-.655 1.03s-3.57-4.14-37.5 9.93z" style="fill-rule:evenodd;fill:#38b229" inkscape:connector-curvature="0"/>
+		</clipPath>
+	</defs>
+	<sodipodi:namedview id="cvfc" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="-2.7755576e-17" fit-margin-right="0" fit-margin-top="0" inkscape:current-layer="layer1" inkscape:cx="305.09011" inkscape:cy="181.68147" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="false" inkscape:window-height="1014" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="1.979899" pagecolor="#ffffff" showgrid="false">
+ </sodipodi:namedview>
+	<g transform="translate(98.3 -144)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<g transform="scale(.893 1.12)">
+			<path d="m-110 129h4.64v5.25h5.07v-5.25h4.66v15h-4.66v-6.07h-5.07v6.07h-4.64z" style="stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-92.6 129h12.4v3.2h-7.78v2.39h7.22v3.06h-7.22v2.96h8.01v3.4h-12.7z" style="stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-77.5 129h4.64v11.3h7.24v3.7h-11.9z" style="stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-63.3 129h4.65v15h-4.65z" style="stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-56.3 129h5.11l2.66 4.62 2.58-4.62h5.06l-4.67 7.27 5.11 7.74h-5.21l-2.96-4.82-2.97 4.82h-5.18l5.18-7.82z" style="stroke-width:.762px" inkscape:connector-curvature="0"/>
+		</g>
+		<path d="m-85.5 151c-8.75.13-12 2.16-12.8 2.75v1.3c.722-.574 3.58-2.18 12.8-2.14zm2.76.0233v1.94c2.96.103 6.46.359 10.6.826v-1.8c-4.11-.59-7.61-.879-10.6-.965zm13.5 1.42v1.7c1.32.169 2.7.357 4.14.568v-1.51c-1.44-.281-2.82-.535-4.14-.755zm29.2 1.24c-2.23.719-4.77 1.23-7.63 1.43l-.856 1.62c1.57.0924 3.03.141 4.39.149l.64-1.3.637 1.3c1.61-.0189 3.07-.0944 4.39-.214zm-16.5 1.11v1.17c1.45.185 2.83.34 4.15.465v-1.27c-1.32-.0593-2.71-.184-4.15-.371z" style="fill:url(#cvfa);opacity:.827" inkscape:connector-curvature="0"/>
+		<g transform="matrix(.893 0 0 1.12 -.0123 .0126)" clip-path="url(#cvfb)" style="fill-opacity:.602;fill:#1aec00">
+			<path d="m-110 129h4.64v5.25h5.07v-5.25h4.66v15h-4.66v-6.07h-5.07v6.07h-4.64z" style="fill-opacity:.602;fill:#1aec00;stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-92.6 129h12.4v3.2h-7.78v2.39h7.22v3.06h-7.22v2.96h8.01v3.4h-12.7z" style="fill-opacity:.602;fill:#1aec00;stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-77.5 129h4.64v11.3h7.24v3.7h-11.9z" style="fill-opacity:.602;fill:#1aec00;stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-63.3 129h4.65v15h-4.65z" style="fill-opacity:.602;fill:#1aec00;stroke-width:.762px" inkscape:connector-curvature="0"/>
+			<path d="m-56.3 129h5.11l2.66 4.62 2.58-4.62h5.06l-4.67 7.27 5.11 7.74h-5.21l-2.96-4.82-2.97 4.82h-5.18l5.18-7.82z" style="fill-opacity:.602;fill:#1aec00;stroke-width:.762px" inkscape:connector-curvature="0"/>
+		</g>
+	</g>
+</svg>

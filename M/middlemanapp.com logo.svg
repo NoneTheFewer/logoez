@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 384">
+	<g fill="none" fill-rule="evenodd">
+		<path d="M33.626-7.26h573.453v397.47H33.626z"/>
+		<rect fill="#F1C761" fill-rule="nonzero" x="40" y="115" width="154" height="154" rx="13.2"/>
+		<path d="M111.043 228.814v-72.777l-17.699 2.486-13.534 26.229-12.862-23.106-14.878 2.351v57.361l14.004 2.385v-36.305l13.702 25.826h.303l14.44-25.926v39.024l16.524 2.452m-59.276-81.34v7.523l65.489-10.848v-9.604l-65.489 12.93m0 88.962l65.489 12.897v-9.572l-65.489-10.881v7.556" fill-opacity=".35" fill="#000" fill-rule="nonzero"/>
+		<path d="M117.256 134.544v9.605l65.489 10.848v-7.523l-65.49-12.93m65.187 86.814v-57.36l-14.878-2.352-12.862 23.106-13.535-26.228-17.698-2.487v72.777l16.523-2.452v-39.024l14.441 25.926h.302l13.703-25.825v36.304l14.004-2.385m-65.186 27.976l65.489-12.897v-7.556l-65.489 10.881v9.571" fill="#FFF" fill-rule="nonzero"/>
+		<text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="72.1" font-weight="bold" fill="#303238">
+			<tspan x="218" y="219">Middleman</tspan>
+		</text>
+	</g>
+</svg>

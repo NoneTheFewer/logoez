@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.2 70.2">
+	<style>
+		.cls0 { fill: #FFF; }
+		.cls1 { fill: #364850; }
+		.cls2 { fill: #D5D5D5; }
+		.cls3 { fill: #00A1FF; }
+	</style>
+	<g fill="none" fill-rule="evenodd">
+		<path d="M 13.1,0.1 A 8.0,8.0 0.0 0,1 21.1,8.1 L 21.1,62.1 A 8.0,8.0 0.0 1,1 5.1,62.1 L 5.1,8.1 A 8.0,8.0 0.0 0,1 13.1,0.1" class="cls1"/>
+		<path d="M 35.1,10.1 A 8.0,8.0 0.0 0,1 43.1,18.1 L 43.1,52.1 A 8.0,8.0 0.0 1,1 27.1,52.1 L 27.1,18.1 A 8.0,8.0 0.0 0,1 35.1,10.1" class="cls2"/>
+		<circle cx="57.1" cy="35.1" r="8" class="cls3"/>
+	</g>
+</svg>

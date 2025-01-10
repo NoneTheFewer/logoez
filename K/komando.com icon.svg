@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" id="Layer_1" viewBox="0 0 192 192" xml:space="preserve">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="96" y1="-1.8641" x2="96" y2="190.1359">
+		<stop offset="0" stop-color="#0C94DE"/>
+		<stop offset="0.1183" stop-color="#0A81C9"/>
+		<stop offset="0.3966" stop-color="#065A9D"/>
+		<stop offset="0.6463" stop-color="#033E7D"/>
+		<stop offset="0.8559" stop-color="#012C6A"/>
+		<stop offset="1" stop-color="#002663"/>
+	</linearGradient>
+	<rect x="0" y="0" width="192" height="192" rx="96" ry="96" fill="url(#SVGID_1_)"/>
+	<path fill="#FFFFFF" d="M38.8,36h15v66.1L138.6,36h23.1L101,82.8l69.7,77.4h-20.3L89.2,91.9l-35.4,27.7v40.7h-15  C38.8,160.3,38.8,36,38.8,36z"/>
+</svg>

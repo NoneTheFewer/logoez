@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 90">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: #FF8F1C; }
+		.cls2 { fill: url(#b); }
+	</style>
+	<defs>
+		<linearGradient id="a" x1="50.04%" x2="50.04%" y1="-23.559%" y2="126.866%">
+			<stop offset="0%" stop-color="#FF0029"/>
+			<stop offset="100%" stop-color="#AB00FF"/>
+		</linearGradient>
+		<linearGradient id="b" x1="-24.802%" x2="100.469%" y1="6.884%" y2="143.482%">
+			<stop offset="0%" stop-color="#FF9100"/>
+			<stop offset="51.53%" stop-color="#FF0029"/>
+			<stop offset="100%" stop-color="#AB00FF"/>
+		</linearGradient>
+	</defs>
+	<g fill-rule="nonzero" fill="none">
+		<path d="M 20.476,86.0 L 45.0,60.996 L 69.446,86.0 L 69.446,71.03 L 45.0,46.026 L 20.476,71.03 L 20.476,86.0" transform="translate(0 2)" class="cls0"/>
+		<path d="M 0.0,37.356 L 34.645,37.356 L 45.0,48.026 L 10.355,48.026 L 0.0,37.356" class="cls1"/>
+		<path d="M 90.0,35.356 L 55.355,35.356 L 55.355,10.591 L 45.0,0.0 L 45.0,46.026 L 79.645,46.026 L 90.0,35.356" transform="translate(0 2)" class="cls2"/>
+	</g>
+</svg>

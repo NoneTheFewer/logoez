@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1598 568">
+	<defs>
+		<linearGradient id="g1" x1="58.1" y1="478.4" x2="447.8" y2="88.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2ab4ff"/>
+			<stop offset="1" stop-color="#7fc6ce"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="253" y1="565.7" x2="253" y2="250.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2a85ff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="730.6" y1="282.1" x2="926.6" y2="282.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2ab4ff"/>
+			<stop offset="1" stop-color="#7fc6ce"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1423.9" y1="282.1" x2="1580" y2="282.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2ab4ff"/>
+			<stop offset="1" stop-color="#7fc6ce"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { opacity: .6;fill: #ffffff } 
+		.s2 { opacity: .8;fill: url(#g2) } 
+		.s3 { opacity: .1;fill: #ffffff } 
+		.s4 { opacity: .3;fill: #101010 } 
+		.s5 { fill: #101010 } 
+		.s6 { fill: url(#g3) } 
+		.s7 { fill: url(#g4) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m478.6 445.4l-198.5 114.6c-17 9.7-37.2 9.7-54.1 0l-199.4-115.4c-16.1-9.6-26.6-27.4-26.6-46.8v-229.1c0-18.6 10.5-37.1 26.6-46.8l199.4-114.6c16.9-9.7 37.1-9.7 54.1 0l198.5 114.6c16.1 9.7 26.6 27.4 26.6 46.8v230c0 19.3-9.7 37.1-26.6 46.7z"/>
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m369.6 256.6l-89.5 51.7c-17 9.7-37.2 9.7-54.1 0l-90.4-51.7c-16.2-9.6-26.6-27.4-26.6-46.8v-103.2c0-19.4 9.6-37.1 26.6-46.8l90.4-52.5c16.9-9.7 37.1-9.7 54.1 0l89.5 52.5c16.2 9.7 26.7 27.4 26.7 46.8v103.2c0 19.4-9.7 37.2-26.7 46.8z"/>
+			<path id="Layer" class="s2" d="m369.6 506.8l-89.5 51.6c-17 9.7-37.2 9.7-54.1 0l-89.6-51.6c-16.1-9.7-26.6-27.5-26.6-46.8v-104.1c0-19.4 9.6-37.1 26.6-46.8l89.6-51.6c16.9-9.7 37.1-9.7 54.1 0l89.5 51.6c16.2 9.7 26.7 27.4 26.7 46.8v104.1c0 19.3-9.7 37.1-26.7 46.8z"/>
+			<path id="Layer" class="s3" d="m478.6 319.6l-89.6 51.6c-16.9 9.7-37.1 9.7-54.1 0l-90.4-51.6c-16.1-9.7-26.6-27.5-26.6-46.8v-103.3c0-19.4 10.5-37.1 27.4-47.6l89.6-51.6c17-9.7 37.2-9.7 54.1 0l89.6 52.4c16.1 9.7 26.6 27.4 26.6 46.8v103.3c0 19.3-9.7 37.1-26.6 46.8z"/>
+			<path id="Layer" class="s1" d="m477.8 443.8l-89.6 51.7c-16.9 9.7-37.1 9.7-54.1 0l-89.6-51.7c-16.1-9.6-26.6-27.4-26.6-46.8v-103.2c0-19.4 10.5-37.2 27.4-46.8l89.6-51.7c17-9.7 37.2-9.7 54.1 0l89.6 51.7c16.1 9.6 26.6 27.4 26.6 46.8v104c0 19.4-9.7 37.2-27.4 46z"/>
+			<path id="Layer" class="s3" d="m260.7 319.6l-89.6 51.6c-16.9 9.7-37.1 9.7-54.1 0l-90.4-51.6c-16.1-9.7-26.6-27.5-26.6-46.8v-103.3c0-19.4 10.5-37.1 26.6-46.8l90.4-52.4c17-9.7 37.2-9.7 54.1 0l90.4 52.4c16.1 9.7 26.6 27.4 26.6 46.8v103.3c0 19.3-10.5 37.1-27.4 46.8z"/>
+			<path id="Layer" class="s1" d="m259.9 443.8l-89.6 51.7c-17 9.7-37.1 9.7-54.1 0l-89.6-51.7c-16.1-9.6-26.6-27.4-26.6-46.8v-103.2c0-19.4 10.5-37.2 26.6-46.8l91.2-51.7c17-9.7 37.2-9.7 54.1 0l89.6 51.7c16.1 9.6 26.6 27.4 26.6 46.8v104c0 19.4-10.5 37.2-28.2 46z"/>
+		</g>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s4" d="m1450.3 375.3v-186.4h38.7v186.4z"/>
+		<g id="Layer">
+			<path id="Layer" class="s5" d="m1450.3 188.9h146.9v33.9h-146.9z"/>
+			<path id="Layer" class="s5" d="m1450.3 341.4h146.9v33.9h-146.9z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s5" d="m803 265.5h-38.7v-76.6h38.7v76.6z"/>
+			<path id="Layer" class="s5" d="m764.3 298.6h38.7v0.8v75.9h-38.7z"/>
+		</g>
+		<path id="Layer" class="s5" d="m888.6 298.6h37.9v76.7h-37.9z"/>
+		<path id="Layer" class="s5" d="m888.6 188.9h37.9v76.6h-37.9z"/>
+		<path id="Layer" class="s5" d="m1054.8 375.3v-186.4h38.8v186.4z"/>
+		<path id="Layer" class="s5" d="m1352.7 188.9l-71.9 186.4h-21l-68.6-186.4h41.2l38.7 113.7l41.2-113.7z"/>
+		<path id="Layer" class="s6" d="m764.3 265.5h162.2v32.3h-162.2z"/>
+		<path id="Layer" class="s7" d="m1580.2 265.5v33.1h-112.1h-17.8v-33.1h17.8z"/>
+		<g id="Layer">
+			<path id="Layer" class="s5" d="m1489 265.5h-38.7v-76.6h38.7v76.6z"/>
+			<path id="Layer" class="s5" d="m1450.3 298.6h38.7v0.8v75.9h-38.7z"/>
+		</g>
+	</g>
+</svg>

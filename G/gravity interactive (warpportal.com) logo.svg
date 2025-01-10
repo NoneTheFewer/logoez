@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1519 361">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1360.95 56.66h156.88v155.28h-156.88z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1358.03 53.73h159.8v161.14h-159.8z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #2dbdd7 } 
+		.s1 { fill: #102a83 } 
+		.s2 { fill: #1b1918 } 
+		.s3 { fill: #000000 } 
+		.s4 { fill: #1b1918;stroke: #1b1918;stroke-width: .6 } 
+		.s5 { fill: none;stroke: #1b1918;stroke-width: .6 } 
+	</style>
+	<g id="surface1">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m329.5 151.8v43.7c0 91-73.8 164.9-164.7 164.9c-91 0-164.8-73.9-164.8-164.9v-43.7h0.9c8.3 83.2 78.5 148.2 163.9 148.2c85.3 0 155.5-65 163.8-148.2z"/>
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m19.4 168.8c-13.8-96 58.1-153.8 160.9-151l13.6-17v52.1l-12.6 19c-87.8-8-140.6 33.1-161.9 96.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m156 159.2l126.8-91c22.7 23.5 36.4 54.6 24.6 95.4c-4.7-16.9-11.8-31.6-23.9-41.7l-126.3 92.2l-20.2-15.1v-53.1z"/>
+		<g id="Layer">
+			<g id="glyph0-1">
+				<path id="Layer" class="s2" d="m471 327.1h-31.4v-8.3h10.3v-64.4h-10.3v-8.3h31.4v8.3h-10.3v64.4h10.3z"/>
+			</g>
+			<g id="glyph0-2">
+				<path id="Layer" class="s2" d="m542.1 327.1h-12.1l-35.7-69.8v69.8h-10.1v-81h15.3l32.5 64.1v-64.1h10.1z"/>
+			</g>
+			<g id="glyph0-3">
+				<path id="Layer" class="s2" d="m577.3 327.1v-71.4h-27.1v-9.6h65v9.6h-27.1v71.4z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph0-4">
+				<path id="Layer" class="s2" d="m623.2 327.1v-81h50.6v9.6h-39.8v22.2h37.1v9.5h-37.1v30.1h39.8v9.6z"/>
+			</g>
+			<g id="glyph0-5">
+				<path id="Layer" fill-rule="evenodd" class="s2" d="m748.3 327.1h-14l-25.6-32.2h-12.3v32.2h-10.8v-81h20.9q6.9 0 11.6 0.8q4.7 0.7 9 3.5q4.2 2.7 6.7 7q2.4 4.3 2.4 10.7q0 8.9-4.5 14.9q-4.5 6-12.2 8.8zm-23.3-58.2q0-3.5-1.2-6.2q-1.3-2.8-3.9-4.5q-2.3-1.5-5.3-2.1q-3.1-0.7-7.6-0.7h-10.6v30.6h9.4q4.6 0 8.3-0.9q3.7-0.8 6.4-3.3q2.3-2.3 3.4-5.5q1.1-3.1 1.1-7.4z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph0-6">
+				<path id="Layer" fill-rule="evenodd" class="s2" d="m745.8 327.1l27.3-81h13.3l27.2 81h-11.3l-7.3-22.7h-31l-7.3 22.7zm46.1-31.9l-12.5-38.1l-12.4 38.1z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph0-7">
+				<path id="Layer" class="s2" d="m852.8 328.5q-7.9 0-14.6-2.6q-6.6-2.7-11.5-8q-4.8-5.2-7.5-13.1q-2.6-7.9-2.6-18.1q0-10.2 2.5-17.7q2.6-7.6 7.6-13.2q4.8-5.4 11.5-8.3q6.6-2.8 14.8-2.8q4 0 7.6 0.6q3.6 0.6 6.6 1.5q2.6 0.8 5.4 2q2.7 1.2 5.4 2.7v13h-0.9q-1.4-1.3-3.7-3.1q-2.2-1.9-5.4-3.7q-3.1-1.7-6.7-2.8q-3.7-1.1-8.4-1.1q-5.2 0-9.8 2.2q-4.6 2.1-8.1 6.2q-3.4 4.2-5.3 10.4q-1.9 6.3-1.9 14.1q0 8.3 2 14.3q2 6 5.5 10.1q3.4 4.1 7.9 6.1q4.6 2 9.7 2q4.6 0 8.6-1.1q4-1.1 7.1-2.9q2.9-1.7 5.1-3.4q2.2-1.8 3.4-3h0.9v12.8q-2.7 1.2-5.1 2.3q-2.3 1.2-5.7 2.3q-3.5 1.1-6.5 1.7q-3.1 0.6-7.9 0.6z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph0-3">
+				<path id="Layer" class="s2" d="m906.9 327.1v-71.4h-27.2v-9.6h65v9.6h-27.1v71.4z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph0-1">
+				<path id="Layer" class="s2" d="m981 327.1h-31.4v-8.3h10.3v-64.4h-10.3v-8.3h31.4v8.3h-10.3v64.4h10.3z"/>
+			</g>
+			<g id="glyph0-8">
+				<path id="Layer" class="s2" d="m1052.9 246.1l-27.8 81h-11.6l-27.9-81h11.5l22.4 67.2l22.4-67.2z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph0-4">
+				<path id="Layer" class="s2" d="m1060.5 327.1v-81h50.6v9.6h-39.8v22.2h37.1v9.5h-37.1v30.1h39.8v9.6z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="glyph1-1">
+				<path id="Layer" class="s3" d=""/>
+			</g>
+		</g>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m491 59.3h82.6v32.5h-82.8c-49.8 0.5-49.6 85.9 0.9 85.7h52.2v-26.9h-45.3v-29.1h75v88.4h-81.6c-40.8 0.2-70.9-35.5-70.9-75.3c0-41.4 31.3-75.1 69.9-75.3z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m625 59.3h105.8h0.3h1.3v0.1c56.1 2 56.5 85.7 6 93.6l37.4 57h-35.2l-39.3-56.4h-43.9v56.4h-32.4zm32.4 61.8h72.9c17 0.2 17.2-28.9 1-29.3h-73.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m796.6 209.9l81.9-155l81.9 155h-34.3l-47.6-91.3l-47.2 91.3z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m1109.6 59.7l-81.9 155l-81.8-155h34.2l47.6 91.2l47.2-91.2z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m1138.6 59.2h31.9v150.9h-31.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m1288.8 59.2h59.5v32.2h-59.5v118.7h-32v-118.7h-59.1v-32.2h59.1h32z"/>
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s2" d="m1361.8 59.5h37.2l40.5 55.4l40.5-55.4h37.2l-61.9 81.7v68.9h-31.6v-68.9z"/>
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp2)">
+			<g id="Layer">
+				<path id="Layer" class="s5" d="m1361.8 59.5h37.2l40.5 55.4l40.5-55.4h37.2l-61.9 81.7v68.9h-31.6v-68.9z"/>
+			</g>
+		</g>
+	</g>
+</svg>

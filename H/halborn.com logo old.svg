@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="the-logo" viewBox="0 0 622.822 101.48" class="logo-loaded logo-loaded-after">
+		  <defs>
+		    <filter id="Path_2" filterUnits="userSpaceOnUse">
+		 <feGaussianBlur stdDeviation="100" result="spec2">
+		                <animate attributeName="stdDeviation" from=".5" to="3" dur="5s" repeatCount="indefinite" values="3; .5; .5; 3;"></animate>
+		                
+		              </feGaussianBlur>
+		              <!--Composition of inputs-->
+		              <feComposite in="SourceGraphic" in2="spec2" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"></feComposite>
+		    </filter>
+		    <filter id="filter2" filterUnits="userSpaceOnUse">
+			<feGaussianBlur stdDeviation="105" result="spec2">
+		                <animate attributeName="stdDeviation" from=".5" to="7" dur="5s" repeatCount="indefinite" values="7; .5; .5; 7;"></animate>
+		                
+		              </feGaussianBlur>
+		              <!--Composition of inputs-->
+		              <feComposite in="SourceGraphic" in2="spec2" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"></feComposite>
+		    </filter>
+		    <filter id="filter3" filterUnits="userSpaceOnUse">
+				<feGaussianBlur stdDeviation="100" result="spec2">
+		                <animate attributeName="stdDeviation" from=".5" to="5" dur="5s" repeatCount="indefinite" values="5; .5; .5; 5;"></animate>
+		                
+		              </feGaussianBlur>
+		              <!--Composition of inputs-->
+		              <feComposite in="SourceGraphic" in2="spec2" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"></feComposite>
+		    </filter>
+		  </defs>
+		  <g id="Group_1" data-name="Group 1" transform="translate(-14.028 -0.521)">
+		    <g id="Path_2-2" data-name="Path 2" transform="translate(17385.5 11651)">
+		      <path id="Path_2-3" data-name="Path 2" d="M561.493,0H15.922L0,30.472" transform="translate(-17340.143 -11618.979)" stroke="#8ce605" stroke-miterlimit="10" stroke-width="3" fill="none"></path>
+		      <g transform="matrix(1, 0, 0, 1, -17371.47, -11650.48)" class="svg-shadow-logo" data-filter="url(#Path_2)">
+		        <path id="Path_2-4" data-name="Path 2" d="M561.493,0H15.922L0,30.472" transform="translate(31.33 31.5)" fill="none" stroke="#8ce605" stroke-miterlimit="10" stroke-width="3"></path>
+		      </g>
+		    </g>
+		    <g id="Group_Copy" data-name="Group Copy" transform="translate(86.531 73.955)" class="svg-shadow-logo" data-filter="url(#filter2)">
+		      <path id="Path" d="M4.712,28.045H.548a.545.545,0,0,1-.5-.769L13.6.263A.481.481,0,0,1,14.031,0h4.163a.545.545,0,0,1,.5.768L5.147,27.781A.481.481,0,0,1,4.712,28.045Z" transform="translate(0 0)" fill="#8ce605"></path>
+		      <path id="Path-2" data-name="Path" d="M4.787,28.045H.485a.481.481,0,0,1-.438-.679L13.651.233A.424.424,0,0,1,14.035,0h4.3a.481.481,0,0,1,.438.679L5.171,27.812A.425.425,0,0,1,4.787,28.045Z" transform="translate(12.865 0)" fill="#8ce605"></path>
+		    </g>
+		  
+		    <path filter="url(#filter2)" id="HALBORN" d="M2.492,11.4c-.42,0-.644.2-.644.616V30.384c0,.42.224.616.644.616H5.516a.537.537,0,0,0,.616-.616V22.936h13.1v7.448a.537.537,0,0,0,.616.616h3.024c.42,0,.644-.2.644-.616V12.016c0-.42-.224-.616-.644-.616H19.852a.537.537,0,0,0-.616.616V19.3H6.132v-7.28a.537.537,0,0,0-.616-.616Zm43.3,0c-1.176,0-2.016.448-2.94,2.128L33.672,30.356c-.2.364-.112.644.364.644h3.64a.6.6,0,0,0,.644-.364l1.932-3.612h13.16L55.4,30.636a.58.58,0,0,0,.644.364H59.6c.448,0,.532-.28.336-.644L50.668,13.528c-.924-1.68-1.792-2.128-3.22-2.128Zm.616,4.172a.327.327,0,0,1,.308-.2h.168a.327.327,0,0,1,.308.2l4.452,8.2H42.016ZM69.584,11.4c-.42,0-.644.2-.644.616V23.608c0,5.376,2.184,7.392,7.84,7.392H88.288a.537.537,0,0,0,.616-.616V27.64a.537.537,0,0,0-.616-.616H76.948c-2.884,0-3.724-.868-3.724-3.836V12.016a.537.537,0,0,0-.616-.616Zm30.48,0a.742.742,0,0,0-.84.84V30.16a.742.742,0,0,0,.84.84H116.7c3.724,0,4.956-1.876,4.956-4.844V24.532a3.827,3.827,0,0,0-1.932-3.612,4,4,0,0,0,1.792-3.556V16.02c0-3.108-1.456-4.62-5.32-4.62Zm14.924,11.2c1.848,0,2.436.616,2.436,1.764v1.064c0,1.176-.588,1.708-2.072,1.708h-11.48c-.252,0-.364-.112-.364-.364V22.6Zm-11.48-6.972c0-.252.112-.364.364-.364h11.452c1.456,0,2.072.532,2.072,1.68V17.9c0,1.092-.56,1.652-2.408,1.652h-11.48ZM140.372,11.4c-5.656,0-7.84,2.016-7.84,7.392v4.816c0,5.376,2.184,7.392,7.84,7.392h8.652c5.684,0,7.84-2.016,7.84-7.392V18.792c0-5.376-2.156-7.392-7.84-7.392Zm-3.556,7.7c0-2.94.84-3.808,3.724-3.808h8.316c2.884,0,3.724.868,3.724,3.808v4.2c0,2.94-.84,3.808-3.724,3.808H140.54c-2.884,0-3.724-.868-3.724-3.808Zm32.16-7.7a.742.742,0,0,0-.84.84V30.384c0,.42.224.616.644.616H171.8a.537.537,0,0,0,.616-.616V24.812h9.044l4.424,5.824c.168.252.308.364.784.364h3.612a.429.429,0,0,0,.364-.7l-4.788-5.936c2.94-.532,4.172-2.408,4.172-5.6v-1.6c0-3.78-1.736-5.768-6.02-5.768Zm3.444,4.172c0-.224.112-.336.364-.336h10.36c1.9,0,2.6.812,2.6,2.492V18.9c0,1.68-.7,2.492-2.6,2.492H172.42ZM203.8,11.4c-1.708,0-2.52.644-2.52,2.912V30.384c0,.42.224.616.644.616h2.94a.537.537,0,0,0,.616-.616V15.768c0-.2.056-.28.224-.28h.252a.408.408,0,0,1,.364.2L216.76,29.348C217.88,30.832,218.3,31,220.008,31h2.408c1.708,0,2.52-.644,2.52-2.912V12.016a.537.537,0,0,0-.616-.616h-2.94a.537.537,0,0,0-.616.616V26.632c0,.2-.084.28-.224.28h-.252a.38.38,0,0,1-.364-.2L209.508,13.052c-1.064-1.428-1.456-1.652-3.248-1.652Z" transform="translate(132.531 68.413)" fill="#000"></path>
+		  </g>
+		</svg>

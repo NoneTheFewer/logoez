@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220.25 220.25" >
+	<style>
+		.black {fill:#000;}
+		.dark {fill:#00467f;}
+		.light {fill:#b9c7d4;}
+	</style>
+	<defs id="defs6">
+		<clipPath id="clipPath64" clipPathUnits="userSpaceOnUse">
+			<path id="path62" d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-152.5 -240.225)">
+		<g transform="matrix(1.3333333,0,0,-1.3333333,0,793.70667)" id="g10">
+			<g transform="translate(114.4756,411.6807)" id="g54">
+				<path id="path56" class="dark" style="fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 0.0,0.0 L 102.844,0.0 L 102.844,-88.061 L 62.792,-37.281 L -7.10543e-15,-37.281 L 0.0,0.0"/>
+			</g>
+			<g id="g58">
+				<g clip-path="url(#clipPath64)" id="g60">
+					<g transform="translate(177.042,340.9111)" id="g66">
+						<path id="path68" class="dark" style="fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 0.0,0.0 C 13.353,-16.517 26.167,-33.571 39.372,-50.234 L 102.504,-50.234 L 102.504,-87.57 L 0.0,-87.57 L 0.0,0.0"/>
+					</g>
+					<g transform="translate(223.7676,374.541)" id="g70">
+						<path id="path72" class="light" style="fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 0.0,0.0 L 0.0,29.577 L 48.537,29.577 L 48.537,-77.34 L 16.293,-77.34 L 16.293,0.0 L 0.0,0.0"/>
+					</g>
+					<g transform="translate(154.3569,368.0547)" id="g74">
+						<path id="path76" class="light" style="fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 0.0,0.0 L 0.0,-76.711 C 5.099,-76.711 10.675,-76.711 15.953,-76.708 L 15.953,-106.917 L -32.245,-106.917 L -32.245,0.0 L 0.0,0.0"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

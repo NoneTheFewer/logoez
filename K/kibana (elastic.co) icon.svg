@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" viewBox="0 0 64 64">
+	<style>
+		.cls0 { fill: #343741; }
+		.cls1 { fill: #f04e98; }
+		.cls2 { fill: #00bfb3; }
+	</style>
+	<path d="M 7.0,24.0 L 7.0,57.58 L 30.87,30.08 A 49.82,49.82 0.0 0,0 7.0,24.0" class="cls0"/>
+	<path d="M 7.0,0.0 L 7.0,24.0 A 49.82,49.82 0.0 0,1 30.87,30.09 L 57.0,0.0 L 7.0,0.0" class="cls1"/>
+	<path d="M 36.0,33.3 L 9.37,64.0 L 56.0,64.0 A 50.0,50.0 0.0 0,0 36.0,33.31 L 36.0,33.3" class="cls2"/>
+</svg>

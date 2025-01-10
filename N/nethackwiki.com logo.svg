@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg viewBox="0 0 132 132" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="nethackwiki-logo-v2.svg" inkscape:export-filename="/home/ilmari/Misc/nethackwiki-logo-v2.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+  <defs id="defs4">
+    <filter id="filter2912" inkscape:label="Cross-smooth" inkscape:menu="Blurs" inkscape:menu-tooltip="Blur inner borders and intersections" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2914" stdDeviation="5"/>
+      <feColorMatrix id="feColorMatrix2916" result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -2.5 "/>
+    </filter>
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-920.36218)">
+    <rect style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter2912)" id="rect2852" width="124" height="124" x="4" y="924.36218"/>
+    <text xml:space="preserve" style="font-size:30px;font-family:DejaVu Sans Mono;font-weight:normal;text-align:center;line-height:110%;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;" x="66.007324" y="938.36218" sodipodi:linespacing="110%"><tspan sodipodi:role="line" x="66.007324" y="938.36218">.......</tspan><tspan sodipodi:role="line" x="66.007324" y="971.36218"><tspan>.</tspan><tspan style="fill:#bb7700">n</tspan><tspan style="fill:#3333ff">e</tspan><tspan style="fill:#00bb00">t</tspan><tspan>...</tspan></tspan><tspan sodipodi:role="line" x="66.007324" y="1004.3622"><tspan>..</tspan><tspan style="fill:#bb00bb">h</tspan><tspan style="fill:#ffffff">@</tspan><tspan style="fill:#bbbb00">c</tspan><tspan style="fill:#bb0000">k</tspan><tspan>.</tspan></tspan><tspan sodipodi:role="line" x="66.007324" y="1037.3622"><tspan>.</tspan><tspan style="fill:#bb00bb">w</tspan><tspan style="fill:#bb0000">i</tspan><tspan style="fill:#bb7700">k</tspan><tspan style="fill:#00bbbb">i</tspan><tspan>..</tspan></tspan></text>
+  </g>
+</svg>

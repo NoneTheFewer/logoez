@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" id="MrM" viewBox="0 0 100 100" xml:space="preserve">
+	<rect x="0.13" y="-0.29" fill="#FFFFFF" width="100" height="100"/>
+	<circle fill="#091F56" cx="38.66" cy="43.87" r="6.92"/>
+	<circle fill="#091F56" cx="61.6" cy="43.87" r="6.92"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.1662" y1="73.1313" x2="77.3272" y2="26.0837">
+		<stop offset="0" style="stop-color:#31DDCE"/>
+		<stop offset="1" style="stop-color:#3095F6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M50.13,13.54c-19.97,0-36.16,16.19-36.16,36.16s16.19,36.16,36.16,36.16s36.16-16.19,36.16-36.16  S70.1,13.54,50.13,13.54z M50.08,84.03l0-6.16c-15.53-0.02-28.12-12.63-28.12-28.17c0-15.56,12.61-28.17,28.17-28.17  s28.17,12.61,28.17,28.17S67.55,80.48,50.08,84.03z"/>
+</svg>

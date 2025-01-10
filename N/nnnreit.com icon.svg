@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1544 1544">
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(771.527,0,0,771.527,772.655,771.789)">
+			<stop offset=".166" stop-color="#006754" stop-opacity="0"/>
+			<stop offset=".919" stop-color="#006754" stop-opacity="1"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #9ccb3c } 
+		.s2 { fill: url(#g1) } 
+	</style>
+	<g id="white_diamond">
+		<path id="Layer" class="s0" d="m1 771.7l771.4-771.4 771.4 771.4-771.4 771.4z"/>
+	</g>
+	<g id="solid_color">
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m349.1 423.7v696.1l-348-348.1zm716.2 827.1l-292.6 292.6-337.6-337.6v-518.2zm45-913v518.1l-628.3-565 290.7-290.7zm-0.3 614.5v73l-674.9-604.9v-71.5zm0 169.4v73l-674.8-604.9v-71.5zm434-349.9l-348 348.1v-696.1z"/>
+	</g>
+	<g id="gradient_overlay">
+		<path id="Layer" fill-rule="evenodd" class="s2" d="m349.1 423.7v696.1l-348-348.1zm716.2 827.1l-292.6 292.6-337.6-337.6v-518.2zm45-913v518.1l-628.3-565 290.7-290.7zm-0.3 614.5v73l-674.9-604.9v-71.5zm0 169.4v73l-674.8-604.9v-71.5zm434-349.9l-348 348.1v-696.1z"/>
+	</g>
+</svg>

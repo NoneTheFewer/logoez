@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<style>
+		.cls0 { fill: #0da960; }
+		.cls1 { fill: url(#B); }
+		.cls2 { fill: url(#A); }
+		.cls3 { fill: #2d6fdd; }
+		.cls4 { fill: #e5b93c; }
+		.cls5 { fill: #0c9b57; }
+	</style>
+	<defs>
+		<radialGradient id="A" cx="-254.817" cy="705.837" gradientTransform="matrix(2.827,1.6322,-1.6322,2.827,1967.2161,-1760.7166)" gradientUnits="userSpaceOnUse" r="82.973">
+			<stop offset="0" stop-color="#ffd24d"/>
+			<stop offset="1" stop-color="#f6c338"/>
+		</radialGradient>
+		<radialGradient id="B" cx="-254.82" cy="705.836" gradientTransform="matrix(2.827,1.6322,-1.6322,2.827,1967.2161,-1760.7166)" gradientUnits="userSpaceOnUse" r="82.978">
+			<stop offset="0" stop-color="#4387fd"/>
+			<stop offset=".65" stop-color="#3078f0"/>
+			<stop offset=".91" stop-color="#2b72ea"/>
+			<stop offset="1" stop-color="#286ee6"/>
+		</radialGradient>
+	</defs>
+	<g transform="matrix(.460432 0 0 .460432 57.509647 126.82041)">
+		<path d="M -100.704,-145.738 L -124.904,-187.638 L -79.604,-266.138 L -55.404,-224.238 L -100.704,-145.738" class="cls0"/>
+		<path d="M -100.704,-145.738 L -76.504,-187.638 L 14.096,-187.638 L -10.104,-145.738 L -100.704,-145.738" class="cls1"/>
+		<path d="M 14.096,-187.638 L -34.304,-187.638 L -79.604,-266.138 L -31.204,-266.138 L 14.096,-187.638" class="cls2"/>
+		<path d="M -55.404,-187.638 L -76.504,-187.638 L -66.004,-205.938 L -100.704,-145.738 L -55.404,-187.638" class="cls3"/>
+		<path d="M -34.304,-187.638 L 14.096,-187.638 L -44.804,-205.938 L -34.304,-187.638" class="cls4"/>
+		<path d="M -66.004,-205.938 L -55.404,-224.238 L -79.604,-266.138 L -66.004,-205.938" class="cls5"/>
+	</g>
+</svg>

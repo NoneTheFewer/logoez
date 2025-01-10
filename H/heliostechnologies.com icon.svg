@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1539 1493">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-14581.55 -4825.58L14400.41 -4825.58L14400.41 11499.93L-14581.55 11499.93L-14581.55 -4825.58Z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #78a9d1 } 
+		.shp1 { fill: #365072 } 
+		.shp2 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 12" class="shp0" d="M767.12 1491.79C343.41 1491.79 -0.15 1158.02 -0.15 746.26C-0.15 334.64 343.41 0.88 767.12 0.88L767.12 1491.79Z"/>
+			<path id="Path 13" class="shp1" d="M767.12 0.88L768.63 0.88C1192.34 0.88 1535.74 334.64 1535.74 746.26C1535.74 1158.02 1192.34 1491.79 768.63 1491.79L767.12 0.88Z"/>
+			<path id="Path 14" class="shp2" d="M506.73 389.21L506.73 652.69L1027.35 652.69L1027.35 389.21L1269.17 389.21L1269.17 1124.62L1027.35 1124.62L1027.35 858.88L506.73 858.88L506.73 1124.62L265.06 1124.62L265.06 389.21L506.73 389.21Z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1503 1514">
+	<defs>
+		<radialGradient id="g1" cx="929.3" cy="537.8" r="990.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#8cff40"/>
+			<stop offset=".2" stop-color="#8cff40"/>
+			<stop offset=".2" stop-color="#85fb3f"/>
+			<stop offset=".4" stop-color="#72f03a"/>
+			<stop offset=".5" stop-color="#54de34"/>
+			<stop offset=".6" stop-color="#29c52a"/>
+			<stop offset=".7" stop-color="#00ad21"/>
+			<stop offset=".8" stop-color="#02ae20"/>
+			<stop offset=".9" stop-color="#0ab31c"/>
+			<stop offset=".9" stop-color="#17bc15"/>
+			<stop offset="1" stop-color="#2ac80c"/>
+			<stop offset="1" stop-color="#41d700"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m751.4 1513.4c-415.5 0-751.4-338.2-751.4-756.7 0-418.5 335.9-756.7 751.4-756.7 415.6 0 751.5 338.2 751.5 756.7 0 418.5-335.9 756.7-751.5 756.7z"/>
+</svg>

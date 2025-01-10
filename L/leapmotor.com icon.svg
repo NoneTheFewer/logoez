@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1359 1587">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m228.45 259.65c11.76-6.89 26.36 1.65 26.36 15.42v657.93c0 6.34 3.38 12.26 8.79 15.42l152.35 89.63c5.4 3.16 8.78 9.08 8.78 15.42v358.22c0 13.77-14.73 22.44-26.36 15.56l-380.8-224c-10.81-6.33-17.57-18.17-17.57-30.97v-757.61c0-12.81 6.76-24.65 17.57-30.98z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m551.96 0.07h806.89v1586.86h-806.89z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m661.86 4.82c10.82-6.34 24.2-6.34 35.15 0l644.26 378.87c10.82 6.33 17.58 18.17 17.58 30.98v757.61c0 12.8-6.76 24.64-17.58 30.97l-380.8 224c-11.62 6.88-26.36-1.79-26.36-15.56v-358.22c0-6.34 3.38-12.26 8.79-15.42l152.35-89.63c5.4-3.16 8.78-9.08 8.78-15.42v-378.87c0-6.33-3.38-12.25-8.78-15.56l-262.25-154.05c-11.63-6.89-26.22 1.65-26.22 15.42v1117.62l-109.77 64.57c-10.95 6.47-24.33 6.47-35.15 0l-109.9-64.57v-1448.18z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m0 257.2h424.7v1172.5h-424.7z"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp3)">
+				<g id="Layer">
+					<path id="Layer" class="s0" d="m552 0.1h806.8v1586.8h-806.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

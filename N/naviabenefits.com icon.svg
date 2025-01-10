@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" viewBox="0 0 197.0 197.0">
+	<style>
+		.cls0 { fill: url(#linearGradient-1); }
+		.cls1 { fill: url(#linearGradient-2); }
+		.cls2 { fill: url(#linearGradient-3); }
+		.cls3 { fill: #FFFFFF; }
+	</style>
+	<defs>
+		<linearGradient x1="0.0019956588%" y1="50.2503023%" x2="99.9986652%" y2="49.8808967%" id="linearGradient-1">
+			<stop stop-color="#45C2CC" offset="0%"/>
+			<stop stop-color="#2BAEB7" offset="41.32%"/>
+			<stop stop-color="#008C95" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="6.70453894%" y1="89.5563053%" x2="103.530848%" y2="20.1810287%" id="linearGradient-2">
+			<stop stop-color="#F26827" offset="0%"/>
+			<stop stop-color="#F47A23" offset="19.56%"/>
+			<stop stop-color="#FAA419" offset="71.54%"/>
+			<stop stop-color="#FCB415" offset="98.16%"/>
+		</linearGradient>
+		<linearGradient x1="-4.07942451%" y1="4.47075572%" x2="92.3907785%" y2="89.0250883%" id="linearGradient-3">
+			<stop stop-color="#AC2228" offset="0%"/>
+			<stop stop-color="#A52429" offset="35.04%"/>
+			<stop stop-color="#92282B" offset="85.99%"/>
+			<stop stop-color="#8B2A2C" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSPage">
+		<g id="navia-logo-final_gradient-fullcolor-mark-type-tag" sketch:type="MSLayerGroup" transform="translate(0.000000, -1.000000)">
+			<path d="M 173.649,111.017 L 173.658,110.726 C 113.63,69.481 1.065,146.445 1.065,146.445 C 1.065,146.445 96.028,215.374 158.578,193.79 C 178.052,188.361 192.475,170.638 192.781,149.404 C 192.988,133.663 185.431,119.664 173.649,111.017 L 173.649,111.017 M 168.727,171.185 C 156.542,183.172 137.038,182.951 125.178,170.697 C 113.317,158.435 113.568,138.785 125.76,126.802 C 137.946,114.823 157.439,115.043 169.298,127.302 C 181.169,139.551 180.914,159.195 168.727,171.185 L 168.727,171.185" id="Shape" sketch:type="MSShapeGroup" class="cls0"/>
+			<path d="M 145.394,1.0 C 145.394,1.0 77.271,98.101 100.103,160.969 C 105.911,180.569 124.056,194.853 145.53,194.814 C 161.432,194.789 175.484,186.905 184.018,174.863 L 184.309,174.863 C 225.034,113.521 145.394,1.0 145.394,1.0 L 145.394,1.0 M 168.727,171.185 C 156.542,183.172 137.038,182.951 125.178,170.697 C 113.317,158.435 113.568,138.785 125.76,126.802 C 137.946,114.823 157.439,115.043 169.298,127.302 C 181.169,139.551 180.914,159.195 168.727,171.185 L 168.727,171.185" id="Shape" sketch:type="MSShapeGroup" class="cls1"/>
+			<path d="M 192.485,141.89 L 192.441,141.694 C 179.149,70.079 45.143,44.927 45.143,44.927 C 45.143,44.927 63.543,160.786 123.042,189.761 C 140.666,199.691 163.382,197.352 178.631,182.543 C 189.887,171.575 194.688,156.333 192.485,141.89 L 192.485,141.89" id="Shape" sketch:type="MSShapeGroup" class="cls2"/>
+			<path d="M 167.702,170.127 C 156.1,181.547 137.524,181.335 126.227,169.663 C 114.931,157.986 115.17,139.268 126.782,127.859 C 138.387,116.45 156.953,116.659 168.247,128.336 C 179.551,140.001 179.311,158.71 167.702,170.127 L 167.702,170.127" id="Path" sketch:type="MSShapeGroup" class="cls3"/>
+		</g>
+	</g>
+</svg>

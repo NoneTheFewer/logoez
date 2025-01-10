@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 500 500">
+	<defs>
+		<style>.cls-1{fill:none;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15,.cls-2,.cls-8,.cls-9{isolation:isolate;}.cls-3{fill:#0000ba;}.cls-4{clip-path:url(#clip-path);}.cls-5{mix-blend-mode:overlay;}.cls-6{fill:url(#linear-gradient);}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15,.cls-7,.cls-8,.cls-9{fill:#fff;}.cls-8{opacity:0.9;}.cls-9{opacity:0.8;}.cls-10{opacity:0.7;}.cls-11{opacity:0.6;}.cls-12{opacity:0.5;}.cls-13{opacity:0.4;}.cls-14{opacity:0.3;}.cls-15{opacity:0.1;}</style>
+		<clipPath id="clip-path">
+			<rect class="cls-1" x="-520" y="632.19" width="500" height="500"/>
+		</clipPath>
+		<linearGradient id="linear-gradient" x1="1289.47" y1="-299.22" x2="1853.36" y2="-299.22" gradientTransform="matrix(0.77, 0.64, -0.64, 0.77, -1638.17, -35.58)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1"/>
+		</linearGradient>
+	</defs>
+	<g class="cls-2">
+		<g id="Layer_1" data-name="Layer 1">
+			<rect class="cls-3" x="-1" y="-0.01" width="500" height="500"/>
+			<g class="cls-4">
+				<g id="Path_565" data-name="Path 565" class="cls-5">
+					<path class="cls-6" d="M 104.72,762.6 L -257.72,1005.83 L -588.84,728.0 L -226.24,484.92 L 104.76,762.62 M 111.21,762.97 L -226.0,480.05 L -595.3,727.63 L -257.98,1010.63 L 111.17,763.0 L 111.21,762.97"/>
+				</g>
+			</g>
+			<path id="Path_532" data-name="Path 532" class="cls-7" d="M 80.1,234.9 L 111.22,234.9 L 92.86,265.1 L 61.73,265.1 L 80.1,234.9"/>
+			<path id="Path_533" data-name="Path 533" class="cls-8" d="M 121.0,234.9 L 152.1,234.9 L 133.74,265.1 L 102.61,265.1 L 121.0,234.9"/>
+			<path id="Path_534" data-name="Path 534" class="cls-9" d="M 161.86,234.9 L 193.0,234.9 L 174.64,265.1 L 143.49,265.1 L 161.86,234.9"/>
+			<path id="Path_535" data-name="Path 535" class="cls-10" d="M 202.74,234.9 L 233.86,234.9 L 215.5,265.1 L 184.37,265.1 L 202.74,234.9"/>
+			<path id="Path_536" data-name="Path 536" class="cls-11" d="M 243.62,234.9 L 274.75,234.9 L 256.38,265.1 L 225.25,265.1 L 243.62,234.9"/>
+			<path id="Path_537" data-name="Path 537" class="cls-12" d="M 284.5,234.9 L 315.63,234.9 L 297.26,265.1 L 266.14,265.1 L 284.5,234.9"/>
+			<path id="Path_538" data-name="Path 538" class="cls-13" d="M 325.39,234.9 L 356.51,234.9 L 338.14,265.1 L 307.0,265.1 L 325.39,234.9"/>
+			<path id="Path_539" data-name="Path 539" class="cls-14" d="M 366.27,234.9 L 397.39,234.9 L 379.0,265.1 L 347.9,265.1 L 366.27,234.9"/>
+			<path id="Path_540" data-name="Path 540" class="cls-15" d="M 407.15,234.9 L 438.27,234.9 L 419.91,265.1 L 388.78,265.1 L 407.15,234.9"/>
+		</g>
+	</g>
+</svg>

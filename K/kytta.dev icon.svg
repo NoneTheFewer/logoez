@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" version="1.2" baseProfile="tiny-ps">
+	<g fill="#c23">
+		<circle cx="2" cy="2" r="1"/>
+		<circle cx="6" cy="2" r="1"/>
+		<circle cx="2" cy="6" r="1"/>
+		<circle cx="6" cy="6" r="1"/>
+		<circle cx="4" cy="4" r="1"/>
+		<path d="m3.293 3.293 1.414 1.414-2 2-1.414-1.414z"/>
+		<path d="m3.293 4.707 1.414-1.414 2 2-1.414 1.414z"/>
+	</g>
+</svg>

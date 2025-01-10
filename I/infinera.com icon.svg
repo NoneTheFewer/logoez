@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1593 1594">
+	<defs>
+		<linearGradient id="g1" x1="-129.6" y1="793.8" x2="979.9" y2="111.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffbe32"/>
+			<stop offset=".5" stop-color="#ff9138"/>
+			<stop offset="1" stop-color="#ff6a20"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="331" y1="999" x2="1171.9" y2="481" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffbe32"/>
+			<stop offset=".5" stop-color="#ff9138"/>
+			<stop offset="1" stop-color="#ff6a20"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="115.7" y1="1052.8" x2="1151.7" y2="417.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffbe32"/>
+			<stop offset=".5" stop-color="#ff9138"/>
+			<stop offset="1" stop-color="#ff6a20"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="341.1" y1="1563.9" x2="1454.4" y2="881.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffbe32"/>
+			<stop offset=".5" stop-color="#ff9138"/>
+			<stop offset="1" stop-color="#ff6a20"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 3" class="s0" d="m58.5 491.2c84.1-97.5 232.1-201.7 427.2-191.6 225.4 6.7 413.7 73.9 595.3 114.3 23.6-74 43.8-141.2 60.6-188.3 20.2-50.4 43.7-87.4 70.6-107.6-121.1-77.3-265.7-117.7-417.1-117.7-333 0-615.5 201.7-736.6 490.9z"/>
+			<path id="Path 4" class="s1" d="m1198.8 316.4q-20.2 53.8-40.4 114.3 63.9 13.4 127.8 16.8c259 13.4 148-137.9 100.9-184.9-16.8-16.8-50.4-47.1-87.4-47.1-33.7 0-70.7 23.5-100.9 100.9z"/>
+			<path id="Path 5" class="s2" d="m65.2 1113.2c70.7 158 215.3 265.6 420.5 208.4 265.7-73.9 423.8-413.5 528.1-706-178.3-57.2-376.7-137.9-551.7-161.4q-43.7-6.7-84-6.7c-370 0-450.8 373.2-316.2 665.7z"/>
+			<path id="Path 6" class="s3" d="m1514.9 592.1c-97.5 97.5-242.1 90.7-403.6 50.4-80.7 396.7-158.1 897.7-581.9 907.8 84.1 30.2 171.6 43.7 265.7 43.7 440.7 0 797.2-356.4 797.2-796.9 0-90.7-13.4-181.5-43.7-262.2q-13.5 33.6-33.7 57.2z"/>
+		</g>
+	</g>
+</svg>

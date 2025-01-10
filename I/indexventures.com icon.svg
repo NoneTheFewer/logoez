@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 256 256" baseProfile="tiny-ps">
+	<g>
+		<rect y="0" width="256" height="256" fill="#E42313"/>
+		<g>
+			<g>
+				<path d="M120.8,63H49v14.3h71.8V63z" fill="#FFFFFF"/>
+				<path d="M192.6,91.7H92.1V106h100.6V91.7H192.6z" fill="#FFFFFF"/>
+				<path d="M207,120.3H92.1v14.3H207V120.3z" fill="#FFFFFF"/>
+				<path d="M192.6,149H92.1v14.3h100.6V149H192.6z" fill="#FFFFFF"/>
+				<path d="M163.9,177.7H92.1V192h71.8V177.7z" fill="#FFFFFF"/>
+			</g>
+		</g>
+	</g>
+</svg>

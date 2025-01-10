@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 968.22">
+	<defs>
+		<linearGradient id="New_Gradient_Swatch_1" x1="541.3" x2="533.89" y1="971.06" y2=".04" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#24c1ff"/>
+			<stop offset=".49" stop-color="#1fcaff"/>
+			<stop offset="1" stop-color="#17d9ff"/>
+		</linearGradient>
+		<linearGradient id="New_Gradient_Swatch_2" x1="462.01" x2="974.98" y1="1168.88" y2="348.12" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0046ff"/>
+			<stop offset=".13" stop-color="#024fff"/>
+			<stop offset=".35" stop-color="#0868ff"/>
+			<stop offset=".62" stop-color="#1191ff"/>
+			<stop offset=".94" stop-color="#1ec9ff"/>
+			<stop offset="1" stop-color="#21d4ff"/>
+		</linearGradient>
+		<linearGradient xlink:href="#New_Gradient_Swatch_2" id="New_Gradient_Swatch_2-2" x1="816.34" x2="1076.77" y1="888.27" y2="272.71"/>
+		<style>.cls-2{mix-blend-mode:multiply}</style>
+	</defs>
+	<g style="">
+		<g id="Layer_2" data-name="Layer 2">
+			<path id="Layer_4" d="M912.62 968.22H167.38c-129.22 0-209.56-140.38-144.09-251.79l372.5-634C460.38-27.47 619.33-27.49 684 82.42l372.74 634c65.45 111.38-14.88 251.8-144.12 251.8Z" class="cls-2" data-name="Layer 4" style="fill:url(#New_Gradient_Swatch_1)"/>
+			<path id="Layer_3" d="M912.62 968.22c129.24 0 209.57-140.42 144.07-251.83L871.88 402.06C803.36 303.47 653.45 306.9 591.14 413l-281 478.23c-29.8 46.22-81.47 77-140.55 77h743Z" class="cls-2" data-name="Layer 3" style="fill:url(#New_Gradient_Swatch_2)"/>
+			<path id="Layer_2-2" d="m776.59 731.91-91.06 155 .07-.22a167.34 167.34 0 0 1-143.75 81.56h370.77c124 0 202.62-129.24 150.92-238.13-65.32-108.05-222.73-107.51-286.95 1.79Z" class="cls-2" data-name="Layer 2" style="fill:url(#New_Gradient_Swatch_2-2)"/>
+		</g>
+	</g>
+</svg>

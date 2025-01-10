@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Livello_1" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 5394.952 7461.051" enable-background="new 0 0 5394.952 7461.051" xml:space="preserve">
+    <defs>
+        <filter id='shadow' color-interpolation-filters="sRGB">
+            <feDropShadow dx="10" dy="100" stdDeviation="90" flood-opacity=".2" />
+        </filter>
+    </defs>
+    <g id="Docs-icon" transform="translate(174.000000, 91.000000)">
+        <g>
+            <path id="Path" fill="#DB4437" d="M3200.67-91H331.07C55.549-91-174,138.549-174,414.07v6439.494    c0,275.521,229.549,505.07,505.07,505.07h4384.811c275.521,0,505.07-229.549,505.07-505.07V1940.698l-1182.303-849.395L3200.67-91    z" />
+            <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2400.6367" y1="433.4064" x2="2400.6367" y2="309.4982" gradientTransform="matrix(13.8352 0 0 -13.9123 -28927.8027 7985.2803)">
+                <stop offset="0" style="stop-color:#1A237E;stop-opacity:0.2" />
+                <stop offset="1" style="stop-color:#1A237E;stop-opacity:0.02" />
+            </linearGradient>
+            <polygon fill="url(#SVGID_1_)" points="3349.923,1791.444 5220.875,3685.458 5220.875,1940.698   " />
+            <g>
+                <path fill="#F1F1F1" d="M1943.008,3114.897c-524.659,0-950,425.341-950,950s425.341,950,950,950s950-425.341,950-950     S2467.667,3114.897,1943.008,3114.897z M1943.008,4664.897c-330.857,0-600-269.143-600-600s269.143-600,600-600     c330.857,0,600,269.143,600,600S2273.865,4664.897,1943.008,4664.897z" />
+                <path fill="#F1F1F1" d="M3141.232,4473.898c-101.464,305.608-316.562,559.376-595.223,711.192v790.808h1502v-1502H3141.232z" />
+            </g>
+            <g>
+                <defs>
+                    <path id="Path_1_" d="M3200.67-91H331.07C55.549-91-174,138.549-174,414.07v6439.494c0,275.521,229.549,505.07,505.07,505.07      h4384.811c275.521,0,505.07-229.549,505.07-505.07V1940.698l-1182.303-849.395L3200.67-91z" />
+                </defs>
+                <clipPath id="Path_2_">
+                    <use xlink:href="#Path_1_" overflow="visible" />
+                </clipPath>
+                
+            </g>
+            <path fill="#EDA29B" d="M3193.525-85.797V1440.83c0,275.521,229.549,505.071,505.07,505.071H5213.73L3193.525-85.797z" filter="url(#shadow)" />
+            <path fill="#FFFFFF" fill-opacity="0.2" d="M331.07-91C55.549-91-174,138.549-174,414.07v45.894    c0-275.521,229.549-505.07,505.07-505.07H3200.67V-91H331.07z" />
+            <path fill="#3E2723" fill-opacity="0.2" d="M4715.881,7324.157H331.07c-275.521,0-505.07-229.549-505.07-505.07v45.895    c0,275.521,229.549,505.07,505.07,505.07h4384.811c275.521,0,505.07-229.549,505.07-505.07v-45.895    C5220.875,7094.53,4991.325,7324.157,4715.881,7324.157z" />
+            <path fill="#3E2723" fill-opacity="0.2" d="M3705.74,1940.698c-275.521,0-505.07-229.549-505.07-505.07v45.894    c0,275.521,229.55,505.071,505.07,505.071h1515.135v-45.895H3705.74z" />
+        </g>
+        <radialGradient id="SVGID_2_" cx="2228.1514" cy="306.3878" r="218.5511" gradientTransform="matrix(39.8044 0 0 -39.8044 -88693.5312 12307.3691)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1" />
+            <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0" />
+        </radialGradient>
+        <path fill="url(#SVGID_2_)" d="M3200.67-91H331.07C55.549-91-174,138.549-174,414.07v6439.494   c0,275.521,229.549,505.07,505.07,505.07h4384.811c275.521,0,505.07-229.549,505.07-505.07V1940.698L3200.67-91z" />
+    </g>
+</svg>

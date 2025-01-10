@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.28 595.28">
+	<defs>
+		<linearGradient id="a" x1="8.49" x2="389.9" y1="448.36" y2="448.36" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff8a00"/>
+			<stop offset="1" stop-color="#691e08"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="b" x1="207.51" x2="80.06" y1="262.58" y2="400.46"/>
+		<linearGradient xlink:href="#a" id="c" x1="586.76" x2="205.34" y1="146.92" y2="146.92"/>
+		<linearGradient xlink:href="#a" id="d" x1="394.95" x2="508.47" y1="331.59" y2="195.31"/>
+	</defs>
+	<g data-name="HCL ZAI">
+		<path d="M 297.62,494.5 L 76.16,494.5 L 8.49,402.22 L 389.9,402.22 L 297.62,494.5" style="fill:url(#a);fill-rule:evenodd"/>
+		<path d="M 149.98,260.73 L 279.17,260.73 L 143.83,402.22 L 8.49,402.22 L 149.98,260.73 L 149.98,260.73" style="fill:url(#b);fill-rule:evenodd"/>
+		<path d="M 297.62,100.78 L 519.09,100.78 L 586.75,193.06 L 205.34,193.06 L 297.62,100.78" style="fill:url(#c);fill-rule:evenodd"/>
+		<path d="M 445.26,334.55 L 316.08,334.55 L 451.42,193.06 L 586.75,193.06 L 445.26,334.55" style="fill:url(#d);fill-rule:evenodd"/>
+	</g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1500 1500">
+    <defs>
+        <linearGradient id="linear-gradient" x1="2594.07" x2="2596.59" y1="1035.06" y2="1039.69" gradientTransform="matrix(137.15 0 0 -205.72 -355469.39 214159.87)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2de689" />
+            <stop offset="1" stop-color="#2dc6e6" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="2595.07" x2="2597.6" y1="1039.71" y2="1035.07" gradientTransform="matrix(137.15 0 0 -205.72 -355435.22 214158.68)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2dc6e6" />
+            <stop offset="1" stop-color="#2d4be6" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="2596.07" x2="2598.59" y1="1035.06" y2="1039.68" gradientTransform="matrix(137.15 0 0 -205.72 -355400.94 214159.87)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2d4be6" />
+            <stop offset="1" stop-color="#892de6" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-4" x1="2597.07" x2="2599.59" y1="1039.72" y2="1035.09" gradientTransform="matrix(137.15 0 0 -205.72 -355366.54 214158.68)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#892de6" />
+            <stop offset="1" stop-color="#e62dc6" />
+        </linearGradient>
+        <mask id="mask" width="685.77" height="1028.59" x="150" y="235.7" maskUnits="userSpaceOnUse">
+            <g id="mask-2">
+                <path id="path-1" d="M577.62 235.7c-107.28.4-207.15 68.47-242.94 175.88L163.27 925.8c-44.91 134.72 27.89 280.33 162.61 325.23a256.56 256.56 0 0 0 81.34 13.27c107.65 0 208-68.14 243.88-175.88L822.51 574.2c44.91-134.72-27.9-280.33-162.61-325.2a256.73 256.73 0 0 0-80.42-13.27h-1.86Z" class="cls-1" />
+            </g>
+        </mask>
+        <mask id="mask-2-2" width="685.77" height="1028.59" x="321.41" y="235.71" maskUnits="userSpaceOnUse">
+            <g id="mask-5">
+                <path id="path-4" d="M497.28 249c-134.71 44.9-207.51 190.51-162.6 325.23l171.4 514.22C542 1196.17 642.3 1264.3 750 1264.3a257 257 0 0 0 81.31-13.3c134.71-44.9 207.51-190.51 162.61-325.23L822.51 411.58C786.6 303.83 686.28 235.71 578.63 235.71A256.93 256.93 0 0 0 497.28 249" class="cls-1" />
+            </g>
+        </mask>
+        <mask id="mask-3" width="685.77" height="1028.59" x="492.82" y="235.7" maskUnits="userSpaceOnUse">
+            <g id="mask-8">
+                <path id="path-7" d="M920.44 235.7c-107.29.4-207.14 68.47-243 175.88L506.08 925.8c-44.9 134.72 27.92 280.33 162.61 325.2a256.66 256.66 0 0 0 81.31 13.3c107.64 0 208-68.14 243.88-175.88l171.4-514.22c44.91-134.72-27.89-280.33-162.61-325.23a256.68 256.68 0 0 0-80.42-13.27h-1.85Z" class="cls-1" />
+            </g>
+        </mask>
+        <mask id="mask-4" width="685.77" height="1028.59" x="664.23" y="235.71" maskUnits="userSpaceOnUse">
+            <g id="mask-11">
+                <path id="path-10" d="M840.1 249c-134.71 44.87-207.52 190.48-162.61 325.2l171.41 514.22c35.91 107.75 136.23 175.88 243.88 175.88a256.84 256.84 0 0 0 81.34-13.27c134.72-44.9 207.52-190.51 162.61-325.23l-171.41-514.22c-35.9-107.75-136.22-175.87-243.88-175.87A256.92 256.92 0 0 0 840.1 249" class="cls-1" />
+            </g>
+        </mask>
+        <style>
+        .cls-1 {
+            fill: #fff;
+            fill-rule: evenodd
+        }
+        </style>
+    </defs>
+    <g mask="url(#mask)">
+        <path id="Fill-1" d="M577.62 235.7c-107.28.4-207.15 68.47-242.94 175.88L163.27 925.8c-44.91 134.72 27.89 280.33 162.61 325.23a256.56 256.56 0 0 0 81.34 13.27c107.65 0 208-68.14 243.88-175.88L822.51 574.2c44.91-134.72-27.9-280.33-162.61-325.2a256.73 256.73 0 0 0-80.42-13.27h-1.86Z" fill="url(#linear-gradient)" fill-rule="evenodd" />
+    </g>
+    <g mask="url(#mask-2-2)">
+        <path id="Fill-4" d="M497.28 249c-134.71 44.9-207.51 190.51-162.6 325.23l171.4 514.22C542 1196.17 642.3 1264.3 750 1264.3a257 257 0 0 0 81.31-13.3c134.71-44.9 207.51-190.51 162.61-325.23L822.51 411.58C786.6 303.83 686.28 235.71 578.63 235.71A256.93 256.93 0 0 0 497.28 249" fill="url(#linear-gradient-2)" fill-rule="evenodd" />
+    </g>
+    <g mask="url(#mask-3)">
+        <path id="Fill-7" d="M920.44 235.7c-107.29.4-207.14 68.47-243 175.88L506.08 925.8c-44.9 134.72 27.92 280.33 162.61 325.2a256.66 256.66 0 0 0 81.31 13.3c107.64 0 208-68.14 243.88-175.88l171.4-514.22c44.91-134.72-27.89-280.33-162.61-325.23a256.68 256.68 0 0 0-80.42-13.27h-1.85Z" fill="url(#linear-gradient-3)" fill-rule="evenodd" />
+    </g>
+    <g mask="url(#mask-4)">
+        <path id="Fill-10" d="M840.1 249c-134.71 44.87-207.52 190.48-162.61 325.2l171.41 514.22c35.91 107.75 136.23 175.88 243.88 175.88a256.84 256.84 0 0 0 81.34-13.27c134.72-44.9 207.52-190.51 162.61-325.23l-171.41-514.22c-35.9-107.75-136.22-175.87-243.88-175.87A256.92 256.92 0 0 0 840.1 249" fill="url(#linear-gradient-4)" fill-rule="evenodd" />
+    </g>
+</svg>

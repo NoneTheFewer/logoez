@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 873 952" version="1.1" id="svg71">
+	<defs id="defs5">
+		<polygon id="path-1" points="872.97429,253.15487 437.70774,0.57682435 0.31406045,255.10272 437.70774,509.62863 "/>
+	</defs>
+	<g id="logo-avatar-(includes-whitespace-surround)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-163.49448,-139.3518)">
+		<g id="mesh-logo" transform="translate(145,70)">
+			<g id="dot-grid" transform="translate(67.695992,709.00953)" fill="#b6e2d6" fill-rule="nonzero" stroke="#ffffff" stroke-width="4">
+				<ellipse id="Oval-9" cx="65.110336" cy="81.398636" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse8" cx="389.92148" cy="276.27719" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse10" cx="714.7326" cy="81.390518" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse12" cx="224.26779" cy="175.59386" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse14" cx="555.57513" cy="175.58574" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse16" cx="389.92148" cy="113.87163" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse18" cx="224.26779" cy="35.925076" rx="62.962227" ry="33.729225"/>
+				<ellipse id="ellipse20" cx="555.57513" cy="35.916958" rx="62.962227" ry="33.729225"/>
+			</g>
+			<polygon id="Path-8" fill="#1128a9" fill-rule="nonzero" points="18.494482,635.52578 455.88816,890.05169 891.15471,633.57793 455.88816,380.99988 "/>
+			<g id="mesh" transform="translate(18.180422,250.00006)">
+				<polygon id="polygon24" fill="#87e3cb" fill-rule="nonzero" points="0.31406045,255.10272 437.70774,509.62863 872.97429,253.15487 437.70774,0.57682435 "/>
+				<mask id="mask-2" fill="#ffffff">
+					<use xlink:href="#path-1" id="use26" x="0" y="0" width="100%" height="100%"/>
+				</mask>
+				<use id="use29" fill="#c8fcee" fill-rule="nonzero" xlink:href="#path-1" x="0" y="0" width="100%" height="100%"/>
+				<line x1="-274.4725" y1="440.04303" x2="1079.5558" y2="-354.3226" id="Path-2" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<line x1="-313.42914" y1="618.43085" x2="1040.5991" y2="-175.93483" id="line32" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<line x1="37.40015" y1="564.91449" x2="1391.4285" y2="-229.45116" id="line34" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<line x1="29.61998" y1="731.40973" x2="1383.6482" y2="-62.955902" id="line36" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<line x1="203.8954" y1="790.87231" x2="1557.9237" y2="-3.4933097" id="line38" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<line x1="554.72473" y1="737.35602" x2="1908.7529" y2="-57.009644" id="line40" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<line x1="548.77844" y1="903.85126" x2="1902.8068" y2="109.48562" id="line42" stroke="#6ed3b9" stroke-width="45" fill-rule="nonzero" mask="url(#mask-2)"/>
+				<g id="lines" mask="url(#mask-2)" fill-rule="nonzero" stroke="#6ed3b9" stroke-width="45">
+					<g transform="matrix(-1,0,0,1,1917.7498,-401.91278)" id="g58">
+						<line x1="6.5462708" y1="794.38574" x2="1360.5746" y2="0.020101098" id="line44"/>
+						<line x1="0.60001177" y1="972.7735" x2="1354.6283" y2="178.40788" id="line46"/>
+						<line x1="351.42932" y1="919.2572" x2="1705.4575" y2="124.89155" id="line48"/>
+						<line x1="345.48306" y1="1085.7524" x2="1699.5114" y2="291.38681" id="line50"/>
+						<line x1="517.92456" y1="1145.2151" x2="1871.9529" y2="350.8494" id="line52"/>
+						<line x1="868.75385" y1="1091.6987" x2="2222.7822" y2="297.33307" id="line54"/>
+						<line x1="862.80762" y1="1258.194" x2="2216.8359" y2="463.82831" id="line56"/>
+					</g>
+				</g>
+			</g>
+			<g id="shapes" transform="translate(129.63767,68.695502)" fill-rule="nonzero">
+				<polygon id="Path-4" fill="#1128a9" points="0.83391004,62.325945 265.83391,569.25576 0.83391004,416.79039 "/>
+				<polygon id="Path-26" fill="#569cf5" points="325.83391,438.92541 545.85863,312.46838 545.85863,0.65629955 325.83391,123.60244 "/>
+				<g id="orange" transform="translate(414.36232,140.92541)" fill="#fb8143">
+					<polygon id="Path-25" points="-2.1461212e-14,245.02361 178.00787,349.77251 178.00787,106.33885 -2.1461212e-14,-6.213208e-13 "/>
+				</g>
+				<polygon id="polygon66" fill="#569cf5" style="mix-blend-mode:overlay" points="325.83391,438.92541 545.85863,312.46838 545.85863,0.65629955 325.83391,123.60244 "/>
+			</g>
+		</g>
+	</g>
+</svg>

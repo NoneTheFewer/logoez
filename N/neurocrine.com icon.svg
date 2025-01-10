@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1572 1590">
+	<defs>
+		<linearGradient id="g1" x1="670" y1="524.7" x2="1315.8" y2="1425.8" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#0bbab4"/>
+			<stop offset=".4" stop-color="#528ba6"/>
+			<stop offset=".5" stop-color="#7c719e"/>
+			<stop offset=".7" stop-color="#a05998"/>
+			<stop offset=".9" stop-color="#c24392"/>
+			<stop offset="1" stop-color="#cf3b91"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="375.9" y1="930.4" x2="1245.1" y2="48.1" gradientUnits="userSpaceOnUse">
+			<stop offset=".5" stop-color="#0bbab4"/>
+			<stop offset=".6" stop-color="#0faca5"/>
+			<stop offset="1" stop-color="#1b8880"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1092.2" y1="1209.5" x2="-547.1" y2="514.3" gradientUnits="userSpaceOnUse">
+			<stop offset=".4" stop-color="#cf3b91"/>
+			<stop offset=".9" stop-color="#993366"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="nbs_logo_withtag_2021_rgb">
+		<g id="Group_3170">
+			<g id="Group_3160">
+				<g id="Group_3158">
+					<path id="Path_3034" class="s0" d="m963.7 1569.7c547-100.8 894.2-903.3 290.7-1183.6-220.6-100.6-584-28.1-637.8 240.1 753.4-192.2 714.7 721.5 191.7 914.3q-16.3 6-32.8 10.9-16.6 5-33.5 8.9-16.8 4-33.9 6.9-17 2.9-34.2 4.8-17 1.8-34.4 2.7c26.7 5.1 53.7 8.9 80.8 11.3 27.1 2.4 54.3 3.4 81.5 3 27.2-0.4 54.4-2.3 81.4-5.5 27.1-3.2 53.9-7.8 80.5-13.8z"/>
+					<path id="Path_3035" class="s1" d="m1221.4 300.8c31 9.6 61.1 21.7 90.1 36.2 29 14.4 56.8 31.3 83.1 50.2 26.3 19 51 40.1 73.9 63.1 22.8 23 43.8 47.8 62.7 74.2q4.4 6.3 8.8 12.7c-147.4-514.3-969.6-768.4-1272.3-261.6-202.6 307.8 70.7 864.6 462.2 754.6-428-414.3-13.4-873 491.5-729.4z"/>
+					<path id="Path_3036" class="s2" d="m1124 914.7c-2-17.9-5.7-35.6-11.2-52.7-5.4-17.2-12.5-33.8-21.2-49.6-8.7-15.8-18.9-30.6-30.5-44.4-11.6-13.8-24.5-26.4-38.6-37.7-226.9 806.4-1107.3 176.1-847.1-422.9q7.1-16.2 15.3-32.4c-370.5 384.4-183 1217.5 404.4 1233 309.3 7.2 570.3-287.5 528.9-593.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

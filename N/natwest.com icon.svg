@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166 166">
+	<style type="text/css">.st5{fill:#ed1b2f}.st6{fill:#d71925}</style>
+	<g id="g6136" transform="translate(-176.95 5.7)">
+		<path id="polyline6101" opacity=".1" fill="#fff" d="M 248.1,147.2 L 259.9,127.2 L 271.8,147.2 L 319.2,147.2 L 342.9,107.2 L 319.2,67.3 L 295.5,67.3 L 307.3,47.3 L 283.6,7.4 L 236.3,7.4 L 212.6,47.3 L 224.5,67.3 L 200.7,67.3 L 177.0,107.2 L 200.7,147.2 L 248.1,147.2"/>
+		<linearGradient y2="97.655" x2="301.659" y1="76.868" x1="265.655" gradientUnits="userSpaceOnUse" id="SVGID_1_">
+			<stop id="stop6103" offset="0" stop-color="#ed1b2f" stop-opacity=".1"/>
+			<stop id="stop6105" offset="1" stop-color="#ed1b2f" stop-opacity=".6"/>
+		</linearGradient>
+		<path id="polygon6108" fill="url(#SVGID_1_)" d="M 248.1,107.2 L 295.5,107.2 L 319.2,67.3 L 295.5,67.3 L 283.6,87.2 L 260.0,87.2 L 248.1,107.2"/>
+		<linearGradient gradientTransform="rotate(-120 316.361 91.955)" y2="30.901" x2="366.656" y1="66.732" x1="379.697" gradientUnits="userSpaceOnUse" id="SVGID_2_">
+			<stop id="stop6110" offset="0" stop-color="#ed1b2f" stop-opacity=".1"/>
+			<stop id="stop6112" offset="1" stop-color="#ed1b2f" stop-opacity=".6"/>
+		</linearGradient>
+		<path id="polygon6115" fill="url(#SVGID_2_)" d="M 283.6,87.2 L 260.0,47.3 L 212.6,47.3 L 224.5,67.3 L 248.1,67.3 L 260.0,87.2 L 283.6,87.2"/>
+		<linearGradient gradientTransform="rotate(120 312.357 84.803)" y2="103.948" x2="368.376" y1="154.522" x1="359.459" gradientUnits="userSpaceOnUse" id="SVGID_3_">
+			<stop id="stop6117" offset="0" stop-color="#ed1b2f" stop-opacity=".1"/>
+			<stop id="stop6119" offset="1" stop-color="#ed1b2f" stop-opacity=".6"/>
+		</linearGradient>
+		<path id="polygon6122" fill="url(#SVGID_3_)" d="M 248.1,67.3 L 224.4,107.2 L 248.1,147.2 L 259.9,127.2 L 248.1,107.2 L 260.0,87.2 L 248.1,67.3"/>
+		<path id="polygon6124" class="st5" fill="#ed1b2f" d="M 295.5,107.2 L 248.1,107.2 L 271.8,147.2 L 319.2,147.2 L 342.9,107.2 L 319.2,67.3 L 295.5,107.2"/>
+		<path id="polygon6126" class="st5" fill="#ed1b2f" d="M 224.4,107.2 L 248.1,67.3 L 200.7,67.3 L 177.0,107.2 L 200.7,147.2 L 248.1,147.2 L 224.4,107.2"/>
+		<path id="polygon6128" class="st5" fill="#ed1b2f" d="M 236.3,7.4 L 212.6,47.3 L 260.0,47.3 L 283.7,87.2 L 307.3,47.3 L 283.6,7.4 L 236.3,7.4"/>
+		<path id="polygon6130" class="st6" fill="#d71925" d="M 319.2,147.2 L 295.5,107.2 L 319.2,67.3 L 342.9,107.2 L 319.2,147.2"/>
+		<path id="polygon6132" class="st6" fill="#d71925" d="M 248.1,147.2 L 200.7,147.2 L 177.0,107.2 L 224.4,107.2 L 248.1,147.2"/>
+		<path id="polygon6134" class="st6" fill="#d71925" d="M 307.3,47.3 L 283.6,7.4 L 260.0,47.3 L 283.7,87.2 L 307.3,47.3"/>
+	</g>
+</svg>

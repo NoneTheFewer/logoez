@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1535 1528">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1349.962,-995.488,0,411.128,189.016)">
+			<stop offset="0" stop-color="#1557ae"/>
+			<stop offset="1" stop-color="#2dc7e4"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1349.962,-2415.553,0,711.204,189.016)">
+			<stop offset="0" stop-color="#1557ae"/>
+			<stop offset="1" stop-color="#2dc7e4"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1349.962,-1050.157,0,1089.968,189.016)">
+			<stop offset="0" stop-color="#1557ae"/>
+			<stop offset="1" stop-color="#2dc7e4"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 3" class="s0" d="m264 185.9c-191 163.5-310.3 461.3-246.1 701.7 42.5 168.7 208.8 233.6 317.8 226.1 198.5-14.9 315.5-188.8 278.2-357.5-57.3-262.7-59.6-401.6-35-503.2 52.2-211.1 243.2-247.8 243.2-247.8 0 0-24.6-5.2-64.2-5.2-99.2 0-300.6 22.4-493.9 185.9z"/>
+				<path id="Path 4" class="s1" d="m839.9 900.3c-198.4 181.3-320.6 255.3-419.9 285.1-210.5 62-340.1-84.3-340.1-84.3 0 0 107.3 270.2 442.2 387.3 74.6 24.7 156.1 39.6 238.1 39.6h7.4c181.3-2.9 367.7-62 487-183.6 123.9-121.7 94.1-295.5 34.5-384.5-64.3-94.1-158.9-136.5-253-136.5-70 0-141.7 24.7-196.2 76.9z"/>
+				<path id="Path 5" class="s2" d="m678.2 218c-86.6 179.1 7.4 365 171.5 417.2 258.1 81.5 382.6 148.6 459.4 218 158.9 151.5 96.4 335.1 96.4 335.1 0 0 181.3-226.1 114.7-573.2-47.6-245.6-248.4-498.6-489.3-560.6q-42.4-9.7-79.1-9.7c-132 0-236.4 91.8-273.6 173.2z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1573 1613">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-172.32-50.12h2680.58v1829.85h-2680.58z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-8778.78-9843.55h12474.76v16510.09h-12474.76z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m-9215.52-10282.12h13283.14v17385.2h-13283.14z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m-172.32-50.12h2680.58v1829.85h-2680.58z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m-8778.78-9843.55h12474.76v16510.09h-12474.76z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m-9215.52-10282.12h13283.14v17385.2h-13283.14z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #fdb813 } 
+	</style>
+	<g id="layer1">
+		<g id="g3480">
+			<g id="g2414">
+				<g id="Clip-Path: Clip-Path: g2416" clip-path="url(#cp1)">
+					<g id="Clip-Path: g2416">
+						<g id="g2416">
+							<g id="Clip-Path: Clip-Path: g2422" clip-path="url(#cp2)">
+								<g id="Clip-Path: g2422">
+									<g id="g2422">
+										<g id="Clip-Path: Clip-Path: g2428" clip-path="url(#cp3)">
+											<g id="Clip-Path: g2428">
+												<g id="g2428">
+													<g id="g2434">
+														<path id="path2436" class="s0" d="m1103.5 649.2c-58.7-117.6-180.2-198.4-320.6-198.4-140.3 0-261.9 80.8-320.5 198.4h-461.8c71.5-369.6 396.4-648.6 786.2-648.6 390 0 714.7 279 786.2 648.6z"/>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g2462">
+				<g id="Clip-Path: Clip-Path: g2464" clip-path="url(#cp4)">
+					<g id="Clip-Path: g2464">
+						<g id="g2464">
+							<g id="Clip-Path: Clip-Path: g2470" clip-path="url(#cp5)">
+								<g id="Clip-Path: g2470">
+									<g id="g2470">
+										<g id="Clip-Path: Clip-Path: g2476" clip-path="url(#cp6)">
+											<g id="Clip-Path: g2476">
+												<g id="g2476">
+													<g id="g2482">
+														<path id="path2484" class="s0" d="m1558.5 977.7c-71.5 369.4-422.5 635.3-771.7 635.3-389.8 0-714.5-265.9-786.2-635.3h461.9c58.5 117.5 180.1 190.5 320.4 190.5 104.2 0 247.4-73 306.1-190.5z"/>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

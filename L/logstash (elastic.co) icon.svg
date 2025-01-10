@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: #00bfb3; }
+		.cls1 { fill: #fec514; }
+		.cls2 { fill: #343741; }
+	</style>
+	<path d="M 74.0,80.0 L 118.0,80.0 L 118.0,128.0 L 74.0,128.0 L 74.0,80.0" class="cls0"/>
+	<path d="M 14.0,0.0 L 10.0,0.0 L 10.0,80.0 L 62.0,80.0 L 62.0,48.0 A 48.0,48.0 0.0 0,0 14.0,0.0" class="cls1"/>
+	<path d="M 10.0,80.0 A 48.0,48.0 0.0 0,0 58.0,128.0 L 62.0,128.0 L 62.0,80.0 L 10.0,80.0" class="cls2"/>
+</svg>

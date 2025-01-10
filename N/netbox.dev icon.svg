@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 293.2 293.2">
+	<style>
+		.cls0 { fill: #9cc8f8; }
+		.cls1 { fill: #1685fc; }
+	</style>
+  <g stroke="#9cc8f8" class="cls0">
+    <circle cx="23" cy="270" r="23"/>
+    <circle cx="87" cy="23" r="23"/>
+    <circle cx="87" cy="206" r="23"/>
+    <circle cx="270" cy="206" r="23"/>
+    <rect x="79" y="23" width="16" height="180"/>
+    <rect x="87" y="198" width="180" height="16"/>
+    <g transform="translate(-14 -14)">
+      <rect x="93" y="212" width="16" height="90" transform="rotate(45 101 220)"/>
+    </g>
+  </g>
+  <g stroke="#1685fc" class="cls1">
+    <circle cx="270" cy="23" r="23"/> <!-- -->
+    <circle cx="23" cy="87" r="23"/>
+    <circle cx="206" cy="87" r="23"/>
+    <circle cx="207" cy="270" r="23"/>
+    <rect x="23" y="79" width="180" height="16"/>
+    <rect x="198" y="87" width="16" height="180"/>
+    <g transform="translate(-14 -14)">
+      <rect x="212" y="93" width="16" height="90" transform="rotate(225 220 101)"/>
+    </g>
+	</g>
+</svg>

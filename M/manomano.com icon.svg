@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" id="Calque_1" viewBox="0 0 402 402" xml:space="preserve">
+	<desc>Manomano logo for use with BIMI and other SVG Portable/Secure (SVG P/S) applications.</desc>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="100.2667" y1="296.9621" x2="303.4023" y2="93.8265">
+		<!--<stop  offset="4.418800e-04" style="stop-color:#0397A7"/>
+	<stop  offset="0.9971" style="stop-color:#00ECCD"/>
+	-->
+		<stop stop-color="#0397A7" offset="0%"/>
+		<stop stop-color="#00ECCD" offset="100%"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M268.07,58.69c-5.85-7.21-15.1-10.75-24.26-9.29L116.56,69.68c-9.16,1.46-16.85,7.7-20.17,16.37  L50.33,206.39c-3.32,8.67-1.76,18.45,4.09,25.65L135.6,332.1c5.85,7.21,15.1,10.75,24.26,9.29l127.25-20.28  c9.16-1.46,16.85-7.7,20.17-16.37l46.06-120.34c3.32-8.67,1.76-18.45-4.09-25.65L268.07,58.69z"/>
+	<polygon fill="#FFFFFF" points="236.97,135.37 208.16,186.91 179.84,125.72 144.49,135.14 100.69,249.28 139.76,249.28   166.1,181.96 192.07,246.1 212.06,246.1 250.47,177.35 250.47,265.28 286.94,252.95 286.94,144.24 "/>
+</svg>

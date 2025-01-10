@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" >
+	<defs id="defs64">
+		<clipPath id="a" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.254,155.105 C -3.418,203.699 33.035,246.074 81.684,249.719 C 130.289,253.406 172.66,216.941 176.293,168.328 C 179.945,119.719 143.516,77.336 94.894,73.684 C 46.266,70.027 3.894,106.473 0.254,155.105 L 0.254,155.105" id="path4" />
+		</clipPath>
+		<radialGradient id="b" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(88.2739,0,0,-88.2739,88.272,161.699)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#3b3d3e" id="stop7"/>
+			<stop offset=".148" stop-color="#3b3d3e" id="stop9"/>
+			<stop offset="1" stop-color="#2a1f1f" id="stop11"/>
+		</radialGradient>
+		<clipPath id="c" clipPathUnits="userSpaceOnUse">
+			<path d="M 388.926,248.43 C 390.66,263.484 404.281,274.285 419.359,272.559 C 434.434,270.809 445.219,257.168 443.484,242.117 C 441.719,227.043 428.109,216.262 413.047,217.977 C 397.973,219.727 387.172,233.348 388.926,248.43 L 388.926,248.43" id="path14" />
+		</clipPath>
+		<radialGradient id="d" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(26.971415,-5.1909467,-5.1909467,-26.971415,416.19531,245.25816)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#3b3d3e" id="stop17"/>
+			<stop offset=".148" stop-color="#3b3d3e" id="stop19"/>
+			<stop offset="1" stop-color="#2a1f1f" id="stop21"/>
+		</radialGradient>
+		<clipPath id="e" clipPathUnits="userSpaceOnUse">
+			<path d="M 56.371,607.051 C 46.887,626.43 54.93,649.863 74.332,659.375 C 93.734,668.871 117.164,660.828 126.664,641.434 C 136.137,622.02 128.121,598.59 108.715,589.098 C 89.297,579.59 65.879,587.641 56.371,607.051 L 56.371,607.051" id="path24" />
+		</clipPath>
+		<radialGradient id="f" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(38.7757,5.28333,5.28333,-38.7757,91.514,624.238)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#3b3d3e" id="stop27"/>
+			<stop offset=".148" stop-color="#3b3d3e" id="stop29"/>
+			<stop offset="1" stop-color="#2a1f1f" id="stop31"/>
+		</radialGradient>
+		<clipPath id="g" clipPathUnits="userSpaceOnUse">
+			<path d="M 634.594,547.992 C 632.379,577.484 654.492,603.227 684.02,605.453 C 713.516,607.668 739.242,585.543 741.469,556.008 C 743.688,526.516 721.563,500.777 692.047,498.574 C 662.539,496.352 636.813,518.48 634.594,547.992" id="path34" />
+		</clipPath>
+		<radialGradient id="h" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(53.5889,0,0,-53.5889,688.032,552.012)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#3b3d3e" id="stop37"/>
+			<stop offset=".148" stop-color="#3b3d3e" id="stop39"/>
+			<stop offset="1" stop-color="#2a1f1f" id="stop41"/>
+		</radialGradient>
+		<clipPath id="i" clipPathUnits="userSpaceOnUse">
+			<path d="M 392.324,824.84 C 421.508,848.617 464.488,844.238 488.301,815.047 C 512.07,785.863 507.695,742.895 478.523,719.082 C 449.309,695.332 406.34,699.688 382.563,728.887 C 358.73,758.074 363.141,801.043 392.324,824.84 L 392.324,824.84" id="path44" />
+		</clipPath>
+		<radialGradient id="j" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(68.2007,0,0,-68.2007,435.41,771.968)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#3b3d3e" id="stop47"/>
+			<stop offset=".148" stop-color="#3b3d3e" id="stop49"/>
+			<stop offset="1" stop-color="#2a1f1f" id="stop51"/>
+		</radialGradient>
+		<clipPath id="k" clipPathUnits="userSpaceOnUse">
+			<path d="M 207.934,559.543 C 263.988,605.223 346.539,596.809 392.273,540.742 C 437.926,484.695 429.52,402.156 373.496,356.426 C 317.379,310.809 234.855,319.172 189.188,375.266 C 143.414,431.316 151.887,513.848 207.934,559.543 L 207.934,559.543" id="path54" />
+		</clipPath>
+		<radialGradient id="l" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(130.989,0,0,-130.989,290.693,457.998)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#3b3d3e" id="stop57"/>
+			<stop offset=".148" stop-color="#3b3d3e" id="stop59"/>
+			<stop offset="1" stop-color="#2a1f1f" id="stop61"/>
+		</radialGradient>
+	</defs>
+   <g transform="translate(6.05 10.32)">
+	<g id="g981" transform="matrix(2.1770634,0,0,2.1770634,-25.028605,-9.3916531)">
+		<path style="fill:none;stroke:#3b3a3c;stroke-width:0.36866611"  id="path68" d="M 20.13038,15.34362 L 13.00068,25.56747 M 20.13038,15.34362 L 34.908,11.69884 M 20.41027,15.64297 L 24.54818,22.55502 M 18.65483,13.63183 L 12.58305,8.66073 M 21.0081,12.53261 L 24.58181,5.1062"/>
+		<g transform="matrix(0.29493288,0,0,0.29493288,9.1942729,0.8110958)" id="g74">
+			<g id="g72" transform="matrix(0.13,0,0,-0.13,0,105.025)" clip-path="url(#a)">
+				<path style="fill:url(#b)"  id="path70" d="M 0.254,155.105 C -3.418,203.699 33.035,246.074 81.684,249.719 C 130.289,253.406 172.66,216.941 176.293,168.328 C 179.945,119.719 143.516,77.336 94.894,73.684 C 46.266,70.027 3.894,106.473 0.254,155.105"/>
+			</g>
+		</g>
+		<g transform="matrix(0.29493288,0,0,0.29493288,9.1942729,0.8110958)" id="g80">
+			<g id="g78" transform="matrix(0.13,0,0,-0.13,0,105.025)" clip-path="url(#c)">
+				<path style="fill:url(#d)"  id="path76" d="M 388.926,248.43 C 390.66,263.484 404.281,274.285 419.359,272.559 C 434.434,270.809 445.219,257.168 443.484,242.117 C 441.719,227.043 428.109,216.262 413.047,217.977 C 397.973,219.727 387.172,233.348 388.926,248.43"/>
+			</g>
+		</g>
+		<g transform="matrix(0.29493288,0,0,0.29493288,9.1942729,0.8110958)" id="g86">
+			<g id="g84" transform="matrix(0.13,0,0,-0.13,0,105.025)" clip-path="url(#e)">
+				<path style="fill:url(#f)"  id="path82" d="M 56.371,607.051 C 46.887,626.43 54.93,649.863 74.332,659.375 C 93.734,668.871 117.164,660.828 126.664,641.434 C 136.137,622.02 128.121,598.59 108.715,589.098 C 89.297,579.59 65.879,587.641 56.371,607.051"/>
+			</g>
+		</g>
+		<g transform="matrix(0.29493288,0,0,0.29493288,9.1942729,0.8110958)" id="g92">
+			<g id="g90" transform="matrix(0.13,0,0,-0.13,0,105.025)" clip-path="url(#g)">
+				<path style="fill:url(#h)"  id="path88" d="M 634.594,547.992 C 632.379,577.484 654.492,603.227 684.02,605.453 C 713.516,607.668 739.242,585.543 741.469,556.008 C 743.688,526.516 721.563,500.777 692.047,498.574 C 662.539,496.352 636.813,518.48 634.594,547.992"/>
+			</g>
+		</g>
+		<g transform="matrix(0.29493288,0,0,0.29493288,9.1942729,0.8110958)" id="g98">
+			<g id="g96" transform="matrix(0.13,0,0,-0.13,0,105.025)" clip-path="url(#i)">
+				<path style="fill:url(#j)"  id="path94" d="M 392.324,824.84 C 421.508,848.617 464.488,844.238 488.301,815.047 C 512.07,785.863 507.695,742.895 478.523,719.082 C 449.309,695.332 406.34,699.688 382.563,728.887 C 358.73,758.074 363.141,801.043 392.324,824.84"/>
+			</g>
+		</g>
+		<g transform="matrix(0.29493288,0,0,0.29493288,9.1942729,0.8110958)" id="g104">
+			<g id="g102" transform="matrix(0.13,0,0,-0.13,0,105.025)" clip-path="url(#k)">
+				<path style="fill:url(#l)"  id="path100" d="M 207.934,559.543 C 263.988,605.223 346.539,596.809 392.273,540.742 C 437.926,484.695 429.52,402.156 373.496,356.426 C 317.379,310.809 234.855,319.172 189.188,375.266 C 143.414,431.316 151.887,513.848 207.934,559.543"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

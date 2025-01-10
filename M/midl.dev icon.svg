@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 800">
+    <rect fill="lightgrey" height="100%" width="100%" />
+
+    <path d="M 320 278.5 A 96 100 0 0 1 513.5 278.5" fill="none" stroke="#fd9300" stroke-width="68" />
+    <rect width="68" height="251" x="286" y="278.5" fill="#fd9300" />
+    <rect width="68" height="251" x="479.1" y="278.5" fill="#fd9300" />
+    <path d="M 514 528.75 A 96 100 0 0 1 320 528.75" fill="none" stroke="#fd9300" stroke-width="68" />
+
+    <g>
+	    <path d=" M 142 498 A 91 87 0 0 1 51 408" fill="none" stroke="black" stroke-width="68" />
+	    <path d=" M 51 412 A 91 87 0 0 1 142 321" fill="none" stroke="black" stroke-width="68" />
+	    <g transform="rotate(180 232 409.5)">
+	        <path d=" M 142 498 A 91 87 0 0 1 51 408" fill="none" stroke="black" stroke-width="68" />
+	        <path d=" M 51 412 A 91 87 0 0 1 142 321" fill="none" stroke="black" stroke-width="68" />
+	    </g>
+	    <rect width="181" height="68" x="142" y="464" fill="black" />
+	    <rect width="181" height="68" x="142" y="287" fill="black" />
+	</g>
+
+    <g transform="translate(370 0)">
+	    <path d=" M 142 498 A 91 87 0 0 1 51 408" fill="none" stroke="black" stroke-width="68" />
+	    <path d=" M 51 412 A 91 87 0 0 1 142 321" fill="none" stroke="black" stroke-width="68" />
+	    <g transform="rotate(180 232 409.5)">
+	        <path d=" M 142 498 A 91 87 0 0 1 51 408" fill="none" stroke="black" stroke-width="68" />
+	        <path d=" M 51 412 A 91 87 0 0 1 142 321" fill="none" stroke="black" stroke-width="68" />
+	    </g>
+	    <rect width="181" height="68" x="142" y="464" fill="black" />
+	    <rect width="181" height="68" x="142" y="287" fill="black" />
+	</g>
+
+    <rect width="68" height="100" x="286" y="278.5" fill="#fd9300" />
+    <rect width="68" height="100" x="479.1" y="438.5" fill="#fd9300" />
+
+</svg>

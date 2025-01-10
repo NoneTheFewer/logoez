@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+      http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 444 512">
+	<description>Apache NetBeans Logo</description>
+	<g id="logo" stroke-width="0" fill="none" fill-rule="evenodd">
+		<path d="M 222.0,0.0 L 222.0,99.0 L 86.0,178.0 L 0.0,128.0 L 222.0,0.0" fill="#A1C535"/>
+		<path d="M 444.0,128.0 L 358.0,178.0 L 222.0,99.0 L 222.0,0.0 L 444.0,128.0 L 444.0,128.0" fill="#ADD439"/>
+		<path d="M 444.0,384.0 L 358.0,334.0 L 358.0,178.0 L 444.0,128.0 L 444.0,384.0 L 444.0,384.0" fill="#1B6AC6"/>
+		<path d="M 222.0,512.0 L 222.0,413.0 L 358.0,334.0 L 444.0,384.0 L 222.0,512.0 L 222.0,512.0" fill="#2E90E8"/>
+		<path d="M 0.0,384.0 L 86.0,334.0 L 222.0,413.0 L 222.0,512.0 L 0.0,384.0 L 0.0,384.0" fill="#EA205E"/>
+		<path d="M 0.0,128.0 L 86.0,178.0 L 86.0,334.0 L 0.0,384.0 L 0.0,128.0 L 0.0,128.0" fill="#A5073E"/>
+		<path d="M 86.0,178.0 L 222.0,99.0 L 358.0,178.0 L 222.0,256.0 L 86.0,178.0" fill="#F1F6E2"/>
+		<path d="M 222.0,256.0 L 358.0,178.0 L 358.0,334.0 L 222.0,413.0 L 222.0,256.0" fill="#CEDBE6"/>
+		<path d="M 86.0,178.0 L 222.0,256.0 L 222.0,413.0 L 86.0,334.0 L 86.0,178.0" fill="#FFFFFF"/>
+	</g>
+</svg>

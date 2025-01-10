@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315.41 315.41">
+	<defs>
+		<style>
+			.cls-1{fill:url(#Lacework_Coral_Gradient_RGB);}.cls-2{fill:url(#Lacework_Blue_Gradient_RGB);}.cls-3{fill:url(#Lacework_Teal_Gradient_RGB);}.cls-4{fill:#000;}
+		</style>
+		<linearGradient id="Lacework_Coral_Gradient_RGB" x1="-37.72" y1="8.1" x2="33.69" y2="131.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#01023b"/>
+			<stop offset="1" stop-color="#ff646c"/>
+		</linearGradient>
+		<linearGradient id="Lacework_Blue_Gradient_RGB" x1="309.12" y1="36.3" x2="241.14" y2="154.05" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#01023b"/>
+			<stop offset="0.24" stop-color="#071573"/>
+			<stop offset="0.49" stop-color="#0d27aa"/>
+			<stop offset="0.72" stop-color="#1135d2"/>
+			<stop offset="0.89" stop-color="#143dea"/>
+			<stop offset="1" stop-color="#1540f3"/>
+		</linearGradient>
+		<linearGradient id="Lacework_Teal_Gradient_RGB" y1="27.57" x2="287.68" y2="27.57" gradientUnits="userSpaceOnUse">
+			<stop offset="0.2" stop-color="#00f8f8"/>
+			<stop offset="0.3" stop-color="#00f4f8"/>
+			<stop offset="0.4" stop-color="#02e7f8"/>
+			<stop offset="0.51" stop-color="#04d3f7"/>
+			<stop offset="0.61" stop-color="#08b6f6"/>
+			<stop offset="0.72" stop-color="#0c90f5"/>
+			<stop offset="0.83" stop-color="#1163f4"/>
+			<stop offset="0.9" stop-color="#1540f3"/>
+		</linearGradient>
+	</defs>
+	<g id="Primary_Lockup_Light_Registered_2" transform="translate(13.705 0)">
+		<g id="Shield">
+			<path class="cls-1" d="M 143.84,315.41 C 143.84,315.41 0.0,284.06 0.0,143.45 L 0.0,0.0 L 57.16,55.15 L 57.16,143.45 C 57.16,227.05 143.84,255.45 143.84,255.45 L 143.84,315.41"/>
+			<path class="cls-2" d="M 143.84,315.41 C 143.84,315.41 287.68,284.06 287.68,143.41 L 287.68,0.0 L 230.53,55.15 L 230.53,143.45 C 230.53,227.05 143.84,255.45 143.84,255.45 L 143.84,315.41"/>
+			<polygon class="cls-3" points="230.53 55.15 57.16 55.15 0 0 287.68 0 230.53 55.15"/>
+		</g>
+	</g>
+</svg>

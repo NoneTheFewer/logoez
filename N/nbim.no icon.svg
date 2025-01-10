@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.7 72.7" version="1.2" baseProfile="tiny-ps">
+	<defs>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="6.7705" y1="51.7199" x2="45.2708" y2="-15.6971">
+			<stop offset="0" stop-color="#2C7399"/>
+			<stop offset="0.5" stop-color="#7BB6CE"/>
+			<stop offset="1" stop-color="#B0DEF1"/>
+		</linearGradient>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="35.8983" y1="68.3545" x2="74.3989" y2="0.937">
+			<stop offset="0" stop-color="#2C7399"/>
+			<stop offset="0.5" stop-color="#7BB6CE"/>
+			<stop offset="1" stop-color="#B0DEF1"/>
+		</linearGradient>
+	</defs>
+	<g transform="matrix(0.716806, 0, 0, 0.716806, 10.292146, 12.2)">
+		<polygon fill="url(#SVGID_1_)" points="0,0 0,67.4 34.1,67.4 34.1,32 8.2,0   "/>
+		<polygon fill="url(#SVGID_2_)" points="72.7,67.4 72.7,0 38.6,0 38.6,35.4 64.6,67.4   "/>
+	</g>
+</svg>

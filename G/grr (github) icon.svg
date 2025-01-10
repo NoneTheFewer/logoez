@@ -1,0 +1,21 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137.4 137.4">
+	<style>
+		.cls0 { fill: none; stroke: rgb(0,171,197); }
+		.cls1 { fill: rgb(0,171,197); }
+	</style>
+	<g transform="translate(-.5 4.75)">
+		<g class="cls0">
+			<circle cx="65.2" cy="64" r="14" stroke-width="3.8" />
+			<circle cx="122" cy="64" r="14" stroke-width="3.8" />
+			<path d=" M 63 22 A 48 43 0 0 1 87 28 A 41 43 0 0 1 103.75 46.5" stroke-width="8" />
+			<path d=" M 14.5 35 A 59 58 0 0 1 63 6" stroke-width="11.4" />
+			<path d=" M 14.2 93 A 60 58 0 0 1 14.75 34.5" stroke-width="11.4" />
+			<path d=" M 55 121.3 A 59 58 0 0 1 14 92.6" stroke-width="11.2" />
+			<path d=" M 103.3 108 A 59 58 0 0 1 54.9 121.3" stroke-width="11.1" />
+			<path d=" M 122.2 77 A 59 58 0 0 1 103 108.3" stroke-width="11.2" />
+			<path d=" M 64 105 A 40 44 0 0 1 23 66" stroke-width="8.3" />
+			<path d=" M 100 87.4 A 40 40 0 0 1 63 105" stroke-width="8.3" />
+		</g>
+		<rect class="cls1" x="78" y="58.8" width="31" height="11.5" />
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	<rect fill="lightgrey" width="100%" height="100%" />
+<style type="text/css">
+	.red {fill:#dd3036}
+	.purple {fill:#8f62e0}
+	.blue {fill:#708af9}
+	.cyan {fill:#0fbab8}
+	.green {fill:#66ca5c}
+	.yellow {fill:#ebb83c}
+	.white {fill:#FFF}
+</style>
+<circle cx="117.5" cy="333" r="101" class="blue" />
+<circle cx="258.5" cy="410" r="101" class="red" />
+<circle cx="386.6" cy="333" r="101" class="yellow" />
+<circle cx="386.6" cy="179" r="101" class="green" />
+<circle cx="258.4" cy="102" r="101" class="cyan" />
+<circle cx="117.5" cy="179" r="101" class="blue" />
+<circle cx="258.4" cy="256" r="99.5" class="white" />
+
+</svg>

@@ -1,0 +1,34 @@
+<svg viewBox="0 0 164 40" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="lightgrey" width="100%" height="100%" />
+    <path name="smile" d="M31.7331 30C36.8448 30 41.4909 25.2412 40.9582 24.1898C40.423 23.1334 37.8672 26.8308 31.7331 26.8308C25.5991 26.8308 23.5544 23.1334 23.0432 24.1898C22.5321 25.2462 26.6214 30 31.7331 30Z" fill="#026c9c" />
+    <g name="braces" fill="none" stroke="#8e8e8e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 13l-7 7l7 7" />
+        <path d="M56 13l7 7l-7 7" />
+    </g>
+    <g name="icon" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="32" cy="20" r="15" stroke="#026c9c" stroke-width="2" transform="rotate(-90 32 20)" />
+        <g opacity="1" stroke="#026c9c" stroke-width="3">
+            <path d="M26.5 15.5v2" />
+            <path d="M37.5 15.5v2" />
+        </g>
+    </g>
+    <g name="iconify" fill="none" stroke-linecap="round" stroke-width="3">
+        <circle cx="77.5" cy="2.5" r="1.5" fill="#e13e32" opacity="1" />
+        <path d="M77.5 7.5V19.5" stroke="#e13e32" />
+        <path d="M94.5962 8.4038C92.0578 5.86539 87.9422 5.86539 85.4038 8.4038C82.8654 10.9422 82.8654 15.0578 85.4038 17.5962C87.9422 20.1346 92.0578 20.1346 94.5962 17.5962" stroke="#e13e32" />
+        <circle cx="106" cy="13" r="6.5" stroke="#e13e32" transform="rotate(-180 106 13)" />
+        <path d="M129.5 19.5C129.5 16.525 129.5 14.025 129.5 12C129.5 8.96243 127.038 6.5 124 6.5C120.962 6.5 118.5 8.96243 118.5 12C118.5 14.025 118.5 16.525 118.5 19.5" stroke="#e13e32" />
+        <circle cx="135.5" cy="2.5" r="1.5" fill="#a2a2a2" opacity="1" />
+        <path d="M135.5 7.5V19.5" stroke="#a2a2a2" />
+        <path d="M149.5 2.5C147.962 2.5 146.795 2.5 146 2.5C143.5 2.5 141.5 4.5 141.5 7C141.5 8.66667 141.5 12.8333 141.5 19.5" stroke="#a2a2a2" />
+        <path d="M145 11.5h2.5" stroke="#a2a2a2" />
+        <path d="M153.5 6.5C153.5 8.16667 153.5 9.83333 153.5 11.5C153.5 14 155 15.5 157.5 15.5C157.73 15.5 158.23 15.5 159 15.5" stroke="#a2a2a2" />
+        <path d="M154.5 22.5C156.371 22.5 157.704 22.5 158.5 22.5C160.5 22.5 162.5 20.5 162.5 18.5C162.5 17.1667 162.5 13.1667 162.5 6.5" stroke="#a2a2a2" />
+    </g>
+    <circle cx="74" cy="37" r="1" fill="#026C9C" />
+    <circle cx="108" cy="27" r="1" fill="#026C9C" />
+    <g stroke="#026c9c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none">
+        <path d="M80 37a5 5 0 0 0 0-10h-3v10h3Zm15 0h-4c-1 0-2-1-2-2v-6c0-1 1-2 2-2h4m-4 5h3m10-2.5a2.5 2.5 0 1 0-2.5 2.5M99 34.5a2.5 2.5 0 1 0 2.5-2.5m6.5 5v-7"></path>
+        <path d="M120.999 29c-.151-.18-.29-.361-.463-.535a5.001 5.001 0 1 0 .463 6.537V33H120m5 4V27l7 10V27"></path>
+    </g>
+</svg>

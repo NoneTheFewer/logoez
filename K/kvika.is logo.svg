@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1561 610">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h1560.53v610h-1560.53z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #a28352 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m348.2 609.3h87.4v-147.6l-87.4-56.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m174.1 522.7h87.4v-175.4l-87.4-56.9z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m0 435.3h87.4v-203.1l-87.4-57.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m87.4 87.3v144.9l86.7 58.2v-203.1z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m436.9 90.1v374.3l87.4 59v-433.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m261.5 0v347.3l86.7 58.2v-405.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m992.5 205.9h-6.2l-31.3 133.1-31.9-133.1h-6.2-36.1l52.1 196.8h0.6 43l52.8-196.8z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m803.2 402.7l-61.8-83.8v83.8h-40.2v-196.8h40.2v74.1l52-74.1h46.5l-67.3 90.8 79.1 106z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m1504.3 205.9l56.2 196.8h-42.3l-11.8-43.6h-49.9l-11.8 43.6h-42.3l56.2-196.8zm-40.3 124.7h36.1l-18-73.4z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m1082 205.9v93.6l40.2 26.3v-119.9z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m1162.4 351.4l-40.2-25.6v76.2h40.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m1324 402.7l-61.7-83.8v83.8h-40.9v-196.8h40.9v74.1l52-74.1h46.5l-68 90.8 79.8 106z"/>
+		</g>
+	</g>
+</svg>

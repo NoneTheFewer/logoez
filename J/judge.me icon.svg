@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 96 96" overflow="visible" xml:space="preserve">
+	<g clip-path="url(#clip0_1801_3838)">
+		<rect width="96" height="96" fill="white"/>
+		<g clip-path="url(#clip1_1801_3838)">
+			<path d="M96 0H-1V95.8588H96V0Z" fill="url(#paint0_linear_1801_3838)"/>
+			<path d="M57.8751 67.0332V14.2424H63.8106L90.5202 96.3614H51.9397L31.1655 78.7645L57.8751 67.0332Z" fill="url(#paint1_radial_1801_3838)"/>
+			<g filter="url(#filter0_d_1801_3838)">
+				<path d="M64.4793 14.2193V59.8537C64.4793 71.8424 54.6985 81.6392 42.5646 81.6392C30.4307 81.6392 20.6499 71.8416 20.6499 59.8537H33.3035C33.3035 64.8815 37.4778 69.0066 42.5646 69.0066C47.6515 69.0066 51.8257 64.8807 51.8257 59.8537V26.7241H42.5646V14.2193H64.4793Z" fill="white"/>
+			</g>
+		</g>
+	</g>
+	<defs>
+		<filter id="filter0_d_1801_3838" x="-5.28875" y="-3.07314" width="87.0607" height="110.651" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="-4.32311" dy="4.32311"/>
+			<feGaussianBlur stdDeviation="10.8078"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1801_3838"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1801_3838" result="shape"/>
+		</filter>
+		<linearGradient id="paint0_linear_1801_3838" x1="47.5" y1="0" x2="47.5" y2="95.8588" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#339999"/>
+			<stop offset="1" stop-color="#2D8396"/>
+		</linearGradient>
+		<radialGradient id="paint1_radial_1801_3838" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(60.8429 55.3019) rotate(63.556) scale(78.2146 56.2704)">
+			<stop stop-color="#395F5F"/>
+			<stop offset="1" stop-color="#278888" stop-opacity="0"/>
+		</radialGradient>
+		<clipPath id="clip0_1801_3838">
+			<rect width="96" height="96" fill="white"/>
+		</clipPath>
+		<clipPath id="clip1_1801_3838">
+			<rect width="97" height="95.8588" fill="white" transform="translate(-1)"/>
+		</clipPath>
+	</defs>
+</svg>

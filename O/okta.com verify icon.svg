@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<style>
+		.cls0 { fill: #00247b; }
+		.cls1 { stroke: #00247B; }
+	</style>
+	<path id="arc1" class="cls0" fill-rule="evenodd" d="M 58.05169658740222 13.41750541724993 A 32 32 0 1 0 60.51220877402777 17.472304008334504 L 47.86311778198097 29.911580924479175 A 16 16 0 1 1 46.380704740786676 24.98606165137477"	/>
+	<line class="cls1" x1="24.65" y1="28.9" x2="32" y2="36.2" stroke-width="4.5" stroke-linecap="round" />
+	<line class="cls1" x1="32" y1="36.2" x2="46" y2="22.2" stroke-width="4.5" stroke-linecap="round" />
+</svg>

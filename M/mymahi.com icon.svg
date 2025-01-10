@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813 813" baseProfile="tiny-ps" version="1.2">
+	<defs>
+		<linearGradient id="linear-gradient" x1="0.17" y1="0.074" x2="0.885" y2="0.932" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#aa39f3"/>
+			<stop offset="1" stop-color="#6f00b7"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="0.834" y1="0.077" x2="0.111" y2="0.923" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#00e1fa"/>
+			<stop offset="1" stop-color="#0090f0"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="0.172" y1="0.899" x2="0.833" y2="0.084" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#f05200"/>
+			<stop offset="1" stop-color="#ff8700"/>
+		</linearGradient>
+	</defs>
+	<g id="logo_M">
+		<g id="Group_3" transform="translate(1219.562 2977)">
+			<g id="Group_2" transform="translate(-1205 -2768)">
+				<path id="Path_1" d="M97.824,29.8L29.21,111.506L256.23,367.6A83.365,83.365,0,0,0,372.24,376.172L397.73,354.729A83.4,83.4,0,0,0,407.982,237.291A6.306,6.306,0,0,1,406.791,235.862L289.34,102.458L224.072,28.382A83.575,83.575,0,0,0,106.4,20.749C103.543,23.606,100.447,26.702,97.828,29.797Z" transform="translate(356.28 -0.056)" fill="url(#linear-gradient)"/>
+				<path id="Path_2" d="M318.863,30.206L385.563,110.006L173.3,363.247A83.189,83.189,0,0,1,55.863,373.5L29.9,351.8A83.182,83.182,0,0,1,19.658,234.38L191.173,29.968C220.711,-5.285,273.121,-9.809,308.612,19.729A86.385,86.385,0,0,1,318.864,30.206Z" transform="translate(-0.068 1.68)" fill="url(#linear-gradient-2)"/>
+				<path id="Path_3" d="M345,28.408L417.887,111.308L216.106,355.008A83.469,83.469,0,0,1,98.67,366.2A72.934,72.934,0,0,1,86.05,353.010L19.341,267.345L218.5,29.823A83.414,83.414,0,0,1,335.941,19.584A79.059,79.059,0,0,1,344.989,28.394Z" transform="translate(235.602 -0.092)" fill="url(#linear-gradient-3)"/>
+				<path id="Path_4" d="M149.889,8.738L40.546,191.681L19.346,164.537Z" transform="translate(235.602 102.711)" fill="#c14606"/>
+				<path id="Path_5" d="M417.889,8.5L311.165,190.742L288.294,165.014Z" transform="translate(235.602 102.711)" fill="#6f19a9"/>
+			</g>
+		</g>
+	</g>
+</svg>

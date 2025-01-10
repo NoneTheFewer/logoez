@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 672 233.33333">
+	<style>
+		.pink { fill: #f29fe5; }
+		.purple { fill: #d0d2ff; }
+		.red { fill: #f68f94; }
+		.blue { fill: #68b4ff; }
+		.yellow { fill: #f6f494; }
+		.green { fill: #d4efa2; }
+	</style>
+	<g id="g931" transform="matrix(1.3333333,0,0,-1.3333333,0,233.33333)">
+		<g id="g933" transform="scale(0.1)">
+			<g transform="scale(10)">
+				<rect x="12" y="100" width="33" height="33" class="pink"/>
+				<rect x="45" y="100" width="41.7" height="33" class="purple"/>
+				<rect x="86.7" y="100" width="15.3" height="33" class="red"/>
+				<rect x="12" y="84.75" width="17.5" height="15" class="purple"/>
+				<rect x="29.5" y="84.75" width="15.25" height="15" class="blue"/>
+				<rect x="12" y="43" width="17.5" height="41.5" class="yellow"/>
+				<rect x="29.5" y="43" width="15.25" height="41.5" class="purple"/>
+				<rect x="45" y="43" width="57" height="57" class="green"/>
+			</g>
+			<path d="M 120.0,430.0 L 1020.0,430.0 L 1020.0,1330.0 L 120.0,1330.0 L 120.0,430.0" style="fill:none;stroke:#5e5e5e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path937"/>
+			<path d="M 449.27,430.0 L 1020.0,430.0 L 1020.0,1000.73 L 449.27,1000.73 L 449.27,430.0" style="fill:none;stroke:#5e5e5e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path939"/>
+			<path d="M 120.0,1000.73 L 449.27,1000.73 L 449.27,1330.0 L 120.0,1330.0 L 120.0,1000.73" style="fill:none;stroke:#5e5e5e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path941"/>
+			<path d="M 120.0,430.0 L 295.609,430.0 L 295.609,847.074 L 120.0,847.074 L 120.0,430.0" style="fill:none;stroke:#5e5e5e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path943"/>
+			<path d="M 295.609,847.074 L 449.269,847.074 L 449.269,1000.73 L 295.609,1000.73 L 295.609,847.074" style="fill:none;stroke:#5e5e5e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path945"/>
+			<path d="M 866.16,1000.73 L 1019.816,1000.73 L 1019.816,1330.0 L 866.16,1330.0 L 866.16,1000.73" style="fill:none;stroke:#5e5e5e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path951"/>
+			<g id="g953" transform="scale(10)">
+				<text transform="matrix(1,0,0,-1,117.409,40)" style="font-variant:normal;font-weight:bold;font-size:130px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#565656;fill-opacity:1;fill-rule:nonzero;stroke:none" id="text957">
+					<tspan x="0 93.881828 166.18163 281.77246" y="0" id="tspan955">Nemo</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 51.59 52.26">
+	<defs>
+		<linearGradient id="a" x1="41.35" x2="12.73" y1="37.84" y2="18.41" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#292f40"/>
+			<stop offset="1" stop-color="#46cdb4"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="b" x1="44.63" x2="16" y1="33.01" y2="13.58"/>
+	</defs>
+	<g style="">
+		<path d="m25.22 37.09 9.12 5.31-9.12 5.32-9.11-5.32L7 37.09V15.83l9.11-5.32 9.11-5.31 9.12 5.31-9.12 5.32-9.11 5.31v10.63l9.11 5.32z" style="fill:url(#a)"/>
+		<path d="M43.45 15.83v21.26l-.29.17-8.82 5.14V31.77l-9.12-5.31 9.12-5.32 9.11-5.31z" style="fill:url(#b)"/>
+		<g style="mix-blend-mode:multiply">
+			<path d="m43.45 37.14-9.11-5.31v3.01l8.82 2.47.29-.17z" style="fill:#231f20"/>
+		</g>
+	</g>
+</svg>

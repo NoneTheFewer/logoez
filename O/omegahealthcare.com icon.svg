@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1517 1397">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h11531.38v1397h-11531.38z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="209.5" y1="119.7" x2="786.6" y2="1357.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#21368b"/>
+			<stop offset=".44" stop-color="#4366a8"/>
+			<stop offset=".64" stop-color="#314d99"/>
+			<stop offset=".85" stop-color="#253c8e"/>
+			<stop offset="1" stop-color="#21368b"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="699" y1="-70" x2="1364.5" y2="1357.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b1afaf"/>
+			<stop offset=".07" stop-color="#bcbab9"/>
+			<stop offset=".2" stop-color="#dad8d5"/>
+			<stop offset=".21" stop-color="#dddad7"/>
+			<stop offset=".24" stop-color="#d0cdcb"/>
+			<stop offset=".39" stop-color="#9f9b9f"/>
+			<stop offset=".47" stop-color="#8c888e"/>
+			<stop offset=".66" stop-color="#b6b4bb"/>
+			<stop offset=".71" stop-color="#aaa7ae"/>
+			<stop offset=".79" stop-color="#8b878c"/>
+			<stop offset=".83" stop-color="#7a7579"/>
+			<stop offset=".88" stop-color="#878487"/>
+			<stop offset=".98" stop-color="#a7a9ac"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="logo-sm">
+		<g id="Clip-Path: omega-full-logo 1" clip-path="url(#cp1)">
+			<g id="omega-full-logo 1">
+				<g id="Layer_1-2">
+					<g id="Group">
+						<path id="Vector_30" class="s0" d="m447.6 600.1c0-236.5 155.6-425.2 310.6-524-76.6-49-153-76.1-210.5-76.1-173.7 0-547.7 193.4-547.7 600.1 0 330.1 246.4 504.8 416.3 585.8-58.7 9.4-118.9 14.3-180.4 14.3v196.6h466.4v-362.7c-154.8-105.9-254.7-256.5-254.7-434.2z"/>
+						<path id="Vector_31" class="s1" d="m1516.4 600.1c0-406.7-374-600.1-547.7-600.1h-421c173.7 0 521.1 246.7 521.1 600.1 0 177.1-99.3 327.5-253.5 433.4v363.5h465v-196.6c-61.3 0-121.7-4.9-180.4-14.1 169.9-81.2 416.3-255.8 416.3-586z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

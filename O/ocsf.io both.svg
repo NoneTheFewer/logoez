@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+	<style>
+		.amaranth { stroke: #ec3a59; fill: none; }
+		.turquoise1 { stroke: #29cabb; fill: none; }
+		.turquoise2 { fill: #29cabb; }
+		.dodger1 { stroke: #32caff; fill: none; }
+		.dodger2 { fill: #32caff; }
+		.poppy { fill: #f79319; }
+	</style>
+	<g name="upper_left" class="amaranth">
+		<circle cx="50" cy="50" r="47.6" stroke-width="4.8" />
+		<circle cx="50" cy="50" r="28.6" stroke-width="4.8" />
+		<circle cx="50" cy="50" r="9.6" stroke-width="4.8" />
+	</g>
+
+	<g name="lower_right" class="poppy">
+		<rect x="100" y="100" height="100" width="4.8" />
+		<rect x="100" y="100" height="4.8" width="100" />
+
+		<rect x="119" y="119" height="81" width="4.8" />
+		<rect x="119" y="119" height="4.8" width="81" />
+
+		<rect x="138" y="138" height="62" width="4.8" />
+		<rect x="138" y="138" height="4.8" width="62" />
+
+		<rect x="157" y="157" height="43" width="4.8" />
+		<rect x="157" y="157" height="4.8" width="43" />
+
+		<rect x="176" y="176" height="24" width="4.8" />
+		<rect x="176" y="176" height="4.8" width="24" />
+
+		<rect x="195" y="195" height="4.8" width="4.8" />
+	</g>
+
+	<g name="upper_right">
+		<path d=" M 150 97.4 A 47 47 0 0 1 150 2.4" class="turquoise1" stroke-width="4.8" />
+		<rect x="149.5" y="95" width="50.5" height="4.8" class="turquoise2" />
+		<rect x="149.5" y="0" width="50.5" height="4.8" class="turquoise2" />
+		<path d=" M 150 78.4 A 27 27 0 0 1 150 21.4" class="turquoise1" stroke-width="4.8" />
+		<rect x="149.5" y="76" width="50.5" height="4.8" class="turquoise2" />
+		<rect x="149.5" y="19" width="50.5" height="4.8" class="turquoise2" />
+		<path d=" M 150 59.4 A 7 7 0 0 1 150 40.4" class="turquoise1" stroke-width="4.8" />
+		<rect x="149.5" y="57" width="50.5" height="4.8" class="turquoise2" />
+		<rect x="149.5" y="38" width="50.5" height="4.8" class="turquoise2" />
+	</g>
+
+	<g name="lower_left">
+		<path d=" M 40.4 178.4 A 38 38 0 0 1 40.4 102.4" class="dodger1" stroke-width="4.8" />
+		<path d=" M 40.4 159.4 A 19 19 0 0 1 40.4 121.4" class="dodger1" stroke-width="4.8" />
+		<path d=" M 59.6 178.4 A 19 19 0 0 0 59.6 140.4" class="dodger1" stroke-width="4.8" />
+		<path d=" M 59.6 197.4 A 38 38 0 0 0 59.6 121.4" class="dodger1" stroke-width="4.8" />
+
+
+		<rect x="40" y="100" width="60" height="4.8" class="dodger2" />
+		<rect x="40" y="119" width="60" height="4.8" class="dodger2" />
+		<rect x="38" y="138" width="22" height="4.8" class="dodger2" />
+		<rect x="40" y="157" width="22" height="4.8" class="dodger2" />
+		<rect x="0" y="176" width="60" height="4.8" class="dodger2" />
+		<rect x="0" y="195" width="60" height="4.8" class="dodger2" />
+	</g>
+
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1559 492">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse" x1="21.3" y1="557.2" x2="1575.8" y2="67.1">
+			<stop offset="0" stop-color="#0061af"/>
+			<stop offset=".1" stop-color="#0070b9"/>
+			<stop offset=".4" stop-color="#008cce"/>
+			<stop offset=".7" stop-color="#00a2df"/>
+			<stop offset=".9" stop-color="#00b0ea"/>
+			<stop offset="1" stop-color="#00b6ed"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: url(#grd1) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m1558.49 0v317.84h-1008.29l1008.29-317.84zm-1557.59 491.14v-173.29h550.13l-550.13 173.29h0z"/>
+	</g>
+<<<<<<< HEAD
+</svg>
+=======
+	
+	
+	
+	
+
+</svg>
+>>>>>>> 3d7909065 (Self-closers)

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 216 216" baseProfile="tiny-ps">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="56.5257" y1="65.631" x2="170.3734" y2="157.035">
+		<stop offset="0" stop-color="#18C5FF"/>
+		<stop offset="1" stop-color="#5635FF"/>
+	</linearGradient>
+	<path d="M181,67.488v81.715C179,171.406,158,172,158,172H35V62h18v92h104c0,0,6,0,6-6V67.685  c0,0,0-5.685-6-5.685H53V44h105C181,44,181,67.488,181,67.488z M130,131h-26v10h26V131z M104,122h-9v9h9V122z M139,122h-9v9h9V122z   M70,79h-9v9h9v17h8v9h26v-9h-9v-9h-9v-9h9h9v18h9v-9h9v9h8v9h26v-9h-9v-9h-9v-9h9h9v18h7V79H70z" fill="url(#SVGID_1_)"/>
+</svg>

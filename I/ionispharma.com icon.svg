@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 750 1497">
+	<defs>
+		<linearGradient id="g1" x1="1" y1="790.3" x2="667.9" y2="790.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ea6f24"/>
+			<stop offset=".25" stop-color="#e3513c"/>
+			<stop offset=".5" stop-color="#dc3253"/>
+			<stop offset=".75" stop-color="#d61a66"/>
+			<stop offset="1" stop-color="#d61a66"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="-5.5" y1="456.5" x2="758.5" y2="440.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d61a66"/>
+			<stop offset=".25" stop-color="#d61a66"/>
+			<stop offset=".5" stop-color="#c71b63"/>
+			<stop offset=".75" stop-color="#b31d60"/>
+			<stop offset="1" stop-color="#a01e5d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ea6f24 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 21" class="s0" d="m1 1496l404.8-369c107-94 168.1-216.9 168.1-359.6v-3l-572.9 517.7z"/>
+				<path id="Path 22" class="s1" d="m1 974.8v229.8l498.3-450.1c107-93.5 168.6-232.8 168.6-375.5z"/>
+				<path id="Path 23" class="s2" d="m1 663.9v229.8l579.4-517.7c106.9-94 168.6-229.8 168.6-375.5z"/>
+			</g>
+		</g>
+	</g>
+</svg>

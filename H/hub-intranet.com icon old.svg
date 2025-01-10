@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 502.25 505.25">
+	<style>
+		.orange { fill: #f78d1f; }
+		.salmon { fill: #fe7877; }
+		.golden { fill: #f9ae1f; }
+		.teal { fill: #1ca6a9; }
+		.cyan { fill: #06b7e0; }
+		.blue { fill: #297fb8; }
+		.purple { fill: #6b5e93; }
+		.magent { fill: #d3316c; }
+	</style>
+	<g transform="translate(-243 -37)">
+		<line x1="350.75" y1="431.5" x2="635.5" y2="146.75" stroke="black" stroke-width="7" />
+		<line x1="493" y1="88.5" x2="493" y2="491.25" stroke="black" stroke-width="7" />
+		<line x1="350.75" y1="146.75" x2="638.75" y2="434.5" stroke="black" stroke-width="7" />
+		<line x1="292.75" y1="289" x2="695.5" y2="289" stroke="black" stroke-width="7" />
+		<circle cx="493" cy="88.5" r="49.75" class="orange" />
+		<circle cx="493" cy="491.25" r="49.75" class="blue" />
+		<circle cx="292.75" cy="289" r="49.75" class="magent" />
+		<circle cx="695.5" cy="289" r="49.75" class="teal" />
+		<circle cx="638.75" cy="431.5" r="49.75" class="cyan" />
+		<circle cx="350.75" cy="431.5" r="49.75" class="purple" />
+		<circle cx="350.75" cy="143.75" r="49.75" class="salmon" />
+		<circle cx="635.5" cy="146.75" r="49.75" class="golden" />
+	</g>
+</svg>

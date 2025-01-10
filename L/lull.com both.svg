@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 68 68" xml:space="preserve">
+	<defs>
+		<clipPath id="c">
+			<rect x="-2.3279" y="-.63489" width="70.684" height="69.697" fill="#00f" fill-rule="evenodd"/>
+		</clipPath>
+		<clipPath id="d">
+			<rect x="-2.3279" y="-.63489" width="70.684" height="69.697" fill="#00f" fill-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<style type="text/css">
+	.st0{fill:#0B2836;}
+</style>
+	<path class="st0" d="m17.4 55.8v-1.8c-2.2 0-3.1-0.5-3.1-2.7v-21.9h-2.1v21.7c0 3.8 1.7 4.9 5.2 4.7"/>
+	<path class="st0" d="m47.4 55.8v-1.8c-2.2 0-3.1-0.5-3.1-2.7v-21.9h-2.1v21.7c0 3.8 1.8 4.9 5.2 4.7"/>
+	<path class="st0" d="m55.9 55.8v-1.8c-2.2 0-3.1-0.5-3.1-2.7v-21.9h-2.1v21.7c0 3.8 1.7 4.9 5.2 4.7"/>
+	<polygon class="st0" points="70.5 3 70.5 0.2 71.3 0.2 71.3 0 69.5 0 69.5 0.2 70.3 0.2 70.3 3" clip-path="url(#d)"/>
+	<polygon class="st0" points="71.7 3 71.9 3 71.9 0.6 71.8 0.3 71.8 0.3 71.9 0.6 72.7 2.3 72.9 2.3 73.7 0.6 73.8 0.3 73.8 0.3 73.8 0.6 73.8 3 74 3 74 0 73.7 0 72.8 2 71.9 0 71.7 0" clip-path="url(#c)"/>
+	<path class="st0" d="m2 2h64v64h-64zm-2-2v68h68v-68z"/>
+	<path class="st0" d="m28.4 55.8c2.1 0.1 4.2-0.7 5.7-2.2l0.3-0.4c0.5 1.8 1.8 2.5 4 2.6h0.9v-1.9h-0.9c-1.5-0.2-2.2-0.8-2.2-2.7v-16.2h-2.1v14.9c-0.2 2.7-3 3.9-5.8 3.9s-5.8-1.3-5.8-3.9v-14.9h-2.1v15c0.1 4.1 4.1 5.9 8 5.8"/>
+</svg>

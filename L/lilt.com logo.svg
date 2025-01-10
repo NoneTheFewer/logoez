@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 92 32" aria-label="Lilt Logo" class="w-22 h-8">
+	<g fill="none" fill-rule="evenodd">
+		<g transform="translate(-139 -82)">
+			<g transform="translate(0 50)">
+				<g transform="translate(139 32)" fill-rule="nonzero">
+					<path fill="#091b5a" d="m16 20c-2.2092 0-4-1.7908-4-4 0-2.209 1.7908-4 4-4s4 1.791 4 4c0 2.2092-1.7908 4-4 4z"/>
+					<path fill="#091b5a" d="m32 27h-26c-0.55225 0-1-0.4478-1-1v-18h-5v19c0 2.7615 2.2385 5 5 5h22c2.7615 0 5-2.2385 5-5z"/>
+					<path fill="#3529be" d="m27 24h5v-19c0-2.7615-2.2385-5-5-5h-22c-2.7615 0-5 2.2385-5 5h26c0.5522 0 1 0.44775 1 1v18z"/>
+					<polygon fill="#3529be" points="43.439 21.667 43.439 5 39 5 39 21.667 39 26 43.439 26 53 26 53 21.667"/>
+					<polygon fill="#3529be" points="68.439 21.667 68.439 5 64 5 64 21.667 64 26 68.439 26 78 26 78 21.667"/>
+					<polygon fill="#3529be" points="85.127 5 80.873 5 74 5 74 9.3332 80.873 9.3332 80.873 26 85.127 26 85.127 9.3332 92 9.3332 92 5"/>
+					<polygon fill="#3529be" points="60 21.667 60 5 56 5 56 21.667 56 26 60 26"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

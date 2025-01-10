@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1367 1583">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m2.35 1.35h8305.63v1583.65h-8305.63z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="286" y1="60.7" x2="286" y2="302" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#76dcfd"/>
+			<stop offset="1" stop-color="#085ce5"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #06185f } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 1" fill-rule="evenodd" class="s0" d="m531.1 1214.2v-1213.9h269.2v472.9c64.7-50.8 135.9-79.1 222.6-79.1 203.9 0 343.6 139.6 343.6 365.9v454.2h-270.8v-411.4c0-113.4-57.8-167.5-146.1-167.5-49.8 0-102.8 27.9-149.3 80.3v498.6zm-530.9 123.6c119.3 0 149.3-31.5 149.3-126.8v-793.4h270.3v757.6c0 253-101.2 400.7-419.6 407.7z"/>
+				<path id="Path 2" class="s1" d="m286 333.6c-92.9 0-168.1-74.3-168.1-166.1 0-91.9 75.2-166.1 168.1-166.1 92.9 0 168 74.2 168 166.1 0 91.8-75.1 166.1-168 166.1z"/>
+			</g>
+		</g>
+	</g>
+</svg>

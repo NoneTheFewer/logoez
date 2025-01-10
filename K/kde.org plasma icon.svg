@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="mt-3 mb-3" viewBox="0 0 64 64">
+	<defs>
+		<linearGradient id="a">
+			<stop offset="1" style="stop-opacity:0"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="b" y1="502.798" x1="439.571" y2="512.798" x2="429.571" gradientUnits="userSpaceOnUse"/>
+	</defs>
+	<g transform="translate(-384.571 -483.798)">
+		<path class="plasma-logo" style="fill-rule:evenodd" d="m41 5-6 6 11 11-11 11 6 6 17-17L41 5z" transform="translate(384.571 483.798)"/>
+		<rect width="6.25" x="400.321" y="489.798" rx="3.125" height="6.25" style="fill: rgb(250, 136, 101);" />
+		<rect width="9" x="390.571" y="509.299" rx="4.5" height="9" style="fill: rgb(99, 198, 5);" />
+		<rect width="13" x="403.571" y="528.798" rx="6.5" height="13" style="fill: rgb(27, 137, 243);" />
+		<path style="fill:url(#b);opacity:.9;fill-rule:evenodd" d="m423.571 512.798 6 6 7-7-6-6z"/>
+	</g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 105.31 105.31">
+	<defs>
+		<linearGradient id="linear-gradient" x1="1.17" x2="104.14" y1="104.14" y2="1.17" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44339f"/>
+			<stop offset=".03" stop-color="#4145a9"/>
+			<stop offset=".09" stop-color="#3b65ba"/>
+			<stop offset=".16" stop-color="#3580c9"/>
+			<stop offset=".24" stop-color="#3197d5"/>
+			<stop offset=".33" stop-color="#2ea8df"/>
+			<stop offset=".44" stop-color="#2cb4e5"/>
+			<stop offset=".6" stop-color="#2abbe9"/>
+			<stop offset="1" stop-color="#2abdea"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="-687.45" x2="-707.71" y1="23.37" y2="47.17" gradientTransform="matrix(1 0 -.41 1 758.83 0)" gradientUnits="userSpaceOnUse">
+			<stop offset=".12" stop-color="#44339f"/>
+			<stop offset=".15" stop-color="#433ba3"/>
+			<stop offset=".28" stop-color="#3b62b9"/>
+			<stop offset=".41" stop-color="#3583cb"/>
+			<stop offset=".54" stop-color="#309dd8"/>
+			<stop offset=".68" stop-color="#2dafe2"/>
+			<stop offset=".83" stop-color="#2bbae8"/>
+			<stop offset="1" stop-color="#2abdea"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="-710.54" x2="-700.66" y1="40.58" y2="71.74" xlink:href="#linear-gradient-2"/>
+		<linearGradient id="linear-gradient-4" x1="-697.56" x2="-673.08" y1="70.16" y2="75.39" xlink:href="#linear-gradient-2"/>
+		<linearGradient id="linear-gradient-5" x1="-2091.12" x2="-2082.5" y1="2764.88" y2="2792.05" gradientTransform="matrix(-.84 .82 -.65 -.53 119.78 3210.8)" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#44339f"/>
+			<stop offset=".24" stop-color="#4144a8"/>
+			<stop offset=".34" stop-color="#3a69bc"/>
+			<stop offset=".46" stop-color="#3487cd"/>
+			<stop offset=".57" stop-color="#309fda"/>
+			<stop offset=".7" stop-color="#2cb0e3"/>
+			<stop offset=".83" stop-color="#2bbae8"/>
+			<stop offset="1" stop-color="#2abdea"/>
+		</linearGradient>
+		<style>.cls-3{fill:#93a2ad;fill-rule:evenodd}</style>
+	</defs>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_2-2" data-name="Layer 2">
+			<path d="M 4.0,4.0 L 101.31,4.0 L 101.31,101.31 L 4.0,101.31 L 4.0,4.0" style="fill:#12191f"/>
+			<path d="M 101.31,4.0 L 101.31,101.31 L 4.0,101.31 L 4.0,4.0 L 101.31,4.0 M 101.31,0.0 L 4.0,0.0 A 4.0,4.0 0.0 0,0 0.0,4.0 L 0.0,101.31 A 4.0,4.0 0.0 0,0 4.0,105.31 L 101.31,105.31 A 4.0,4.0 0.0 0,0 105.31,101.31 L 105.31,4.0 A 4.0,4.0 0.0 0,0 101.31,0.0" style="fill:url(#linear-gradient)"/>
+			<path d="M 88.13,42.29 L 81.18,20.99 L 60.41,50.98 L 88.13,42.29" class="cls-3"/>
+			<path d="M 45.61,24.7 L 17.89,52.74 L 55.68,39.54 L 45.61,24.7" style="fill:url(#linear-gradient-2);fill-rule:evenodd"/>
+			<path d="M 17.89,52.74 L 23.36,81.46 L 43.67,43.74 L 17.89,52.74 L 17.89,52.74" style="fill:url(#linear-gradient-3);fill-rule:evenodd"/>
+			<path d="M 43.25,60.82 L 29.74,81.47 L 57.87,81.51 L 43.25,60.82 L 43.25,60.82" style="fill:url(#linear-gradient-4);fill-rule:evenodd"/>
+			<path d="M 57.87,81.51 L 84.67,56.36 L 48.19,67.81 L 57.87,81.51 L 57.87,81.51" class="cls-3"/>
+			<path d="M 81.18,20.99 L 50.21,20.7 L 66.08,42.79 L 81.18,20.99" style="fill:url(#linear-gradient-5);fill-rule:evenodd"/>
+		</g>
+	</g>
+</svg>

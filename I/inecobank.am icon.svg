@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 283 283" xml:space="preserve">
+	<g>
+		<g>
+			<g>
+				<polygon fill="#004924" points="141.5,142 141.5,226 141,226 57,141.5 141,141.5"/>
+				<polygon fill="#004924" points="226.75,141.5 227,226.5 226.25,227.25 141.5,142 141.5,141.5 226,141.5"/>
+				<polygon fill="#004924" points="226.5,56.5 226.75,141.5 226,141.5 226,141 141.75,56.75 226,56.5"/>
+				<polygon fill="#004924" points="141.5,56.75 141.5,141.5 141,141.5 57,57"/>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="57,57 141.5,56.75 141.75,56.75 226,56.5"/>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="141.5,56 141.5,56.5 141.5,56.75 141.5,141.5 141.5,142 141.5,226 141.5,226.5"/>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="57,141.5 141,141.5 141.5,141.5 226,141.5 226.75,141.5 227,141.5"/>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="57,57 141,141.5 141.5,142 226.25,227.25 226.5,227.5"/>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="226.5,56 226.5,56.5 226.75,141.5 227,226.5"/>
+				<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="141.5,56.5 141.75,56.75 226,141"/>
+			</g>
+		</g>
+	</g>
+</svg>

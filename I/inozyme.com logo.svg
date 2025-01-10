@@ -1,0 +1,480 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1543 381">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1146.57 302.41h59.64v78.56h-59.64z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1490.85 302.87h51.87v61.09h-51.87z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1389.13 108.59h153.59v160.62h-153.59z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp9">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp10">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp11">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp12">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp13">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp14">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp15">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp16">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp17">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp18">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp19">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp20">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp21">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp22">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp23">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp24">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp25">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp26">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp27">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp28">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp29">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp30">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp31">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp32">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp33">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp34">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp35">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp36">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp37">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp38">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp39">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp40">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp41">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp42">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp43">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp44">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp45">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp46">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp47">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp48">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp49">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp50">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp51">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp52">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp53">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp54">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp55">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp56">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp57">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp58">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp59">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp60">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp61">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp62">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp63">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp64">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp65">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp66">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp67">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp68">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp69">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp70">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp71">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp72">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp73">
+			<path d="m0 0h1542.72v380.97h-1542.72z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #0092b3 } 
+		.s1 { fill: #1d345e } 
+		.s2 { fill: #256091 } 
+		.s3 { fill: #62aec7 } 
+	</style>
+	<g id="Symbols">
+		<g id="Navigation">
+			<g id="navigation">
+				<g id="Group-99">
+					<g id="Group-3">
+						<g id="Clip-2">
+						</g>
+						<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+							<path id="Fill-1" fill-rule="evenodd" class="s0" d="m1146.6 303.7h8.8v11.8c4.8-7 11.7-13.1 22.6-13.1 14.2 0 28.2 11.2 28.2 30.6v0.2c0 19.3-13.9 30.8-28.2 30.8-11 0-18.1-6-22.6-12.6v29.6h-8.8zm50.6 29.7v-0.3c0-13.9-9.6-22.8-20.8-22.8-11 0-21.4 9.2-21.4 22.7v0.2c0 13.7 10.4 22.9 21.4 22.9 11.4 0 20.8-8.5 20.8-22.7z"/>
+						</g>
+					</g>
+					<path id="Fill-4" fill-rule="evenodd" class="s0" d="m1217.9 279.3h8.8v34.6c3.9-6.4 10-11.5 20.2-11.5 14.3 0 22.6 9.6 22.6 23.6v36.7h-8.8v-34.5c0-10.9-5.9-17.8-16.3-17.8-10.2 0-17.7 7.4-17.7 18.5v33.8h-8.8z"/>
+					<path id="Fill-6" fill-rule="evenodd" class="s0" d="m1279.2 345.6v-0.3c0-12.4 10.3-19 25.3-19 7.5 0 12.9 1 18.2 2.5v-2.1c0-10.6-6.6-16.1-17.6-16.1-7 0-12.5 1.9-18 4.4l-2.6-7.2c6.5-3 12.9-4.9 21.5-4.9 8.3 0 14.7 2.1 19.1 6.5 3.9 4 6 9.7 6 17.2v36.1h-8.4v-8.9c-4.2 5.4-11 10.2-21.4 10.2-11 0-22.1-6.3-22.1-18.4zm43.6-4.6v-5.7c-4.4-1.3-10.2-2.5-17.4-2.5-11.1 0-17.3 4.8-17.3 12.2v0.2c0 7.5 6.9 11.8 14.9 11.8 10.9 0 19.8-6.6 19.8-16z"/>
+					<path id="Fill-8" fill-rule="evenodd" class="s0" d="m1345.3 303.7h8.8v15.4c4.3-9.8 12.9-16.9 24.1-16.5v9.5h-0.7c-12.9 0-23.4 9.3-23.4 27.1v23.5h-8.8z"/>
+					<path id="Fill-10" fill-rule="evenodd" class="s0" d="m1391.6 303.7h8.8v9.9c3.8-5.8 9.1-11.2 19-11.2 9.6 0 15.8 5.1 19 11.8 4.2-6.5 10.5-11.8 20.8-11.8 13.6 0 21.9 9.1 21.9 23.8v36.5h-8.8v-34.5c0-11.4-5.7-17.8-15.3-17.8-8.9 0-16.3 6.6-16.3 18.3v34h-8.7v-34.7c0-11.1-5.8-17.6-15.2-17.6-9.4 0-16.4 7.8-16.4 18.6v33.7h-8.8z"/>
+					<g id="Group-14">
+						<g id="Clip-13">
+						</g>
+						<g id="Clip-Path: Fill-12" clip-path="url(#cp2)">
+							<path id="Fill-12" fill-rule="evenodd" class="s0" d="m1490.8 345.6v-0.3c0-12.4 10.3-19 25.3-19 7.5 0 12.9 1 18.2 2.5v-2.1c0-10.6-6.6-16.1-17.6-16.1-7 0-12.5 1.9-18 4.4l-2.6-7.2c6.5-3 12.9-4.9 21.5-4.9 8.3 0 14.7 2.1 19.1 6.5 4 4 6 9.7 6 17.2v36.1h-8.4v-8.9c-4.2 5.4-11 10.2-21.4 10.2-11 0-22.1-6.3-22.1-18.4zm43.6-4.6v-5.7c-4.4-1.3-10.2-2.5-17.4-2.5-11.1 0-17.2 4.8-17.2 12.2v0.2c0 7.5 6.8 11.8 14.8 11.8 10.9 0 19.8-6.6 19.8-16z"/>
+						</g>
+					</g>
+					<path id="Fill-15" fill-rule="evenodd" class="s1" d="m535 127.3h0.7c9.4-13.5 25.4-18.7 41.7-18.7 43 0 55.4 28.6 55.4 63.6v92.1h-45.6v-79.9c0-18.1 1-41.4-24.8-41.4-27.1 0-27.4 28.5-27.4 46.7v74.6h-45.6v-150.8h45.6z"/>
+					<path id="Fill-17" fill-rule="evenodd" class="s1" d="m814.1 189.1c0 46.6-34 80.1-84.2 80.1-50.2 0-84.1-33.5-84.1-80.1 0-47 34.2-80.5 84.1-80.5 49.9 0 84.2 33.5 84.2 80.5zm-46.3-0.2c0-23.4-17-42.2-37.9-42.2-20.9 0-37.8 18.8-37.8 42.2 0 23.4 16.9 42.2 37.8 42.2 20.9 0 37.9-18.8 37.9-42.2z"/>
+					<path id="Fill-19" class="s1" d="m955.6 228.1v36.2h-152l81.9-114.6h-69.1v-36.2h144.4l-81.2 114.6z"/>
+					<path id="Fill-21" class="s1" d="m962.2 113.5h51.8l38.2 85.7 41-85.7h50.9l-116.4 231.3h-50.2l52.8-103.5z"/>
+					<path id="Fill-23" fill-rule="evenodd" class="s1" d="m1193.2 127h0.7c8.8-12 24.4-18.4 39.1-18.4 19.9 0 35.6 7.7 46 23.6 9.8-14.7 28-23.6 46.6-23.6 40.8 0 50.9 28.9 50.9 61.7v94h-45.7v-79.2c0-14.8 1-42.1-21.5-42.1-24.8 0-24.4 31.6-24.4 47.3v74h-45.7v-76.5c0-14.7 2-44.8-21.8-44.8-25.5 0-24.2 31.3-24.2 47.3v74h-45.6v-150.8h45.6z"/>
+					<g id="Group-27">
+						<g id="Clip-26">
+						</g>
+						<g id="Clip-Path: Fill-25" clip-path="url(#cp3)">
+							<path id="Fill-25" fill-rule="evenodd" class="s1" d="m1437.4 195.8c0 19 7.8 40.5 31.6 40.5 15 0 24.5-8.5 30.7-20.5l42 6.4c-11.1 30.1-39.1 47-72.7 47-49.5 0-79.9-33.2-79.9-78.9 0-45.8 25.8-81.7 77.6-81.7 52.5 0 76 36.5 76 82v5.2zm62.3-26.7c-2.3-15.4-12.7-30.4-30.3-30.4-18.3 0-28.4 14.7-30.7 30.4z"/>
+						</g>
+					</g>
+					<g id="Clip-29">
+					</g>
+					<g id="Clip-Path: Fill-28" clip-path="url(#cp4)">
+						<path id="Fill-28" class="s1" d="m423.6 113.5h45.6v150.8h-45.6z"/>
+					</g>
+					<g id="Clip-Path: Fill-30" clip-path="url(#cp5)">
+						<path id="Fill-30" fill-rule="evenodd" class="s1" d="m446.4 90.9c-15.1 0-27.4-11.6-27.4-25.8 0-14.3 12.3-25.8 27.4-25.8 15.2 0 27.4 11.5 27.4 25.8 0 14.2-12.2 25.8-27.4 25.8z"/>
+					</g>
+					<g id="Clip-Path: Fill-31" clip-path="url(#cp6)">
+						<path id="Fill-31" fill-rule="evenodd" class="s1" d="m189 166.1c-7.7 0-14-6.3-14-14 0-7.8 6.3-14 14-14 7.7 0 14 6.2 14 14 0 7.7-6.3 14-14 14z"/>
+					</g>
+					<g id="Clip-Path: Fill-32" clip-path="url(#cp7)">
+						<path id="Fill-32" fill-rule="evenodd" class="s1" d="m144.9 163.6c3.8-6.8 12.4-9.1 19.1-5.3 6.7 3.8 9.1 12.4 5.2 19.1-3.8 6.7-12.3 9.1-19 5.2-6.8-3.8-9.1-12.3-5.3-19z"/>
+					</g>
+					<g id="Clip-Path: Fill-33" clip-path="url(#cp8)">
+						<path id="Fill-33" fill-rule="evenodd" class="s1" d="m145 214.4c-3.9-6.7-1.7-15.2 5-19.2 6.7-3.9 15.3-1.6 19.2 5 3.9 6.7 1.6 15.3-5 19.2-6.7 3.9-15.3 1.7-19.2-5z"/>
+					</g>
+					<g id="Clip-Path: Fill-34" clip-path="url(#cp9)">
+						<path id="Fill-34" fill-rule="evenodd" class="s1" d="m189 239.7c-7.7 0-14-6.2-14-14 0-7.7 6.3-14 14-14 7.7 0 14 6.3 14 14 0 7.8-6.3 14-14 14z"/>
+					</g>
+					<g id="Clip-Path: Fill-35" clip-path="url(#cp10)">
+						<path id="Fill-35" fill-rule="evenodd" class="s1" d="m233.1 214.2c-3.8 6.8-12.4 9.1-19.1 5.3-6.7-3.8-9.1-12.4-5.2-19.1 3.8-6.7 12.3-9.1 19.1-5.2 6.7 3.8 9 12.3 5.2 19z"/>
+					</g>
+					<g id="Clip-Path: Fill-36" clip-path="url(#cp11)">
+						<path id="Fill-36" fill-rule="evenodd" class="s1" d="m233 163.4c3.9 6.7 1.7 15.2-5 19.2-6.7 3.9-15.2 1.6-19.2-5-3.9-6.7-1.6-15.3 5-19.2 6.7-3.9 15.3-1.7 19.2 5z"/>
+					</g>
+					<g id="Clip-Path: Fill-37" clip-path="url(#cp12)">
+						<path id="Fill-37" fill-rule="evenodd" class="s2" d="m164.1 138.3c-6 0-10.9-4.9-10.9-10.9 0-6.1 4.9-10.9 10.9-10.9 6.1 0 11 4.8 11 10.9 0 6-4.9 10.9-11 10.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-38" clip-path="url(#cp13)">
+						<path id="Fill-38" fill-rule="evenodd" class="s2" d="m132.6 137.9c5.7-2.2 12 0.5 14.2 6.1 2.3 5.6-0.5 12-6.1 14.2-5.6 2.2-11.9-0.5-14.2-6.1-2.2-5.6 0.5-12 6.1-14.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-39" clip-path="url(#cp14)">
+						<path id="Fill-39" fill-rule="evenodd" class="s2" d="m114.7 172.9c3.7-4.7 10.6-5.5 15.3-1.8 4.8 3.7 5.6 10.6 1.8 15.3-3.7 4.8-10.6 5.6-15.3 1.8-4.8-3.7-5.6-10.6-1.8-15.3z"/>
+					</g>
+					<g id="Clip-Path: Fill-40" clip-path="url(#cp15)">
+						<path id="Fill-40" fill-rule="evenodd" class="s2" d="m127.4 224.7c-6 0-10.9-4.9-10.9-10.9 0-6.1 4.9-11 10.9-11 6.1 0 11 4.9 11 11 0 6-4.9 10.9-11 10.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-41" clip-path="url(#cp16)">
+						<path id="Fill-41" fill-rule="evenodd" class="s2" d="m138 245.2c-2.3-5.6 0.5-11.9 6.1-14.2 5.6-2.2 12 0.5 14.2 6.1 2.2 5.7-0.5 12-6.1 14.2-5.6 2.3-12-0.5-14.2-6.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-42" clip-path="url(#cp17)">
+						<path id="Fill-42" fill-rule="evenodd" class="s2" d="m173 263.2c-4.7-3.8-5.6-10.6-1.8-15.4 3.7-4.7 10.6-5.5 15.3-1.8 4.8 3.8 5.6 10.6 1.8 15.4-3.7 4.7-10.6 5.5-15.3 1.8z"/>
+					</g>
+					<g id="Clip-Path: Fill-43" clip-path="url(#cp18)">
+						<path id="Fill-43" fill-rule="evenodd" class="s2" d="m213.9 261.3c-6.1 0-11-4.8-11-10.9 0-6 4.9-10.9 11-10.9 6 0 10.9 4.9 10.9 10.9 0 6.1-4.9 10.9-10.9 10.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-44" clip-path="url(#cp19)">
+						<path id="Fill-44" fill-rule="evenodd" class="s2" d="m245.4 239.9c-5.6 2.2-12-0.5-14.2-6.1-2.3-5.6 0.5-12 6.1-14.2 5.6-2.2 11.9 0.5 14.2 6.1 2.2 5.6-0.5 12-6.1 14.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-45" clip-path="url(#cp20)">
+						<path id="Fill-45" fill-rule="evenodd" class="s2" d="m263.3 204.9c-3.7 4.7-10.6 5.5-15.3 1.8-4.8-3.7-5.6-10.6-1.8-15.3 3.7-4.8 10.6-5.6 15.3-1.8 4.8 3.7 5.6 10.6 1.8 15.3z"/>
+					</g>
+					<g id="Clip-Path: Fill-46" clip-path="url(#cp21)">
+						<path id="Fill-46" fill-rule="evenodd" class="s2" d="m250.6 175c-6.1 0-11-4.9-11-11 0-6 4.9-10.9 11-10.9 6 0 10.9 4.9 10.9 10.9 0 6.1-4.9 11-10.9 11z"/>
+					</g>
+					<g id="Clip-Path: Fill-47" clip-path="url(#cp22)">
+						<path id="Fill-47" fill-rule="evenodd" class="s2" d="m240 132.6c2.3 5.6-0.5 11.9-6.1 14.2-5.6 2.2-11.9-0.5-14.2-6.1-2.2-5.7 0.5-12 6.1-14.2 5.6-2.3 12 0.5 14.2 6.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-48" clip-path="url(#cp23)">
+						<path id="Fill-48" fill-rule="evenodd" class="s2" d="m205 114.6c4.8 3.8 5.6 10.6 1.8 15.4-3.7 4.7-10.6 5.5-15.3 1.8-4.8-3.8-5.6-10.6-1.8-15.4 3.7-4.7 10.6-5.5 15.3-1.8z"/>
+					</g>
+					<g id="Clip-Path: Fill-49" clip-path="url(#cp24)">
+						<path id="Fill-49" fill-rule="evenodd" class="s0" d="m166.6 96.2c2.2-5.5 8.4-8.1 13.9-5.9 5.5 2.3 8.1 8.5 5.8 14-2.2 5.4-8.4 8-13.9 5.8-5.5-2.2-8.1-8.5-5.8-13.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-50" clip-path="url(#cp25)">
+						<path id="Fill-50" fill-rule="evenodd" class="s0" d="m133.8 129.1c-6 0-10.7-4.8-10.7-10.7 0-5.9 4.7-10.7 10.7-10.7 5.9 0 10.7 4.8 10.7 10.7 0 5.9-4.8 10.7-10.7 10.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-51" clip-path="url(#cp26)">
+						<path id="Fill-51" fill-rule="evenodd" class="s0" d="m97.4 162c-3.6-4.7-2.7-11.4 1.9-15 4.7-3.6 11.4-2.8 15 1.9 3.6 4.7 2.8 11.4-1.9 15-4.7 3.6-11.4 2.7-15-1.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-52" clip-path="url(#cp27)">
+						<path id="Fill-52" fill-rule="evenodd" class="s0" d="m96.2 211.3c-5.4-2.2-8.1-8.4-5.8-13.9 2.2-5.5 8.5-8.1 13.9-5.8 5.5 2.2 8.1 8.4 5.9 13.9-2.3 5.5-8.5 8.1-14 5.8z"/>
+					</g>
+					<g id="Clip-Path: Fill-53" clip-path="url(#cp28)">
+						<path id="Fill-53" fill-rule="evenodd" class="s0" d="m118.4 254.8c-5.9 0-10.7-4.8-10.7-10.7 0-5.9 4.8-10.7 10.7-10.7 6 0 10.7 4.8 10.7 10.7 0 5.9-4.7 10.7-10.7 10.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-54" clip-path="url(#cp29)">
+						<path id="Fill-54" fill-rule="evenodd" class="s0" d="m162.1 280.4c-4.7 3.6-11.4 2.8-15-1.9-3.7-4.7-2.8-11.4 1.9-15 4.7-3.6 11.4-2.7 15 1.9 3.6 4.7 2.7 11.4-1.9 15z"/>
+					</g>
+					<g id="Clip-Path: Fill-55" clip-path="url(#cp30)">
+						<path id="Fill-55" fill-rule="evenodd" class="s0" d="m211.5 281.6c-2.3 5.5-8.5 8.1-14 5.9-5.5-2.3-8.1-8.5-5.8-14 2.2-5.4 8.5-8 13.9-5.8 5.5 2.2 8.1 8.5 5.9 13.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-56" clip-path="url(#cp31)">
+						<path id="Fill-56" fill-rule="evenodd" class="s0" d="m244.2 270.1c-5.9 0-10.6-4.8-10.6-10.7 0-5.9 4.7-10.7 10.6-10.7 6 0 10.7 4.8 10.7 10.7 0 5.9-4.7 10.7-10.7 10.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-57" clip-path="url(#cp32)">
+						<path id="Fill-57" fill-rule="evenodd" class="s0" d="m280.6 215.8c3.6 4.7 2.7 11.4-1.9 15-4.7 3.6-11.4 2.8-15-1.9-3.6-4.7-2.8-11.4 1.9-15 4.7-3.6 11.4-2.7 15 1.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-58" clip-path="url(#cp33)">
+						<path id="Fill-58" fill-rule="evenodd" class="s0" d="m281.8 166.5c5.5 2.2 8.1 8.4 5.8 13.9-2.2 5.5-8.5 8.1-13.9 5.8-5.5-2.2-8.1-8.4-5.9-13.9 2.3-5.5 8.5-8.1 14-5.8z"/>
+					</g>
+					<g id="Clip-Path: Fill-59" clip-path="url(#cp34)">
+						<path id="Fill-59" fill-rule="evenodd" class="s0" d="m259.6 144.4c-5.9 0-10.7-4.8-10.7-10.7 0-5.9 4.8-10.7 10.7-10.7 5.9 0 10.7 4.8 10.7 10.7 0 5.9-4.8 10.7-10.7 10.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-60" clip-path="url(#cp35)">
+						<path id="Fill-60" fill-rule="evenodd" class="s0" d="m216 97.4c4.6-3.6 11.3-2.8 15 1.9 3.6 4.7 2.7 11.4-2 15-4.6 3.6-11.4 2.7-15-1.9-3.6-4.7-2.7-11.4 2-15z"/>
+					</g>
+					<g id="Clip-Path: Fill-61" clip-path="url(#cp36)">
+						<path id="Fill-61" fill-rule="evenodd" class="s3" d="m210.6 72c4.4 3.5 5.1 9.9 1.7 14.2-3.5 4.4-9.9 5.2-14.2 1.7-4.4-3.5-5.2-9.8-1.7-14.2 3.4-4.4 9.8-5.1 14.2-1.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-62" clip-path="url(#cp37)">
+						<path id="Fill-62" fill-rule="evenodd" class="s3" d="m147.8 97c-5.6 0-10.1-4.5-10.1-10.1 0-5.6 4.5-10.1 10.1-10.1 5.6 0 10.1 4.5 10.1 10.1 0 5.6-4.5 10.1-10.1 10.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-63" clip-path="url(#cp38)">
+						<path id="Fill-63" fill-rule="evenodd" class="s3" d="m98.5 111.8c5.2-2.1 11.1 0.5 13.2 5.6 2 5.2-0.5 11.1-5.7 13.2-5.2 2-11-0.5-13.1-5.7-2.1-5.2 0.5-11 5.6-13.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-64" clip-path="url(#cp39)">
+						<path id="Fill-64" fill-rule="evenodd" class="s3" d="m72.1 167.3c3.4-4.3 9.8-5.1 14.2-1.6 4.4 3.4 5.1 9.8 1.6 14.2-3.4 4.3-9.8 5.1-14.1 1.6-4.4-3.4-5.2-9.8-1.7-14.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-65" clip-path="url(#cp40)">
+						<path id="Fill-65" fill-rule="evenodd" class="s3" d="m87 240.2c-5.6 0-10.1-4.5-10.1-10.1 0-5.6 4.5-10.1 10.1-10.1 5.5 0 10.1 4.5 10.1 10.1 0 5.6-4.6 10.1-10.1 10.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-66" clip-path="url(#cp41)">
+						<path id="Fill-66" fill-rule="evenodd" class="s3" d="m111.9 279.3c-2.1-5.2 0.4-11 5.6-13.1 5.2-2.1 11.1 0.5 13.1 5.6 2.1 5.2-0.4 11.1-5.6 13.2-5.2 2-11.1-0.5-13.1-5.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-67" clip-path="url(#cp42)">
+						<path id="Fill-67" fill-rule="evenodd" class="s3" d="m167.4 305.8c-4.4-3.5-5.1-9.9-1.6-14.2 3.4-4.4 9.8-5.2 14.1-1.7 4.4 3.5 5.2 9.8 1.7 14.2-3.4 4.4-9.8 5.1-14.2 1.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-68" clip-path="url(#cp43)">
+						<path id="Fill-68" fill-rule="evenodd" class="s3" d="m230.2 301c-5.6 0-10.1-4.5-10.1-10.1 0-5.6 4.5-10.1 10.1-10.1 5.6 0 10.1 4.5 10.1 10.1 0 5.6-4.5 10.1-10.1 10.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-69" clip-path="url(#cp44)">
+						<path id="Fill-69" fill-rule="evenodd" class="s3" d="m279.5 266c-5.2 2.1-11.1-0.5-13.2-5.6-2-5.2 0.5-11.1 5.7-13.2 5.2-2 11.1 0.5 13.1 5.7 2.1 5.2-0.4 11-5.6 13.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-70" clip-path="url(#cp45)">
+						<path id="Fill-70" fill-rule="evenodd" class="s3" d="m305.9 210.5c-3.4 4.3-9.8 5.1-14.2 1.6-4.4-3.4-5.1-9.8-1.6-14.2 3.4-4.3 9.8-5.1 14.2-1.6 4.3 3.4 5.1 9.8 1.6 14.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-71" clip-path="url(#cp46)">
+						<path id="Fill-71" fill-rule="evenodd" class="s3" d="m291 157.8c-5.5 0-10.1-4.5-10.1-10.1 0-5.6 4.6-10.1 10.1-10.1 5.6 0 10.2 4.5 10.2 10.1 0 5.6-4.6 10.1-10.2 10.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-72" clip-path="url(#cp47)">
+						<path id="Fill-72" fill-rule="evenodd" class="s3" d="m266.2 98.5c2 5.2-0.5 11-5.7 13.1-5.2 2.1-11.1-0.5-13.1-5.6-2.1-5.2 0.4-11.1 5.6-13.2 5.2-2 11.1 0.5 13.2 5.7z"/>
+					</g>
+					<g id="Clip-Path: Fill-73" clip-path="url(#cp48)">
+						<path id="Fill-73" fill-rule="evenodd" class="s3" d="m183.2 57.6c2.3 3.4 1.5 8.1-1.9 10.4-3.4 2.3-8.1 1.5-10.4-1.9-2.4-3.4-1.5-8 1.9-10.4 3.4-2.3 8-1.5 10.4 1.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-74" clip-path="url(#cp49)">
+						<path id="Fill-74" fill-rule="evenodd" class="s3" d="m118.3 78.1c3.7 1.8 5.3 6.2 3.5 10-1.7 3.7-6.2 5.3-9.9 3.5-3.7-1.8-5.3-6.2-3.6-9.9 1.8-3.8 6.3-5.4 10-3.6z"/>
+					</g>
+					<g id="Clip-Path: Fill-75" clip-path="url(#cp50)">
+						<path id="Fill-75" fill-rule="evenodd" class="s3" d="m72.9 143.2c-4.1 0-7.4-3.3-7.4-7.5 0-4.1 3.3-7.4 7.4-7.4 4.2 0 7.5 3.3 7.5 7.4 0 4.2-3.3 7.5-7.5 7.5z"/>
+					</g>
+					<g id="Clip-Path: Fill-76" clip-path="url(#cp51)">
+						<path id="Fill-76" fill-rule="evenodd" class="s3" d="m57.6 194.7c3.4-2.3 8.1-1.5 10.4 1.9 2.4 3.4 1.5 8.1-1.9 10.4-3.3 2.3-8 1.5-10.3-1.9-2.4-3.4-1.5-8 1.8-10.4z"/>
+					</g>
+					<g id="Clip-Path: Fill-77" clip-path="url(#cp52)">
+						<path id="Fill-77" fill-rule="evenodd" class="s3" d="m78.2 259.6c1.7-3.7 6.2-5.3 9.9-3.6 3.7 1.8 5.3 6.2 3.6 10-1.8 3.7-6.3 5.3-10 3.5-3.7-1.7-5.3-6.2-3.5-9.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-78" clip-path="url(#cp53)">
+						<path id="Fill-78" fill-rule="evenodd" class="s3" d="m135.8 312.4c-4.1 0-7.5-3.4-7.5-7.5 0-4.1 3.4-7.5 7.5-7.5 4.1 0 7.5 3.4 7.5 7.5 0 4.1-3.4 7.5-7.5 7.5z"/>
+					</g>
+					<g id="Clip-Path: Fill-79" clip-path="url(#cp54)">
+						<path id="Fill-79" fill-rule="evenodd" class="s3" d="m194.8 320.2c-2.3-3.4-1.5-8.1 1.9-10.4 3.4-2.3 8.1-1.5 10.4 1.9 2.4 3.4 1.5 8-1.9 10.4-3.4 2.3-8 1.5-10.4-1.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-80" clip-path="url(#cp55)">
+						<path id="Fill-80" fill-rule="evenodd" class="s3" d="m259.7 299.7c-3.7-1.8-5.3-6.2-3.5-10 1.7-3.7 6.2-5.3 9.9-3.5 3.7 1.7 5.3 6.2 3.6 9.9-1.8 3.8-6.2 5.3-10 3.6z"/>
+					</g>
+					<g id="Clip-Path: Fill-81" clip-path="url(#cp56)">
+						<path id="Fill-81" fill-rule="evenodd" class="s3" d="m305.1 249.5c-4.2 0-7.5-3.3-7.5-7.4 0-4.2 3.3-7.5 7.5-7.5 4.1 0 7.4 3.3 7.4 7.5 0 4.1-3.3 7.4-7.4 7.4z"/>
+					</g>
+					<g id="Clip-Path: Fill-82" clip-path="url(#cp57)">
+						<path id="Fill-82" fill-rule="evenodd" class="s3" d="m320.4 183.1c-3.4 2.3-8.1 1.5-10.4-1.9-2.4-3.4-1.5-8 1.9-10.4 3.4-2.3 8-1.5 10.4 1.9 2.3 3.4 1.5 8-1.9 10.4z"/>
+					</g>
+					<g id="Clip-Path: Fill-83" clip-path="url(#cp58)">
+						<path id="Fill-83" fill-rule="evenodd" class="s3" d="m299.9 118.2c-1.8 3.7-6.3 5.3-10 3.6-3.7-1.8-5.3-6.2-3.6-10 1.8-3.7 6.3-5.3 10-3.5 3.7 1.7 5.3 6.2 3.6 9.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-84" clip-path="url(#cp59)">
+						<path id="Fill-84" fill-rule="evenodd" class="s3" d="m242.2 80.4c-4.1 0-7.5-3.4-7.5-7.5 0-4.1 3.4-7.5 7.5-7.5 4.1 0 7.5 3.4 7.5 7.5 0 4.1-3.4 7.5-7.5 7.5z"/>
+					</g>
+					<g id="Clip-Path: Fill-85" clip-path="url(#cp60)">
+						<path id="Fill-85" fill-rule="evenodd" class="s3" d="m90.2 81.4c2.3 0.7 3.6 3.1 2.9 5.4-0.7 2.2-3 3.5-5.3 2.9-2.3-0.7-3.6-3.1-2.9-5.4 0.7-2.3 3.1-3.6 5.3-2.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-86" clip-path="url(#cp61)">
+						<path id="Fill-86" fill-rule="evenodd" class="s3" d="m49.7 145.2c2.3-0.6 4.6 0.8 5.2 3.2 0.5 2.3-0.9 4.6-3.2 5.1-2.3 0.6-4.6-0.8-5.2-3.1-0.5-2.4 0.9-4.7 3.2-5.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-87" clip-path="url(#cp62)">
+						<path id="Fill-87" fill-rule="evenodd" class="s3" d="m46.5 220.6c1.7-1.6 4.4-1.5 6.1 0.2 1.6 1.7 1.5 4.5-0.2 6.1-1.7 1.6-4.5 1.5-6.1-0.2-1.6-1.7-1.5-4.4 0.2-6.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-88" clip-path="url(#cp63)">
+						<path id="Fill-88" fill-rule="evenodd" class="s3" d="m81.5 287.6c0.6-2.3 3-3.6 5.3-2.9 2.3 0.7 3.6 3.1 2.9 5.4-0.7 2.2-3.1 3.5-5.3 2.9-2.3-0.7-3.6-3.1-2.9-5.4z"/>
+					</g>
+					<g id="Clip-Path: Fill-89" clip-path="url(#cp64)">
+						<path id="Fill-89" fill-rule="evenodd" class="s3" d="m145.3 328.1c-0.6-2.3 0.8-4.6 3.1-5.2 2.4-0.5 4.7 0.9 5.2 3.2 0.6 2.3-0.9 4.7-3.2 5.2-2.3 0.6-4.6-0.9-5.1-3.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-90" clip-path="url(#cp65)">
+						<path id="Fill-90" fill-rule="evenodd" class="s3" d="m220.8 331.3c-1.7-1.7-1.6-4.4 0.1-6 1.8-1.7 4.5-1.6 6.1 0.1 1.6 1.8 1.6 4.5-0.2 6.1-1.7 1.6-4.4 1.6-6-0.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-91" clip-path="url(#cp66)">
+						<path id="Fill-91" fill-rule="evenodd" class="s3" d="m287.8 296.4c-2.3-0.7-3.6-3.1-2.9-5.4 0.7-2.2 3.1-3.5 5.3-2.9 2.3 0.7 3.6 3.1 2.9 5.4-0.7 2.3-3.1 3.6-5.3 2.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-92" clip-path="url(#cp67)">
+						<path id="Fill-92" fill-rule="evenodd" class="s3" d="m328.3 232.6c-2.3 0.6-4.6-0.8-5.2-3.2-0.5-2.3 0.9-4.6 3.2-5.1 2.3-0.6 4.6 0.8 5.2 3.2 0.5 2.3-0.9 4.6-3.2 5.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-93" clip-path="url(#cp68)">
+						<path id="Fill-93" fill-rule="evenodd" class="s3" d="m331.5 157.2c-1.7 1.6-4.4 1.5-6.1-0.2-1.6-1.7-1.5-4.5 0.2-6.1 1.7-1.6 4.5-1.5 6.1 0.2 1.6 1.7 1.5 4.4-0.2 6.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-94" clip-path="url(#cp69)">
+						<path id="Fill-94" fill-rule="evenodd" class="s3" d="m296.5 90.2c-0.6 2.3-3 3.6-5.3 2.9-2.3-0.7-3.6-3.1-2.9-5.4 0.7-2.2 3.1-3.5 5.4-2.9 2.2 0.7 3.5 3.1 2.8 5.4z"/>
+					</g>
+					<g id="Clip-Path: Fill-95" clip-path="url(#cp70)">
+						<path id="Fill-95" fill-rule="evenodd" class="s3" d="m232.8 49.7c0.5 2.3-0.9 4.6-3.2 5.2-2.3 0.5-4.7-0.9-5.2-3.2-0.6-2.4 0.9-4.7 3.2-5.2 2.3-0.6 4.6 0.9 5.2 3.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-96" clip-path="url(#cp71)">
+						<path id="Fill-96" fill-rule="evenodd" class="s3" d="m157.2 46.5c1.7 1.7 1.6 4.4-0.1 6-1.8 1.7-4.5 1.6-6.1-0.1-1.6-1.8-1.6-4.5 0.2-6.1 1.7-1.6 4.4-1.6 6 0.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-97" clip-path="url(#cp72)">
+						<path id="Fill-97" fill-rule="evenodd" class="s1" d="m189 377.8c-104.5 0-189-84.4-189-188.9 0-104.5 84.5-188.9 189-188.9 104.5 0 189 84.4 189 188.9 0 104.5-84.5 188.9-189 188.9zm175.2-188.9c0-96.8-78.3-175.1-175.2-175.1-96.9 0-175.1 78.3-175.1 175.1 0 96.8 78.2 175.1 175.1 175.1 96.9 0 175.2-78.3 175.2-175.1z"/>
+					</g>
+					<g id="Clip-Path: Fill-98" clip-path="url(#cp73)">
+						<path id="Fill-98" fill-rule="evenodd" class="s1" d="m189 353.8c-91.3 0-165-73.7-165-164.9 0-91.2 73.7-164.9 165-164.9 91.3 0 165 73.7 165 164.9 0 91.2-73.7 164.9-165 164.9zm158.3-164.9c0-87.5-70.7-158.2-158.3-158.2-87.6 0-158.3 70.7-158.3 158.2 0 87.5 70.7 158.2 158.3 158.2 87.6 0 158.3-70.7 158.3-158.2z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
