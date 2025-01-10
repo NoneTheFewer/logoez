@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97.872 97.872">
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -467.462 -467.462 0 1850.06 491.365)" spreadMethod="pad" id="b">
+			<stop offset="0" stop-color="#ed1c24"/>
+			<stop offset=".393" stop-color="#ed1c24"/>
+			<stop offset=".81" stop-color="#751317"/>
+			<stop offset="1" stop-color="#751317"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(170.606 0 0 -170.606 1637.2 452.471)" spreadMethod="pad" id="d">
+			<stop offset="0" stop-color="#641f1f"/>
+			<stop offset=".737" stop-color="#d32828"/>
+			<stop offset="1" stop-color="#d32828"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="scale(221.784 -221.784) rotate(-31 -.232 -14.233)" spreadMethod="pad" id="f">
+			<stop offset="0" stop-color="#f2f6f7"/>
+			<stop offset=".1" stop-color="#f2f6f7"/>
+			<stop offset=".224" stop-color="#f2f6f7"/>
+			<stop offset="1" stop-color="#97a7ad"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 322.964 322.964 0 1513.66 573.594)" spreadMethod="pad" id="h">
+			<stop offset="0" stop-color="#202f6e"/>
+			<stop offset=".567" stop-color="#25b3ed"/>
+			<stop offset="1" stop-color="#25b3ed"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="a">
+			<path d="M 1721.31,246.426 C 1762.53,178.652 1828.37,180.0 1845.89,180.0 L 2057.69,180.0 L 1807.81,483.379 C 1692.54,478.613 1631.52,404.688 1644.04,373.672 L 1721.31,246.426"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="c">
+			<path d="M 1644.04,373.672 C 1643.74,374.199 1637.2,389.492 1637.2,407.988 C 1637.2,477.246 1698.58,516.934 1768.35,531.27 L 1807.81,483.379 C 1692.54,478.613 1631.52,404.688 1644.04,373.672 L 1644.04,373.672"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="e">
+			<path d="M 1740.41,598.832 C 1635.07,598.832 1556.41,581.484 1556.41,540.25 C 1556.41,525.098 1561.16,511.934 1574.03,488.77 L 1644.04,373.672 C 1643.74,374.199 1637.2,389.492 1637.2,407.988 C 1637.2,477.246 1698.58,516.934 1768.35,531.27 C 1788.61,535.43 1809.38,537.422 1829.71,537.422 C 1846.83,537.422 1862.86,536.523 1875.2,532.051 C 1867.92,558.563 1848.67,598.832 1740.41,598.832 L 1740.41,598.832"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="g">
+			<path d="M 1463.29,670.629 C 1492.26,623.141 1502.98,611.289 1571.94,611.199 L 1703.68,611.199 L 1522.06,840.586 C 1481.96,890.145 1458.87,899.234 1422.07,900.0 L 1323.65,900.0 L 1463.29,670.629"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#a)" transform="matrix(.13333 0 0 -.13333 -176.487 120.936)">
+		<path d="M 1721.31,246.426 C 1762.53,178.652 1828.37,180.0 1845.89,180.0 L 2057.69,180.0 L 1807.81,483.379 C 1692.54,478.613 1631.52,404.688 1644.04,373.672 L 1721.31,246.426" fill="url(#b)"/>
+	</g>
+	<g clip-path="url(#c)" transform="matrix(.13333 0 0 -.13333 -176.487 120.936)">
+		<path d="M 1644.04,373.672 C 1643.74,374.199 1637.2,389.492 1637.2,407.988 C 1637.2,477.246 1698.58,516.934 1768.35,531.27 L 1807.81,483.379 C 1692.54,478.613 1631.52,404.688 1644.04,373.672" fill="url(#d)"/>
+	</g>
+	<g clip-path="url(#e)" transform="matrix(.13333 0 0 -.13333 -176.487 120.936)">
+		<path d="M 1740.41,598.832 C 1635.07,598.832 1556.41,581.484 1556.41,540.25 C 1556.41,525.098 1561.16,511.934 1574.03,488.77 L 1644.04,373.672 C 1643.74,374.199 1637.2,389.492 1637.2,407.988 C 1637.2,477.246 1698.58,516.934 1768.35,531.27 C 1788.61,535.43 1809.38,537.422 1829.71,537.422 C 1846.83,537.422 1862.86,536.523 1875.2,532.051 C 1867.92,558.563 1848.67,598.832 1740.41,598.832" fill="url(#f)"/>
+	</g>
+	<g clip-path="url(#g)" transform="matrix(.13333 0 0 -.13333 -176.487 120.936)">
+		<path d="M 1463.29,670.629 C 1492.26,623.141 1502.98,611.289 1571.94,611.199 L 1703.68,611.199 L 1522.06,840.586 C 1481.96,890.145 1458.87,899.234 1422.07,900.0 L 1323.65,900.0 L 1463.29,670.629" fill="url(#h)"/>
+	</g>
+</svg>

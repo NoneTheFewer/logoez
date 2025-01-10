@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="logo" viewBox="0 0 40 40" version="1.1" id="svg202" sodipodi:docname="alfe2n.svg" inkscape:export-filename="alfen.png" inkscape:export-xdpi="905.23199" inkscape:export-ydpi="905.23199" inkscape:version="1.2.1 (9c6d41e, 2022-07-14)">
+	
+  
+	<sodipodi:namedview id="namedview204" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="5.9" inkscape:cx="72.542373" inkscape:cy="20" inkscape:window-width="1309" inkscape:window-height="456" inkscape:window-x="0" inkscape:window-y="25" inkscape:window-maximized="0" inkscape:current-layer="svg202"/>
+	
+  
+	<defs id="defs192">
+		
+    
+		<linearGradient x1="0" y1="1" x2="0" y2="0" id="eha">
+			
+      
+			<stop stop-color="#005387" offset="0%" id="stop182"/>
+			
+      
+			<stop stop-color="#00B4F1" offset="100%" id="stop184"/>
+			
+    
+		</linearGradient>
+		
+    
+		<linearGradient x1="40" y1="0" x2="0" y2="40" id="ehb" gradientUnits="userSpaceOnUse">
+			
+      
+			<stop stop-color="#00B4F1" offset="0%" id="stop187"/>
+			
+      
+			<stop stop-color="#005387" offset="100%" id="stop189"/>
+			
+    
+		</linearGradient>
+		
+  
+	</defs>
+	
+  
+	<g class="ehlogo__group" fill="none" fill-rule="evenodd" id="g200">
+		
+    
+		<g class="ehlogo__paths" id="g198">
+			
+      
+			<path class="ehlogo__shield" d="m 24.638,21.828 c 5.665,0.952 9.744,3.27 9.744,3.27 l -0.219,0.376 C 28.654,34.826 20.084,39.949 20,40 19.913,39.948 11.114,34.689 5.617,25.097 c 0.001,0 4.078,-2.317 9.743,-3.269 4.422,8.812 4.63,17.64 4.64,18.15 L 19.999,39.969 20,39.951 c 0.015,-0.72 0.273,-9.188 4.454,-17.75 z M 40,5.096 v 0.039 c -0.014,0.7 -0.294,10.667 -5.618,19.962 0,0 -4.03,-2.4 -7.681,-6.868 C 32.224,9.718 40,5.096 40,5.096 Z M 0.019,5.107 c 0.423,0.256 7.914,4.854 13.278,13.123 -3.65,4.467 -7.68,6.867 -7.68,6.867 L 5.422,24.753 C 0.284,15.558 0.013,5.827 0.001,5.135 L 0,5.096 C 0.04,5.073 0.292,4.932 0.733,4.709 L 0.969,4.591 C 3.568,3.304 11.105,0 19.999,0 h 0.002 L 20,0.002 v 0.02 C 19.993,0.366 19.875,4.926 17.937,10.135 7.859,9.57 0,5.096 0,5.096 Z M 20,0 c 8.895,0 16.432,3.304 19.03,4.591 l 0.236,0.118 c 0.478,0.242 0.733,0.387 0.733,0.387 0,0 -7.86,4.475 -17.938,5.039 C 20.125,4.925 20.008,0.364 20.002,0.02 Z" fill="url(#ehb)" id="path196" style="fill:url(#ehb)"/>
+			
+    
+		</g>
+		
+  
+	</g>
+	
+
+</svg>
