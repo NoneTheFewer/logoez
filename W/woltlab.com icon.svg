@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260">
+	<path fill="#3A6D9C" d="M 0.0,0.0 L 260.0,0.0 L 260.0,260.0 L 0.0,260.0 L 0.0,0.0"/>
+	<radialGradient id="a" cx="139.318" cy="133.322" r="87.339" gradientTransform="translate(-.314 2.224) scale(.9122)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#fff"/>
+		<stop offset=".285" style="stop-color:#ffb000"/>
+		<stop offset=".624" style="stop-color:#ff9300"/>
+		<stop offset="1" style="stop-color:#d45400"/>
+	</radialGradient>
+	<path fill="url(#a)" d="M 158.36,119.062 C 153.54,116.619 148.83,120.468 143.994,127.522 C 137.03,118.563 123.926,108.87 112.86,127.102 C 104.584,140.738 97.5,156.602 90.797,166.748 C 85.651,174.51 70.31,188.838 55.338,163.831 C 42.018,140.56 26.737,113.352 13.1,133.202 C 36.015,88.513 62.642,143.228 84.148,143.228 C 98.951,143.228 122.765,89.594 151.899,102.094 C 159.647,105.417 165.299,113.91 166.018,133.201 C 165.466,126.48 163.047,121.398 158.36,119.062 L 158.36,119.062"/>
+	<linearGradient id="b" gradientUnits="userSpaceOnUse" x1="109.276" y1="134.339" x2="81.733" y2="176.395">
+		<stop offset=".005" style="stop-color:#ffcf56"/>
+		<stop offset=".341" style="stop-color:#fff"/>
+		<stop offset=".453" style="stop-color:#f8d8bc"/>
+		<stop offset=".575" style="stop-color:#f1b27a"/>
+		<stop offset=".686" style="stop-color:#ec9445"/>
+		<stop offset=".781" style="stop-color:#e87e20"/>
+		<stop offset=".858" style="stop-color:#e67108"/>
+		<stop offset=".906" style="stop-color:#e56c00"/>
+	</linearGradient>
+	<path fill="url(#b)" d="M 111.97,126.099 C 103.692,139.73 96.611,155.606 89.9,165.745 C 85.905,171.791 76.118,182.486 64.728,174.783 C 76.307,183.089 86.729,172.886 90.798,166.748 C 97.5,156.602 104.584,140.738 112.861,127.102 C 120.705,114.156 129.586,115.289 136.579,120.232 C 129.525,115.004 119.996,112.859 111.97,126.099 L 111.97,126.099"/>
+	<radialGradient id="c" cx="3028.458" cy="-2087.118" r="97.19" gradientTransform="matrix(.9122 0 0 -.9122 -2606.081 -1748.12)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#00d4ff"/>
+		<stop offset=".824" style="stop-color:#00417f"/>
+		<stop offset="1" style="stop-color:#000"/>
+	</radialGradient>
+	<path fill="url(#c)" d="M 146.571,131.25 C 156.551,147.5 167.477,174.763 182.049,187.558 C 167.088,175.512 154.562,152.191 144.756,152.191 C 144.725,152.191 144.678,152.207 144.607,152.207 C 144.564,152.207 144.506,152.191 144.469,152.191 L 144.4,152.191 C 144.343,152.191 144.287,152.207 144.249,152.207 C 144.198,152.207 144.135,152.191 144.078,152.191 C 129.485,152.191 107.76,204.306 81.884,193.165 C 74.159,189.834 63.249,177.9 55.305,163.788 C 70.293,188.858 85.653,174.514 90.799,166.748 C 97.501,156.602 104.585,140.738 112.862,127.102 C 125.524,106.23 140.859,121.928 146.571,131.25 L 146.571,131.25"/>
+	<radialGradient id="d" cx="134.052" cy="131.632" r="59.94" gradientTransform="translate(-.314 2.224) scale(.9122)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#fff"/>
+		<stop offset=".212" style="stop-color:#5cd1ff"/>
+		<stop offset=".352" style="stop-color:#35a3d7"/>
+		<stop offset=".504" style="stop-color:#0f77b1"/>
+		<stop offset=".582" style="stop-color:#0066a2"/>
+		<stop offset=".755" style="stop-color:#00639e"/>
+		<stop offset=".942" style="stop-color:#005b91"/>
+		<stop offset="1" style="stop-color:#00588b"/>
+	</radialGradient>
+	<path fill="url(#d)" d="M 114.902,127.102 C 106.629,140.738 99.541,156.602 92.834,166.748 C 89.742,171.431 82.91,178.503 74.71,177.877 C 81.985,177.324 87.955,171.049 90.798,166.748 C 97.5,156.602 104.584,140.738 112.861,127.102 C 117.775,118.985 123.099,116.424 128.115,116.828 C 122.493,116.424 119.16,120.085 114.902,127.102 L 114.902,127.102"/>
+	<linearGradient id="e" gradientUnits="userSpaceOnUse" x1="145.159" y1="124.03" x2="165.693" y2="157.99">
+		<stop offset=".005" style="stop-color:#f4c93b"/>
+		<stop offset=".411" style="stop-color:#fff"/>
+		<stop offset="1" style="stop-color:#82ba00"/>
+	</linearGradient>
+	<path fill="url(#e)" d="M 147.933,131.25 C 161.163,152.741 175.215,195.279 200.116,194.533 C 199.722,194.543 199.309,194.581 198.916,194.581 C 198.858,194.581 198.825,194.581 198.765,194.565 C 198.727,194.581 198.653,194.581 198.613,194.581 L 198.552,194.581 C 198.505,194.581 198.44,194.581 198.393,194.565 C 198.347,194.581 198.302,194.581 198.223,194.581 C 175.012,194.581 159.943,152.989 146.573,131.25 C 143.146,125.646 136.221,117.73 128.498,116.857 C 136.828,117.446 144.095,124.993 147.933,131.25 L 147.933,131.25"/>
+	<radialGradient id="f" cx="3142.794" cy="-1972.877" r="125.305" gradientTransform="matrix(.9122 0 0 -.9122 -2606.081 -1748.12)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#fff"/>
+		<stop offset=".31" style="stop-color:#ffe800"/>
+		<stop offset="1" style="stop-color:#bbd100"/>
+	</radialGradient>
+	<path fill="url(#f)" d="M 170.314,116.585 C 180.461,127.653 187.454,134.669 193.197,137.633 C 209.6,146.075 231.33,123.026 204.433,96.433 C 183.052,75.302 220.902,51.829 238.014,80.833 C 251.665,104.005 242.381,150.078 222.982,157.608 C 198.049,167.255 186.561,135.985 170.314,116.585 L 170.314,116.585"/>
+	<radialGradient id="g" cx="114.085" cy="152.422" r="121.53" gradientTransform="translate(-.314 2.224) scale(.9122)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#fff"/>
+		<stop offset=".31" style="stop-color:#ffca43"/>
+		<stop offset=".686" style="stop-color:#a6bf00"/>
+		<stop offset="1" style="stop-color:#70b800"/>
+	</radialGradient>
+	<path fill="url(#g)" d="M 244.142,101.463 C 246.413,124.567 237.554,151.958 222.983,157.609 C 198.051,167.255 186.563,135.988 170.315,116.588 C 160.176,105.458 148.607,96.348 135.612,102.491 C 128.373,105.907 114.591,117.731 112.746,127.298 C 125.427,106.129 140.844,121.907 146.572,131.251 C 159.942,152.99 175.011,194.582 198.222,194.582 C 198.301,194.582 198.346,194.582 198.392,194.566 C 198.439,194.582 198.504,194.582 198.551,194.582 L 198.612,194.582 C 198.652,194.582 198.726,194.582 198.764,194.566 C 198.825,194.582 198.858,194.582 198.915,194.582 C 229.271,194.581 249.033,139.562 244.142,101.463"/>
+	<linearGradient id="h" gradientUnits="userSpaceOnUse" x1="140.265" y1="198.874" x2="162.575" y2="115.558">
+		<stop offset="0" style="stop-color:#00d4ff"/>
+		<stop offset=".824" style="stop-color:#00417f"/>
+		<stop offset="1" style="stop-color:#000"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#h)" d="M 182.049,187.558 C 171.391,178.991 164.202,167.15 154.466,157.704 C 146.655,150.131 142.122,150.507 134.811,157.246 C 108.497,183.178 150.356,112.563 122.823,119.279 C 135.256,113.35 146.088,134.106 151.904,144.134 C 160.426,158.856 169.064,176.154 182.049,187.558"/>
+	<linearGradient id="i" gradientUnits="userSpaceOnUse" x1="215.25" y1="139.943" x2="190.769" y2="139.811">
+		<stop offset="0" style="stop-color:#ccd208"/>
+		<stop offset=".274" style="stop-color:#bdd208"/>
+		<stop offset="1" style="stop-color:#7a9d00"/>
+	</linearGradient>
+	<path fill="url(#i)" d="M 175.488,122.467 C 195.6,152.313 213.582,140.3 217.619,129.347 C 211.996,148.344 220.367,158.477 210.285,157.056 C 196.211,152.976 186.129,137.261 175.488,122.467 L 175.488,122.467"/>
+</svg>

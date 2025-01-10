@@ -1,0 +1,40 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-document-cloud-square">
+<g filter="url(#document-cloud-square-filter0_i_8_44235)">
+<rect width="120" height="120" rx="27.375" fill="#001E7D"/>
+<path d="M89.936 82.6791C95.0523 82.6791 105.086 80.1153 105.086 68.495C105.086 61.6801 99.2988 58.2173 94.7135 58C95.4823 60.3907 95.8764 63.0479 95.8764 65.8845C95.8764 70.2914 95.109 76.3473 92.3419 80.2193C91.5258 81.265 91.011 81.7012 90.2399 82.1098C89.663 82.434 88.6725 82.6621 88 82.6934C88.6474 82.6904 89.6502 82.6791 89.936 82.6791Z" fill="url(#document-cloud-square-paint0_linear_8_44235)"/>
+<path d="M77.8377 46C89.2442 46 95.5695 54.486 95.5695 65.8498C95.5695 70.2568 94.8039 76.3097 92.0368 80.1817C90.9075 81.5697 89.1357 82.2145 87.42 82.2145C86.8513 82.2145 83.0513 81.9239 80.7771 74.9539C77.7239 65.5962 76.0586 55.6384 72 47.0431C73.7934 46.3676 75.7542 46 77.8377 46Z" fill="url(#document-cloud-square-paint1_linear_8_44235)"/>
+<path d="M81.0109 75.319C83.285 82.289 87.0851 82.5796 87.6537 82.5796C89.3695 82.5796 91.1414 81.9348 92.2706 80.5468C91.3475 81.9096 89.8193 83.0245 87.6539 83.0245C87.3067 83.0245 86.917 83.0001 86.4869 82.9461C83.8002 82.6091 79.5348 81.1193 74.2019 77.2233C72.1396 75.7166 69.9177 73.8502 67.5658 71.5514C58.1581 62.3563 50.6402 47.6145 31.2358 47.6145C30.47 47.6145 29.7243 47.6671 29 47.7679C29.8084 44.9277 31.2773 40.6164 33.9454 37.7091C41.6785 29.2828 55.3942 28.8582 63.9921 36.0718C67.6467 39.1379 70.2781 43.3001 72.1653 47.2632C76.274 55.8914 77.9405 65.9087 81.0109 75.319Z" fill="url(#document-cloud-square-paint2_linear_8_44235)"/>
+<path d="M24.6251 81.4085C21.2725 79.8975 15 74.4577 15 65.0406C15 57.0809 21.597 48 31.6546 48C51.059 48 58.5769 62.7418 67.9846 71.9369C77.3924 81.132 84.7193 83.41 88.0728 83.41C81.0539 83.5717 37.8798 83.8529 29.2229 82.8755C28.0433 82.7424 25.5139 81.8091 24.6251 81.4085Z" fill="url(#document-cloud-square-paint3_linear_8_44235)"/>
+</g>
+<defs>
+<filter id="document-cloud-square-filter0_i_8_44235" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.468749"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44235"/>
+</filter>
+<linearGradient id="document-cloud-square-paint0_linear_8_44235" x1="100.945" y1="61.2857" x2="87.6865" y2="82.4941" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4A8CFF"/>
+<stop offset="1" stop-color="#1F68FF"/>
+</linearGradient>
+<linearGradient id="document-cloud-square-paint1_linear_8_44235" x1="88.0801" y1="48.2517" x2="78.4681" y2="80.2501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#42F2FF"/>
+<stop offset="1" stop-color="#00C2FF"/>
+</linearGradient>
+<linearGradient id="document-cloud-square-paint2_linear_8_44235" x1="51.2594" y1="19.6119" x2="72.7017" y2="84.8214" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.326845" stop-color="#86FCFF"/>
+<stop offset="0.94873" stop-color="#00F9FF"/>
+</linearGradient>
+<linearGradient id="document-cloud-square-paint3_linear_8_44235" x1="35.4137" y1="40.6298" x2="49.589" y2="89.6774" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B0E7FF"/>
+<stop offset="0.269401" stop-color="#0DB5FE"/>
+<stop offset="0.747016" stop-color="#024FFD"/>
+<stop offset="1" stop-color="#003BE9"/>
+</linearGradient>
+</defs>
+</svg>

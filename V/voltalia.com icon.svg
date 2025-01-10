@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1546 1546">
+	<defs>
+		<linearGradient id="g1" x1="145.6" y1="1809.1" x2="698.2" y2="1721.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eee832"/>
+			<stop offset="1" stop-color="#d48d2f"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="39.5" y1="805.4" x2="1014.1" y2="805.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#57a2d7"/>
+			<stop offset="1" stop-color="#eaf3f6"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="992.1" y1="1304.1" x2="1506.9" y2="1304.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#57a2d7"/>
+			<stop offset="1" stop-color="#29357d"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="532.1" y1="1769.6" x2="1506.6" y2="1769.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d8da39"/>
+			<stop offset="1" stop-color="#9bbe49"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Capa 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m7.1 673.1c38-119.4 138.6-220.9 267.6-220.9 50.7 1 100.4 15.1 144.1 41.1 16.5 7.7 32.2 16.9 47 27.5 133 95.3 163.6 280.3 68.3 413.3-51.3 76.9-123.8 115.3-132.3 303.3-6.1 132.4 105 233.8 170.8 281.9-337.5-90.8-572-396.8-572.1-746.2 0.1-33.4 2.3-66.7 6.6-99.7"/>
+			<path id="&lt;Path&gt;" class="s1" d="m773.2 0.5h1.7c18.2 0 36.2 1 54 2.2 180.2 36.1 340.8 218.1 215.8 428.3-8.1 16.3-17.7 31.8-28.6 46.3-98.4 130.6-284.2 156.8-414.9 58.3-75.4-53-112.1-126.4-299.5-139.4-114-8-206.7 71.2-262.2 134.6 104.6-316.4 400.3-530.2 733.6-530.2"/>
+			<path id="&lt;Path&gt;" class="s2" d="m1144.1 308.9c6.2-132.4-104.9-233.8-170.6-281.9 374.1 100 616 461.9 565.3 845.9-51.2 161.3-216.8 289.8-411.6 180-16.5-7.7-32.3-16.9-47.1-27.5-132.9-95.3-163.5-280.4-68.1-413.4 51.1-76.8 123.6-115.2 132.1-302.9"/>
+			<path id="&lt;Path&gt;" class="s3" d="m757 951.3c67.1 1.1 132.4 21.7 187.9 59.2 75.5 52.9 112.2 126.4 299.6 139.5 113.9 8 206.7-71.2 262.1-134.6-104.5 316.5-400.2 530.3-733.5 530.4-18.8 0-37.4-1-55.8-2.4-180.2-36.1-340.9-218.1-215.8-428.2 74.9-125.9 170.3-163.9 255.5-163.9z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 0 417 417" version="1.2" baseProfile="tiny-ps">
+	<defs>
+		<linearGradient x1="80.8150544%" y1="59.6365716%" x2="59.8678229%" y2="8.14952521%" id="linearGradient-1">
+			<stop stop-color="#EF2131" offset="0"/>
+			<stop stop-color="#FECF2C" offset="1"/>
+		</linearGradient>
+		<linearGradient x1="58.8181173%" y1="0%" x2="9.24395007%" y2="94.0712606%" id="linearGradient-2">
+			<stop stop-color="#FBC52C" offset="0"/>
+			<stop stop-color="#F87130" offset="0.2639"/>
+			<stop stop-color="#EF52E2" offset="0.5608"/>
+			<stop stop-color="#661EEC" offset="1"/>
+		</linearGradient>
+		<linearGradient x1="20.5690473%" y1="41.0176198%" x2="40.5972643%" y2="91.2765373%" id="linearGradient-3">
+			<stop stop-color="#78F6D8" offset="0"/>
+			<stop stop-color="#77D1F6" offset="0.2657"/>
+			<stop stop-color="#70A4F3" offset="0.5545"/>
+			<stop stop-color="#661EEC" offset="1"/>
+		</linearGradient>
+		<linearGradient x1="42.4403836%" y1="100%" x2="91.6136906%" y2="6.27757791%" id="linearGradient-4">
+			<stop stop-color="#536EED" offset="0"/>
+			<stop stop-color="#54C3EC" offset="0.2467"/>
+			<stop stop-color="#64D769" offset="0.5642"/>
+			<stop stop-color="#FECF2C" offset="1"/>
+		</linearGradient>
+	</defs>
+	<g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(1.010101, 0, 0, 1.010101, -0.628811, 11.007)">
+		<g id="SymbolColor" transform="matrix(0.943784, 0, 0, 0.943784, 9.999996, -1.793768)">
+			<g id="RightSwirl" transform="translate(119.332186, 49.114212)">
+				<path d="M 2.12 350.044 C 86.408 390.356 190.432 370.406 253.276 295.526 C 327.763 206.774 316.194 74.463 227.435 0 L 168.429 70.306 C 237.772 128.48 246.81 231.849 188.617 301.186 C 142.216 356.473 65.819 374.933 2.12 350.044" id="Base-Shape" fill="url(#linearGradient-1)"/>
+				<path d="M1.13686838e-13,350.04439 C84.2884683,390.356195 188.31202,370.40599 251.156312,295.526341 C258.852761,286.356 265.627668,276.719766 271.496605,266.731141 C281.420898,205.05998 259.596059,139.875161 208.256898,96.8056976 C195.213132,85.8627512 181.092937,77.0468488 166.318361,70.3145561 C235.65278,128.489678 244.687902,231.851883 186.49762,301.186302 C140.096429,356.473463 63.6990439,374.933385 1.13686838e-13,350.04439" id="Light-Cast" fill="url(#linearGradient-2)"/>
+			</g>
+			<g id="LeftSwirl">
+				<path d="M 302.375 20.429 C 218.086 -19.883 114.063 0.067 51.219 74.947 C -23.269 163.699 -11.699 296.011 77.059 370.473 L 136.066 300.167 C 66.723 241.993 57.684 138.625 115.877 69.287 C 162.278 13.999 238.676 -4.46 302.375 20.429" id="Base-shape" fill="url(#linearGradient-3)"/>
+				<path d="M 302.375 20.429 C 218.086 -19.883 114.063 0.067 51.219 74.947 C 43.522 84.117 36.747 93.754 30.878 103.742 C 20.954 165.413 42.779 230.598 94.118 273.668 C 107.162 284.61 121.282 293.426 136.056 300.158 C 66.722 241.984 57.687 138.621 115.877 69.287 C 162.278 13.999 238.676 -4.46 302.375 20.429" id="Shadow" fill="url(#linearGradient-4)"/>
+			</g>
+		</g>
+	</g>
+</svg>

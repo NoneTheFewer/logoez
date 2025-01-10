@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.6 72.6">
+	<style>
+		.cls0 { fill: #FFF; }
+		.cls1 { fill: #E30613; }
+		.cls2 { fill: url(#a); }
+		.cls3 { fill: url(#b); }
+		.cls4 { fill: url(#c); }
+		.cls5 { fill: url(#d); }
+		.cls6 { fill: url(#e); }
+		.cls7 { fill: url(#f); }
+	</style>
+	<g transform="translate(-5 -8.7)">
+		<defs>
+			<linearGradient x1="48.826%" y1="99.35%" x2="51.033%" y2=".726%" id="b">
+				<stop stop-color="#B61620" offset="0%"/>
+				<stop stop-color="#B71620" offset=".7%"/>
+				<stop stop-color="#CF101A" offset="17.46%"/>
+				<stop stop-color="#DE0915" offset="34.02%"/>
+				<stop stop-color="#E30613" offset="50%"/>
+				<stop stop-color="#DE0915" offset="65.98%"/>
+				<stop stop-color="#CF101A" offset="82.54%"/>
+				<stop stop-color="#B71620" offset="99.3%"/>
+				<stop stop-color="#B61620" offset="100%"/>
+			</linearGradient>
+			<linearGradient x1="50.09%" y1="51.87%" x2="50.09%" y2="48.12%" id="c">
+				<stop stop-color="#6D100A" offset="0%"/>
+				<stop stop-color="#BE1622" offset="50%"/>
+				<stop stop-color="#6D100A" offset="100%"/>
+			</linearGradient>
+			<linearGradient x1="50.007%" y1="99.998%" x2="50.007%" y2="1.608%" id="d">
+				<stop stop-color="#6D100A" offset="0%"/>
+				<stop stop-color="#BE1622" offset="50%"/>
+				<stop stop-color="#6D100A" offset="100%"/>
+			</linearGradient>
+			<linearGradient x1="48.454%" y1="99.287%" x2="50.952%" y2=".928%" id="e">
+				<stop stop-color="#B61620" offset="0%"/>
+				<stop stop-color="#B71620" offset=".7%"/>
+				<stop stop-color="#CF101A" offset="17.46%"/>
+				<stop stop-color="#DE0915" offset="34.02%"/>
+				<stop stop-color="#E30613" offset="50%"/>
+				<stop stop-color="#DE0915" offset="65.98%"/>
+				<stop stop-color="#CF101A" offset="82.54%"/>
+				<stop stop-color="#B71620" offset="99.3%"/>
+				<stop stop-color="#B61620" offset="100%"/>
+			</linearGradient>
+			<linearGradient x1="49.998%" y1="100.003%" x2="49.998%" y2="1.61%" id="f">
+				<stop stop-color="#6D100A" offset="0%"/>
+				<stop stop-color="#BE1622" offset="50%"/>
+				<stop stop-color="#6D100A" offset="100%"/>
+			</linearGradient>
+			<radialGradient cx="26.515%" cy="74.608%" fx="26.515%" fy="74.608%" r="87.097%" gradientTransform="scale(1 .62037) rotate(-6.574 4.24 .974)" id="a">
+				<stop stop-color="#E30613" offset="30%"/>
+				<stop stop-color="#B61620" offset="100%"/>
+			</radialGradient>
+		</defs>
+		<g fill="none">
+			<path d="M 30.492,65.466 C 13.012,45.564 32.312,15.286 21.21,15.003 C 11.222,14.747 -1.324,30.563 8.659,54.158 C 21.932,85.53 39.236,76.677 42.222,58.976 C 35.54,71.46 32.142,67.344 30.492,65.466" class="cls2"/>
+			<path d="M 52.266,37.794 C 51.525,28.087 58.888,32.243 67.588,54.173 C 71.388,63.743 82.454,53.399 75.222,43.274 C 60.786,23.054 49.318,25.305 52.266,37.794 L 52.266,37.794" class="cls3"/>
+			<path d="M 51.805,34.254 L 51.8,34.255 L 51.805,34.275 L 51.805,34.255 L 51.805,34.254" class="cls4"/>
+			<path d="M 52.266,37.794 C 52.379,39.144 53.464,42.532 51.34,46.599 C 55.946,52.447 58.09,53.725 59.353,47.057 C 59.726,43.016 59.025,39.715 58.043,35.91 C 54.216,31.165 51.826,32.059 52.265,37.794 L 52.266,37.794" class="cls5"/>
+			<path d="M 43.398,36.12 C 33.996,23.91 27.247,31.004 31.516,40.84 C 28.999,31.735 37.631,41.065 40.656,47.008 C 46.858,59.193 56.84,66.914 59.356,47.048 C 57.516,56.758 53.821,49.658 43.398,36.12 L 43.398,36.12" class="cls6"/>
+			<path d="M 42.34,50.048 C 42.093,49.638 41.851,49.221 41.614,48.798 L 41.608,48.788 C 41.365,48.356 41.128,47.918 40.898,47.472 A 2.002,2.002 0.0 0,1 40.656,47.009 L 40.656,47.008 C 40.572,46.844 40.484,46.678 40.394,46.509 C 40.357,46.443 40.319,46.378 40.283,46.309 A 10.12,10.12 0.0 0,0 40.113,46.013 C 40.066,45.927 40.016,45.843 39.967,45.758 L 39.822,45.517 C 39.722,45.354 39.622,45.187 39.517,45.02 C 39.463,44.934 39.409,44.846 39.352,44.758 L 39.205,44.532 C 39.105,44.38 39.006,44.227 38.902,44.074 A 0.082,0.082 0.0 0,0 38.886,44.051 C 35.201,38.595 29.394,33.161 31.516,40.839 L 31.516,40.838 L 31.763,41.625 C 33.167,46.395 34.993,55.538 29.88,64.739 C 30.081,64.983 30.282,65.225 30.492,65.466 C 32.142,67.344 35.54,71.46 42.222,58.979 L 42.222,58.976 C 42.555,57.113 42.575,53.181 42.349,50.063 C 42.347,50.058 42.342,50.053 42.339,50.048 L 42.34,50.048" class="cls7"/>
+		</g>
+	</g>
+</svg>

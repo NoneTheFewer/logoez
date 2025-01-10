@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1494 1533">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L1493.76 0L1493.76 1532.59L0 1532.59L0 0Z"/>
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse" x1="354.411" y1="0.735" x2="1147.065" y2="783.152">
+			<stop offset="0" stop-color="#00a6d3"/>
+			<stop offset="1" stop-color="#17efff"/>
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse" x1="326.874" y1="1425.117" x2="617.928" y2="339.243">
+			<stop offset="0" stop-color="#166cfe"/>
+			<stop offset="1" stop-color="#17efff"/>
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse" x1="1564.769" y1="734.148" x2="486.356" y2="1022.938">
+			<stop offset="0" stop-color="#0c66ee"/>
+			<stop offset="1" stop-color="#0fd8ff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M74.63 515.01C11.1 450.97 11.1 347.52 74.63 283.47C446 -92.56 1048.67 -94.21 1418.42 276.9C1481.95 340.95 1481.95 444.4 1418.42 508.44C1354.9 572.48 1252.28 572.48 1188.76 510.08C944.43 265.41 548.62 267.05 304.29 515.01C240.77 577.41 138.15 579.05 74.63 515.01Z"/>
+			<path id="Layer" class="shp1" d="M281.49 1280.22C222.85 1221.11 170.73 1153.78 128.38 1079.89C1.33 858.21 -32.88 600.4 32.28 352.44C55.08 265.41 144.67 212.87 231 235.86C317.32 258.84 369.45 349.16 346.64 436.19C304.29 598.76 325.47 769.53 410.17 915.68C494.87 1061.82 630.06 1165.28 791.32 1209.61C877.65 1232.6 929.77 1322.92 906.97 1409.95C884.16 1496.98 794.57 1549.52 708.25 1526.53C543.73 1483.84 398.77 1398.45 281.49 1280.22Z"/>
+			<path id="Layer" class="shp2" d="M633.32 1485.48C613.78 1465.77 599.11 1441.14 590.97 1411.58C568.17 1324.55 618.66 1234.24 704.99 1209.61C1038.9 1119.29 1237.62 772.81 1146.41 436.19C1123.6 349.16 1174.1 258.84 1260.43 234.21C1346.76 211.22 1436.34 262.12 1460.77 349.16C1597.6 859.84 1296.26 1388.6 789.69 1526.53C732.68 1542.95 672.41 1524.89 633.32 1485.48Z"/>
+		</g>
+	</g>
+</svg>

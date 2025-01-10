@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" >
+	<style>
+		.cls2 { fill: url(#a); }
+		.cls3 { fill: #fff; }
+	</style>
+		<g class="logo__chevron">
+		<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" y1="36" x2="72" y2="36">
+			<stop offset=".18" stop-color="#0095db"/>
+			<stop offset="1" stop-color="#004b6c"/>
+		</linearGradient>
+		<path d="M 0.0,0.0 L 72.0,0.0 L 72.0,72.0 L 0.0,72.0 L 0.0,0.0" class="cls2"/>
+		<path d="M 27.5,65.2 C 27.4,65.2 27.2,65.2 27.1,65.1 L 20.7,61.3 C 20.4,61.1 20.3,60.7 20.4,60.3 L 33.5,36.1 L 20.5,11.5 C 20.3,11.2 20.4,10.7 20.8,10.5 L 27.2,6.7 C 27.5,6.5 27.9,6.6 28.1,6.9 L 51.4,35.6 C 51.6,35.9 51.6,36.2 51.4,36.5 L 28.0,65.0 C 27.9,65.1 27.7,65.2 27.5,65.2" class="cls3"/>
+	</g>
+</svg>

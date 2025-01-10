@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 369.58399999999995 369.58399999999995">
+	<style>
+		.cls0 { fill: #3D3D3D; }
+		.cls1 { fill: url(#SVGID_1_); }
+		.cls2 { fill: #81BB27; }
+	</style>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="127.5415" y1="1219.9482" x2="127.5415" y2="1189.9794" gradientTransform="matrix(4.1159 0 0 -4.1159 402.1211 5669.4199)">
+		<stop offset="0.316" style="stop-color:#81BB27"/>
+		<stop offset="1" style="stop-color:#648D2E"/>
+	</linearGradient>
+	<path d="M 0.0,163.449 L 89.36,163.449 L 213.68,286.602 L 117.722,286.602" class="cls1"/>
+	<path d="M 369.468,83.028 L 277.003,83.028 L 301.096,107.115 L 117.722,286.602 L 213.68,286.602 L 344.996,150.627 L 369.468,174.712" class="cls2"/>
+</svg>

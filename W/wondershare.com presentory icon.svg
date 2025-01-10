@@ -1,0 +1,34 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-presentory-square">
+<g filter="url(#presentory-square-filter0_i_8_43223)">
+<rect width="120" height="120" rx="27.375" fill="#0A234C"/>
+<path d="M29.0905 31C27.836 31.5993 26.2628 31.4923 24.8379 31.3477C21.9265 31.0524 19.3252 33.1573 19.0278 36.049C18.7305 38.9408 20.8497 41.5245 23.7611 41.8199C26.6726 42.1152 29.2739 40.0103 29.5713 37.1186C29.6974 35.8915 29.9542 34.5836 30.7706 33.6949C30.0741 32.8994 29.5036 31.9907 29.0905 31Z" fill="#25A5A8"/>
+<path d="M29 27.8438C29 22.4072 33.4072 18 38.8438 18C44.2804 18 48.6876 22.4072 48.6876 27.8438C48.6876 33.2803 44.2804 37.6875 38.8438 37.6875C33.4072 37.6875 29 33.2803 29 27.8438Z" fill="#37FCE5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M63 40.5342C68.2112 37.306 74.2976 37.9432 76.2044 38.3048C97.1247 41.273 96.957 67.9439 89.0129 75.8343C88.3172 76.7301 87.4722 77.4931 86.5274 78.1237C86.2767 78.2534 86.0238 78.3793 85.7687 78.5015C83.6454 79.7425 81.1059 80.3677 78.647 80.3806C73.0994 80.3518 68.0156 77.1977 69.1248 70.9575C69.5792 68.401 71.4018 66.7495 73.6113 65.3017L74.1096 64.9821C74.7046 64.6082 75.3212 64.2447 75.9418 63.879C77.3735 63.0352 78.8258 62.1792 80.0793 61.1543L80.3997 60.9488C85.0019 57.9978 85.0019 51.2727 80.3997 48.3217L69.546 41.3622C67.4522 40.0196 65.0451 39.8169 63 40.5342ZM89.0577 75.6312L89.0796 75.6081L89.0727 75.6218L89.0577 75.6312Z" fill="url(#presentory-square-paint0_linear_8_43223)"/>
+<path d="M63.6155 39.8802C61.4169 40.9552 59.5188 42.5604 58 44.8371C61.2837 36.168 69.7095 30 79.5858 30C86.6495 30 92.9712 33.1552 97.2003 38.1239C99.2947 42.4651 100.513 47.4183 100.513 52.7188C100.513 64.7732 94.6132 73.635 86.0172 78.0854C86.9606 77.4553 87.8043 76.6931 88.4991 75.7985C96.4432 67.9081 96.6109 41.2372 75.6907 38.269C73.7972 37.8754 68.0189 37.4906 63.6155 39.8802Z" fill="url(#presentory-square-paint1_linear_8_43223)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.3851 43.064C35.4584 46.1177 35.0514 49.2584 35 52.4407V91.5941C35 97.489 39.7788 102.268 45.6737 102.268C51.5687 102.268 56.3474 97.489 56.3474 91.5941V82.8822L56.3476 53.0767C56.3477 40.4299 66.6698 30.1776 79.4028 30.1776C86.5305 30.1776 92.8608 33.4053 97.0899 38.4522C91.8273 27.5463 80.6509 20 67.6616 20C62.2792 20 57.2009 21.2931 52.7244 23.5837C53.1953 25.0394 53.4498 26.5924 53.4498 28.205C53.4498 36.4892 46.734 43.205 38.4497 43.205C37.7493 43.205 37.06 43.1569 36.3851 43.064Z" fill="url(#presentory-square-paint2_linear_8_43223)"/>
+</g>
+<defs>
+<filter id="presentory-square-filter0_i_8_43223" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.468749"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_43223"/>
+</filter>
+<linearGradient id="presentory-square-paint0_linear_8_43223" x1="70.7218" y1="46.1005" x2="62.5662" y2="82.6869" gradientUnits="userSpaceOnUse">
+<stop stop-color="#006AFF"/>
+<stop offset="1" stop-color="#75FFFF"/>
+</linearGradient>
+<linearGradient id="presentory-square-paint1_linear_8_43223" x1="74.2818" y1="29.903" x2="83.688" y2="56.4575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D72FF"/>
+<stop offset="1" stop-color="#75FFFF"/>
+</linearGradient>
+<linearGradient id="presentory-square-paint2_linear_8_43223" x1="64.8662" y1="18.3038" x2="43.0084" y2="104.692" gradientUnits="userSpaceOnUse">
+<stop stop-color="#75FFFF"/>
+<stop offset="1" stop-color="#00A3FF"/>
+</linearGradient>
+</defs>
+</svg>

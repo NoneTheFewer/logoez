@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30">
+	<defs>
+		<linearGradient x1="100%" y1="100%" x2="0.571986607%" y2="0.571986607%" id="tc-gradient">
+			<stop stop-color="#00D301" offset="0%"/>
+			<stop stop-color="#36C275" offset="50%"/>
+			<stop stop-color="#00A562" offset="100%"/>
+		</linearGradient>
+		<mask id="tc-logo" maskUnits="userSpaceOnUse" x="0" y="0" width="59.5" height="29.5">
+			<path d="M0,0 L10,0 L10,10 L0,10 L0,0 Z M10,0 L20,0 L20,10 L10,10 L10,0 Z M10,10 L20,10 L20,20 L10,20 L10,10 Z M10,20 L20,20 L20,30 L10,30 L10,20 Z M20,0 L30,0 L30,10 L20,10 L20,0 Z M30,10 L40,10 L40,20 L30,20 L30,10 Z M30,20 L40,20 L40,30 L30,30 L30,20 Z M40,20 L50,20 L50,30 L40,30 L40,20 Z M40,0 L50,0 L50,10 L40,10 L40,0 Z M50,20 L60,20 L60,30 L50,30 L50,20 Z M50,0 L60,0 L60,10 L50,10 L50,0 Z" fill="white"  />
+		</mask>
+	</defs>
+	<g mask="url(#tc-logo)">
+		<rect x="0" y="0" width="60" height="30" fill="#fff"  />
+		<rect id="logo-gradient" class="navigation__logo-gradient" x="0" y="0" width="60" height="30" fill="url(#tc-gradient)"/>
+	</g>
+</svg>

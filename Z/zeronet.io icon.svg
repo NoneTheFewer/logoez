@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 361.8 512">
+	<linearGradient id="c" gradientUnits="userSpaceOnUse" x1="305.7" x2="55.3" y1="176" y2="332.5">
+		<stop offset="0" stop-color="#9563f9"/>
+		<stop offset="1" stop-color="#b073ec"/>
+	</linearGradient>
+	<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="23.6" x2="179.8" y1="239.8" y2="91.7">
+		<stop offset="0" stop-color="#9764f8"/>
+		<stop offset="1" stop-color="#b576e9"/>
+	</linearGradient>
+	<linearGradient id="b" gradientUnits="userSpaceOnUse" x1="169.7" x2="161.8" y1="384.1" y2="494.8">
+		<stop offset="0" stop-color="#965ff9"/>
+		<stop offset="1" stop-color="#c076e9"/>
+	</linearGradient>
+	<g fill-rule="evenodd" stroke-width=".2">
+		<path d="M 0.0,302.0 L 0.0,106.0 L 181.0,0.0 L 362.0,105.0 L 318.0,186.0 L 181.0,101.0 L 88.0,156.0 L 88.0,251.0 L 0.0,302.0" fill="url(#a)"/>
+		<path d="M 362.0,210.0 L 362.0,406.0 L 181.0,512.0 L 0.0,407.0 L 55.0,338.0 L 181.0,411.0 L 274.0,356.0 L 274.0,261.0 L 362.0,210.0" fill="url(#b)"/>
+		<path d="M 0.0,407.0 L 362.0,196.0 L 362.0,105.0 L 0.0,316.0 L 0.0,407.0" fill="url(#c)"/>
+	</g>
+</svg>

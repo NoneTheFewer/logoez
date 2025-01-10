@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1541 1506">
+	<style>
+		.s0 { fill: #ff8200 } 
+		.s1 { fill: #0085ca } 
+		.s2 { fill: #004b87 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m770.4 643.6l770.5 108.9-770.5 108.9-770.4-108.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m770.4 1003.3l770.5-157.6-770.5 338.2-770.4-338.2zm0-501.7l-770.4 157.7 770.4-336.8 770.4 336.8z"/>
+		<path id="Layer" fill-rule="evenodd" class="s2" d="m770.4 1335.9l770.5-397.1-770.5 566.2-770.4-567.6zm770.4-768.3l-770.4-567.6-770.4 567.6 770.4-397c0 0 770.4 397 770.4 397z"/>
+	</g>
+</svg>

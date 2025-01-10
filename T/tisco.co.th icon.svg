@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1130 1130">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m564.33 0.86c288.64 0 526.8 216.95 560.28 496.82 0 0 4.46 37.95 4.46 67.76 0 29.82-4.46 67.85-4.46 67.85-33.48 279.86-271.64 496.74-560.28 496.74-311.77 0-564.34-252.78-564.34-564.54 0-311.86 252.57-564.63 564.34-564.63zm99.63 817.68c67.89 0 135.75-19.52 194.58-58.53 90.73-136.92 75.77-323.35-44.84-444.08-120.72-120.7-307.01-135.62-443.98-44.89-90.74 137-75.75 323.42 44.88 444.12 68.85 68.9 159.18 103.38 249.36 103.38z"/>
+		</clipPath>
+		<radialGradient id="g1" cx="934.4" cy="176.5" r="1096.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#37a7df"/>
+			<stop offset="1" stop-color="#243e80"/>
+		</radialGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m414.6 216.15c-17.13 17.1-32.09 35.5-44.88 54.89 136.97-90.73 323.26-75.81 443.98 44.89 120.61 120.73 135.57 307.16 44.84 444.08 19.39-12.8 37.81-27.7 54.93-44.85 137.69-137.79 137.69-361.2-0.08-499.01-68.92-68.9-159.1-103.35-249.35-103.35-90.26 0-180.59 34.45-249.44 103.35z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="1253.2" y1="557.9" x2="956.2" y2="854.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#88181a"/>
+			<stop offset=".5" stop-color="#e31f26"/>
+			<stop offset="1" stop-color="#e31f26"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+					<path id="&lt;Path&gt;" class="s0" d="m0 1130h1129.1v-1129.1h-1129.1z"/>
+				</g>
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp2)">
+					<path id="&lt;Path&gt;" class="s1" d="m710.4-228.1l-664.1 664.5 664.1 664.5 664.2-664.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

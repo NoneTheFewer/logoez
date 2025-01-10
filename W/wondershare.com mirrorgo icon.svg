@@ -1,0 +1,33 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-mirrorgo-square">
+<g filter="url(#mirrorgo-square-filter0_i_8_44378)">
+<rect width="120" height="120" rx="27.375" fill="url(#mirrorgo-square-paint0_linear_8_44378)"/>
+<path d="M30 33.75C30 31.6789 31.6789 30 33.75 30H91.8752C93.9463 30 95.6252 31.6789 95.6252 33.75V91.875C95.6252 93.9461 93.9463 95.625 91.8752 95.625H33.75C31.6789 95.625 30 93.9461 30 91.875V33.75Z" fill="url(#mirrorgo-square-paint1_linear_8_44378)"/>
+<path d="M51.8445 25L94.5234 71.2692C95.1623 71.9618 95.517 72.8695 95.517 73.8118V92.3223C95.517 94.0926 94.0819 95.5276 92.3117 95.5276H73.8122C72.8698 95.5276 71.9619 95.1728 71.2693 94.5338L25 51.8444L51.8445 25Z" fill="url(#mirrorgo-square-paint2_linear_8_44378)"/>
+<path d="M70 73.75C70 71.6789 71.6789 70 73.75 70H91.5626C93.6336 70 95.3126 71.6789 95.3126 73.75V91.5625C95.3126 93.6336 93.6336 95.3125 91.5626 95.3125H73.75C71.6789 95.3125 70 93.6336 70 91.5625V73.75Z" fill="white" fill-opacity="0.6"/>
+<path d="M24 26.75C24 24.6789 25.6789 23 27.75 23H49.3126C51.3837 23 53.0626 24.6789 53.0626 26.75V48.3125C53.0626 50.3836 51.3837 52.0625 49.3126 52.0625H27.75C25.6789 52.0625 24 50.3836 24 48.3125V26.75Z" fill="#F2FDFF"/>
+</g>
+<defs>
+<filter id="mirrorgo-square-filter0_i_8_44378" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.468749"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44378"/>
+</filter>
+<linearGradient id="mirrorgo-square-paint0_linear_8_44378" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0128B1"/>
+<stop offset="1" stop-color="#0124A0"/>
+</linearGradient>
+<linearGradient id="mirrorgo-square-paint1_linear_8_44378" x1="30" y1="30" x2="95.7841" y2="95.4653" gradientUnits="userSpaceOnUse">
+<stop offset="0.40625" stop-color="#0F61FF"/>
+<stop offset="1" stop-color="#00D1FF"/>
+</linearGradient>
+<linearGradient id="mirrorgo-square-paint2_linear_8_44378" x1="23.4126" y1="23.6102" x2="15.7389" y2="85.6892" gradientUnits="userSpaceOnUse">
+<stop offset="0.378709" stop-color="#00C2FF"/>
+<stop offset="1" stop-color="#F2FDFF"/>
+</linearGradient>
+</defs>
+</svg>

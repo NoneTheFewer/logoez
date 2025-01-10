@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="size" data-name="forum" viewBox="0 0 200 200">
+    <defs>
+        <linearGradient id="a" x1="150.74" x2="150.74" y1="166" y2="117.68" gradientTransform="matrix(.66 0 0 -.66 0 132.45)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" stop-opacity=".8" />
+            <stop offset="1" stop-color="#fff" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="c" x1="150.74" x2="150.74" y1="166" y2="117.68" gradientTransform="matrix(.66 0 0 -.66 0 132.45)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" />
+            <stop offset="1" stop-color="#fff" />
+        </linearGradient>
+        <mask id="b" width="101.65" height="32.29" x="49.01" y="22.52" maskUnits="userSpaceOnUse">
+            <path d="M49.01 22.52h101.65v32.29H49.01z" fill="url(#a)" />
+        </mask>
+    </defs>
+    <path d="M100 187.42c-24.5 0-45-8.61-61.59-25.17C21.19 145 12.58 124.5 12.58 100q0-35.76 25.83-61.59T100 12.58q35.76 0 61.59 25.83T187.42 100c0 24.5-8.61 45-25.83 62.25-17.22 16.56-37.75 25.17-61.59 25.17Z" style="fill:red;fill-rule:evenodd" />
+    <g mask="url(#b)">
+        <path d="M99.34 41.72c-21.19 0-27.15 10.6-37.09 11.92-9.27 1.33-21.85 0-4-15.89 11.26-9.94 25.16-15.23 41.06-15.23s29.8 5.29 41.06 15.23c17.88 15.89 7.94 17.88 0 16.55S124.5 41.72 99.34 41.72Z" style="fill-rule:evenodd;fill:url(#c)" />
+    </g>
+</svg>

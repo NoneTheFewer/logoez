@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1440 1517">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse" x1="1439.764" y1="1137.562" x2="0.166" y2="1137.562">
+			<stop offset="0.399" stop-color="#0a05b0"/>
+			<stop offset="1" stop-color="#0068d0"/>
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse" x1="0.166" y1="379.438" x2="1439.764" y2="379.438">
+			<stop offset="0" stop-color="#00c2ff"/>
+			<stop offset="0.54" stop-color="#bc2676"/>
+			<stop offset="0.857" stop-color="#fffb6a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+	</style>
+	<path id="Layer" class="shp0" d="M1107.71 758.5L1439.77 758.5L587.05 1516.62L513.11 1170.11L0.17 758.5L332.2 758.5L608 980.3L648.8 1166.8L1107.71 758.5Z"/>
+	<path id="Layer" class="shp1" d="M332.2 758.5L0.17 758.5L851.78 0.38L926.8 346.89L1439.77 758.5L1107.71 758.5L830.82 536.7L791.11 350.2L332.2 758.5Z"/>
+</svg>

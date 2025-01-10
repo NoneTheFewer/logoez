@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="Apache_Wicket_logo.svg" version="1.1" viewBox="0 0 452.7 64.69">
+	<sodipodi:namedview bordercolor="#666666" borderopacity="1" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10" guidetolerance="10" inkscape:current-layer="g22" inkscape:cx="244.51572" inkscape:cy="24.724019" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1014" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="1.436255" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+	<desc>Logo for Apache Wicket.</desc>
+	<defs>
+ </defs>
+	<g transform="translate(-6.86)">
+		<circle cx="231" cy="32" r="32" style="fill:#ff9925"/>
+		<path d="m199 0m20 20v24h24v-24l-8 16-4-8-4 8z" style="fill:#fff" inkscape:connector-curvature="0"/>
+		<g style="fill:#111">
+			<path d="m6.86 64 9.546-63.21h11.35l9.546 63.21h-9.03l-1.72-12.9h-8.944l-1.72 12.9zm15.74-42.66-0.258-1.634h-0.516l-0.258 1.634-2.666 19.95h6.364z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m41.52 0.79h9.288c4.042 0 8.084 1.032 11.18 3.956s5.16 7.74 5.16 14.96-2.064 11.95-5.16 14.88-7.138 4.128-11.18 4.128v25.28h-9.288zm9.288 28.47c2.838 0 4.644-0.516 5.676-1.978 1.032-1.376 1.29-3.698 1.29-7.224s-0.258-6.02-1.29-7.568-2.838-2.236-5.676-2.236z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m69.18 64 9.546-63.21h11.35l9.546 63.21h-9.03l-1.72-12.9h-8.944l-1.72 12.9zm15.74-42.66-0.258-1.634h-0.516l-0.258 1.634-2.666 19.95h6.364z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m128 42.33v8.686c-0.086 2.58-0.602 4.902-1.548 6.88-0.774 1.72-1.978 3.354-3.698 4.644-1.72 1.376-4.042 2.15-7.138 2.15s-5.504-0.774-7.224-2.15c-1.72-1.29-2.838-2.924-3.612-4.644-0.946-1.978-1.462-4.3-1.548-6.88v-37.24c0.086-2.494 0.602-4.816 1.548-6.794 0.774-1.72 1.892-3.44 3.612-4.73s4.128-2.15 7.224-2.15 5.418 0.86 7.138 2.15 2.924 3.01 3.698 4.73c0.946 1.978 1.462 4.3 1.548 6.794v8.686h-8.686v-8.686c0-1.72-0.43-2.924-1.376-3.956-0.43-0.43-1.204-0.688-2.15-0.688-1.634 0-2.408 1.204-2.838 2.322-0.258 0.688-0.344 1.462-0.43 2.322v37.24c0.086 1.806 0.602 3.01 1.462 3.956 0.43 0.43 1.032 0.688 1.806 0.688 1.978 0 2.752-1.032 3.182-2.322 0.258-0.602 0.344-1.376 0.344-2.322v-8.686z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m150.1 36.48h-7.224v27.52h-9.288v-63.21h9.288v26.14h7.224v-26.14h9.288v63.21h-9.288z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m166.3 0.79h21.24v9.546h-11.95v16.6h8.6v10.15h-8.6v17.37h11.95v9.546h-21.24z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m288.8 64h-7.224l-8.514-63.21h8.6l3.698 32.85 0.172 2.064h0.688l0.258-2.064 3.956-32.85h6.708l3.956 32.85 0.258 2.064h0.688l0.172-2.064 3.698-32.85h8.6l-8.514 63.21h-7.224l-4.3-29.93-0.516-3.698h-0.344l-0.516 3.698z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m318.9 0.79h9.288v63.21h-9.288z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m359.2 42.33v8.686c-0.086 2.58-0.602 4.902-1.548 6.88-0.774 1.72-1.978 3.354-3.698 4.644-1.72 1.376-4.042 2.15-7.138 2.15s-5.504-0.774-7.224-2.15c-1.72-1.29-2.838-2.924-3.612-4.644-0.946-1.978-1.462-4.3-1.548-6.88v-37.24c0.086-2.494 0.602-4.816 1.548-6.794 0.774-1.72 1.892-3.44 3.612-4.73s4.128-2.15 7.224-2.15 5.418 0.86 7.138 2.15 2.924 3.01 3.698 4.73c0.946 1.978 1.462 4.3 1.548 6.794v8.686h-8.686v-8.686c0-1.72-0.43-2.924-1.376-3.956-0.43-0.43-1.204-0.688-2.15-0.688-1.634 0-2.408 1.204-2.838 2.322-0.258 0.688-0.344 1.462-0.43 2.322v37.24c0.086 1.806 0.602 3.01 1.462 3.956 0.43 0.43 1.032 0.688 1.806 0.688 1.978 0 2.752-1.032 3.182-2.322 0.258-0.602 0.344-1.376 0.344-2.322v-8.686z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m374.1 0.79v22.1h0.344l0.43-1.032 7.74-21.07h9.03l-8.514 20.81 9.632 42.4h-9.03l-6.45-27.52-0.258-1.29h-0.258l-0.516 1.29-2.15 5.16v22.36h-9.288v-63.21z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m397 0.79h21.24v9.546h-11.95v16.6h8.6v10.15h-8.6v17.37h11.95v9.546h-21.24z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m420.2 10.34v-9.546h26.83v9.546h-8.772v53.66h-9.288v-53.66z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m450.4 2.512v-1.332h3.744v1.332h-1.224v7.488h-1.296v-7.488z" style="fill:#111" inkscape:connector-curvature="0"/>
+			<path d="m456.8 10-0.828-5.544-0.048-0.372h-0.072v5.916h-1.2v-8.82h1.584l0.768 4.032 0.06 0.468h0.024l0.06-0.468 0.768-4.032h1.584v8.82h-1.2v-5.916h-0.072l-0.048 0.372-0.828 5.544z" style="fill:#111" inkscape:connector-curvature="0"/>
+		</g>
+	</g>
+</svg>

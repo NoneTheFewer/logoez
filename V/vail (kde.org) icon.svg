@@ -1,0 +1,22 @@
+<svg viewBox="0 0 40 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 2C0 0.89543 0.89543 0 2 0H38C39.1046 0 40 0.89543 40 2V28C40 29.1046 39.1046 30 38 30H2C0.89543 30 0 29.1046 0 28V2Z" fill="url(#paint0_linear_204_14)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 27V28C0 29.1046 0.89543 30 2 30V29C0.89543 29 0 28.1046 0 27ZM2 30H38C39.1046 30 40 29.1046 40 28V27C40 28.1046 39.1046 29 38 29H2V30Z" fill="#031C5A" fill-opacity="0.1"/>
+<rect x="5" y="6" width="10" height="4" rx="2" fill="#232629"/>
+<rect x="4.5" y="5.5" width="11" height="5" rx="2.5" stroke="black" stroke-opacity="0.1"/>
+<rect x="25" y="6" width="10" height="4" rx="2" fill="#232629"/>
+<rect x="24.5" y="5.5" width="11" height="5" rx="2.5" stroke="black" stroke-opacity="0.1"/>
+<rect x="18" y="6" width="4" height="4" rx="2" fill="#232629"/>
+<rect x="17.5" y="5.5" width="5" height="5" rx="2.5" stroke="black" stroke-opacity="0.1"/>
+<rect x="5" y="13" width="10" height="4" rx="2" fill="#232629"/>
+<rect x="4.5" y="12.5" width="11" height="5" rx="2.5" stroke="black" stroke-opacity="0.1"/>
+<rect x="18" y="13" width="4" height="4" rx="2" fill="#232629"/>
+<rect x="17.5" y="12.5" width="5" height="5" rx="2.5" stroke="black" stroke-opacity="0.1"/>
+<rect x="5" y="20" width="4" height="4" rx="2" fill="#232629"/>
+<rect x="4.5" y="19.5" width="5" height="5" rx="2.5" stroke="black" stroke-opacity="0.1"/>
+<defs>
+<linearGradient id="paint0_linear_204_14" x1="3.5" y1="-1.93715e-06" x2="43.5" y2="40" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4AD8BC"/>
+<stop offset="1" stop-color="#1ABC9C"/>
+</linearGradient>
+</defs>
+</svg>

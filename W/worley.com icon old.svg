@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 760 760">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-3075.13-2071.85h20858.79v27170.87h-20858.79z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="624.4" y1="671.3" x2="272.8" y2="252.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#034a98"/>
+			<stop offset=".1" stop-color="#034a98"/>
+			<stop offset="1" stop-color="#54d2f7"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="396.9" y1="526.6" x2="177.3" y2="55.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff2e17"/>
+			<stop offset=".2" stop-color="#ff2e17"/>
+			<stop offset=".9" stop-color="#ff5720"/>
+			<stop offset="1" stop-color="#ff5720"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 8" class="s0" d="m534.3 32.7c132.7 59.3 225.6 192.5 225.6 347.3 0 209.9-169.9 379.9-379.7 379.9-154.7 0-288.2-92.6-347.1-225.7h347.1c85 0 154.1-69.1 154.1-154.2z"/>
+			<path id="Path 9" class="s1" d="m380.2 0.2c54.6 0 106.7 11.5 154.1 32.5v347.3c0-85-69.1-154.1-154.1-154.1-84.9 0-154 69.1-154 154.1 0 85.1 69.1 154.2 154 154.2h-347.1c-21-47.1-32.6-99.2-32.6-154.2 0-209.8 170-379.8 379.7-379.8z"/>
+		</g>
+	</g>
+</svg>

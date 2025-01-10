@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1556 525">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-228.15-146.79h2065.02v880.29h-2065.02z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m331.17 254.97l62.72 108.7h-125.43z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="372.3" y1="300.6" x2="283.5" y2="380.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#442e39"/>
+			<stop offset=".1" stop-color="#442e39"/>
+			<stop offset=".3" stop-color="#be1e2d"/>
+			<stop offset="1" stop-color="#be1e2d"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m540.05 413.44l64.22 110.9h-470.28l64.3-110.9z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="208.6" y1="394.8" x2="561.6" y2="598.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#442e39"/>
+			<stop offset=".2" stop-color="#be1e2d"/>
+			<stop offset=".3" stop-color="#be1e2d"/>
+			<stop offset="1" stop-color="#be1e2d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #231f20 } 
+		.s1 { fill: #be1e2d } 
+		.s2 { fill: url(#g1) } 
+		.s3 { fill: url(#g2) } 
+	</style>
+	<g id="layer1">
+		<g id="g845">
+			<path id="path847" class="s0" d="m667.9 177.2l27.8 148.8 27.6-148.8h17.6l-32 171h-28.1l-32.2-171z"/>
+		</g>
+		<path id="path849" class="s0" d="m755.5 177.2h19.1v171h-19.1z"/>
+		<g id="g851">
+			<path id="path853" class="s0" d="m808.5 177.2l27.9 148.8 27.6-148.8h17.5l-31.9 171h-28.1l-32.3-171z"/>
+		</g>
+		<path id="path855" class="s0" d="m896.2 177.2h19.1v171h-19.1z"/>
+		<g id="g857">
+			<g id="Clip-Path: g859" clip-path="url(#cp1)">
+				<g id="g859">
+					<g id="g865">
+						<path id="path867" fill-rule="evenodd" class="s0" d="m974.8 177.1c26.6 0 38.8 16.2 38.8 42.5v86.3c0 26.1-12.2 42.3-38.8 42.3h-40v-171.1zm-0.3 153.7c13.7 0 20.3-8.5 20.3-24.2v-87.9c0-15.7-6.6-24.2-20.5-24.2h-20.5v136.3z"/>
+					</g>
+					<g id="g869">
+						<path id="path871" class="s0" d="m1144.8 218.4v14.7h-18.1v-15.7c0-15.3-6.1-24.6-20-24.6-13.7 0-20 9.3-20 24.6v90.4c0 15.4 6.3 24.7 20 24.7 13.9 0 20-9.3 20-24.7v-34.2h-17.6v-17.1h35.7v50.4c0 25.9-12.2 43-38.6 43-26.1 0-38.3-17.1-38.3-43v-88.5c0-25.9 12.2-43 38.3-43 26.4 0 38.6 17.1 38.6 43z"/>
+					</g>
+					<g id="g873">
+						<path id="path875" fill-rule="evenodd" class="s0" d="m1181.9 313.7l-6.6 34.5h-17.6l32.7-171h27.6l32.7 171h-19l-6.6-34.5zm2.4-16.3h38.1l-19.3-98.7z"/>
+					</g>
+					<g id="g877">
+						<path id="path879" class="s0" d="m1328.6 347.9h-18.3l-28.3-136.1v136.4h-16.6v-171.1h26.6l28.1 136.6 27.1-136.6h26.6v171.1h-18.1v-137.6z"/>
+					</g>
+					<g id="g881">
+						<path id="path883" class="s0" d="m1454.1 252.9v17.1h-41.7v60.8h51.3v17.4h-70.4v-171h70.4v17.3h-51.3v58.4z"/>
+					</g>
+					<g id="g885">
+						<path id="path887" class="s0" d="m1555.2 218.2v4.6h-18v-5.6c0-15.4-5.9-24.4-19.6-24.4-13.6 0-19.5 9-19.5 24.2 0 38.3 57.4 42 57.4 90.1 0 25.9-12.5 42.8-38.6 42.8-26.1 0-38.3-16.9-38.3-42.8v-9.8h17.8v10.8c0 15.4 6.3 24.4 20 24.4 13.7 0 20-9 20-24.4 0-38.1-57.1-41.8-57.1-89.9 0-26.4 12.2-42.8 37.8-42.8 25.9 0 38.1 16.9 38.1 42.8z"/>
+					</g>
+					<g id="g889">
+						<path id="path891" class="s1" d="m424.1 416.2l-92.9-161.2h117.4l93.1 161.2z"/>
+					</g>
+					<g id="g893">
+						<path id="path895" class="s1" d="m0 524.3l301.9-523.3 67.7 117.1-235.6 406.2z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g897">
+			<g id="Clip-Path: g899" clip-path="url(#cp2)">
+				<g id="g899">
+					<g id="g905">
+						<g id="g907">
+							<path id="path919" class="s2" d="m331.2 255l62.7 108.7h-125.4z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g921">
+			<g id="Clip-Path: g923" clip-path="url(#cp3)">
+				<g id="g923">
+					<g id="g929">
+						<g id="g931">
+							<path id="path943" class="s3" d="m540.1 413.4l64.2 110.9h-470.3l64.3-110.9z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

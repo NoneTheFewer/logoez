@@ -1,0 +1,30 @@
+<svg viewBox="0 0 314 298" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		.black { fill: #000; }
+		.blue { fill: #4c7cfd; }
+	</style>
+	<polygon points="
+		0,0
+		0,131
+		131,0
+		"
+		class="black"
+	/>
+	<polygon points="
+		314,0
+		183,0
+		314,131
+		"
+		class="blue"
+	/>
+	<polygon points="
+		65,205.3
+		250,205.3
+		157.5,298
+		"
+		class="black"
+	/>
+	<circle cx="110.5" cy="118.7" r="23.75" class="black" />
+	<circle cx="207.5" cy="118.7" r="23.75" class="blue" />
+
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: #ffc300; }
+		.cls2 { fill: url(#b); }
+		.cls3 { fill: #007dbb; }
+	</style>
+	<defs>
+		<linearGradient id="a" x1="74.354" y1="29.06" x2="124.332" y2="63.49" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e59500"/>
+			<stop offset="1" stop-color="#ffc300"/>
+		</linearGradient>
+		<linearGradient id="b" x1="4.694" y1="65.276" x2="54.302" y2="98.594" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#007ebb"/>
+			<stop offset="1" stop-color="#005a92"/>
+		</linearGradient>
+	</defs>
+	<path d="M 73.811,57.689 L 73.811,0.0 L 123.684,33.627 L 123.684,92.46 L 73.811,57.689" class="cls0"/>
+	<path d="M 73.811,57.689 L 73.811,0.0 L 23.937,33.627 L 23.937,92.46 L 73.811,57.689 L 73.811,57.689" class="cls1"/>
+	<g>
+		<path d="M 54.189,70.311 L 54.189,128.0 L 4.316,94.373 L 4.316,35.54 L 54.189,70.311" class="cls2"/>
+		<path d="M 54.189,70.311 L 54.189,128.0 L 104.063,94.373 L 104.063,35.54 L 54.189,70.311" class="cls3"/>
+	</g>
+</svg>

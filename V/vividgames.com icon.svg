@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1604 1390">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-605.25-391.48h5478.27v2335.69h-5478.27z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m878.56 674.53l166.38 288.41h-332.76z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="987.6" y1="795.5" x2="752.2" y2="1007.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#442e39"/>
+			<stop offset=".1" stop-color="#442e39"/>
+			<stop offset=".3" stop-color="#be1e2d"/>
+			<stop offset="1" stop-color="#be1e2d"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1432.7 1094.99l170.38 294.27h-1247.61l170.58-294.27z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="553.4" y1="1045.5" x2="1489.9" y2="1586.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#442e39"/>
+			<stop offset=".2" stop-color="#be1e2d"/>
+			<stop offset=".3" stop-color="#be1e2d"/>
+			<stop offset="1" stop-color="#be1e2d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #be1e2d } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="layer1">
+		<g id="g857">
+			<g id="Clip-Path: g859" clip-path="url(#cp1)">
+				<g id="g859">
+					<g id="g889">
+						<path id="path891" class="s0" d="m1125.1 1102.3l-246.6-427.8h311.5l246.9 427.8z"/>
+					</g>
+					<g id="g893">
+						<path id="path895" class="s0" d="m0 1389.3l800.9-1388.8 179.7 311-625.1 1077.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g897">
+			<g id="Clip-Path: g899" clip-path="url(#cp2)">
+				<g id="g899">
+					<g id="g905">
+						<g id="g907">
+							<path id="path919" class="s1" d="m878.6 674.5l166.3 288.4h-332.7z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g921">
+			<g id="Clip-Path: g923" clip-path="url(#cp3)">
+				<g id="g923">
+					<g id="g929">
+						<g id="g931">
+							<path id="path943" class="s2" d="m1432.7 1095l170.4 294.3h-1247.6l170.5-294.3z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

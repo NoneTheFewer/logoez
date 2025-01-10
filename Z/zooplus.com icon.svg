@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80.73 80.73">
+	<defs>
+		<radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(37.1286 0 0 -37.1286 85.757 53.409)" spreadMethod="pad" id="b">
+			<stop offset="0" stop-color="#f6e14c"/>
+			<stop offset=".467" stop-color="#f6e14c"/>
+			<stop offset=".501" stop-color="#f6e14c"/>
+			<stop offset=".612" stop-color="#e6ab34"/>
+			<stop offset=".691" stop-color="#d5862a"/>
+			<stop offset=".824" stop-color="#a65527"/>
+			<stop offset=".916" stop-color="#a65527"/>
+			<stop offset=".958" stop-color="#422b21"/>
+			<stop offset="1" stop-color="#422b21"/>
+		</radialGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="a">
+			<rect width="60.677" height="60.677" x="38.862" y="-100.977" ry="1.287" rx="1.287" transform="scale(1 -1)" fill="#0ff" fill-rule="evenodd" stroke-width=".75"/>
+		</clipPath>
+		<filter id="c" x="-.683" width="2.365" y="-.683" height="2.365" color-interpolation-filters="sRGB">
+			<feGaussianBlur stdDeviation="3.083"/>
+		</filter>
+	</defs>
+	<g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 -51.816 134.636)">
+		<path fill="#3ea834" fill-rule="evenodd" d="M 38.862,100.977 L 99.539,100.977 L 99.539,40.3 L 38.862,40.3 L 38.862,100.977"/>
+		<path d="M 85.925,17.566 C 66.128,17.566 50.081,33.613 50.081,53.41 C 50.081,73.205 66.128,89.252 85.925,89.252 C 105.72,89.252 121.767,73.205 121.767,53.41 C 121.767,33.613 105.72,17.566 85.925,17.566" fill="url(#b)"/>
+		<path d="M 104.954,53.41 C 104.954,42.898 96.434,34.378 85.924,34.378 C 75.414,34.378 66.893,42.898 66.893,53.41 C 66.893,63.92 75.413,72.441 85.925,72.441 C 96.434,72.441 104.954,63.92 104.954,53.41" fill="#1d191b"/>
+		<circle style="mix-blend-mode:normal" cx="91.174" cy="-57.259" r="5.421" transform="matrix(1.2636 0 0 -1.2636 -40.659 -6.66)" fill="#fff" fill-rule="evenodd" filter="url(#c)"/>
+	</g>
+</svg>

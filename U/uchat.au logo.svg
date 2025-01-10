@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #1070ff;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 300px;
+        font-family: Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" x="136" y="371" width="285" height="359" rx="10" ry="10"/>
+  <text id="U" class="cls-2" x="173.172" y="651.289">U</text>
+  <text id="Chat" class="cls-3" x="442.382" y="643.711">Chat</text>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 849 1592">
+	<defs>
+		<linearGradient id="g1" x1=".5" y1="515.4" x2="848.1" y2="515.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffdd00"/>
+			<stop offset=".5" stop-color="#fdb913"/>
+			<stop offset="1" stop-color="#f15a22"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="377.9" y1="1111" x2="848.1" y2="1111" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00aeef"/>
+			<stop offset=".89" stop-color="#2e3192"/>
+			<stop offset="1" stop-color="#2e3192"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="371.8" y1="1333.1" x2="848.1" y2="1333.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#72cfe9"/>
+			<stop offset=".35" stop-color="#00aeef"/>
+			<stop offset=".89" stop-color="#2e3192"/>
+			<stop offset="1" stop-color="#2e3192"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Clip-Path: Page 1">
+		<g id="Page 1">
+			<path id="Path 377" class="s0" d="m721 105.4c-100.9 58.6-294.7 127.3-456.1 210.1-143.3 72.6-264.4 155.4-264.4 288.6 0 139.4 109 256.5 351.2 424.1 0 0 74.6-197.9 244.2-331.2 167.5-131.2 201.8-145.3 222-167.5 20.2-22.3 30.2-36.3 30.2-78.7v-450.4c0 0-40.2 54.6-127.1 105z"/>
+			<path id="Path 378" class="s1" d="m377.9 1046.3c0 0 137.2 88.9 272.5 196 151.4 119.1 197.7 228.1 197.7 228.1v-401.8c0-58.6-50.4-104.9-110.9-151.5-58.5-46.5-94.9-66.6-123.1-101-30.3-34.2-32.3-64.6-32.3-64.6-157.5 149.5-203.9 294.8-203.9 294.8z"/>
+			<path id="Path 379" class="s2" d="m367.9 1335.1c125.1 260.5 480.2 256.5 480.2 256.5 0-42.5-20.1-143.3-143.1-258.5-121.2-117.1-337.1-254.4-337.1-254.4 0 0-54.6 141.4 0 256.4z"/>
+		</g>
+	</g>
+</svg>

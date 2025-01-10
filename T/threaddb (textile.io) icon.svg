@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1200 1400">
+	<style>
+		.yellow { fill: #f7c800; }
+		.pink { fill: #f6a0c5; }
+		.blue { fill: #1e0af9; }
+		.red { fill: #f80031; }
+	</style>
+	<polygon transform="translate(-100 0)" class="yellow" id="Polygon" points="700 0 1306.21778 350 1306.21778 1050 700 1400 93.7822174 1050 93.7822174 350"/>
+	<polygon transform="translate(-100 0)" class="pink" id="Polygon" points="
+		700,50
+		1261.21778,374.5
+		1261.21778,1024.5
+		700,1350
+		138.7822174,1024.5
+		138.7822174,374.5"/>
+	<polygon points="
+		333.5,254.5
+		689,254.5
+		526.7,92
+		454,134" class="blue" name="blue_top" />
+	<polygon points="
+		689,254.5
+		689,432.5
+		866.7,432.5
+		866.7,610.6
+		689,610.6
+		866.7,432.5
+		" class="red" name="red_mid" />
+	<polygon points="
+		512,254.5
+		512,432.5
+		333.5,432.5
+		" class="yellow" name="yellow_top" />
+	<polygon points="
+		866.7,432.5
+		1161.5,729
+		1161.5,788.8
+		866.7,788.8
+		" class="blue" name="blue_right" />
+	<polygon points="
+		866.7,432.5
+		689,610.6
+		689,967
+		512,789
+		512,432.5
+		" class="blue" name="blue_mid" />
+	<polygon points="
+		866.7,788.8
+		1161.5,788.8
+		1161.5,849.8
+		866.7,1144.8
+		" class="yellow" name="yellow_bottom" />
+	<polygon points="
+		866.7,788.8
+		689.2,788.8
+		866.7,967
+		" class="red" name="red_half" />
+	<polygon points="
+		512,432.5
+		512,789
+		157,432.5
+		" class="red" name="red_left"/>
+	<polygon points="
+		333.5,610.6
+		689,967
+		333.5,967
+		" class="yellow" name="yellow_left"/>
+	<polygon points="
+		333.5,967
+		511.3,967
+		333.5,1144.5
+		" class="red" name="red_br"/>
+	<polygon points="
+		157,967
+		39,967
+		39,1025
+		157,1094
+		" class="red" name="red_bl"/>
+	<polygon points="
+		511.3,1144.5
+		413.75,1242.25
+		246,1145
+		" class="blue" name="blue_bottom"/>
+	<polygon points="
+		333.5,610.6
+		333.5,967
+		39,967
+		39,906
+		" class="blue" name="blue_left" />
+
+</svg>

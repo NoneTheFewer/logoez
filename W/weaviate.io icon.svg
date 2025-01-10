@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="b">
+      <polyline points="87.43 61.68 93.35 65.12 93.35 65.09 93.3 65.06 93.3 65.06 87.43 61.68" fill="#30d23b"/>
+    </clipPath>
+    <clipPath id="c">
+      <polyline points="87.42 61.67 93.35 65.12 93.35 65.12 87.43 61.68 87.42 61.67" fill="#30d23b"/>
+    </clipPath>
+  </defs>
+  <g isolation="isolate">
+    <path d="m64.02,70.01c-3.67,0-7.35,1.03-10.57,3.09l-18.74,11.97v10.91c0,3.36,2.76,5.69,5.7,5.69,1.15,0,2.32-.35,3.37-1.14l12.75-9.63s.02-.02.03-.02l.42-.32c1.93-1.46,4.47-2.18,7.01-2.18s5.08.73,7.01,2.18l12.78,9.64,1.25.94c.27.2.55.4.83.58l-1.6-1.21h0c1.06.8,2.24,1.16,3.4,1.16,2.94,0,5.7-2.32,5.7-5.69v-10.88l-18.75-11.99c-3.23-2.06-6.91-3.1-10.58-3.1m-12.38-14.68c-.18.1-.37.19-.55.29l-16.38,9.51v.03l16.93-9.83" fill="#09725c"/>
+  </g>
+  <g isolation="isolate">
+    <g>
+      <polyline points="87.43 61.68 93.35 65.12 93.35 65.09 93.3 65.06 93.3 65.06 87.43 61.68" fill="#30d23b"/>
+      <g clip-path="url(#b)">
+        <image width="42" height="24" transform="translate(87.23 61.61) scale(.15)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAXCAYAAABnGz2mAAAACXBIWXMAAEpHAABKRwHadteTAAABLElEQVRIie1WwQ7DIAgF43XX/f8P7tbz2ME6QYGC6WXJ3rKkRXw8EbF40ItgG+S8+VbP54FPrHcIssPnRXXUNoAOCW4Iiojyl1LvIMkJis0s3WDR0fnTgItlT5QWv64uc8h5iuYTEZXLb+XZ0J6kRaO5Z+sWYQFWgybaZTIHZqASkFIrGmJeV+GvRTWPkqfW/GLhoqIAzq30JkSCctLI8fEEdZT92olhRxSA2WAzp6/dGrS895xZ7WXl5Cxuje21AnLGuN0WBfC9K/vgvMo1IJ4+Iw/yCYU/t1in1NhKSaYRaH0o0ptWnhYLJ4uOMpx0+pwoMnwiFgmjXXCLdSfORf4Wo9b11gVdtROlXWgg9vfo8jBrbA7ScsAL3FqhzA2KIh+ZtC6y/W+5P34MH8lbocgmSRweAAAAAElFTkSuQmCC" isolation="isolate"/>
+      </g>
+    </g>
+    <g>
+      <polyline points="87.42 61.67 93.35 65.12 93.35 65.12 87.43 61.68 87.42 61.67" fill="#30d23b"/>
+      <g clip-path="url(#c)">
+        <image width="42" height="24" transform="translate(87.23 61.61) scale(.15)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAXCAYAAABnGz2mAAAACXBIWXMAAEpHAABKRwHadteTAAACB0lEQVRIie1WPdbcIAyc4fkc6dPl/gdJlTq3sCYFAoQAr790eS8UuzboZxhGwvz1+6cgAQA0/9RBHIeU3qG9YVu3O9iGFCQUgn3/9oNXivxqZECfIJ0A7UC14EUSQMJkIAESCA8LkB1LfwOK5BEUABQAsOCco6zszKCexhOoGnsHqv5fgpwdwHyxkWUyQHRjhqBVlsT59Buo3dFNoKadj+dZY32hHu2617TLL4B6ZmnNczEeiFdgBaUWsc9V+ZU4vWrO7s8sTY77jU6M6cE4dw3rbWWsvAL1wFICVhfNBLL6tWApg4dSTeImhYCZeT4F8zLSL6DOgNrKJQe1bObkmIzstsfqlPSapbhyVT15xY10wSSxx/HXeiBjfTpzks0++Ub5ALUsRnzX/jNz6gmODeQLsy5+soUc3X44jhZSf4XbrFuRZSoBeZ/LGecoe1AWWL5qsNXS/CWXwW3zMQ+W2rX2cOsfAGVQAHCpd/daYdVRyFgVbwWgW9D12NaHthr7sR9qW2AZFPBKY7mqGqigqvXksHK9r91ltrWh/k7uha/5RZEF7FvMHsAHUEneV6cYAjXvchb5mkJd9uGIugb8y6KUabr7hh0xNO82yqlgo8izoE3xK+xQ8P2bLoJx/6mAHu/KcVHHAAzFEIMLgGwuhvFQDTr5jkEUZKqbJKDUxIm9LP6Pf378AaOSc0AzeJOzAAAAAElFTkSuQmCC" isolation="isolate"/>
+      </g>
+    </g>
+    <path d="m63.98,52.36c-4.24,0-8.47.99-12.35,2.97l-16.93,9.83v19.92l18.74-11.97c3.22-2.06,6.9-3.09,10.57-3.09s7.36,1.03,10.58,3.1l18.75,11.99v-19.98l-5.94-3.45-9.86-5.68c-4.2-2.42-8.89-3.63-13.57-3.63" fill="#30d23b"/>
+  </g>
+  <path d="m29.12,26.9c-.81,0-1.64.18-2.44.57L3.75,40.8C1.44,42.33.03,44.91,0,47.7v30.78H0v-3.1c0,3.32,2.73,5.7,5.7,5.7.95,0,1.93-.24,2.85-.78l26.16-15.2v-32.68c-.04-3.21-2.7-5.5-5.59-5.5" fill="#dbd700"/>
+  <g isolation="isolate">
+    <path d="m43.48,100.75h0l-.57.43s.03-.03.05-.04l.52-.39m-8.77-35.67l-26.16,15.2c-.92.53-1.9.78-2.85.78-2.97,0-5.7-2.37-5.7-5.7v3.1c.03,4.22,2.18,8.13,5.72,10.43l2.97,1.89c2.68,1.67,5.82,2.64,8.93,2.64,2.51,0,4.99-.63,7.17-2.02l9.92-6.25h0v-20.06" fill="#83b900"/>
+  </g>
+  <g isolation="isolate">
+    <path d="m34.7,85.15l-9.92,6.25c-2.18,1.4-4.66,2.02-7.17,2.02-3.1,0-6.25-.97-8.93-2.64l17.29,11.02c2.45,1.56,5.23,2.34,8.01,2.34,3.15,0,6.29-.99,8.93-2.97l.57-.43c-.97.64-2.03.93-3.07.93-2.94,0-5.7-2.32-5.7-5.69v-10.84h0" fill="#65ab00"/>
+  </g>
+  <g isolation="isolate">
+    <path d="m98.89,26.9c-2.67,0-5.14,1.96-5.53,4.79v64.29h0v-30.89l26.16,15.2c.92.53,1.9.78,2.85.78,2.73,0,5.25-2,5.64-4.9v-28.4c0-2.98-1.59-5.74-4.16-7.23l-22.16-12.88c-.9-.52-1.86-.76-2.79-.76" fill="#dbd700"/>
+  </g>
+  <g isolation="isolate">
+    <path d="m93.35,65.09v30.89h0v-10.82h0l9.92,6.25c2.18,1.4,4.66,2.02,7.17,2.02,2.72,0,5.47-.74,7.91-2.05l3.86-2.46c3.61-2.3,5.8-6.29,5.8-10.58v-2.18c-.39,2.9-2.91,4.9-5.64,4.9-.95,0-1.93-.24-2.85-.78l-26.16-15.2" fill="#83b900"/>
+  </g>
+  <g isolation="isolate">
+    <path d="m93.36,85.15h0v10.83h0c0,3.36-2.76,5.69-5.7,5.69-1.16,0-2.34-.36-3.4-1.16l1.61,1.21c2.46,1.61,5.3,2.42,8.14,2.42s5.56-.78,8.01-2.34l16.34-10.42c-2.44,1.31-5.19,2.05-7.91,2.05-2.51,0-4.99-.63-7.17-2.02l-9.92-6.25" fill="#65ab00"/>
+  </g>
+</svg>

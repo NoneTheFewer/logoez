@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1571 878">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-3424-2878h5265v7128h-5265z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-3424-2878h5265v7128h-5265z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m-3424-2878h5265v7128h-5265z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #77be43 } 
+		.s1 { fill: #742f8b } 
+		.s2 { fill: #522773 } 
+		.s3 { fill: #a4cf5f } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<g id="Layer">
+					<g id="Layer">
+						<g id="im1">
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer">
+					<path id="Layer" class="s0" d=""/>
+				</g>
+			</g>
+			<path id="Layer" class="s0" d="m0.5 520.1h85.9l93.9 256.5 94.5-256.5h83.9l-142.7 351.7h-72.1z"/>
+			<g id="Clip-Path" clip-path="url(#cp3)">
+				<g id="Layer">
+					<path id="Layer" fill-rule="evenodd" class="s0" d="m373.9 694.6c0-99.8 70.7-181.7 170.6-181.7 111 0 167.2 87.2 167.2 187.7 0 5.3-0.7 18.5-1.3 22.4h-256.5c8.6 56.9 48.9 88.6 100.5 88.6 39 0 66.7-14.5 94.5-41.6l46.9 41.6c-33 39.7-78.6 65.5-142.8 65.5-101.1 0-179.1-73.4-179.1-182.5zm258.5-24.4c-5.3-51.6-35.7-91.9-88.6-91.9-48.9 0-83.3 37.7-90.6 91.9z"/>
+					<path id="Layer" class="s0" d="m773.4 520.1h80v78.7c21.8-52.2 62.1-87.9 123.6-85.3v84.6h-4.6c-70.1 0-119 45.6-119 138.2v132.8h-80z"/>
+					<path id="Layer" class="s0" d="m1025.6 742.2v-222.1h80v198.3c0 54.2 27.1 85.3 74.7 85.3 46.3 0 78.7-32.4 78.7-86.6v-197h79.9v349h-79.9v-54.2c-22.5 33.1-54.9 61.5-109.1 61.5-78.7 0-124.3-52.9-124.3-134.2z"/>
+				</g>
+			</g>
+			<path id="Layer" class="s1" d="m1338.9 463.6v-231.7h231.7z"/>
+			<path id="Layer" class="s2" d="m1570.6 0.2v231.7h-231.7z"/>
+			<path id="Layer" class="s0" d="m1107.3 231.9h231.6v231.7z"/>
+			<path id="Layer" class="s3" d="m1338.9 231.9h-231.6v-231.7z"/>
+		</g>
+	</g>
+</svg>

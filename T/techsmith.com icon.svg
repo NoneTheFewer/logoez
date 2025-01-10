@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.4 21.4">
+	<style>
+		.green { fill: #186364; }
+	</style>
+	<g class="green">
+		<polygon points="0.0,2.1 0.0,19.4 8.6,10.7"/>
+		<polygon points="21.4,19.4 21.4,0.0 2.1,0.0"/>
+		<polygon points="2.0,21.4 19.3,21.4 10.7,12.8"/>
+	</g>
+</svg>

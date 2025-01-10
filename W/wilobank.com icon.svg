@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162.7 162.7">
+	<defs id="defs1263">
+		<linearGradient gradientTransform="matrix(1 0 0 -1 0 170)" y2="216.629" x2="646.454" y1="-30.307" x1="197.338" gradientUnits="userSpaceOnUse" id="SVGID_3_">
+			<stop id="stop1193" offset="0" stop-color="#54d9be"/>
+			<stop id="stop1195" offset="1" stop-color="#363a8e"/>
+		</linearGradient>
+		<linearGradient gradientTransform="matrix(1 0 0 -1 0 170)" y2="-57.31" x2="268.073" y1="141.79" x1="268.073" gradientUnits="userSpaceOnUse" id="SVGID_4_">
+			<stop id="stop1200" offset="0" stop-color="#54d9be"/>
+			<stop id="stop1202" offset="1" stop-color="#363a8e"/>
+		</linearGradient>
+	</defs>
+	
+	<g id="g1317" transform="translate(-249.6 -4.35)">
+		<g id="g1184">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="318.779" y1="92.321" x2="587.488" y2="215.234" gradientTransform="matrix(1 0 0 -1 0 170)">
+				<stop offset="0" id="stop1177" stop-color="#54d9be"/>
+				<stop offset="1" id="stop1179" stop-color="#363a8e"/>
+			</linearGradient>
+			<path d="M 357.3,115.1 C 327.0,115.1 302.3,90.5 302.3,60.1 C 302.3,29.8 326.9,5.1 357.3,5.1 C 387.6,5.1 412.3,29.7 412.3,60.1 C 412.2,90.4 387.5,115.1 357.3,115.1 M 357.3,37.7 C 345.0,37.7 335.0,47.7 335.0,60.0 C 335.0,72.3 345.0,82.3 357.3,82.3 C 369.6,82.3 379.6,72.3 379.6,60.0 C 379.7,47.7 369.6,37.7 357.3,37.7 L 357.3,37.7" id="path1182" fill="url(#SVGID_1_)"/>
+		</g>
+		<path d="M 380.3,160.7 L 380.3,166.3 L 308.9,166.3 C 294.7,166.3 281.2,160.7 271.1,150.6 L 269.4,148.9 C 257.6,137.1 250.7,121.4 249.8,104.8 C 249.9,105.8 253.3,129.5 286.5,129.5 L 349.0,129.5 C 366.3,129.6 380.3,143.5 380.3,160.7" id="path1198" fill="url(#SVGID_3_)"/>
+		<path d="M 249.7,104.8 C 249.7,104.8 252.5,129.5 286.5,129.5 L 286.5,66.9 C 286.5,49.7 272.5,35.6 255.2,35.6 L 249.6,35.6 L 249.7,104.8" id="path1205" fill="url(#SVGID_4_)"/>
+	</g>
+</svg>

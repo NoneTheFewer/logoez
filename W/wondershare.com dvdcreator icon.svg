@@ -1,0 +1,63 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-dvdcreator-square">
+<g filter="url(#dvdcreator-square-filter0_i_8_43840)">
+<g clip-path="url(#dvdcreator-square-clip0_8_43840)">
+<rect width="120" height="120" rx="27.375" fill="url(#dvdcreator-square-paint0_linear_8_43840)"/>
+<path d="M17 60.3333C17 84.2657 36.401 103.667 60.3335 103.667C84.2659 103.667 103.667 84.2657 103.667 60.3333C103.667 36.401 84.2659 17 60.3335 17C36.401 17 17 36.401 17 60.3333ZM72.521 60.3333C72.521 67.0643 67.0645 72.5208 60.3335 72.5208C53.6025 72.5208 48.1459 67.0643 48.1459 60.3333C48.1459 53.6024 53.6025 48.1458 60.3335 48.1458C67.0645 48.1458 72.521 53.6024 72.521 60.3333Z" fill="url(#dvdcreator-square-paint1_linear_8_43840)"/>
+<path d="M0 105.105L0.000453518 119.812H120V12L0 105.105Z" fill="url(#dvdcreator-square-paint2_linear_8_43840)"/>
+<path d="M0 105.105L0.000453518 119.812H120V12L0 105.105Z" fill="url(#dvdcreator-square-paint3_linear_8_43840)"/>
+<path d="M98.8125 101.625C100.366 101.625 101.625 100.366 101.625 98.8125C101.625 97.2592 100.366 96 98.8125 96C97.2592 96 96 97.2592 96 98.8125C96 100.366 97.2592 101.625 98.8125 101.625Z" fill="url(#dvdcreator-square-paint4_linear_8_43840)"/>
+<path d="M42.2796 21C32.896 25.3205 25.3205 32.896 21 42.2796L48.7201 56.8325C49.8984 52.9563 52.9564 49.8983 56.8327 48.72L42.2796 21Z" fill="url(#dvdcreator-square-paint5_linear_8_43840)"/>
+<g filter="url(#dvdcreator-square-filter1_d_8_43840)">
+<path d="M17 60.3333C17 84.2657 36.401 103.667 60.3335 103.667C84.2659 103.667 103.667 84.2657 103.667 60.3333C103.667 36.401 84.2659 17 60.3335 17C36.401 17 17 36.401 17 60.3333ZM72.521 60.3333C72.521 67.0643 67.0645 72.5208 60.3335 72.5208C53.6025 72.5208 48.1459 67.0643 48.1459 60.3333C48.1459 53.6024 53.6025 48.1458 60.3335 48.1458C67.0645 48.1458 72.521 53.6024 72.521 60.3333Z" fill="white" fill-opacity="0.03"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="dvdcreator-square-filter0_i_8_43840" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.468749"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_43840"/>
+</filter>
+<filter id="dvdcreator-square-filter1_d_8_43840" x="13.25" y="13.25" width="96.041" height="96.0418" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="0.937501" dy="0.937501"/>
+<feGaussianBlur stdDeviation="2.34375"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8_43840"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8_43840" result="shape"/>
+</filter>
+<linearGradient id="dvdcreator-square-paint0_linear_8_43840" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A1A1A"/>
+<stop offset="1" stop-color="#3A3A3A"/>
+</linearGradient>
+<linearGradient id="dvdcreator-square-paint1_linear_8_43840" x1="72.9048" y1="96.573" x2="101.46" y2="27.8963" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7D8D"/>
+<stop offset="1" stop-color="#EE1233"/>
+</linearGradient>
+<linearGradient id="dvdcreator-square-paint2_linear_8_43840" x1="60.0002" y1="12" x2="60.0002" y2="118.406" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="#2F2F2F"/>
+</linearGradient>
+<linearGradient id="dvdcreator-square-paint3_linear_8_43840" x1="60.0002" y1="12" x2="60.0002" y2="118.406" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.1"/>
+<stop offset="1" stop-color="white" stop-opacity="0.05"/>
+</linearGradient>
+<linearGradient id="dvdcreator-square-paint4_linear_8_43840" x1="97.5446" y1="92.968" x2="91.9196" y2="101.129" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7D8D"/>
+<stop offset="1" stop-color="#EE1233"/>
+</linearGradient>
+<linearGradient id="dvdcreator-square-paint5_linear_8_43840" x1="50.315" y1="125.383" x2="50.315" y2="-4.61742" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="dvdcreator-square-clip0_8_43840">
+<rect width="120" height="120" rx="27.375" fill="white"/>
+</clipPath>
+</defs>
+</svg>

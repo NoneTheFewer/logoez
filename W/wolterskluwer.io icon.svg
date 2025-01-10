@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1543 1544">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-726.44-727.15h11124.03v2998.68h-11124.03z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #b1cdec } 
+		.s1 { fill: #e73037 } 
+		.s2 { fill: #a6ca61 } 
+		.s3 { fill: #4ba0d8 } 
+		.s4 { fill: #d4e5b5 } 
+		.s5 { fill: #80ba27 } 
+		.s6 { fill: #007ac2 } 
+	</style>
+	<g id="layer1">
+		<g id="g1938">
+			<g id="Clip-Path: g1940" clip-path="url(#cp1)">
+				<g id="g1940">
+					<g id="g2002">
+						<path id="path2004" class="s0" d="m953 226.3h-363.5v-203.6c58.4-14.2 119.1-22 181.8-22 62.7 0 123.3 7.8 181.7 22z"/>
+					</g>
+					<path id="path2006" class="s1" d="m589.6 590.2h363.5v364h-363.5z"/>
+					<path id="path2008" class="s2" d="m589.6 954.2h363.5v363.9h-363.5z"/>
+					<g id="g2010">
+						<path id="path2012" class="s3" d="m589.5 1318.1h363.5v203.7c-58.4 14.1-119 21.9-181.7 21.9-62.7 0-123.4-7.8-181.8-21.9z"/>
+					</g>
+					<path id="path2014" class="s4" d="m589.6 226.3h363.5v363.9h-363.5z"/>
+					<path id="path2016" class="s4" d="m226 590.2h363.6v364h-363.6z"/>
+					<path id="path2018" class="s5" d="m226 954.2h363.6v363.9h-363.6z"/>
+					<g id="g2020">
+						<path id="path2022" class="s6" d="m589.6 1318.1v203.7c-139.9-33.9-265.2-105.2-363.6-203.7z"/>
+					</g>
+					<path id="path2024" class="s2" d="m226 226.3h363.6v363.9h-363.6z"/>
+					<g id="g2026">
+						<path id="path2028" class="s3" d="m589.5 226.3h-363.5c98.4-98.5 223.7-169.8 363.5-203.6z"/>
+					</g>
+					<g id="g2030">
+						<path id="path2032" class="s6" d="m22.6 954.1l203.4 0.1v363.9c-98.4-98.5-169.5-224-203.4-364z"/>
+					</g>
+					<g id="g2034">
+						<path id="path2036" class="s3" d="m226 590.2h-203.4c33.9-139.9 105-265.3 203.4-363.9z"/>
+					</g>
+					<path id="path2038" class="s2" d="m953.1 590.2h363.5v364h-363.5z"/>
+					<path id="path2040" class="s5" d="m953.1 954.2h363.5v363.9h-363.5z"/>
+					<g id="g2042">
+						<path id="path2044" class="s6" d="m953 1521.8v-203.7h363.6c-98.4 98.6-223.7 169.8-363.6 203.7z"/>
+					</g>
+					<path id="path2046" class="s5" d="m953.1 226.3h363.5v363.9h-363.5z"/>
+					<g id="g2048">
+						<path id="path2050" class="s6" d="m1316.6 226.3h-363.6v-203.6c139.9 33.8 265.2 105.1 363.6 203.6z"/>
+					</g>
+					<g id="g2052">
+						<path id="path2054" class="s6" d="m1316.6 954.2l203.4-0.1c-33.9 140-105 265.5-203.4 364z"/>
+					</g>
+					<g id="g2056">
+						<path id="path2058" class="s6" d="m1520 590.2h-203.4v-363.9c98.5 98.6 169.5 224 203.4 363.9z"/>
+					</g>
+					<g id="g2060">
+						<path id="path2062" class="s0" d="m226 590.2v364l-203.5-0.1c-14.1-58.4-21.9-119.1-21.9-181.9 0-62.8 7.8-123.4 21.9-182z"/>
+					</g>
+					<g id="g2064">
+						<path id="path2066" class="s3" d="m1316.6 954.2v-364h203.5c14.1 58.6 21.9 119.2 21.9 182 0 62.8-7.8 123.5-21.9 181.9z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

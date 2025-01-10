@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1466 1540">
+	<defs>
+		<linearGradient id="g1" x1="1510.9" y1="969.3" x2="1078.1" y2="471.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b2dde6"/>
+			<stop offset="1" stop-color="#0aab8f"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="-44.4" y1="572.2" x2="388.3" y2="1070.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b2dde6"/>
+			<stop offset="1" stop-color="#0aab8f"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1476" y1="553.4" x2="422.9" y2="491.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b2dde6"/>
+			<stop offset=".1" stop-color="#aad6e4"/>
+			<stop offset=".3" stop-color="#96c1db"/>
+			<stop offset=".5" stop-color="#75a1cd"/>
+			<stop offset=".7" stop-color="#4975b6"/>
+			<stop offset="1" stop-color="#1c4999"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="-10.8" y1="986.9" x2="1045.1" y2="1049.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b2dde6"/>
+			<stop offset=".1" stop-color="#aad6e4"/>
+			<stop offset=".3" stop-color="#96c1db"/>
+			<stop offset=".5" stop-color="#75a1cd"/>
+			<stop offset=".7" stop-color="#4975b6"/>
+			<stop offset="1" stop-color="#1c4999"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="-10.8" y1="986.9" x2="1045.1" y2="1049.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b2dde6"/>
+			<stop offset=".1" stop-color="#aad6e4"/>
+			<stop offset=".3" stop-color="#96c1db"/>
+			<stop offset=".5" stop-color="#75a1cd"/>
+			<stop offset=".7" stop-color="#4975b6"/>
+			<stop offset="1" stop-color="#1c4999"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+	</style>
+	<path id="Layer" class="s0" d="m1113 0.9c312.6-2.8 352 746.8 352 746.8 22.5 693.3-543.5 546.8-278.8 53.6 264.7-493.2-73.2-800.4-73.2-800.4z"/>
+	<path id="Layer" class="s1" d="m352.6 1539.6c-312.6 2.9-352-746.8-352-746.8-22.5-693.3 543.5-546.7 278.8-53.5-264.7 493.2 73.2 800.3 73.2 800.3z"/>
+	<path id="Layer" class="s2" d="m392.1 1021.1c0 0 312.5-1017.4 723.7-1020.2 312.6-2.8 349.2 746.8 349.2 746.8 0 0-64.8-355.1-337.9-366.3-273.2-14.1-577.3 233.9-735 639.7z"/>
+	<path id="Layer" class="s3" d="m1076.4 519.4c0 0-312.6 1017.4-723.8 1020.2-312.6 2.9-352-746.8-352-746.8 0 0 67.6 355.1 340.8 366.4 273.1 11.3 574.5-233.9 735-639.8z"/>
+	<path id="Layer" class="s4" d="m1076.4 519.4c0 0-312.6 1017.4-723.8 1020.2-312.6 2.9-352-746.8-352-746.8 0 0 67.6 355.1 340.8 366.4 273.1 11.3 574.5-233.9 735-639.8z"/>
+</svg>

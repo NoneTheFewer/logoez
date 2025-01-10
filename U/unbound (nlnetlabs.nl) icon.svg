@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: #1fc2d7; }
+	</style>
+	<linearGradient id="a" x1="16.15" y1="-240.63" x2="111.85" y2="-240.63" gradientTransform="matrix(1 0 0 -1 0 -173.89)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#0d0d27"/>
+		<stop offset=".02" stop-color="#10102f"/>
+		<stop offset=".1" stop-color="#1a1b4d"/>
+		<stop offset=".19" stop-color="#232365"/>
+		<stop offset=".28" stop-color="#282976"/>
+		<stop offset=".38" stop-color="#2c2d80"/>
+		<stop offset=".5" stop-color="#2d2e83"/>
+		<stop offset=".62" stop-color="#2c2d80"/>
+		<stop offset=".72" stop-color="#282976"/>
+		<stop offset=".81" stop-color="#232365"/>
+		<stop offset=".9" stop-color="#1a1b4d"/>
+		<stop offset=".98" stop-color="#10102f"/>
+		<stop offset="1" stop-color="#0d0d27"/>
+	</linearGradient>
+	<path d="M89.47 5.49v72.4L64.75 92.13a1.72 1.72 0 01-1.59 0L38.44 77.89V5.49L20.93 15.63a9.57 9.57 0 00-4.78 8.29v72.4a9.67 9.67 0 004.78 8.3l38.29 22.12a9.7 9.7 0 009.56 0l38.29-22.12a9.59 9.59 0 004.78-8.3v-72.4a9.67 9.67 0 00-4.78-8.29z" class="cls0"/>
+	<path d="M111.85 23.92a9.67 9.67 0 00-4.78-8.29L81.6.88a6.22 6.22 0 00-6.37 0A6.37 6.37 0 0072 6.41v55.81a9.71 9.71 0 004.78 8.3L107.07 88a9.57 9.57 0 014.78 8.29V23.92zm-95.7 0a9.67 9.67 0 014.78-8.29L46.49.88a6.22 6.22 0 016.37 0A6.39 6.39 0 0156 6.41v55.81a9.69 9.69 0 01-4.78 8.3L21 88a9.65 9.65 0 00-4.86 8.29z" class="cls1"/>
+</svg>

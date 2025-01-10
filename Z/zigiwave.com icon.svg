@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 68.82 68.82">
+	<style>
+		.cls0 { fill: url(#linear-gradient-3); }
+		.cls1 { fill: url(#linear-gradient-5); }
+		.cls2 { fill: url(#linear-gradient-6); }
+		.cls3 { fill: url(#linear-gradient-7); }
+		.cls4 { fill: url(#linear-gradient-8); }
+		.cls5 { fill: url(#linear-gradient-9); }
+		.cls6 { fill: url(#linear-gradient-10); }
+		.cls7 { fill: #42b498; }
+		.cls8 { fill: #214876; }
+		.cls9 { fill: #f7f7f7; }
+		.cls10 { fill: url(#linear-gradient); }
+		.cls11 { fill: url(#linear-gradient-2); }
+		.cls12 { fill: url(#linear-gradient-4); }
+	</style>
+	<defs>
+		<linearGradient id="linear-gradient-5" x1="30.17" y1="53.48" x2="26.84" y2="56.66" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-10" x1="64.51" y1="5.65" x2="7.39" y2="60.26" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-2" x1="31.35" y1="22.24" x2="28.84" y2="24.63" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-3" x1="35.68" y1="42.65" x2="33.38" y2="44.84" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-4" x1="39.75" y1="22.23" x2="37.26" y2="24.61" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient" x1="55.32" y1="22.88" x2="53.14" y2="24.97" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3eb2a4"/>
+			<stop offset="1" stop-color="#53be61"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-6" x1="57.24" y1="34.23" x2="54.25" y2="37.1" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-7" x1="13.53" y1="40.72" x2="10.64" y2="43.48" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-8" x1="42.54" y1="50.25" x2="39.73" y2="52.93" xlink:href="#linear-gradient"/>
+		<linearGradient id="linear-gradient-9" x1="15.28" y1="21.32" x2="12.39" y2="24.08" xlink:href="#linear-gradient"/>
+	</defs>
+	<circle cx="54.17" cy="23.98" r="1.32" class="cls10"/>
+	<circle cx="30.03" cy="23.5" r="1.5" class="cls11"/>
+	<path d="M34.47 42.42h-.12a1.39 1.39 0 000 2.76h.12a1.36 1.36 0 001.38-1.38 1.4 1.4 0 00-1.38-1.38z" class="cls0"/>
+	<circle cx="38.44" cy="23.5" r="1.5" class="cls12"/>
+	<path d="M26.42 55.39a2 2 0 004-.24 1.92 1.92 0 00-2-2 2 2 0 00-2 2.24z" class="cls1"/>
+	<path d="M55.43 34a1.82 1.82 0 00.48 3.6 1.91 1.91 0 001.56-1.6 1.84 1.84 0 00-2.04-2z" class="cls2"/>
+	<path d="M12 40.43a1.75 1.75 0 101.74 1.75A1.74 1.74 0 0012 40.43z" class="cls3"/>
+	<path d="M41.08 50a1.73 1.73 0 00-1.68 1.74 1.64 1.64 0 001.6 1.61 1.69 1.69 0 001.74-1.69 2.52 2.52 0 00-.24-1 1.76 1.76 0 00-1.42-.66z" class="cls4"/>
+	<path d="M13.75 24.52A1.74 1.74 0 1012 22.78a1.74 1.74 0 001.75 1.74z" class="cls5"/>
+	<path d="M34.41 0a34.41 34.41 0 1034.41 34.43A34.41 34.41 0 0034.41 0zm19.76 20.8a3.2 3.2 0 013.18 3.2 3.15 3.15 0 01-2.46 3c-.24 0-.48.06-.72.06a2.49 2.49 0 01-1-.12A3.11 3.11 0 0151 24a3.2 3.2 0 013.17-3.2zm-40.36-2.17A4.14 4.14 0 0115 26.74V29a3.78 3.78 0 001 2 4.2 4.2 0 001.57.9 1.55 1.55 0 011.08 1.32 1.4 1.4 0 01-1.38 1.38 1 1 0 01-.42-.06A6.25 6.25 0 0112.43 29v-2.32a4.1 4.1 0 01-2.76-3.9 4.16 4.16 0 014.14-4.15zM56.75 40v3.13a5.3 5.3 0 01-10.57-.48v-8.4a1.87 1.87 0 00-1.86-1.86h-.06a1.87 1.87 0 00-1.86 1.86v13.63a4 4 0 01-.48 7.69 4.63 4.63 0 01-.9.12 3.87 3.87 0 01-1.2-.18A4.08 4.08 0 0137 51.66a4 4 0 012.77-3.78V37.55a1.87 1.87 0 00-1.87-1.86h-.24a1.87 1.87 0 00-1.86 1.86v3.24a3.34 3.34 0 01-.6 6.31 1.91 1.91 0 01-.78.12h-.12a4.63 4.63 0 01-.9-.12 3.33 3.33 0 01-.3-6.25v-4.74a1.76 1.76 0 00-.54-1.32 2 2 0 00-1.32-.54 1.87 1.87 0 00-1.86 1.86v14.41a4.8 4.8 0 01.06 9.37 6.61 6.61 0 01-1.08.12 5.71 5.71 0 01-1.45-.24 4.84 4.84 0 01-.18-9.19V32.63a1.87 1.87 0 00-1.86-1.86 1.92 1.92 0 00-1.92 1.86v12.61a5.91 5.91 0 01-5.88 6.12 6.2 6.2 0 01-6.13-5.16 4.19 4.19 0 112.51-.2 3.75 3.75 0 003.61 2.76 3.41 3.41 0 003.36-3.6V24.28a14.09 14.09 0 0113.87-14h.06a14 14 0 019.91 4.08 13.74 13.74 0 014.14 9.91l-.06 11.65.06 7a3.16 3.16 0 003.07 2.58 3 3 0 002.16-.9 3.08 3.08 0 00.9-1.68s.06-.66.06-.72V40c-.12 0-.18-.06-.3-.06a4.34 4.34 0 01-3.06-4.26A4.39 4.39 0 1156.75 40z" class="cls6"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1596 594">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1103.12-1575.97h11818.34v6657.08h-11818.34z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #76787a } 
+		.s1 { fill: #005288 } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 4" class="s0" d="m1342.1 593.7l-262.4-520.4-262.4 520.4h-214l-61.3-121.7-61 120.1-181.1 1.6-299.3-593.4h181.1l250.4 495.2 61-120.1-189.1-375.1h181.6l266.2 527.9 266.9-527.9h205.7l299.4 593.4z"/>
+			<path id="Path 6" class="s1" d="m879.1 593.7c82.1-227.4 291-366 549.7-366 58.9 0 114.5 12.3 166.7 32.1v55.4c-50.6-22.7-110.2-35.1-181.1-35.1-202.8 0-307.7 142.4-352.1 313.6z"/>
+		</g>
+	</g>
+</svg>
