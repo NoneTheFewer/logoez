@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: #77cffd; }
+		.cls2 { fill: #3195e3; }
+		.cls3 { fill: url(#b); }
+		.cls4 { fill: #2285e1; }
+	</style>
+	<defs>
+		<linearGradient id="a" x1="-226.696" y1="112.455" x2="-228.781" y2="111.138" gradientTransform="matrix(19.552 0 0 -17.665 4553.937 2058.486)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3c9fe6"/>
+			<stop offset="1" stop-color="#77cffd"/>
+		</linearGradient>
+		<linearGradient id="b" x1="-228.502" y1="111.075" x2="-232.159" y2="113.379" gradientTransform="matrix(19.552 0 0 -17.665 4545.156 2052.377)" gradientUnits="userSpaceOnUse">
+			<stop offset=".36" stop-color="#2285e1"/>
+			<stop offset=".79" stop-color="#2581cb"/>
+		</linearGradient>
+	</defs>
+	<path d="M 44.306,103.849 L 44.306,128.0 L 115.806,87.547 L 115.806,63.4 L 44.306,103.849" class="cls0"/>
+	<path d="M 44.306,46.491 L 115.806,86.943 L 115.806,62.792 L 44.306,22.34 L 44.306,46.491" class="cls1"/>
+	<path d="M 12.19,65.206 L 83.69,105.659 L 83.69,81.508 L 12.19,41.055 L 12.19,65.206" class="cls2"/>
+	<path d="M 12.19,65.206 L 83.69,105.659 L 83.69,81.508 L 12.19,41.055 L 12.19,65.206" class="cls3"/>
+	<path d="M 83.694,0.0 L 12.19,40.453 L 12.19,64.6 L 83.69,24.147 L 83.694,0.0" class="cls2"/>
+	<path d="M 83.694,81.566 L 83.694,105.66 L 62.4,93.613 L 83.694,81.566 M 44.306,46.434 L 44.306,22.34 L 65.6,34.387 L 44.306,46.434" class="cls4"/>
+</svg>

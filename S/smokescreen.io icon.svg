@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 193.5 193.5">
+	<style type="text/css">
+		.yellow1 { fill: #ffbe00; }
+		.yellow2 { fill: #dea601; }
+		.blue1 { fill: #01def7; }
+		.blue2 { fill: #019cac; }
+		.grey1 { fill: #404041; }
+		.grey2 { fill: #221f1f; }
+	</style>
+	<polygon class="yellow1" points="29.75,29.5 96.75,0.0 96.75,24.5 29.75,53.5"/>
+	<polygon class="yellow2" points="96.75,0.0 163.75,25.0 163.75,49.5 96.75,24.5"/>
+	<polygon class="grey1" points="96.75,24.5 163.75,49.5 163.75,74.0 96.75,49.9"/>
+	<polygon class="grey2" points="96.75,24.5 96.75,49.9 58.75,66.0 134.75,122.5 29.75,79.5 29.75,53.5"/>
+	<polygon class="blue2" points="58.75,66.0 163.75,110.5 163.75,134.5 96.75,167.5 96.75,142.5 134.75,122.5"/>
+	<polygon class="blue1" points="29.75,118.5 96.75,142.5 96.75,167.5 29.75,143.5"/>
+	<polygon class="grey1" points="29.75,143.5 96.75,167.5 96.75,193.5 29.75,168.5"/>
+	<polygon class="grey2" points="96.75,167.5 163.75,134.5 163.75,158.5 96.75,193.5"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 887 1590">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-12.81h8383.23v1622.03h-8383.23z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #dd3c71 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m472.8 963h-303.6v626.2h-169.1v-1588.6h464c353.7 0 422.1 285.4 422.1 421.2v115.9c-0.1 140.3-68.5 425.3-413.4 425.3zm246.2-536.6c0-225.1-167.2-256.4-259.4-256.4h-290.4v623.9h294.8c92.3 0 255.1-33.5 255.1-258.5z"/>
+		</g>
+	</g>
+</svg>

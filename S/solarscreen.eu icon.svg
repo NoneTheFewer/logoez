@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 300 300">
+	
+  
+	<path fill="#fff" d="M0 0h300v300H0z"/>
+	
+  
+	<mask id="a" width="135" height="205" x="83" y="54" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+		
+    
+		<path fill="#fff" d="M194.278 54.01 121.66 226.944c-7.696 18.879-22.112 31.638-38.66 31.819h123.84c5.895 0 10.67-6.715 10.67-15.006V69.015c0-8.29-4.775-15.006-10.67-15.006h-12.562Z"/>
+		
+  
+	</mask>
+	
+  
+	<g mask="url(#a)">
+		
+    
+		<path fill="url(#b)" d="m98.734-6.819-62.531 241.6 165.573 84.746 62.532-241.6L98.734-6.818Z"/>
+		
+  
+	</g>
+	
+  
+	<mask id="c" width="103" height="185" x="94" y="42" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+		
+    
+		<path fill="#fff" d="M191.798 42c-.661 0-1.267.207-1.818.594l-.092.052s-.129.103-.202.155l-14.821 11.208-74.914 56.638h-.036c-3.325 2.583-5.584 7.542-5.584 13.249 0 5.708 2.406 10.977 5.914 13.456 16.07 9.659 27.328 32.077 27.328 58.188 0 11.441-2.167 22.159-5.932 31.405l72.636-172.936 1.231-2.944c.386-.904.588-1.937.588-3.047 0-3.306-1.91-5.992-4.261-5.992h-.037V42Z"/>
+		
+  
+	</mask>
+	
+  
+	<g mask="url(#c)">
+		
+    
+		<path fill="url(#d)" d="M138.746-28.993 29.118 146.241l122.585 151.657L261.33 122.663 138.746-28.993Z"/>
+		
+  
+	</g>
+	
+  
+	<defs>
+		
+    
+		<linearGradient id="b" x1="114.633" x2="237.706" y1="138.752" y2="170.606" gradientUnits="userSpaceOnUse">
+			
+      
+			<stop stop-color="#A2C4D8"/>
+			
+      
+			<stop offset=".23" stop-color="#A2C4D8"/>
+			
+      
+			<stop offset=".27" stop-color="#A6C8DC"/>
+			
+      
+			<stop offset=".44" stop-color="#B7D8EB"/>
+			
+      
+			<stop offset=".64" stop-color="#C0E2F5"/>
+			
+      
+			<stop offset=".89" stop-color="#C4E5F8"/>
+			
+      
+			<stop offset="1" stop-color="#C4E5F8"/>
+			
+    
+		</linearGradient>
+		
+    
+		<linearGradient id="d" x1="113.537" x2="173.803" y1="94.987" y2="132.689" gradientUnits="userSpaceOnUse">
+			
+      
+			<stop stop-color="#DADADA"/>
+			
+      
+			<stop offset=".45" stop-color="#F6F6F6"/>
+			
+      
+			<stop offset="1" stop-color="#B2B2B2"/>
+			
+    
+		</linearGradient>
+		
+  
+	</defs>
+	
+
+</svg>

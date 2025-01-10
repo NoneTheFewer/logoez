@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1332 1527">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0.71h8326.35v1526.94h-8326.35z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1526.932,1332.207,0,665.63,1527.645)">
+			<stop offset=".2" stop-color="#00274f"/>
+			<stop offset=".34" stop-color="#002d57"/>
+			<stop offset=".57" stop-color="#003e70"/>
+			<stop offset=".8" stop-color="#00558f"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m181.4 1422.5c104.6 61 224.4 98.6 352.4 104.1-15.8-7.1-28.9-15.8-38.7-27.8-95.8-122.6-188.4-306.7-256-526.8-16.3-48.5-31-101.3-41.9-153.6 35.4 5.4 87.7 9.2 129.6 9.2 147.1 0 236.4-48.4 236.4-184.1 0-135.6-94.8-191.2-263.6-191.2-40.3 0-81.2 3.8-118.2 10.4zm386.2-1421.8c-225 0-427.6 97.5-567.6 253.3 83.3-12 185.7-19.1 280.5-19.1 337.7 0 540.9 111.7 540.9 395.5 0 172.7-73.5 287.1-188.5 349.7-39.7 19.6-87.1 38.7-134 53.4 93.7 249 339.9 357.9 435.3 401.5 236.4-129.7 397.1-381.3 397.1-670 0.5-422.2-341.6-764.3-763.7-764.3z"/>
+		</g>
+	</g>
+</svg>

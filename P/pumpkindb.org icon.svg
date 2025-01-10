@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 589.84 748.48">
+  <defs>
+    <style>
+      .a, .c {
+        fill: #c65c14;
+      }
+      .a {
+        stroke: #42210b;
+        stroke-miterlimit: 10;
+        stroke-width: 10.3px;
+      }
+      .b {
+        fill: #d04b06;
+      }
+      .d {
+        fill: #f17008;
+      }
+      .e {
+        fill: #8f6646;
+      }
+      .f {
+        fill: #f48d39;
+      }
+      .g {
+        fill: #f7f3f0;
+      }
+      .h {
+        fill: #160c06;
+      }
+      .i {
+        fill: #f9f6f4;
+      }
+    </style>
+  </defs>
+  
+  <g>
+    <path class="a" d="M42.14,193.72" transform="translate(-123.55 -23.13)"/>
+    <ellipse class="b" cx="507.89" cy="480.81" rx="270.2" ry="158.01" transform="translate(-138.9 921.74) rotate(-85)"/>
+    <ellipse class="c" cx="554.2" cy="480.81" rx="270.2" ry="158.01" transform="translate(-96.63 967.87) rotate(-85)"/>
+    <ellipse class="b" cx="329.45" cy="480.81" rx="158.01" ry="270.2" transform="translate(-164.2 7.42) rotate(-5)"/>
+    <ellipse class="c" cx="283.15" cy="480.81" rx="158.01" ry="270.2" transform="translate(-164.37 3.38) rotate(-5)"/>
+    <ellipse class="d" cx="553.78" cy="501.41" rx="270.2" ry="158.01" transform="translate(-117.53 986.25) rotate(-85)"/>
+    <path class="e" d="M349.31,301.69l-6.08-55.49s3.35-29.66,64.44-33.91S379.57,76.2,379.57,76.2s20.51-73.64,54.16-47.44,35,179.27,35,179.27,21.7,57.6,23.93,77.95" transform="translate(-123.55 -23.13)"/>
+    <ellipse class="f" cx="507.47" cy="501.41" rx="270.2" ry="158.01" transform="translate(-159.8 940.12) rotate(-85)"/>
+    <ellipse class="d" cx="282.73" cy="501.41" rx="158.01" ry="270.2" transform="translate(-166.17 3.42) rotate(-5)"/>
+    <ellipse class="f" cx="329.04" cy="501.41" rx="158.01" ry="270.2" transform="translate(-166 7.46) rotate(-5)"/>
+    <ellipse class="d" cx="284.02" cy="478.28" rx="158.01" ry="270.2"/>
+    <circle class="g" cx="293.4" cy="367.28" r="55.15"/>
+    <circle class="h" cx="312.36" cy="390.57" r="18.96"/>
+    <circle class="i" cx="316.91" cy="391.34" r="5.87"/>
+  </g>
+</svg>

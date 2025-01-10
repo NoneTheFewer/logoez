@@ -1,0 +1,21 @@
+<svg viewBox='0 0 60 60' xmlns="http://www.w3.org/2000/svg" class="jb-product-card__logo" data-test="svg-sprite-image" data-test-sprite-id="space">
+	<defs>
+
+    <linearGradient id="space_space_svg__a" x1="27.048" x2="33.312" y1="62.824" y2="3.448" gradientTransform="matrix(1 0 0 -1 0 62)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fcf84a" />
+        <stop offset=".32" stop-color="#abe682" />
+        <stop offset=".79" stop-color="#36cdd2" />
+        <stop offset="1" stop-color="#07c3f2" />
+    </linearGradient>
+    <linearGradient id="space_space_svg__b" x1="4.068" x2="60.246" y1="61.892" y2="35.243" gradientTransform="matrix(1 0 0 -1 0 62)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#3bea62" />
+        <stop offset="1" stop-color="#087cfa" />
+    </linearGradient>
+    <linearGradient id="space_space_svg__c" x1="9.217" x2="65.779" y1="3.879" y2="43.473" gradientTransform="matrix(1 0 0 -1 0 62)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#009ae5" />
+        <stop offset=".18" stop-color="#0490dd" />
+        <stop offset=".49" stop-color="#1073c6" />
+        <stop offset=".89" stop-color="#2346a1" />
+        <stop offset="1" stop-color="#293896" />
+    </linearGradient>	</defs>
+	<g fill-rule="evenodd"><path fill="url(#space_space_svg__a)" d="M10.862 60A59.955 59.955 0 0 0 60 25.6 60.003 60.003 0 0 0 10.862 0C9.118 0 7.366.072 5.614.232A59.998 59.998 0 0 0 10.862 60z"></path><path fill="url(#space_space_svg__b)" d="M5.67.232A70.659 70.659 0 0 1 37.239 25.6H60A59.811 59.811 0 0 0 10.926 0Q8.31 0 5.67.232z"></path><path fill="url(#space_space_svg__c)" d="M37.247 25.6C34.503 43.704 10.862 60 10.862 60 32.35 57.96 51.2 45.08 60 25.6z"></path></g></svg>

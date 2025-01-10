@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 66.026139 57.097357" id="svg25" sodipodi:docname="pricesmart-id2_BIGsasasas.svg" inkscape:version="1.2.1 (9c6d41e, 2022-07-14)" inkscape:export-filename="pricesmart-id2_BIG.png" inkscape:export-xdpi="490.76852" inkscape:export-ydpi="490.76852">
+	<sodipodi:namedview id="namedview27" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="2.3137255" inkscape:cx="105.88983" inkscape:cy="36.737288" inkscape:window-width="1440" inkscape:window-height="698" inkscape:window-x="0" inkscape:window-y="32" inkscape:window-maximized="0" inkscape:current-layer="svg25"/>
+	<defs id="defs12">
+		<radialGradient cx="30.699827" cy="34.8535" fx="30.699827" fy="34.8535" gradientTransform="scale(1.0753502,0.92992958)" id="radialGradient-1" r="52.758209" gradientUnits="userSpaceOnUse">
+			<stop offset="0%" stop-color="#EF4123" id="stop4"/>
+			<stop offset="47.7545892%" stop-color="#DE3A24" id="stop6"/>
+			<stop offset="100%" stop-color="#650A2E" id="stop8"/>
+		</radialGradient>
+		<path d="m 44.235657,0 c -0.32164,0.00204 -0.735079,0.28423966 -1.190679,0.86631896 L 33.01295,13.648944 22.981602,0.86631896 C 22.525323,0.28423966 22.112563,0.00204 21.790924,0 21.350964,0 21.082365,0.52971936 21.111605,1.5415581 L 21.565844,17.853379 5.6137432,14.500303 C 3.8974253,14.139903 3.4513458,14.910342 4.6134644,16.2207 L 15.426131,28.398126 1.0679486,36.071237 c -1.54699809,0.826199 -1.39603828,1.703398 0.3406796,1.961797 l 16.0697408,2.376598 c 0,0 -6.022753,14.987181 -6.069673,15.102781 -1.006399,2.505797 1.510958,1.606159 2.430317,0.26724 3.415636,-4.975554 8.87535,-8.45035 14.802223,-9.565549 -5.791554,-1.857077 -9.987149,-7.282111 -9.987149,-13.691103 0,-7.93355 6.427353,-14.367023 14.358863,-14.377903 7.931511,0.01088 14.358863,6.444353 14.358863,14.377903 0,6.408992 -4.194915,11.834026 -9.987148,13.691103 5.926873,1.115199 11.386586,4.589995 14.802902,9.565549 0.919359,1.338919 3.436036,2.238557 2.429637,-0.26724 -0.04624,-0.1156 -6.068992,-15.102781 -6.068992,-15.102781 l 16.06906,-2.376598 c 1.737398,-0.258399 1.887678,-1.135598 0.34068,-1.961797 L 50.599769,28.398126 61.412436,16.2207 c 1.162799,-1.310358 0.716719,-2.080797 -0.999599,-1.720397 L 44.460057,17.853379 44.914296,1.5415581 C 44.943536,0.52971936 44.675616,0 44.235657,0 Z" id="path-2"/>
+	</defs>
+	<g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1" transform="translate(-23.297102)">
+		<g id="HP-Static---Int-Defualt-Country-Picker" transform="translate(-569,-114)">
+			<g id="PriceSmart-ID" transform="translate(569,114)">
+				<g fill="#ffffff" id="Logotype" transform="translate(0,52.121597)"/>
+				<g id="Sunburst" transform="translate(23.297102)">
+					<mask fill="#ffffff" id="mask-3">
+						<use xlink:href="#path-2" id="use17"/>
+					</mask>
+					<use fill="url(#radialGradient-1)" id="Clip-7" xlink:href="#path-2" style="fill:url(#radialGradient-1)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

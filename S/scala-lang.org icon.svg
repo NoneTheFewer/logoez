@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<linearGradient id="A" gradientUnits="userSpaceOnUse" x1="13.528" y1="-36.176" x2="88.264" y2="-36.176">
+		<stop offset="0" stop-color="#656565"/>
+		<stop offset="1" stop-color="#010101"/>
+	</linearGradient>
+	<linearGradient id="B" gradientUnits="userSpaceOnUse" x1="13.528" y1="3.91" x2="88.264" y2="3.91">
+		<stop offset="0" stop-color="#656565"/>
+		<stop offset="1" stop-color="#010101"/>
+	</linearGradient>
+	<linearGradient id="C" gradientUnits="userSpaceOnUse" x1="13.528" y1="-55.974" x2="88.264" y2="-55.974">
+		<stop offset="0" stop-color="#9f1c20"/>
+		<stop offset="1" stop-color="#ed2224"/>
+	</linearGradient>
+	<linearGradient id="D" gradientUnits="userSpaceOnUse" x1="13.528" y1="-15.87" x2="88.264" y2="-15.87">
+		<stop offset="0" stop-color="#9f1c20"/>
+		<stop offset="1" stop-color="#ed2224"/>
+	</linearGradient>
+	<linearGradient id="E" gradientUnits="userSpaceOnUse" x1="13.528" y1="24.22" x2="88.264" y2="24.22">
+		<stop offset="0" stop-color="#9f1c20"/>
+		<stop offset="1" stop-color="#ed2224"/>
+	</linearGradient>
+	<g transform="matrix(.492308 0 0 .492308 6.941539 39.876923)">
+		<path d="M 13.4,-31.0 C 13.4,-31.0 88.4,-23.5 88.4,-11.0 L 88.4,-41.0 C 88.4,-41.0 88.4,-53.5 13.4,-61.0 L 13.4,-31.0" fill="url(#A)"/>
+		<path d="M 13.4,9.0 C 13.4,9.0 88.4,16.5 88.4,29.0 L 88.4,-1.0 C 88.4,-1.0 88.4,-13.5 13.4,-21.0 L 13.4,9.0" fill="url(#B)"/>
+		<path d="M 88.4,-81.0 L 88.4,-51.0 C 88.4,-51.0 88.4,-38.5 13.4,-31.0 L 13.4,-61.0 C 13.4,-61.0 88.4,-68.5 88.4,-81.0" fill="url(#C)"/>
+		<path d="M 13.4,-21.0 C 13.4,-21.0 88.4,-28.5 88.4,-41.0 L 88.4,-11.0 C 88.4,-11.0 88.4,1.5 13.4,9.0 L 13.4,-21.0" fill="url(#D)"/>
+		<path d="M 13.4,49.0 L 13.4,19.0 C 13.4,19.0 88.4,11.5 88.4,-1.0 L 88.4,29.0 C 88.4,29.0 88.4,41.5 13.4,49.0" fill="url(#E)"/>
+	</g>
+</svg>

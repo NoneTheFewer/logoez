@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 31.12">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: url(#b); }
+		.cls2 { fill: url(#c); }
+		.cls3 { fill: url(#d); }
+		.cls4 { fill: url(#e); }
+	</style>
+	<g transform="translate(0 -51)">
+		<defs>
+			<linearGradient id="a" x1="24.48" y1="81.1" x2="24.48" y2="58.95" gradientUnits="userSpaceOnUse">
+				<stop offset="0" stop-color="#2d58fe"/>
+				<stop offset="1" stop-color="#039be5"/>
+			</linearGradient>
+			<linearGradient id="b" x1="58.68" y1="81.1" x2="58.68" y2="58.95" xlink:href="#a"/>
+			<linearGradient id="c" x1="83.04" y1="81.1" x2="83.04" y2="58.95" xlink:href="#a"/>
+			<linearGradient id="d" x1="100.05" y1="81.1" x2="100.05" y2="58.95" xlink:href="#a"/>
+			<linearGradient id="e" x1="117.23" y1="81.1" x2="117.23" y2="58.95" xlink:href="#a"/>
+		</defs>
+		<path d="M48.97 50.99h-8.88l-7.17 12.69V50.99H10.69c-6.4 0-9.59 3.18-9.58 9.57 0 6.39 3.2 9.6 9.58 9.62h2.39a2.109 2.109 0 012.4 2.39c.02.19.02.37 0 .56a2.11 2.11 0 01-2.39 1.8H0v7.18h13.07c6.38 0 9.57-3.2 9.57-9.58s-3.19-9.57-9.57-9.57h-2.39a2.128 2.128 0 01-2.4-2.4c-.03-.19-.03-.39 0-.59a2.128 2.128 0 012.4-1.8h15.04v23.94h7.16V69.42l7.17 12.69h8.88l-9.34-15.56 9.37-15.56z" class="cls0"/>
+		<path d="M57.25 62.96l-5.3-11.97-4.23 7.31 6.02 13.96v9.85h7.18v-9.85l8.71-21.27h-7.17l-5.21 11.97z" class="cls1"/>
+		<path d="M85.77 50.99l-7.18 12.69V50.99h-7.17v31.12h7.14V69.42l7.19 12.69h8.88L85.3 66.55l9.36-15.56h-8.89z" class="cls2"/>
+		<path d="M96.46 50.99h7.17v31.12h-7.17z" class="cls3"/>
+		<path d="M106.46 58.17h7.17v23.94h7.19V58.17H128v-7.18h-21.54v7.18z" class="cls4"/>
+	</g>
+</svg>

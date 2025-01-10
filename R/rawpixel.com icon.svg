@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+	<defs>
+		<linearGradient id="a" x1="-95.34" y1="276.35" x2="1530.32" y2="912.47" gradientTransform="matrix(1 0 0 -1 0 1026)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#74c0f2"/>
+			<stop offset=".09" stop-color="#78b9f1"/>
+			<stop offset=".22" stop-color="#85a6f0"/>
+			<stop offset=".37" stop-color="#9988ed"/>
+			<stop offset=".54" stop-color="#b55de9"/>
+			<stop offset=".66" stop-color="#ca3de6"/>
+			<stop offset=".79" stop-color="#7953d9"/>
+			<stop offset="1" stop-color="#7953d9"/>
+		</linearGradient>
+	</defs>
+	<circle cx="512" cy="512" r="500" style="fill:url(#a)"/>
+	<path d="M 750.25,560.57 L 443.07,781.17 C 416.27,801.78 377.07,795.6 356.47,766.73 A 56.0,56.0 0.0 0,1 344.1,731.73 L 344.1,292.56 C 344.1,257.51 370.9,230.7 406.0,230.7 A 56.0,56.0 0.0 0,1 441.0,243.08 L 748.18,463.7 C 774.98,484.32 783.24,521.43 762.62,550.29 A 79.63,79.63 0.0 0,1 750.25,560.57 L 750.25,560.57" style="fill:#fff;fill-rule:evenodd"/>
+</svg>

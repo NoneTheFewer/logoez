@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268.0 268.0">
+	<style>
+		.blue { fill: #0b5182; }
+		.orange { fill: #eb8a2c; }
+	</style>
+	<rect x="189.5" y="0" width="77" height="77" class="blue"/>
+	<rect x="95.5" y="95" width="77" height="77" class="blue"/>
+	<rect x="189.5" y="95" width="77" height="77" class="blue"/>
+	<rect x="1.5" y="191" width="77" height="77" class="blue"/>
+	<rect x="95.5" y="191" width="77" height="77" class="blue"/>
+	<rect x="189.5" y="191" width="77" height="77" class="orange"/>
+</svg>

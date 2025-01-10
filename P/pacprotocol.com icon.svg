@@ -1,0 +1,18 @@
+<svg  viewBox="0 0 36 36"  xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <lineargradient id="pacprotocol_svg__a" x1="24.996%" x2="74.994%" y1="6.702%" y2="93.301%">
+   <stop offset="0%" stop-color="#05C1DA">
+   </stop>
+   <stop offset="43.29%" stop-color="#00BED6">
+   </stop>
+   <stop offset="100%" stop-color="#00B3CC">
+   </stop>
+  </lineargradient>
+ </defs>
+ <g fill="none" fill-rule="nonzero">
+  <circle cx="18" cy="18" fill="url(#pacprotocol_svg__a)" r="18">
+  </circle>
+  <path d="M26.173 17.832 18.084 6.1 9.985 17.832l6.838 9.91v-9.957l-1.112 4.344-2.97-4.297 5.343-7.725 5.334 7.725-2.961 4.297-2.373-9.285v16.73z" fill="#FFF">
+  </path>
+ </g>
+</svg>

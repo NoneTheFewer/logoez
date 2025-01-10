@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Group 3586" viewBox="0 0 28.5 28.5">
+	<style>
+		.cls0 { fill: url(#linear-gradient); }
+		.cls1 { fill: #0970b8; }
+		.cls2 { fill: #174d8d; }
+	</style>
+	<defs>
+		<linearGradient id="linear-gradient" x1="0.082" y1="0.493" x2="0.968" y2="0.517" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#99ca3c"/>
+			<stop offset="0.401" stop-color="#61b2e3"/>
+			<stop offset="1" stop-color="#0b71b9"/>
+		</linearGradient>
+		<clipPath id="clip-path">
+			<path id="Path_2001" name="logo" data-name="Path 2001" d="M 4.083,27.031 L 27.153,15.27 L 27.153,23.876 L 27.139,23.876 A 3.264,3.264 0.0 0,1 23.87,27.14 L 4.644,27.14 A 3.736,3.736 0.0 0,1 4.083,27.031 M 1.37,23.876 L 1.37,4.644 A 3.264,3.264 0.0 0,1 4.629,1.38 L 16.84,1.38 L 1.625,25.119 A 3.151,3.151 0.0 0,1 1.365,23.876 M 18.494,1.38 L 23.87,1.38 A 3.264,3.264 0.0 0,1 27.134,4.644 L 27.134,13.727 L 2.494,26.307 L 18.494,1.38 M 4.644,0.0 A 4.657,4.657 0.0 0,0 0.0,4.644 L 0.0,23.876 A 4.547,4.547 0.0 0,0 0.778,26.43 L 0.778,26.444 L 1.106,26.826 A 4.256,4.256 0.0 0,0 2.106,27.742 L 2.352,27.919 L 2.392,27.905 A 4.54,4.54 0.0 0,0 4.66,28.52 L 23.888,28.52 A 4.658,4.658 0.0 0,0 28.532,23.876 L 28.532,4.644 A 4.678,4.678 0.0 0,0 23.87,0.0 L 4.644,0.0" class="cls0"/>
+		</clipPath>
+		<clipPath id="clip-path-2">
+			<rect name="blue_holder" id="Rectangle_1411" data-name="Rectangle 1411" width="166" height="35" fill="none"/>
+		</clipPath>
+	</defs>
+	<g id="Group_3583" data-name="Group 3583">
+		<g id="Group_3582" data-name="Group 3582" clip-path="url(#clip-path)">
+			<rect name="logo_holder" id="Rectangle_1409" data-name="Rectangle 1409" width="40.342" height="40.342" transform="translate(-12.53 14.26) rotate(-45)" fill="url(#linear-gradient)"/>
+		</g>
+	</g>
+	<g id="Group_3585" data-name="Group 3585">
+		<g id="Group_3584" data-name="Group 3584" clip-path="url(#clip-path-2)">
+			<path name="logo-dot" id="Path_2002" data-name="Path 2002" d="M 23.342,7.5 A 1.619,1.619 0.0 1,0 21.717,5.875 A 1.629,1.629 0.0 0,0 23.342,7.5" class="cls1"/>
+		</g>
+	</g>
+</svg>

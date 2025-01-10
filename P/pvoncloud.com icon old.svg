@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 52.916667 52.916667" version="1.1" id="svg8" sodipodi:docname="icono_pvoncloud_bimi.svg" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1958" inkscape:window-height="1272" id="namedview28" showgrid="false" inkscape:zoom="3.5919192" inkscape:cx="59.341896" inkscape:cy="123.14688" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg8" inkscape:document-rotation="0" units="px"/>
+	<defs id="defs2">
+		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath849">
+			<path d="M 0,595.276 H 841.89 V 0 H 0 Z" id="path847"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath897">
+			<path d="m 217.751,291.055 c 0,-26.104 44.207,-76.52 44.207,-76.52 v 0 c 0,0 44.206,48.477 44.206,76.52 v 0 c 0,24.415 -19.792,44.208 -44.206,44.208 v 0 c -24.415,0 -44.207,-19.793 -44.207,-44.208 m 27.691,8.983 c 0,8.991 7.288,16.279 16.278,16.279 v 0 c 8.991,0 16.279,-7.288 16.279,-16.279 v 0 c 0,-8.991 -7.288,-16.279 -16.279,-16.279 v 0 c -8.99,0 -16.278,7.288 -16.278,16.279 m -0.3,-10.992 c 2.06,-3.1 4.968,-5.577 8.389,-7.126 v 0 -16.904 h -8.389 z M 272.69,256.82 h 8.631 l -18.326,-26.518 -17.849,26.518 h 8.407 l 9.442,-14.029 z" id="path895"/>
+		</clipPath>
+		<radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(36.583054,-1.4306222,-1.4306222,-36.583054,261.12518,300.13239)" spreadMethod="pad" id="radialGradient911">
+			<stop style="stop-opacity:1;stop-color:#fabd25" offset="0" id="stop903"/>
+			<stop style="stop-opacity:1;stop-color:#fabd25" offset="0.594329" id="stop905"/>
+			<stop style="stop-opacity:1;stop-color:#f57b2a" offset="0.907304" id="stop907"/>
+			<stop style="stop-opacity:1;stop-color:#f57b2a" offset="1" id="stop909"/>
+		</radialGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath921">
+			<path d="M 0,595.276 H 841.89 V 0 H 0 Z" id="path919"/>
+		</clipPath>
+	</defs>
+	<g id="layer1" transform="translate(-26.716103,-93.746981)">
+		<g id="g841" transform="matrix(0.35277777,0,0,-0.35277777,-39.642684,213.10114)">
+			<g id="g891">
+				<g id="g893" clip-path="url(#clipPath897)">
+					<g id="g899">
+						<g id="g901">
+							<path d="m 217.751,291.055 c 0,-26.104 44.207,-76.52 44.207,-76.52 v 0 c 0,0 44.206,48.477 44.206,76.52 v 0 c 0,24.415 -19.792,44.208 -44.206,44.208 v 0 c -24.415,0 -44.207,-19.793 -44.207,-44.208 m 27.691,8.983 c 0,8.991 7.288,16.279 16.278,16.279 v 0 c 8.991,0 16.279,-7.288 16.279,-16.279 v 0 c 0,-8.991 -7.288,-16.279 -16.279,-16.279 v 0 c -8.99,0 -16.278,7.288 -16.278,16.279 m -0.3,-10.992 c 2.06,-3.1 4.968,-5.577 8.389,-7.126 v 0 -16.904 h -8.389 z M 272.69,256.82 h 8.631 l -18.326,-26.518 -17.849,26.518 h 8.407 l 9.442,-14.029 z" style="fill:url(#radialGradient911);stroke:none" id="path913"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g915">
+				<g id="g917" clip-path="url(#clipPath921)">
+					<g id="g923" transform="translate(281.0605,199.6362)">
+						<path d="m 0,0 c 0,-4.441 -8.659,-8.041 -19.34,-8.041 -10.682,0 -19.341,3.6 -19.341,8.041 0,4.44 8.659,8.04 19.341,8.04 C -8.659,8.04 0,4.44 0,0" style="fill:#6a584a;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path925"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

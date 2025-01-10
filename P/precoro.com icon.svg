@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 283.5 283.5">
+	<linearGradient id="a" x1="591.469" x2="455.76" y1="164.841" y2="35.444" gradientTransform="rotate(3.41 -703.013 -6241.004) scale(.99997)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#486aff"/>
+		<stop offset="1" stop-color="#48d3ff"/>
+	</linearGradient>
+	<path fill="url(#a)" d="M243 198.4c9.7-16.6 14.8-34.7 15.7-52.7-64.2-5.7-129 25-163.8 84.3-2.2 3.7-4.2 7.5-6 11.2 54.3 29.6 122.6 10.9 154.1-42.8z"/>
+	<linearGradient id="b" x1="647.745" x2="512.036" y1="105.82" y2="-23.577" gradientTransform="rotate(3.41 -703.013 -6241.004) scale(.99997)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#486aff"/>
+		<stop offset="1" stop-color="#48d3ff"/>
+	</linearGradient>
+	<path fill="url(#b)" d="M258.8 139.7c-.2-39.3-20.5-77.5-56.9-98.8-36.2-21.2-79.3-20.4-113.6-1.6 14.2 31.3 37.8 58.6 69.6 77.3 31.8 18.6 66.9 25.9 100.9 23.1z"/>
+	<linearGradient id="c" x1="569.571" x2="433.862" y1="187.807" y2="58.41" gradientTransform="rotate(3.41 -703.013 -6241.004) scale(.99997)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#486aff"/>
+		<stop offset="1" stop-color="#48d3ff"/>
+	</linearGradient>
+	<path fill="url(#c)" d="M83.6 42C68 51.6 54.4 65 44.5 82c-31.6 53.9-14.4 123 38.3 155.9 2.6-3.7 5-7.5 7.3-11.4 34.8-59.5 30-131.2-6.5-184.5z"/>
+</svg>

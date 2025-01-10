@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 1000">
+	<style type="text/css">
+	.Vržený_x0020_stín{fill:none;}
+	.Zaoblení_x0020_rohů_x0020__x0020_2_x0020_b_x002E_{fill:#FFFFFF;stroke:#1D1E1C;stroke-miterlimit:10;}
+	.Živé_x0020_zrcadlení_x0020_X{fill:none;}
+	.Úkos_x0020_měkký{fill:url(#SVGID_1_);}
+	.Soumrak{fill:#FFFFFF;}
+	.Listoví_GS{fill:#FFDA05;}
+	.Pompadourská_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#50ACE0;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#09090A;}
+	.st2{fill:#48A035;}
+</style>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="595.6435" y1="-250.8954" x2="596.3506" y2="-250.1883">
+		<stop offset="0" style="stop-color:#E6E6E9"/>
+		<stop offset="0.1768" style="stop-color:#E2E2E5"/>
+		<stop offset="0.3581" style="stop-color:#D6D6D9"/>
+		<stop offset="0.5415" style="stop-color:#C1C2C4"/>
+		<stop offset="0.7263" style="stop-color:#A4A6A7"/>
+		<stop offset="0.9105" style="stop-color:#808283"/>
+		<stop offset="1" style="stop-color:#6B6E6E"/>
+	</linearGradient>
+	<g id="Group_2_00000001660154037729618420000013954796516504928909_" transform="translate(0 0)">
+		<path id="Path_14_00000125596502912741643790000010830472785109194925_" class="st2" d="M157.1,563.2H0V1000h438.1V842.5h-281   V563.2z"/>
+		<path id="Path_15_00000021820956667171969780000011614469387043729072_" class="st2" d="M0,0v439.2h157.1V157.5h281L437.9,0H0z"/>
+		<path id="Path_16_00000090294317126124368930000008697260778233419175_" class="st2" d="M562.6,0l-0.7,157.5h281v279.2H1000V0   H562.6z"/>
+		<path id="Path_17_00000013889358153914622220000010968452661547812784_" class="st2" d="M842.9,842.5h-281V1000H1000V563.2H842.9   V842.5z"/>
+	</g>
+</svg>

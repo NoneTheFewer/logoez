@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1558 1556">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 543.9h5748.12v1042.57h-5748.12z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 543.9h5748.12v1042.57h-5748.12z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #de4d5f } 
+		.s1 { fill: #e36877 } 
+		.s2 { fill: #e88491 } 
+	</style>
+	<g id="Phoenix_Group_Brandmark_Secondary_RGB">
+		<path id="Fill-1" fill-rule="evenodd" class="s0" d="m1557.7 1555.7c-124.6 0-235.9-102.1-235.9-222.1v-970.6c0-60 31.2-153.3 77.9-204.4-46.7 51.1-144.6 77.8-204.7 77.8h-972.5c-120.1 0-222.5-111.1-222.5-235.4h1557.7z"/>
+		<path id="Fill-2" fill-rule="evenodd" class="s1" d="m1048.1 1555.7c-124.6 0-235.9-102.1-235.9-222.1v-473.1c0-59.9 31.2-139.9 77.9-191-46.7 51.1-131.3 77.7-191.4 77.7h-476.2c-120.1 0-222.5-111-222.5-235.4h1048.1z"/>
+		<g id="Group-6">
+			<g id="Clip-Path: Fill-3" clip-path="url(#cp1)">
+				<path id="Fill-3" fill-rule="evenodd" class="s2" d="m538.5 1555.7c-124.6 0-224.7-86.6-224.7-213.2 0-53.3 13.3-106.6 44.5-144.4-37.9 31.1-91.3 44.5-144.7 44.5-126.8 0-213.6-102.2-213.6-224.4h538.5z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.4 35.4" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<style type="text/css">
+		.blue { fill: #02568b; }
+		.white { fill: #FFF; }
+		rect
+		{
+			border-radius: 5px;
+		}
+	</style>
+	<defs>
+    <rect id="rect" x="0%" y="0%" width="100%" height="100%" rx="2"/>
+    <clipPath id="clip">
+      <use xlink:href="#rect"/>
+    </clipPath>
+  </defs>
+  <use xlink:href="#rect" class="blue"/>
+	<polygon class="white" points="
+		3.0,23.6
+		35.4,23.6
+		35.4,13.0"/>
+</svg>

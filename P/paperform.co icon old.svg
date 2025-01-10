@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<defs>
+		<style>.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:none;}</style>
+		<linearGradient id="linear-gradient" x1="-1048.26" y1="403.2" x2="-1048.39" y2="403.16" gradientTransform="matrix(227, 0, 0, -377.95, 238002, 152405.12)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#5eb2bf"/>
+			<stop offset="1" stop-color="#2f7ec3"/>
+		</linearGradient>
+	</defs>
+	<g id="Paperform">
+		<g id="Logo">
+			<g id="Logo--gradient--shadow">
+				<path id="path-2" class="cls-1" d="M19.06,6h3.46a2.77,2.77,0,0,1,2.77,2.77V55.38a2.77,2.77,0,0,1-2.77,2.77H19.06a2.77,2.77,0,0,1-2.77-2.77V8.75A2.77,2.77,0,0,1,19.06,6Zm13.81.28,13.42,8a2.9,2.9,0,0,1,1.42,2.49V27.16a2.91,2.91,0,0,1-1.42,2.5l-13.42,8a2.9,2.9,0,0,1-4.4-2.49V8.75a2.91,2.91,0,0,1,4.4-2.49Z"/>
+				<path id="path-2-2" data-name="path-2" class="cls-2" d="M19.06,6h3.46a2.77,2.77,0,0,1,2.77,2.77V55.38a2.77,2.77,0,0,1-2.77,2.77H19.06a2.77,2.77,0,0,1-2.77-2.77V8.75A2.77,2.77,0,0,1,19.06,6Zm13.81.28,13.42,8a2.9,2.9,0,0,1,1.42,2.49V27.16a2.91,2.91,0,0,1-1.42,2.5l-13.42,8a2.9,2.9,0,0,1-4.4-2.49V8.75a2.91,2.91,0,0,1,4.4-2.49Z"/>
+			</g>
+		</g>
+		<rect class="cls-3" width="64" height="64"/>
+	</g>
+</svg>

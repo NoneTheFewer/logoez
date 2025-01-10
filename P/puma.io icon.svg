@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: #e0097e; }
+		.cls1 { fill: #00a4d1; }
+		.cls2 { fill: #fef200; }
+		.cls3 { fill: #36353a; }
+	</style>
+	<circle cx="34.85" cy="34.85" r="34.85" style="mix-blend-mode:darken" class="cls0"/>
+	<circle cx="93.15" cy="34.85" r="34.85" style="mix-blend-mode:darken" class="cls1"/>
+	<circle cx="34.85" cy="93.15" r="34.85" style="mix-blend-mode:darken" class="cls2"/>
+	<circle cx="93.15" cy="93.15" r="34.85" style="mix-blend-mode:multiply" opacity="0.8" class="cls3"/>
+</svg>

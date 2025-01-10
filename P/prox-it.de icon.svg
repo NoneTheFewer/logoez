@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.17 22.145" baseProfile="tiny-ps">
+	<style>
+		.ora { fill: #F07C00; stroke: #F07C00; }
+		.blu { fill: #008bd0; stroke: #008bd0; }
+	</style>
+	<clipPath id="myClip">
+		<path d="M 30.19296,15.51247 C 36.91036,18.52523 35.1825,27.28302 29.4829,28.52677 C 29.4829,28.52677 5.36806,28.54917 5.36806,28.54917 C -2.49371,25.38311 0.19316,16.16426 5.73459,15.34522 C 6.04661,11.78056 9.32594,9.9715 12.77735,11.21528 C 17.30101,2.50776 30.47345,6.80492 30.19296,15.51243 L 30.19296,15.51247" id="path2" class="ora" fill-rule="evenodd" stroke-width="0.0635265" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="none" transform="scale(-1 1) translate(-34.57 -6.42)"/>
+	</clipPath>
+	<g id="layer1" transform="scale(-1 1) translate(-34.57 -6.42)">
+		<path d="M 30.19296,15.51247 C 36.91036,18.52523 35.1825,27.28302 29.4829,28.52677 C 29.4829,28.52677 5.36806,28.54917 5.36806,28.54917 C -2.49371,25.38311 0.19316,16.16426 5.73459,15.34522 C 6.04661,11.78056 9.32594,9.9715 12.77735,11.21528 C 17.30101,2.50776 30.47345,6.80492 30.19296,15.51243 L 30.19296,15.51247" id="path2" class="ora" fill-rule="evenodd" stroke-width="0.0635265" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="none"/>
+		<path transform="translate(-7 .25)" d="M 29.98159,19.38656 C 34.69937,21.50245 33.48586,27.65325 29.4829,28.52677 C 29.4829,28.52677 12.5465,28.54257 12.5465,28.54257 C 7.02502,26.31896 8.91205,19.84437 12.80394,19.26914 C 13.02307,16.7656 15.32621,15.49507 17.75022,16.36859 C 20.92728,10.25309 30.1786,13.27109 29.98159000000005,19.38659 L 29.98159,19.38656" id="path4" fill="#008bd0" fill-rule="evenodd" stroke="#FFF" stroke-width=".5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="none"/>
+	</g>
+	<use clip-path="url(#myClip)" href="#layer1" fill="red"/>
+</svg>

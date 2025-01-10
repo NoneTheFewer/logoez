@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 106.76 60.34">
+    <defs>
+        <linearGradient id="a" x1="16.55" x2="90.37" y1="51.19" y2="11.95" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#00aeef" />
+            <stop offset=".62" stop-color="#8045b0" />
+            <stop offset="1" stop-color="#e12991" />
+        </linearGradient>
+        <linearGradient id="b" x1="14.84" x2="88.67" y1="47.99" y2="8.75" xlink:href="#a" />
+        <linearGradient id="c" x1="20.91" x2="94.73" y1="59.4" y2="20.16" xlink:href="#a" />
+        <linearGradient id="d" x1="13.41" x2="87.23" y1="45.42" y2="6.18" xlink:href="#a" />
+    </defs>
+    <g data-name="Layer 2">
+        <g data-name="Layer 1">
+            <path d="M93.25 11.06c1.74.42 3.24.8 4.67 1.19l5.1 1.4 3.74-11C103.57 1.7 100.3.81 97 0z" style="fill:url(#a)" />
+            <path d="M39.42 29.39A5.53 5.53 0 1 0 45 34.92a5.54 5.54 0 0 0-5.58-5.53z" style="fill:url(#b)" />
+            <path d="M67 29.38a5.53 5.53 0 1 0 5.53 5.53A5.54 5.54 0 0 0 67 29.38z" style="fill:url(#c)" />
+            <path d="m0 4 15.26 44.77.21.51a17.52 17.52 0 0 0 12.35 9.18c5.25 1.08 15.77 1.59 23.67 1.84h1.7l1.81-.01c7.84-.24 18.3-.76 23.56-1.84a17.5 17.5 0 0 0 12.34-9.19l10.5-30.94-5.21-1.42a181.27 181.27 0 0 0-41.29-6h-3.49l-1.31.1c-13.82 0-30.35 3.93-30.35 3.93L23 24.51s17.33-3.45 27-3.46l3-.06h1.57a173.83 173.83 0 0 1 32.82 4.11l1 .21-6.75 19.9a7.82 7.82 0 0 1-5.11 3.36c-3.5.72-11.51 1.32-22 1.65H51.71c-10.4-.32-18.36-.91-21.86-1.63a7.89 7.89 0 0 1-5.09-3.31l-.09-.19L9.74 1.36C6.45 2.17 3.18 3.07 0 4z" style="fill:url(#d)" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.29 115.29">
+	<defs>
+		<style>.cls-1{fill:url(#radial-gradient);}.cls-2{fill:#fff;}</style>
+		<radialGradient id="radial-gradient" cx="-0.35" cy="1.15" r="118.14" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#80cff5"/>
+			<stop offset="1" stop-color="#035ca0"/>
+		</radialGradient>
+	</defs>
+	<g id="CarrÃ©">
+		<rect class="cls-1" width="115.29" height="115.29"/>
+	</g>
+	<g id="Bandes">
+		<polygon class="cls-2" points="73.29 47.39 73.29 70.21 35.97 107.27 13.1 107.27 73.29 47.39"/>
+		<polygon class="cls-2" points="107.27 47.39 47.23 107.27 69.87 107.27 107.27 70.21 107.27 47.39"/>
+		<polygon class="cls-2" points="81.23 107.27 107.27 81.28 107.27 107.27 81.23 107.27"/>
+	</g>
+</svg>

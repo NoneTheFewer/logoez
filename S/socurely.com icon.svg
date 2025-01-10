@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+	<defs>
+		<linearGradient id="a" x1="287.6" x2="595.79" y1="273.17" y2="789.31" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#05e5b3"/>
+			<stop offset=".13" stop-color="#04d3c8"/>
+			<stop offset=".3" stop-color="#02c1df"/>
+			<stop offset=".49" stop-color="#01b3ef"/>
+			<stop offset=".71" stop-color="#00abf8"/>
+			<stop offset="1" stop-color="#00a9fb"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="c" x1="408.03" x2="716.22" y1="201.26" y2="717.4"/>
+		<linearGradient id="b" x1="624.67" x2="665.51" y1="759.06" y2="647.67" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#0200dc" stop-opacity=".5"/>
+			<stop offset=".22" stop-color="#4342e5" stop-opacity=".37"/>
+			<stop offset=".59" stop-color="#e9e9fc" stop-opacity=".04"/>
+			<stop offset=".64" stop-color="#fff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient xlink:href="#b" id="d" x1="446.07" x2="331.89" y1="264.44" y2="384.19"/>
+	</defs>
+	<g data-name="Layer 1" style="">
+		<rect width="1024" height="1024" rx="248.41"/>
+		<path d="m766.84 683.4-.55.4-51.08 36.56-117.79 84.3a147.6 147.6 0 0 1-171.8 0L145 603.87l59.57-42.62a92.23 92.23 0 0 1 107.37 0l200 143.13 141.57-101.3-6-4.29-247.74-177.26 113-80.87 242.94 173.83 10.79 7.72.34.25c55.16 39.47 55.16 121.48 0 160.94Z" style="fill:url(#a)"/>
+		<path d="M879 420.86 820.18 463a92.23 92.23 0 0 1-107.37 0l-200-143.13-142.13 101.67 1.46 1 252.25 180.5-112.47 80.51-251.09-179.67-2.62-1.88-1.35-1c-55.17-39.47-55.16-121.47 0-160.94l76.3-54.6s.07 0 .09-.07l92.39-66.11a147.64 147.64 0 0 1 171.78 0Z" style="fill:url(#c)"/>
+		<path d="M415.71 694.16v-.03l-.37-.27.37.3z" style="fill:#fff"/>
+		<path d="m766.84 683.4-.55.4-51.08 36.56c-124.29 54.81-203.26-16-203.26-16l141.57-101.3-6-4.29 108.22-84.3 10.79 7.72.34.25c55.13 39.49 55.13 121.5-.03 160.96Z" style="fill:url(#b);mix-blend-mode:multiply;opacity:.55"/>
+		<path d="m370.68 421.54 1.46 1-111.31 81.3-2.62-1.84-1.35-1c-55.17-39.47-55.16-121.47 0-160.94l76.3-54.6s.07 0 .09-.07c81-58.05 179.54 34.42 179.54 34.42Z" style="fill:url(#d);mix-blend-mode:multiply;opacity:.55"/>
+	</g>
+</svg>

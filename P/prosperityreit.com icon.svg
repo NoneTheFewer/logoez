@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1487 1568">
+	<defs>
+		<linearGradient id="g1" x1="-214.8" y1="5164.9" x2="1683" y2="5164.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1683" y1="-2595.3" x2="-214.8" y2="-2595.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".508" stop-color="#5fbf49"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="-214.8" y1="4736.6" x2="1683" y2="4736.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1683" y1="-3023.7" x2="-214.8" y2="-3023.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".508" stop-color="#5fbf49"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="-214.8" y1="4308.2" x2="1683" y2="4308.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="1683" y1="-3452" x2="-214.8" y2="-3452" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".508" stop-color="#5fbf49"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="1683" y1="-3880.4" x2="-214.8" y2="-3880.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".508" stop-color="#5fbf49"/>
+			<stop offset="1" stop-color="#007c6a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 6" class="s0" d="m0.5 1286h1486.1v-146.7h-1486.1z"/>
+			<path id="Path 7" class="s1" d="m0.5 1567.6h1486.1v-281.6h-1486.1z"/>
+			<path id="Path 8" class="s2" d="m0.5 857.6h1486.1v-146.7h-1486.1z"/>
+			<path id="Path 9" class="s3" d="m0.5 1139.3h1486.1v-281.7h-1486.1z"/>
+			<path id="Path 10" class="s4" d="m0.5 429.3h1486.1v-146.8h-1486.1z"/>
+			<path id="Path 11" class="s5" d="m0.5 713.3h1486.1v-284h-1486.1z"/>
+			<path id="Path 12" class="s6" d="m0.5 284.9h1486.1v-284h-1486.1z"/>
+		</g>
+	</g>
+</svg>

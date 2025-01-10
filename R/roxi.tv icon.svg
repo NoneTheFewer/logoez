@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 120 120">
+	<g transform="translate(4,6)">
+		<path fill="#CC1920" stroke="#CC1920" stroke-width="3" d="      M 0,50      C 0,0 0,0 50,0      S 100,0 100,50        100,100 50,100        0,100 0,50     ">
+        </path>
+	</g>
+	<g transform="scale(0.75,0.75)translate(18,18)">
+		<path d="M54,5 86,105 1,43H107L22,105" fill="#FFFFFF"/>
+	</g>
+</svg>

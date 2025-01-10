@@ -1,0 +1,22 @@
+<svg  viewBox="0 0 36 36"  xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <lineargradient id="stargaze_svg__a" x1="0%" x2="100%" y1="0%" y2="100%">
+   <stop offset="0%" stop-color="#943A1A">
+   </stop>
+   <stop offset="14.504%" stop-color="#943A1A">
+   </stop>
+   <stop offset="32.488%" stop-color="#D9AF43">
+   </stop>
+   <stop offset="48.736%" stop-color="#C5DF8A">
+   </stop>
+   <stop offset="69.222%" stop-color="#4C92D3">
+   </stop>
+   <stop offset="84.447%" stop-color="#13358E">
+   </stop>
+   <stop offset="100%" stop-color="#13358E">
+   </stop>
+  </lineargradient>
+ </defs>
+ <path d="M2937 1047c9.941 0 18 8.059 18 18s-8.059 18-18 18-18-8.059-18-18 8.059-18 18-18Zm0 2c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16Zm-.012 4.472c.372 0 .7.245.81.605l2.293 7.18h7.37a.867.867 0 0 1 .814.614.883.883 0 0 1-.323.975l-5.986 4.325 2.22 7.157a.873.873 0 0 1-.303.976.847.847 0 0 1-1.01.002l-5.885-4.491-5.873 4.489a.847.847 0 0 1-1.01-.007.873.873 0 0 1-.3-.976l2.205-7.14-5.963-4.336a.883.883 0 0 1-.321-.975.867.867 0 0 1 .813-.614h7.346l2.292-7.18a.85.85 0 0 1 .81-.604Z" fill="url(#stargaze_svg__a)" fill-rule="nonzero" transform="translate(-2919 -1047)">
+ </path>
+</svg>

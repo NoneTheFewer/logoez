@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1514 1536">
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="Bottom_arrow" fill-rule="evenodd" class="s0" d="m751.1 784.9v715.3l-29.2 35.5-120.7-601.1z"/>
+	<path id="Top_arrow" fill-rule="evenodd" class="s0" d="m763 751.9v-715.4l29.2-35.5 120.7 600.9z"/>
+	<path id="Left_arrow" fill-rule="evenodd" class="s0" d="m601.2 934.6l-600.9-120.5 35.5-29.2h715.3z"/>
+	<path id="Right_arrow" fill-rule="evenodd" class="s0" d="m913 602l600.9 120.9-35.5 29.2h-715.4z"/>
+</svg>

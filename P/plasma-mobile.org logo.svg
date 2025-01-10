@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" version="1.1" viewBox="0 0 80 80">
+	<g transform="translate(13.5)">
+		<path d="m43 10h-33v60h33z" fill="#eff0f1"/>
+		<path d="m41.5 14.5h-30v49.5h30z" fill="#31363b"/>
+		<path d="m31 65.5h-9v1.5h9z" fill="#4d4d4d" fill-opacity=".3"/>
+		<path d="m43 68.5h-33v1.5h33z" fill="#fff"/>
+		<path d="m23.06 29.94-2.121 2.121 10.5 10.5-1.9395 1.9395 12 12v-15l-4.5-4.5-3.4395 3.4395zm-3.2197 7.7197-3.1816 3.1816 6.75 6.75-2.25 2.25 14.159 14.159h6.1816v-4.6816z" clip-rule="evenodd" fill="url(#paint0_linear)" fill-rule="evenodd" opacity=".2"/>
+		<g fill="#fff">
+			<path d="m29.5 44.5-3-3 4.5-4.5-4.5-4.5 3-3 7.5 7.5z" clip-rule="evenodd" fill-rule="evenodd"/>
+			<path d="m22.75 50.5c1.2426 0 2.25-1.0074 2.25-2.25s-1.0074-2.25-2.25-2.25-2.25 1.0074-2.25 2.25 1.0074 2.25 2.25 2.25z"/>
+			<path d="m18.25 41.5c1.2426 0 2.25-1.0074 2.25-2.25s-1.0074-2.25-2.25-2.25-2.25 1.0074-2.25 2.25 1.0074 2.25 2.25 2.25z"/>
+			<path d="m22 32.5c0.8284 0 1.5-0.6716 1.5-1.5s-0.6716-1.5-1.5-1.5-1.5 0.6716-1.5 1.5 0.6716 1.5 1.5 1.5z"/>
+		</g>
+	</g>
+	<defs>
+		<linearGradient id="paint0_linear" x1="23.369" x2="47.5" y1="26.369" y2="50.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0"/>
+			<stop stop-opacity="0" offset="1"/>
+		</linearGradient>
+	</defs>
+	<rect width="80" height="80" rx="1.951" ry="1.951" fill="none"/>
+</svg>

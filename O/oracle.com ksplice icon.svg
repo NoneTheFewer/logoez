@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.0 124.0">
+	<style>
+		.blue { fill: #235896; }
+		.black { fill: #000; }
+	</style>
+	<polygon class="black" points="18.75,0.0 43.75,0.0 43.75,36.5 18.75,61.5"/>
+	<polygon class="black" points="18.75,62.0 43.75,87.0 43.75,124.0 18.75,124.0"/>
+	<polygon class="blue" points="86.05,0.0 105.25,0.0 105.25,7.0 50.25,61.8 105.25,116.5 105.25,123.5 86.65,123.5 24.25,61.8"/>
+</svg>

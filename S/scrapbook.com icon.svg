@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.2" baseProfile="tiny" id="b" xml:space="preserve" viewBox="0 0 260.29 260.29">
+	<defs>
+		<linearGradient id="d" x1="40.34" y1="25.79" x2="211.73" y2="224.94" gradientUnits="userSpaceOnUse">
+			<stop offset=".02" stop-color="#ffe885"/>
+			<stop offset=".04" stop-color="#fed57f"/>
+			<stop offset=".07" stop-color="#fcbc78"/>
+			<stop offset=".1" stop-color="#fbaa73"/>
+			<stop offset=".13" stop-color="#fb9f70"/>
+			<stop offset=".16" stop-color="#fb9c70"/>
+			<stop offset=".29" stop-color="#f98f9c"/>
+			<stop offset=".4" stop-color="#d990d4"/>
+			<stop offset=".45" stop-color="#cc91ed"/>
+			<stop offset=".7" stop-color="#999de3"/>
+			<stop offset=".76" stop-color="#9aacde"/>
+			<stop offset=".9" stop-color="#9ccfd3"/>
+			<stop offset=".98" stop-color="#9ddcd0"/>
+		</linearGradient>
+	</defs>
+	<g id="c">
+		<circle cx="130.15" cy="130.15" r="130.15" style="fill:url(#d); stroke-width:0px;"/>
+		<path d="M197.66,67.71c0,17.9-14.94,26.53-28.95,26.95-2.85.08-3.59-1.35-1.91-3.49,4.84-6.14,10.06-13.33,10.06-23.87,0-13.38-9.47-19.86-21.22-19.86-18.36,0-36.68,13.24-36.68,30.74,0,33.77,69.28,48,69.28,92.1,0,32.56-33.07,51.59-67.38,51.59s-58.23-14.88-58.23-38.75c0-18.3,15.94-32.5,32.5-32.5,2.63,0,2.32,1.85,1.17,3.44-5.98,8.28-9.77,16.71-9.77,26.41,0,16.23,14.24,30.23,34.62,30.23,26.02,0,41.38-15.25,41.38-32.1,0-35.8-67.09-47.84-67.09-88.89,0-26.23,25.38-51.31,63.17-51.31,24.74,0,39.03,14.52,39.03,29.3Z" style="fill:#fff; stroke-width:0px;"/>
+	</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1541 1546">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M770.37 1545.1L0.66 1545.1L0.66 0.21L770.37 0.21L1540.09 0.21L1540.09 1545.1L770.37 1545.1L770.37 1545.1Z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e25f37 } 
+	</style>
+	<g id="Symbols">
+		<g id="Header_Desktop">
+			<g id="PhreesiaLogo_Desktop">
+				<g id="Group-3">
+					<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+						<path id="Fill-1" fill-rule="evenodd" class="shp0" d="M1540.09 772.65C1540.09 1199.24 1195.29 1545.1 769.95 1545.1C344.78 1545.1 0 1199.24 0 772.65C0 346.04 344.78 0.21 769.95 0.21C1195.29 0.21 1540.09 346.04 1540.09 772.65Z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

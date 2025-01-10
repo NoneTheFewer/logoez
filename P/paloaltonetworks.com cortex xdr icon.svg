@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138.15 138.15">
+	<defs>
+		<style>.a{fill:#0c6;}.b{fill:#0c5d35;}</style>
+	</defs>
+	<g transform="translate(-90.9 -18.925)">
+		<path class="a" d="M 147.91,121.87 A 33.87,33.87 0.0 0,1 147.91,54.13 L 147.91,54.13 L 147.91,121.87 M 147.91,54.13 L 147.91,32.0 L 146.91,32.0 A 56.0,56.0 0.0 0,0 146.91,144.0 L 147.91,144.0 L 147.91,121.87 A 33.87,33.87 0.0 0,0 147.91,54.13 L 147.91,54.13"/>
+		<rect class="b" x="184.99" y="85.78" width="49.48" height="12.48" rx="6.24" transform="translate(126.5 -121.35) rotate(45)"/>
+		<rect class="b" x="201.89" y="78.78" width="29.69" height="12.48" rx="6.24" transform="translate(3.36 178.16) rotate(-45)"/>
+		<circle class="b" cx="196.65" cy="105.1" r="6.24"/>
+	</g>
+</svg>

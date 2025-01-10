@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167 157">
+	<style>
+ .red {
+ fill: #d21086;
+ }
+ .blue {
+ fill: #2283c4;
+ }
+ </style>
+	<polygon points=" 0,157 27,157 96,0 69,0 " class="red" />
+	<polygon points=" 96,0 167,157 139,157 83.26,29" class="blue"/>
+</svg>

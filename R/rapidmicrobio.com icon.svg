@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1563 1004">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-930.49-668.51h15824.32v20464.82h-15824.32z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="499.4" y1="764.3" x2="438.6" y2="77" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#54b948"/>
+			<stop offset=".1" stop-color="#54b948"/>
+			<stop offset=".3" stop-color="#ffffff"/>
+			<stop offset=".9" stop-color="#002d56"/>
+			<stop offset="1" stop-color="#002d56"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="690.7" y1="693.2" x2="635.2" y2="66.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#54b948"/>
+			<stop offset=".1" stop-color="#54b948"/>
+			<stop offset=".3" stop-color="#ffffff"/>
+			<stop offset=".9" stop-color="#002d56"/>
+			<stop offset="1" stop-color="#002d56"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="865.2" y1="614.4" x2="813.6" y2="35.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#54b948"/>
+			<stop offset=".1" stop-color="#54b948"/>
+			<stop offset=".3" stop-color="#ffffff"/>
+			<stop offset=".9" stop-color="#002d56"/>
+			<stop offset="1" stop-color="#002d56"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1002.4" y1="256.5" x2="1154.8" y2="827.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#54b948"/>
+			<stop offset=".1" stop-color="#54b948"/>
+			<stop offset=".3" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#002d56"/>
+			<stop offset="1" stop-color="#002d56"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="827.8" y1="331.5" x2="966.1" y2="850.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#54b948"/>
+			<stop offset=".1" stop-color="#54b948"/>
+			<stop offset=".3" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#002d56"/>
+			<stop offset="1" stop-color="#002d56"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="653.3" y1="412.9" x2="782.5" y2="890.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#54b948"/>
+			<stop offset=".1" stop-color="#54b948"/>
+			<stop offset=".3" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#002d56"/>
+			<stop offset="1" stop-color="#002d56"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 18" class="s0" d="m926 36.9c-299.9 127.9-449.9 219.6-658 414.7-72.4 68.5-155.2 196.4-117.7 263.6 45.3 80.1 190.1 80.1 437 16.8-328.4 117.6-541.7 138.2-583.1 7.7q-3.8-11.6-3.8-25.8c0-102.1 155.1-242.9 205.5-285.5 60.8-54.3 301.2-258.4 720.1-391.5z"/>
+			<path id="Path 19" class="s1" d="m1069.5 29.2c-275.3 117.5-412.4 201.5-603.7 378.5-67.3 63.3-142.2 179.6-107.3 240.3 40 73.7 174.5 73.7 399.5 15.5-300 107.2-495.2 126.6-534 7.8-29.7-93.1 135.8-241.6 184.9-284.3 55.6-49.1 276.7-235.1 660.6-357.8z"/>
+			<path id="Path 20" class="s2" d="m1218.2 0.7c-257.3 108.6-384 186.1-562.4 350.2-62 58.1-131.8 166.6-99.5 222.2 37.5 68.5 162.9 68.5 372.3 14.2-280.5 99.5-461.5 116.3-497.7 7.7-27.2-86.5 126.7-224.8 171.9-263.5 51.7-45.2 258.6-218.4 615.4-330.8z"/>
+			<path id="Path 21" class="s3" d="m1379.8 182.9c93.1 0 155.1 27.1 177.1 82.7 37.5 100.8-135.7 267.4-183.6 307.5-73.6 62-298.6 240.3-704.6 388.9 301.3-127.9 437-226.1 647.8-422.5 67.2-62 129.2-168 91.8-237.7-49.2-93.1-201.7-85.3-447.4-15.5 166.8-67.2 312.9-103.4 418.9-103.4z"/>
+			<path id="Path 22" class="s4" d="m1184.6 261.7c78.9 0 131.9 23.3 148.7 74.9 28.4 91.8-131.9 245.5-178.4 288.2-54.3 47.8-267.7 217-636.1 348.8 262.4-127.9 387.8-200.3 580.5-370.8 67.2-58.1 131.8-169.3 107.3-226.1-40.1-89.1-200.4-78.8-417.6-22 160.3-58.1 297.3-93 395.6-93z"/>
+			<path id="Path 23" class="s5" d="m981.6 348.3c73.7 0 121.5 21.9 137.1 69.7 27.1 85.3-119 221-162.9 259.7-50.5 45.2-245.7 214.5-585.7 325.6 244.3-105.9 365.9-183.5 535.2-345 58.2-56.8 120.3-156.3 93.1-213.1-34.9-69.8-178.4-64.6-377.5-11.7 146.1-52.9 271.5-85.2 360.7-85.2z"/>
+		</g>
+	</g>
+</svg>

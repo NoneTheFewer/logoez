@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<style type="text/css">
+		.yellow { fill: #fcf882; }
+		.gold { fill: #ffcc00; }
+		.bronze { fill: #7a6201; }
+		.brown { fill: #996d03; }
+		.black {#000}
+		.st0{fill:none;}
+		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#01D4C9;}
+	</style>
+	<polygon points="0,0 0,16 1,16 1,1 16,1 16,0" class="yellow" />
+	<polygon points="1,15 15,15 15,1 16,1 16,16 15,16 1,16" class="bronze" />
+	<rect width="14" height="14" x="1" y="1" class="gold" />
+	<rect width="1" height="3" x="12" y="11" class="brown" />
+	<polygon points="
+		9,4 5,4 5,12 10,12 10,11 6,11 6,8 10,8 10,5 9,5 9,7 6,7 6,5 9,5
+		"
+		class="black" />
+	<rect width="1" height="3" x="10" y="8" class="black" />
+</svg>

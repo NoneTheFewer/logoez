@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1553 836">
+	<defs>
+		<linearGradient id="g1" x1="232.6" y1="-183.9" x2="1322.2" y2="905.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="0" stop-color="#f3f6f6"/>
+			<stop offset=".1" stop-color="#d4dddd"/>
+			<stop offset=".2" stop-color="#a1b5b6"/>
+			<stop offset=".3" stop-color="#8aa3a4"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#8aa3a4"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="393.3" y1="300.7" x2="1156.7" y2="1064" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="0" stop-color="#f3f6f6"/>
+			<stop offset=".1" stop-color="#d4dddd"/>
+			<stop offset=".2" stop-color="#a1b5b6"/>
+			<stop offset=".3" stop-color="#8aa3a4"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#8aa3a4"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #235b4e } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m1.8 46.5h163.8v-45.6h1222.7v42.7h163.8v632.5h-1551.3z"/>
+	<path id="Layer" class="s1" d="m1523 330.7h29.1v14.6h-29.1v302.7h-1493.1v-302.7h-28.1v-14.6h28.1v-254.1h1493.1z"/>
+	<path id="Layer" class="s2" d="m165.6 528.7h1218.8v306.5h-1218.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m457.5 587.8h49.4c18.5 0 45.6 7.8 45.6 50.5 0 23.3-11.6 39.8-28.1 44.6v1c19.4 2.9 32 20.3 32 44.6 0 49.5-32 57.2-49.5 57.2h-49.4zm28.1 79.6h11.6c11.7 0 26.2-3.9 26.2-24.3 0-23.3-14.5-24.2-27.1-24.2h-10.7zm0 87.3h13.6c13.5 0 29.1-4.9 29.1-27.2 0-26.2-14.6-30-29.1-30h-13.6zm185.2-114.5h20.3l35.9 145.5h-20.3l-7.8-33h-36.8l-7.8 33h-19.4zm9.7 29.1l-13.6 60.1h27.2zm138.6-29.1h25.2l39.8 108.7v-108.7h19.4v145.6h-25.2l-39.8-108.7v108.7h-19.4zm189.1 0h19.4v63l34.9-63h23.3l-39.8 68.8 41.7 76.7h-25.2l-34.9-67.9v67.9h-19.4z"/>
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m184.1 206.6h38.7c34 0 64 11.6 64 56.2 0 43.7-26.1 59.2-59.1 59.2h-12.6v70.8h-31zm31 86.4h10.7c15.5 0 29-5.8 29-28.2 0-21.3-13.5-29.1-29-29.1h-10.7z"/>
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m341.1 259h22.3c22.3 0 48.5-1 48.5 36.8 0 15.5-7.7 29.1-21.3 31.1 5.8 0.9 8.7 7.7 10.6 13.6l16.5 53.3h-23.2l-11.7-41.7c-2.9-9.7-5.8-13.6-14.5-13.6h-6.8v56.3h-20.4zm21.4 57.2h6.8c10.6 0 22.3-1.9 22.3-18.4 0-16.5-11.7-17.5-22.3-17.5h-6.8zm529.3-57.2c22.3 0 48.5-1 48.5 36.8 0 15.6-7.7 29.2-21.3 31.1 5.8 1 8.7 7.8 10.7 13.6l16.4 53.3h-23.2l-12.6-42.7c-2.9-9.7-5.8-13.5-14.6-13.5h-6.8v56.2h-20.3v-134.8zm-2 57.2h6.8c10.7 0 22.3-1.9 22.3-18.4 0-16.5-11.6-17.5-22.3-17.5h-6.8zm143.5-57.2c22.3 0 48.5-1 48.5 36.9 0 15.5-7.7 29.1-21.3 31 5.8 1 8.7 7.8 10.6 13.6l16.5 53.3h-23.2l-12.6-42.7c-3-9.7-5.9-13.5-14.6-13.5h-6.8v56.2h-20.3v-134.8zm-2 57.2h6.8c10.7 0 22.3-1.9 22.3-18.4 0-16.5-11.6-17.5-22.3-17.5h-6.8zm-484.8-57.2v21.3h-36.8v33h33.9v21.4h-33.9v37.8h37.8v21.3h-56.2v-134.8zm249.2 0v21.3h-36.9v33h33.9v21.4h-33.9v37.8h37.8v21.3h-56.2v-134.8zm423.7 0v21.3h-36.9v33h34v21.4h-34v37.8h37.9v21.3h-56.3v-134.8zm-606.9 0h52.3v21.3h-33.9v33h33v21.4h-32v59.1h-19.4zm676.7 0h25.2c28.2 0 52.4 13.6 52.4 67.9 0 53.4-25.2 68-52.4 68h-25.2zm18.5 113.5h10.6c15.5 0 30.1-16.5 30.1-46.6 0-29.1-14.6-46.6-30.1-46.6h-10.6z"/>
+</svg>

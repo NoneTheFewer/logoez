@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250.037 250.037">
+	<defs>
+		<linearGradient x1="37.183" y1="63.156" x2="142.893" y2="93.082" id="a" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#5af1c8" offset="29%"/>
+			<stop stop-color="#99feff" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="39.253" y1="194.685" x2="179.09" y2="194.685" id="b" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ff3180" offset="63%"/>
+			<stop stop-color="#ff9ab2" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<path d="M 98.0,114.112 L 127.047,123.72 L 162.237,33.495 A 13.725,13.725 0.0 0,0 141.515,17.925 L 23.3,113.685 A 13.725,13.725 0.0 0,0 26.675,138.097 L 70.955,152.722 L 80.653,123.0 A 13.702,13.702 0.0 0,1 98.0,114.112" fill="url(#a)" transform="translate(26.85 -15.597)"/>
+	<path d="M 169.662,137.782 L 127.07,123.72 L 115.685,152.97 A 13.702,13.702 0.0 0,1 98.315,161.835 L 70.955,152.835 L 39.95,247.717 A 13.725,13.725 0.0 0,0 60.695,263.287 L 173.037,162.195 A 13.725,13.725 0.0 0,0 169.662,137.783 L 169.662,137.782" fill="url(#b)" transform="translate(26.85 -15.597)"/>
+	<path style="mix-blend-mode:lighten" d="M 115.685,152.903 L 127.07,123.653 L 98.0,114.113 A 13.703,13.703 0.0 0,0 80.63,122.955 L 71.0,152.722 L 98.36,161.722 A 13.703,13.703 0.0 0,0 115.685,152.902 L 115.685,152.903" fill="#fff" transform="translate(26.85 -15.597)"/>
+</svg>

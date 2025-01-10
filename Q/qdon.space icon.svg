@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" version="1.2" baseProfile="tiny-ps">
+	<defs id="defs2">
+		<linearGradient id="linearGradient1699"/>
+		<linearGradient id="linearGradient1703" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse"/>
+	</defs>
+	<g id="layer1">
+		<rect id="rect234" width="64" height="64" x="0" y="0" fill="#666" fill-opacity="1" stroke="none" stroke-width="0"/>
+		<g id="g2" transform="matrix(0.9,0,0,0.9,3.1999998,3.1999998)">
+			<g id="g4545-7" fill="none" fill-opacity="1" stroke="#dab3b5" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1">
+				<path d="M 11.0663,32 H 32 42.4668 L 52.9337,21.5332 42.4668,11.0663 H 32 11.0663 Z" id="path4539-5" fill="none" fill-opacity="1" stroke="#dab3b5" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+				<path d="M 21.5332,21.5332 52.9337,52.9337 V 32" id="path4541-3" fill="none" fill-opacity="1" stroke="#dab3b5" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+				<path d="M 11.0663,32 V 52.9337 H 32 V 11.0663" id="path4543-5" fill="none" fill-opacity="1" stroke="#dab3b5" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+			</g>
+			<g id="g4537-6" stroke="#ffa8ac" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1">
+				<path id="path3713-2" d="M 11.0663,32 H 32 42.4668 L 52.9337,21.5332 42.4668,11.0663 H 32 11.0663 Z" fill="none" stroke="#ffa8ac" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+				<path id="path3717-9" d="M 21.5332,21.5332 52.9337,52.9337 V 32" fill="none" stroke="#ffa8ac" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+				<path id="path4532-1" d="M 11.0663,32 V 52.9337 H 32 V 11.0663" fill="none" stroke="#ffa8ac" stroke-width="1.79899" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+			</g>
+		</g>
+	</g>
+</svg>

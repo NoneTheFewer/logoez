@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1569 1080">
+	<defs>
+		<linearGradient id="g1" x1="121.8" y1="549.7" x2="134.3" y2="620.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d85b13"/>
+			<stop offset=".269" stop-color="#e57b0c"/>
+			<stop offset=".545" stop-color="#ef9407"/>
+			<stop offset=".796" stop-color="#f5a304"/>
+			<stop offset="1" stop-color="#f7a803"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="323" y1="63.8" x2="1051.5" y2="792.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fdcc54"/>
+			<stop offset=".015" stop-color="#fcc94d"/>
+			<stop offset=".136" stop-color="#f7b01c"/>
+			<stop offset=".196" stop-color="#f5a709"/>
+			<stop offset=".49" stop-color="#f5a509"/>
+			<stop offset=".648" stop-color="#f39d09"/>
+			<stop offset=".773" stop-color="#f28f0a"/>
+			<stop offset=".881" stop-color="#ef7c0a"/>
+			<stop offset=".977" stop-color="#eb630b"/>
+			<stop offset="1" stop-color="#ea5c0b"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="283.7" y1="435.9" x2="1487.9" y2="874.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a7a5a4"/>
+			<stop offset=".052" stop-color="#c5c4c3"/>
+			<stop offset=".107" stop-color="#dfdedd"/>
+			<stop offset=".165" stop-color="#f1f0f0"/>
+			<stop offset=".224" stop-color="#fbfbfb"/>
+			<stop offset=".288" stop-color="#ffffff"/>
+			<stop offset=".515" stop-color="#fdfdfc"/>
+			<stop offset=".649" stop-color="#f5f4f4"/>
+			<stop offset=".76" stop-color="#e7e6e6"/>
+			<stop offset=".858" stop-color="#d3d2d2"/>
+			<stop offset=".946" stop-color="#bab9b8"/>
+			<stop offset="1" stop-color="#a7a5a4"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="443.3" y1="61.3" x2="1279.1" y2="365.5" gradientUnits="userSpaceOnUse">
+			<stop offset=".086" stop-color="#fdcc54" stop-opacity="1"/>
+			<stop offset="1" stop-color="#f1950a" stop-opacity=".05"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="742.7" y1="1079.6" x2="742.7" y2="755.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#88181e" stop-opacity=".3"/>
+			<stop offset=".497" stop-color="#b21829" stop-opacity="0"/>
+			<stop offset=".653" stop-color="#aa1827" stop-opacity=".31"/>
+			<stop offset=".9" stop-color="#931821" stop-opacity=".8"/>
+			<stop offset="1" stop-color="#88181e" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="553.3" y1="1111.7" x2="969.8" y2="558.9" gradientUnits="userSpaceOnUse">
+			<stop offset=".012" stop-color="#e20334" stop-opacity="0"/>
+			<stop offset=".049" stop-color="#da0531" stop-opacity=".04"/>
+			<stop offset=".206" stop-color="#bb0e28" stop-opacity=".22"/>
+			<stop offset=".359" stop-color="#a51421" stop-opacity=".39"/>
+			<stop offset=".506" stop-color="#98181d" stop-opacity=".55"/>
+			<stop offset=".638" stop-color="#93191c" stop-opacity=".7"/>
+			<stop offset="1" stop-color="#95191d" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="1357.6" y1="811.6" x2="1357.6" y2="756.9" gradientUnits="userSpaceOnUse">
+			<stop offset=".006" stop-color="#d7d8d8"/>
+			<stop offset=".191" stop-color="#d0d1d1"/>
+			<stop offset=".464" stop-color="#bcbdbd"/>
+			<stop offset=".789" stop-color="#9c9d9d"/>
+			<stop offset="1" stop-color="#838484"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: #e4002b } 
+		.s5 { fill: url(#g5) } 
+		.s6 { fill: url(#g6) } 
+		.s7 { fill: url(#g7) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m235.8 602.5c2-20.5 5.1-41 9.4-62.2v-0.6c-0.6 0-1.3 0-1.6 0.3-31 3-79.7 6.7-116 11.4-63.2 8.4-120.7 16.8-125.4 22.5-13.1 15.5 73.6 26.9 205.4 28.6q14.1 0 28.2 0z"/>
+			<g id="Layer">
+				<path id="Layer" class="s1" d="m899.7 0.5c-208.1 0-413.5 117.6-540.2 289.9 0 0-295.1 21.2-310.6 47.4-46.3 89-47.7 238.5-47.7 238.5v-0.4q0.5-1 1-2c4.7-5.7 62.2-14.1 125.4-22.5 36-4.7 85-8.4 116-11.4 0.6 0 1 0 1.6-0.3 102.6-10.1 298.2-24.2 409.8-27.2 273.9-7.4 510.2-5.4 674.2 2 47.8-286.3-139.8-514-429.5-514z"/>
+			</g>
+			<path id="Layer" class="s2" d="m1329.6 514.5c-163.7-7.4-400-9.8-674.3-2-111.9 3-307.5 17.1-410.1 27.2-2 11.4-5.7 30.2-8.7 54.7 0 0.4 0 1 0 1.4-1 8.4-1.7 16.8-2.4 25.2 0 0.3 0 1 0 1.6-0.3 8.1-0.6 16.2-0.6 24.2 0 5.1 0 10.1 0.3 15.1 0 4.4 0 8.4 0.3 12.5 0.4 8.7 1.1 17.8 1.7 26.5 0.4 2.4 0.7 5.1 1 7.4 0.7 6.7 1.7 13.4 2.7 20.2 0.4 2.7 1 5.3 1.4 8 1 6.4 2.3 12.8 3.7 19.2 0.6 2.7 1 5 1.7 7.4 1.6 6.3 3.3 13.1 5 19.4 0.3 1.1 0.7 2.1 1 3.4 103.2-10.1 229.9-19.8 379.5-25.9 1.7 0 65.5-2.3 66.2-2.3 138.5-4.4 450.4-2 534.8-1 13.4 0 21.8 0.3 21.8 0.3 70.9 1 99.8 1.7 173.5 5.7 33.9 1.7 90.4 4.1 93.4 11.5 0 0.3 0 0 0 0.3 0 0.3 0 0.3-0.3 0.7 46.7-86.4 47.4-229.2 47.4-229.2 2.6-12.4-86.4-24.5-239-31.5z"/>
+			<g id="Layer">
+				<path id="Layer" class="s3" d="m1250.3 275.9c15.7 0 43 0 61.8 0-57.5-164.6-210.1-275.8-412.1-275.8-208.1 0-413.4 118-540.1 290 91-8.4 210-15.5 326.7-17.5 22.8-0.3 66.5-9.8 91.1-46 45.7-67.9 90.7-136.4 154.6-159.3 1-0.3 2.3-1 3.3-1.3 97.5-36.6 225.9 53.7 314.7 209.9z"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s4" d="m1232.8 757c-84.4-0.7-396-3.3-534.8 1-0.7 0-64.2 2.4-66.2 2.4-149.6 6-276.3 15.4-379.5 25.8 52.4 174.1 208.7 293.3 417.8 293.3 220.8 0 439-132.7 562.7-322.5z"/>
+				<g id="Layer">
+					<path id="Layer" class="s5" d="m1232.8 757c-124.1 189.8-341.9 322.5-562.7 322.5-99.5 0-186.9-26.9-257.1-73.9-77.3-51.7-133.5-128-161-219.4 103.2-10 229.9-19.8 379.4-25.8 2.1 0 65.9-2.4 66.3-2.4 139.1-4.3 451-2 535.1-1z"/>
+				</g>
+				<path id="Layer" class="s6" d="m1232.8 757c-20.9-0.3-55.8-0.3-98.8-0.7-99.5-0.6-244.4-1-347.6 0-22.9 18.5-48.7 46.1-60.8 70.9-80.4 135.8-108.3 268.8-356.7 65.9 0 0-39.6-3.7-66.5 1.3 27.2 41.7 62.2 77.3 103.2 106.2 3 2 5.7 3.7 7.7 5 4.7 3 9.1 6.1 13.8 9.1 67.5 41.3 149.9 64.8 243 64.8 220.8 0 439-132.7 562.7-322.5z"/>
+			</g>
+			<path id="Layer" class="s7" d="m1521.8 774.2c-3-7.4-59.5-9.5-93.4-11.5-74-4-102.9-4.7-173.4-5.7 0 0-8.4 0-21.9-0.3 0 0 0 0-0.3 0h0.3c-12.4 18.8-25.5 36.9-39.7 54.7 195-5.7 323.1-19.4 328.4-37.2 0 0 0 0.3 0 0z"/>
+		</g>
+	</g>
+</svg>

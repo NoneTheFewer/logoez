@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 248">
+	<style>
+		.white { stroke: #FFF; }
+		.blue1 { stroke: #58A2da; }
+		.green1 { stroke: #25f700; }
+		.cyan1 { stroke: #06e5a1; }
+		.yellow1 { stroke: #e6db06; }
+		.orange1 { stroke: #fcad07; }
+	</style>
+	<g transform="translate(0 53)">
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="white" transform="rotate(-30 124 71)"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="white" transform="rotate(30 124 71)"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="white" transform="rotate(15 124 71)"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="white" transform="rotate(-15 124 71)"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="white"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="yellow1" transform="rotate(-30 124 71)" opacity="0.5"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="orange1" transform="rotate(30 124 71)" opacity="0.5"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="cyan1" transform="rotate(15 124 71)" opacity="0.5"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="green1" transform="rotate(-15 124 71)" opacity="0.5"/>
+		<line x1="16.5" y1="71" x2="231.5" y2="71" stroke-width="33" stroke-linecap="round" class="blue1" opacity="0.5"/>
+	</g>
+</svg>

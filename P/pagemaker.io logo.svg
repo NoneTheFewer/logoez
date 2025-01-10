@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1174.9 180" style="enable-background:new 0 0 1174.9 180;" xml:space="preserve">
+	<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:#BDBDBD;}
+</style>
+	<symbol id="Icon" viewBox="-114.6 -76.4 229.3 152.8">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-111.3557" y1="17.0189" x2="66.5143" y2="-85.6711">
+			<stop offset="0" style="stop-color:#FF00FF"/>
+			<stop offset="0.17" style="stop-color:#C600FF"/>
+			<stop offset="0.4" style="stop-color:#8000FF"/>
+			<stop offset="0.6" style="stop-color:#4900FF"/>
+			<stop offset="0.78" style="stop-color:#2100FF"/>
+			<stop offset="0.92" style="stop-color:#0900FF"/>
+			<stop offset="1" style="stop-color:#0000FF"/>
+		</linearGradient>
+		<polygon class="st0" points="-38.2,-76.4 -114.6,25.5 -50.9,25.5 -12.7,-25.5 50.9,-25.5 89.2,-76.4  "/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-77.7915" y1="96.1203" x2="119.1805" y2="-17.5966">
+			<stop offset="0" style="stop-color:#FF00FF"/>
+			<stop offset="0.17" style="stop-color:#F700C6"/>
+			<stop offset="0.4" style="stop-color:#ED0080"/>
+			<stop offset="0.6" style="stop-color:#E50049"/>
+			<stop offset="0.78" style="stop-color:#DF0021"/>
+			<stop offset="0.92" style="stop-color:#DB0009"/>
+			<stop offset="1" style="stop-color:#DA0000"/>
+		</linearGradient>
+		<polygon class="st1" points="50.9,-25.5 12.7,25.5 -19.1,25.5 -38.2,51 -70.1,51 -89.2,76.4 38.2,76.4 114.6,-25.5  "/>
+	</symbol>
+	<symbol id="Icon_Text" viewBox="-566.1 -90.2 1132.2 180.4">
+		<g id="Logo_Text_1_">
+
+			<use xlink:href="#Icon" width="229.3" height="152.8" x="-114.6" y="-76.4" transform="matrix(1.18 0 0 1.18 -430.8557 0)" style="overflow:visible;"/>
+
+			<use xlink:href="#Text" width="802.2" height="134.5" x="-401.1" y="-67.2" transform="matrix(1 0 0 1 165 3.2344)" style="overflow:visible;"/>
+		</g>
+	</symbol>
+	<symbol id="Text" viewBox="-401.1 -67.2 802.2 134.5">
+		<g id="Text-3_1_">
+			<path d="M-327.3-33c0,19.6-15.2,34.3-35.4,34.3h-21.4v35.2h-17V-67.2h38.4C-342.6-67.2-327.3-52.7-327.3-33z M-344.7-33    c0-10.4-7.8-18.1-18.9-18.1h-20.6v36.2h20.6C-352.5-14.8-344.7-22.5-344.7-33z"/>
+			<path d="M-238.5-43.6v80.1h-13.3l-1.6-9.7c-7.7,7.7-18.1,11.9-29,11.7c-23.9,0-41.7-18-41.7-42s17.9-42,41.7-42    c11.8,0,22,4.5,29.3,11.9l1.9-10L-238.5-43.6z M-255-3.5c0-15.1-11-26.3-26.1-26.3c-15.1,0-26.2,11.3-26.2,26.3    s11.1,26.3,26.2,26.3S-255,11.6-255-3.5z"/>
+			<path d="M-144.6-43.5v69.6c0,25.5-15.2,41.2-40,41.2c-20.5,0-35.1-10.6-39.2-28.2h16.4c3.1,8.8,12.5,13.6,22.6,13.6    c13.9,0,24-9.1,24-24.3v-3.7c-7.4,6.3-16.8,9.7-26.5,9.6c-22.3,0-39.6-17.3-39.6-39.8s17.3-39.9,39.6-39.9    c11-0.1,21.6,4.3,29.2,12.3l2.6-10.3L-144.6-43.5z M-185.3,19c14.2,0,24.6-10.4,24.6-24.5s-10.3-24.6-24.6-24.6S-210-19.6-210-5.5    S-199.6,19-185.3,19z"/>
+			<path d="M-50.9-3.2c0,1.8-0.1,3.6-0.3,5.4h-65c2,13,11.4,21,24.5,21c9.6,0,17.3-4.4,21.6-11.7h17.3c-6.4,16.9-21,27.2-38.9,27.2    c-23.4,0-41.1-18.1-41.1-42s17.7-42,41.1-42C-67.2-45.4-50.9-26.5-50.9-3.2L-50.9-3.2z M-91.7-30.6c-12.4,0-21.4,7.5-24.1,19.3    h48.4C-70.4-23.4-79.5-30.6-91.7-30.6z"/>
+			<path d="M50.2-45.3c16.9,0,28.3,12.9,28.3,31v50.9H62.1v-46.9c0-12.9-5.6-20.3-15.6-20.3c-10.6,0-18.8,9.7-18.8,23.4v43.8H11.6    v-46.9C11.6-23.2,6-30.6-4-30.6c-10.6,0-18.9,9.7-18.9,23.4v43.8h-16.5v-80.1h11.7l2.8,10.3c6-7.6,15.2-12.1,24.9-12.2    c10.9,0,19.5,5.3,24,14C29.9-40.1,39.7-45.3,50.2-45.3L50.2-45.3z"/>
+			<path d="M174.7-43.6v80.1h-13.3l-1.6-9.7c-7.7,7.7-18.1,11.9-29,11.7c-23.9,0-41.7-18-41.7-42s17.8-42,41.6-42    c11.8,0,22,4.5,29.3,11.9l1.9-10L174.7-43.6z M158.2-3.5c0-15.1-11-26.3-26.1-26.3s-26.2,11.3-26.2,26.3s11.1,26.3,26.2,26.3    S158.2,11.6,158.2-3.5z"/>
+			<path d="M220.3,2.4h-10v34.2h-16.5V-67.2h16.5v54.7h10.1l21.6-31h19.5L234.5-5.1l30,41.7h-20.1L220.3,2.4z"/>
+			<path d="M344-3.2c0,1.8-0.1,3.6-0.3,5.4h-65c2.1,13,11.4,21,24.5,21c9.6,0,17.3-4.4,21.6-11.7h17.3c-6.4,16.9-21,27.2-38.9,27.2    c-23.4,0-41.2-18.1-41.2-42s17.7-42,41.2-42C327.7-45.4,344-26.5,344-3.2L344-3.2z M303.1-30.6c-12.4,0-21.4,7.5-24.1,19.3h48.4    C324.5-23.4,315.3-30.6,303.1-30.6L303.1-30.6z"/>
+			<path d="M401.1-44v15.5h-8.7c-13.6,0-20.4,7.8-20.4,22.3v42.7h-16.5v-80.1h11.1l2.8,10.9C375.2-40.2,383.1-44,394-44L401.1-44z"/>
+		</g>
+	</symbol>
+	<g id="Layer_2_1_">
+		<g id="_01">
+			<g>
+				<defs>
+					<rect id="SVGID_3_" width="1132.2" height="180"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_" style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_4_);">
+
+					<use xlink:href="#Icon_Text" width="1132.2" height="180.4" x="-566.1" y="-90.2" transform="matrix(1 0 0 1 565.125 89.1756)" style="overflow:visible;"/>
+				</g>
+			</g>
+		</g>
+	</g>
+
+</svg>

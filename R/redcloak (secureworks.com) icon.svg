@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335.0 335.0">
+	<style>
+		.red1 { fill: #c4122e;} 
+		.red2 { fill: #7f0d1f;} 
+		.red3 { fill: #570714;} 
+		.white { fill: #FFF;} 
+		.grey1 { fill: #a6a8ac;} 
+		.grey2 { fill: #4c4c4c;}
+	</style>
+	<polygon name="hood1" points="167.5,8.0 110.0,24.5 27.0,197.0 121.0,128.0 167.5,128.0" class="red1"/>
+	<polygon name="hood2" points="167.5,8.0 226.0,24.5 309.0,197.0 215.0,128.0 167.5,128.0" class="red2"/>
+	<polygon name="eye1" points="116.0,150.0 154.0,161.5 122.0,169.0 108.0,158.0" class="grey2"/>
+	<polygon name="eye2" points="220.0,150.0 182.0,161.5 214.0,169.0 228.0,158.0" class="grey2"/>
+	<polygon name="cloak1" points="82.0,178.0 167.5,300.0 140.0,327.0 37.0,327.0 77.3,268.0 0.0,239.0" class="red1"/>
+	<polygon name="cloak1" points="254.0,178.0 167.5,300.0 196.0,327.0 299.0,327.0 258.7,268.0 336.0,239.0" class="red2"/>
+	<polygon name="mask1" points="82.0,178.0 155.0,201.5 167.5,190.0 167.5,300.0 130.0,276.0" class="grey1"/>
+	<polygon name="mask2" points="254.0,178.0 181.0,201.5 167.5,190.0 167.5,300.0 206.0,276.0" class="grey2"/>
+	<polygon name="shadow1" points="77.3,268.0 167.5,300.0 56.0,300.0" class="red2"/>
+	<polygon name="shadow2" points="258.7,268.0 167.5,300.0 280.0,300.0" class="red3"/>
+</svg>

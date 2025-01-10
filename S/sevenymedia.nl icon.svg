@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 120">
+	<defs>
+		<style>.a{fill:#fff;}.b{fill:url(#a);}.c{fill:url(#b);}.d{fill:#005984;}.e{fill:url(#c);}.f{fill:url(#d);}</style>
+		<linearGradient id="a" x1="53.09" y1="60" x2="108.57" y2="60" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6cb33f"/>
+			<stop offset="0.9" stop-color="#6cb33f"/>
+		</linearGradient>
+		<linearGradient id="b" x1="11.21" x2="66.69" xlink:href="#a"/>
+		<linearGradient id="c" x1="52.71" x2="108.19" xlink:href="#a"/>
+		<linearGradient id="d" x1="10.83" x2="66.31" xlink:href="#a"/>
+	</defs>
+	<circle class="a" cx="60" cy="60" r="60"/>
+	<path class="b" d="M108.57,30.19V40.74L82.79,89.81H63.9L90,44.31v-.18H53.09l8.06-13.94Z"/>
+	<path class="c" d="M11.21,89.81V79.26L37,30.19H55.87l-26,45.5v.18H66.69L58.63,89.81Z"/>
+	<polygon class="d" points="68.96 70.77 38.5 70.77 51.37 49.23 81.83 49.23 68.96 70.77"/>
+	<path class="e" d="M108.19,30.19V40.74L82.41,89.81H63.52l26-45.5v-.18H52.71l8.06-13.94Z"/>
+	<path class="f" d="M10.83,89.81V79.26L36.6,30.19H55.49l-26,45.5v.18H66.31L58.24,89.81Z"/>
+	<polygon class="d" points="68.58 70.77 38.12 70.77 50.99 49.23 81.44 49.23 68.58 70.77"/>
+	<path class="e" d="M108.19,30.19V40.74L82.41,89.81H63.52l26-45.5v-.18H52.71l8.06-13.94Z"/>
+	<path class="f" d="M10.83,89.81V79.26L36.6,30.19H55.49l-26,45.5v.18H66.31L58.24,89.81Z"/>
+	<polygon class="d" points="68.58 70.77 38.12 70.77 50.99 49.23 81.44 49.23 68.58 70.77"/>
+</svg>

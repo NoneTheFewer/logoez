@@ -1,0 +1,29 @@
+<svg viewBox="0 0 110 66" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		.Logo_color_orange_38Uxl {
+			fill:#f28147;
+		}
+		.Logo_color_yellow_30rLz {
+			fill:#fbb649;
+		}
+		.Logo_color_green_rnoea {
+			fill:#65bc54
+		}
+		.Logo_color_blue_A60pS {
+			fill:#00aed5
+		}
+	</style>
+	<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g transform="translate(-9, -31)" fill-rule="nonzero">
+			<g transform="translate(9, 31)">
+				<polygon points="51.6056575 22.3227956 31 0 31 14 45.1395985 29.3178984" class="Logo_color_orange_38Uxl"/>
+				<polygon points="79 52 65.164153 37.0111657 58.6412459 43.944683 79 66" class="Logo_color_orange_38Uxl"/>
+				<polygon points="110 33 96 33 79 52 79 66" class="Logo_color_yellow_30rLz"/>
+				<polygon points="79 0 79 15 96 33 110 33" class="Logo_color_green_rnoea"/>
+				<polygon points="31 66 31 52 79 0 79 15" class="Logo_color_blue_A60pS"/>
+				<polygon points="0 33 14 33 31 52 31 66" class="Logo_color_green_rnoea"/>
+				<polygon points="0 33 14 33 31 14 31 0" class="Logo_color_yellow_30rLz"/>
+			</g>
+		</g>
+	</g>
+</svg>

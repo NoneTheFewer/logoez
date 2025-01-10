@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+	<style type="text/css">
+		.orange{fill:rgb(219,97,68)}
+		.yellow{fill:rgb(234,141,73)}
+		.green{fill:rgb(116,167,152)}
+		.blue{fill:rgb(74,129,183)}
+	</style>
+	<g>
+		<polygon class="orange" points="11,49 120,49 375,750 265,750" />
+		<polygon class="yellow" points="203,49 312,49 513.5,605 404.5,605" />
+		<polygon class="green" points="394,49 503,49 651.2,458 542.2,458" />
+		<polygon class="blue" points="585.5,49 694.5,49 789.8,312 680.8,312" />
+	</g>
+</svg>

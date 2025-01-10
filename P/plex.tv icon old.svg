@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.7 103.7">
+	<defs id="defs11071">
+		<radialGradient id="radial-gradient" cx="258.33" cy="51.76" r="42.95" gradientUnits="userSpaceOnUse">
+			<stop offset=".17" stop-color="#f9be03" id="stop11064"/>
+			<stop offset=".51" stop-color="#e8a50b" id="stop11066"/>
+			<stop offset="1" stop-color="#cc7c19" id="stop11068"/>
+		</radialGradient>
+		<style/>
+	</defs>
+	<g id="chevron" transform="translate(-206.48 .09)">
+		<path id="polygon11076" fill="url(#radial-gradient)" d="M 289.96,51.76 L 256.78,103.61 L 226.7,103.61 L 259.88,51.76 L 226.7,-0.09 L 256.78,-0.09 L 289.96,51.76"/>
+		<path id="polygon11078" fill="#e5a00d" d="M 289.96,51.76 L 256.78,103.61 L 226.7,103.61 L 259.88,51.76 L 226.7,-0.09 L 256.78,-0.09 L 289.96,51.76"/>
+	</g>
+</svg>

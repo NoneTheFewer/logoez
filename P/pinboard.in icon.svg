@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 32.041 32.041">
+	<defs id="defs4">
+		<linearGradient id="linearGradient7099">
+			<stop offset="0" id="stop7095" stop-color="#3257eb" stop-opacity=".996"/>
+			<stop offset="1" id="stop7097" stop-color="#80adf9" stop-opacity=".996"/>
+		</linearGradient>
+		<linearGradient xlink:href="#linearGradient7099" id="linearGradient7101" x1="624.799" y1="997.096" x2="2266.653" y2="997.096" gradientUnits="userSpaceOnUse"/>
+		<style type="text/css">.fil1{fill:none}.fil0{fill:#424242}</style>
+	</defs>
+	<g transform="matrix(.01951 0 0 .01951 -12.193 -3.438)" id="Layer_x0020_1" fill="#172ff1" fill-opacity="1">
+		<g id="g7106" fill-opacity="1">
+			<path d="M 2266.653,1800.556 L 2266.653,176.17 L 624.798,176.17 L 624.798,1818.023 L 2266.653,1818.023 L 2266.653,1800.556" id="path6" opacity="1" fill="url(#linearGradient7101)" stroke-width="1.092"/>
+			<path d="M 2266.653,683.475 C 1794.465,1168.137 1245.6,1420.162 624.799,1453.93 L 624.799,1818.023 L 2266.653,1818.023 L 2266.653,683.475" id="path7093" opacity="1" fill="#172ff1" stroke-width="1.092"/>
+			<path d="M 920.635,871.47 L 1233.522,551.375 L 1257.12,560.943 L 1257.12,676.908 L 1545.146,942.167 L 1724.171,898.229 L 1737.447,920.965 L 1552.519,1117.512 L 1931.49,1542.556 L 1912.14,1561.96 L 1482.346,1181.932 L 1305.331,1363.082 L 1281.948,1351.151 L 1310.646,1189.592 L 1065.702,887.481 L 931.172,894.744 L 920.636,871.469 L 920.635,871.47" id="path6198" opacity="1" fill="#fff" stroke-width=".86"/>
+		</g>
+	</g>
+</svg>

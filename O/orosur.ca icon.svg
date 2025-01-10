@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1354 1564">
+	<defs>
+		<radialGradient id="g1" cx="678" cy="1563.1" r="678" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e2ad26"/>
+			<stop offset="1" stop-color="#e2ad26" stop-opacity="0"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="679.3" cy="10.9" r="678" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".5"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: #e8bf55 } 
+		.s1 { mix-blend-mode: multiply;fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m1108.5 532.2l-676.7-390.8 244.8-141.4 676.7 390.8v437l-244.8 141.3z"/>
+		<path id="Layer" class="s0" d="m676.6 1280.4l676.7-390.7v282.7l-676.7 390.8-378.2-218.5v-282.7z"/>
+		<path id="Layer" class="s0" d="m623.1 313.7l-378.3 218.4v781.7l-244.8-141.3v-781.7l378.3-218.5z"/>
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m1108.5 532.2l-676.7-390.8 244.9-141.4 676.6 390.8v437l-244.8 141.4zm-431.8 748.3l676.6-390.7v282.6l-676.6 390.8-378.4-218.6v-282.6zm-53.6-966.8l-378.3 218.6v781.6l-244.8-141.3v-781.7l378.3-218.5z"/>
+		<path id="Layer" fill-rule="evenodd" class="s2" d="m1108.5 532.2l-676.7-390.8 244.9-141.4 676.6 390.8v437l-244.8 141.4zm-431.8 748.3l676.6-390.7v282.6l-676.6 390.8-378.4-218.6v-282.6zm-53.6-966.8l-378.3 218.6v781.6l-244.8-141.3v-781.7l378.3-218.5z"/>
+	</g>
+</svg>

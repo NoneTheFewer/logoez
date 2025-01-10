@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: url(#radial-gradient); }
+		.cls1 { fill: #45b1ed; }
+		.cls2 { fill: #fffcf6; }
+	</style>
+	<radialGradient id="radial-gradient" cx="41.87" cy="42.61" r="31.75" gradientTransform="rotate(13.28 41.878 42.62)" gradientUnits="userSpaceOnUse">
+		<stop offset=".45" stop-color="#eb8422" stop-opacity=".96"/>
+		<stop offset="1" stop-color="#eb8422" stop-opacity="0"/>
+	</radialGradient>
+	<path d="M98.34 0H29.66A29.66 29.66 0 000 29.66v68.68A29.66 29.66 0 0029.66 128h68.68A29.66 29.66 0 00128 98.34V29.66A29.66 29.66 0 0098.34 0z"/>
+	<circle cx="41.87" cy="42.61" r="31.75" transform="matrix(.97 -.23 .23 .97 -8.67 10.76)" class="cls0"/>
+	<circle cx="85.99" cy="42.61" r="15.16" transform="rotate(-22.5 85.99 42.608)" class="cls1"/>
+	<circle cx="85.99" cy="85.24" r="15.16" transform="rotate(-22.5 85.999 85.257)" class="cls1"/>
+	<circle cx="41.87" cy="85.24" r="15.16" transform="rotate(-22.5 41.868 85.232)" class="cls1"/>
+	<circle cx="41.87" cy="42.61" r="15.16" transform="rotate(-13.28 41.88 42.619)" style="" class="cls2"/>
+</svg>

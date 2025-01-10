@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1122 1535">
+	<defs>
+		<radialGradient id="g1" cx="-1.5" cy="1423.5" r="1607.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7e46d8"/>
+			<stop offset=".333" stop-color="#9263d9"/>
+			<stop offset=".666" stop-color="#0093b8"/>
+			<stop offset="1" stop-color="#00a892"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="-1.2" cy="790.4" r="990.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7e46d8"/>
+			<stop offset=".333" stop-color="#9263d9"/>
+			<stop offset=".666" stop-color="#0093b8"/>
+			<stop offset="1" stop-color="#00a892"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="-1.5" cy="1423.5" r="1607.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7e46d8"/>
+			<stop offset=".333" stop-color="#9263d9"/>
+			<stop offset=".666" stop-color="#0093b8"/>
+			<stop offset="1" stop-color="#00a892"/>
+		</radialGradient>
+		<radialGradient id="g4" cx="-1.2" cy="790.4" r="990.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7e46d8"/>
+			<stop offset=".333" stop-color="#9263d9"/>
+			<stop offset=".666" stop-color="#0093b8"/>
+			<stop offset="1" stop-color="#00a892"/>
+		</radialGradient>
+		<radialGradient id="g5" cx="-1.5" cy="1423.5" r="1607.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7e46d8"/>
+			<stop offset=".333" stop-color="#9263d9"/>
+			<stop offset=".666" stop-color="#0093b8"/>
+			<stop offset="1" stop-color="#00a892"/>
+		</radialGradient>
+		<radialGradient id="g6" cx="-1.2" cy="790.4" r="990.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7e46d8"/>
+			<stop offset=".333" stop-color="#9263d9"/>
+			<stop offset=".666" stop-color="#0093b8"/>
+			<stop offset="1" stop-color="#00a892"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+	</style>
+	<path id="Layer" class="s0" d="m261.1 94.2c-42.6 0-261.1 11.5-261.1 221.7v474.7h49.7c33.8 0 62.2-27.5 62.2-62.1v-435.6c0-82.5 14.2-131.3 67.5-165 189.1-32.9 481.3-0.9 481.3 384.1 0 168.6-109.2 387.7-548.8 368.2-43.5-1.8-111.9 28.4-111.9 109.1v436.5l50.6 13.3c33.8 8.8 61.3-12.4 61.3-47.9v-393c0-98.5 76.4-115.4 157.2-111.8 277.9 12.4 503.5-89.6 503.5-385 0-342.5-305.5-424.1-511.5-407.2z"/>
+	<path id="Layer" class="s1" d="m261.1 94.2c-122.6 32.8-149.2 83.3-149.2 198.7v435.6c0 33.7-27.5 62.1-62.2 62.1h-49.7v-473.8c0-211.1 218.5-222.6 261.1-222.6z"/>
+	<path id="Layer" class="s2" d="m436 48c-42.6 0-261 11.6-261 221.8v520.8h49.7c33.7 0 62.1-27.5 62.1-62.1v-482.6c0-82.6 14.2-131.3 67.5-165.1 135-21.2 481.3 55.9 481.3 415.2 0 168.6-109.2 421.4-548.8 401.9-43.5-1.8-111.8 28.4-111.8 109.1v464.9l50.6 13.3c33.7 8.9 61.2-12.4 61.2-47.9v-420.5c0-98.5 76.4-115.3 157.2-111.8 277.9 12.4 503.5-110.9 503.5-419.6 0-402.8-386.3-437.4-511.5-437.4z"/>
+	<path id="Layer" class="s3" d="m436 48c-122.5 32.8-149.2 83.4-149.2 198.7v481.8c0 33.7-27.5 62.1-62.1 62.1h-49.7v-520.8c-0.9-211.1 217.5-221.8 261-221.8z"/>
+	<path id="Layer" class="s4" d="m610.1 1c-42.7 0-261.1 11.5-261.1 221.8v567.8h49.7c33.8 0 62.2-27.5 62.2-62.1v-528.8c0-82.5 14.2-131.3 67.5-165 206.9-15.1 481.3 128.6 481.3 440 0 168.6-109.3 462.2-548.8 441.8-43.5-1.7-111.9 28.4-111.9 109.2v493.2l50.6 13.3c33.8 8.9 61.3-12.4 61.3-47.9v-448.9c0-98.5 76.3-115.3 157.2-111.8 277.9 12.5 503.4-132.1 503.4-459.5 0-244.9-175.8-463.1-511.4-463.1z"/>
+	<path id="Layer" class="s5" d="m610.1 1c-122.6 32.8-149.2 83.4-149.2 198.7v528.8c0 33.7-27.5 62.1-62.2 62.1h-49.7v-567.8c0-210.3 218.4-221.8 261.1-221.8z"/>
+</svg>

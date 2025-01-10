@@ -1,0 +1,32 @@
+<svg viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		.grey { fill: #d5dce2; }
+		.sea { fill: #1c7cab; }
+		.blue { fill: #002182; }
+		.sky { fill: #81c3d0; }
+		.denim { fill: #004482; }
+		.night { fill: #001a4e; }
+		.bubble { fill: #d42d76; }
+		.jelly { fill: #881a7f; }
+		.purple { fill: #5f1d7f; }
+		.jam { fill: #c61e50; }
+		.lips { fill: #931a5b; }
+	</style>
+
+	<rect fill="#e3e3e3" width="100%" height="100%" />
+	<polygon points="0,30 30,0 30,30" class="grey" />
+	<polygon points="30,0 30,30 60,0" class="sea" />
+	<polygon points="60,0 30,30 60,30" class="blue" />
+	<polygon points="60,0 90,0 60,30" class="grey" />
+	<polygon points="0,30 30,30 0,60" class="sky" />
+	<polygon points="30,30 30,60 0,60" class="denim" />
+	<polygon points="30,30 60,30 30,60" class="night" />
+	<polygon points="60,30 30,60 60,60" class="bubble" />
+	<polygon points="60,30 90,30 60,60" class="jelly" />
+	<polygon points="90,30 60,60 90,60" class="purple" />
+	<polygon points="30,60 0,90 30,90" class="grey" />
+	<polygon points="30,60 60,60 30,90" class="jam" />
+	<polygon points="60,60 60,90 30,90" class="lips" />
+	<polygon points="60,60 90,60 60,90" class="grey" />
+
+</svg>

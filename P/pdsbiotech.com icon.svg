@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1577 1577">
+	<defs>
+		<linearGradient id="g1" x1="339.3" y1="348.1" x2="1237.7" y2="1246.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#218e5a"/>
+			<stop offset=".142" stop-color="#20885b"/>
+			<stop offset=".361" stop-color="#1f785c"/>
+			<stop offset=".63" stop-color="#1c605b"/>
+			<stop offset=".936" stop-color="#184253"/>
+			<stop offset="1" stop-color="#173c51"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="120" y1="130.1" x2="729.7" y2="662.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c9e3b1"/>
+			<stop offset="1" stop-color="#01a276"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #09243a } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m1131.5 1334.4c-114.6 71.6-251.2 113.3-398 113.3-404.8 0-733-316-733-705.6 0-18.8 1-37.4 2.5-55.7 86.2 182.8 276.5 309.9 497.5 309.9 302 0 546.8-237.3 546.8-529.8 0-173.4-86-327.4-218.8-424 359.9 44.8 638 340.8 638 699.6 0 154.1-51.6 296.7-138.8 412.9-22.8-17.9-51.5-28.7-82.7-28.7-74.5 0-134.9 60.6-134.9 135.3 0 26.8 7.9 51.8 21.4 72.8zm-37.6-338.1c0-57.4-46.2-103.8-103.4-103.8-57.2 0-103.4 46.4-103.4 103.8 0 57.3 46.2 103.7 103.4 103.7 57.2 0 103.4-46.4 103.4-103.7z"/>
+		<path id="Layer" class="s1" d="m1447.1 1576.9c-71.8 0-129.9-58.2-129.9-130.2 0-72.1 58.1-130.3 129.9-130.3 71.8 0 129.9 58.2 129.9 130.3 0 72-58.1 130.2-129.9 130.2z"/>
+		<path id="Layer" class="s2" d="m424.9 792.2c-227.8 0-411.8-177-411.8-396.1 0-219 184-396.1 411.8-396.1 227.7 0 411.7 177.1 411.7 396.1 0 219.1-184 396.1-411.7 396.1z"/>
+	</g>
+</svg>

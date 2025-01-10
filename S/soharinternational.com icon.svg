@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1152 1583">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(383.817,-823.093,614.229,286.422,160.89,1049.474)">
+			<stop offset="0" stop-color="#4f4947"/>
+			<stop offset="1" stop-color="#dedcdb"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-515.041,892.067,-692.902,-400.052,1023.817,551.283)">
+			<stop offset="0" stop-color="#4f4947"/>
+			<stop offset="1" stop-color="#dedcdb"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #ff6c2a } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 24" class="s0" d="m0.2 574.6c0 312.5 247.2 564.9 556.1 575.5l-30-1147.3c-294.8 24.7-526.1 271.8-526.1 571.8z"/>
+			<path id="Path 25" class="s1" d="m584.6 1582.5c314.2-5.3 566.6-261.2 566.6-575.4 0-305.4-238.3-554.2-538.4-573.7z"/>
+			<path id="Path 26" class="s2" d="m575.7 1q-24.7 0-49.4 1.8l40.6 1579.7q3.5 0 8.8 0 3.6 0 8.9 0l40.6-1579.7q-24.7-1.8-49.5-1.8z"/>
+		</g>
+	</g>
+</svg>
