@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.33 28.33">
+	<defs>
+		<style>
+			.cls-1{fill:#000;fill-rule:evenodd}
+			.cls2 {fill:#E25928;}
+		</style>
+	</defs>
+	<g id="hex" transform="translate(-30.2 0.215)">
+		<path id="Clip_8" fill-opacity="0" fill-rule="evenodd" d="M80.2 36.77h28.33V64.6H80.21V36.77z" data-name="Clip 8" transform="translate(-50 -36.78)"/>
+		<g id="Mask_by_Clip_8" data-name="Mask by Clip 8">
+			<path id="Fill_7" d="M98.55 36.77l-9.98 5.77v11.52l9.98 5.77 9.98-5.77V42.54zM91.81 52.2V44.4l6.74-3.9 6.75 3.9v7.79l-6.75 3.9-6.74-3.9z" class="cls-1" data-name="Fill 7" transform="translate(-50 -36.78)"/>
+			<path id="Fill_9" class="cls2" fill-rule="evenodd" d="M80.2 47.37v11.52l9.99 5.77 9.98-5.77V47.37L90.2 41.6zm3.24 9.65v-7.79l6.75-3.89 6.74 3.9v7.78l-6.74 3.9-6.75-3.9z" data-name="Fill 9" transform="translate(-50 -36.78)"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249.5 27.9">
+	<defs>
+		<style>
+			.cls-1{fill:#000;fill-rule:evenodd}
+			.cls2 {fill:#E25928;}
+		</style>
+	</defs>
+	<path id="Fill_1" d="M50 50.77v-.05a9.93 9.93 0 0110.11-10.15 10.23 10.23 0 017.68 3.06l-2.21 2.54a7.81 7.81 0 00-5.5-2.43 6.6 6.6 0 00-6.47 6.92v.06c0 3.83 2.72 6.94 6.48 6.94a7.66 7.66 0 005.63-2.52l2.21 2.24a10.12 10.12 0 01-7.95 3.48A9.86 9.86 0 0150 50.77" class="cls-1" data-name="Fill 1" transform="translate(-50 -36.78)"/>
+	<path id="Fill_2" d="M133.46 52.8l-3.39-7.84-3.36 7.84h6.75zm-4.93-11.96h3.2l8.62 19.75h-3.64l-1.99-4.74h-9.27l-2.02 4.74h-3.53l8.63-19.75z" class="cls-1" data-name="Fill 2" transform="translate(-50 -36.78)"/>
+	<path id="Fill_3" d="M157.72 40.9h3.45v16.48h10.31v3.14h-13.76V40.91" class="cls-1" data-name="Fill 3" transform="translate(-50 -36.78)"/>
+	<path id="Fill_4" d="M189.07 40.9h14.6v3.15h-11.15v5.35h9.9v3.14h-9.9v7.98h-3.44V40.91" class="cls-1" data-name="Fill 4" transform="translate(-50 -36.78)"/>
+	<path id="Fill_5" d="M221.66 60.52h3.44V40.91h-3.44v19.61z" class="cls-1" data-name="Fill 5" transform="translate(-50 -36.78)"/>
+	<path id="Fill_6" d="M252.84 50.63c2.46 0 4.03-1.29 4.03-3.28v-.05c0-2.1-1.51-3.25-4.06-3.25h-5.01v6.58h5.04zm-8.49-9.72h8.74a7.91 7.91 0 015.66 1.96 5.93 5.93 0 011.63 4.23v.06a5.9 5.9 0 01-4.65 5.94l5.29 7.42h-4.09l-4.82-6.84h-4.31v6.84h-3.45V40.91z" class="cls-1" data-name="Fill 6" transform="translate(-50 -36.78)"/>
+	<path id="Fill_11" d="M278.61 40.9h14.54V44h-11.09v5.1h9.84v3.08h-9.84v5.27h11.24v3.08h-14.69V40.91" class="cls-1" data-name="Fill 11" transform="translate(-50 -36.78)"/>
+	<path id="Fill_12" d="M297.6 58.23h-.51v.67h.52a.35.35 0 00.41-.33.34.34 0 00-.41-.34zm.35.95l.56.79h-.47l-.51-.73h-.44v.73h-.4v-2.1h.93a.7.7 0 01.81.67.62.62 0 01-.48.64zm-.45-2a1.8 1.8 0 101.79 1.8 1.78 1.78 0 00-1.79-1.8zm0 3.8a1.99 1.99 0 01-2-2 2 2 0 112 2z" class="cls-1" data-name="Fill 12" transform="translate(-50 -36.78)"/>
+	<g id="hex">
+		<path id="Clip_8" fill-opacity="0" fill-rule="evenodd" d="M80.2 36.77h28.33V64.6H80.21V36.77z" data-name="Clip 8" transform="translate(-50 -36.78)"/>
+		<g id="Mask_by_Clip_8" data-name="Mask by Clip 8">
+			<path id="Fill_7" d="M98.55 36.77l-9.98 5.77v11.52l9.98 5.77 9.98-5.77V42.54zM91.81 52.2V44.4l6.74-3.9 6.75 3.9v7.79l-6.75 3.9-6.74-3.9z" class="cls-1" data-name="Fill 7" transform="translate(-50 -36.78)"/>
+			<path id="Fill_9" class="cls2" fill-rule="evenodd" d="M80.2 47.37v11.52l9.99 5.77 9.98-5.77V47.37L90.2 41.6zm3.24 9.65v-7.79l6.75-3.89 6.74 3.9v7.78l-6.74 3.9-6.75-3.9z" data-name="Fill 9" transform="translate(-50 -36.78)"/>
+		</g>
+	</g>
+</svg>

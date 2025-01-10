@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1554 712">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-5.41h5174.53v723.22h-5174.53z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ff5858 } 
+		.s1 { fill: #00afa9 } 
+	</style>
+	<g id="Group_19498">
+		<path id="Rectangle_3" class="s0" d="m861.4 10.4h692.1v691.6h-692.1z"/>
+		<g id="Group_13">
+			<g id="Clip-Path: Group_12" clip-path="url(#cp1)">
+				<g id="Group_12">
+					<path id="Path_5" fill-rule="evenodd" class="s1" d="m355.4 0.7c-143.7 0.3-273.1 87.2-327.8 220.1-54.8 132.9-24.3 285.7 77.4 387.3 101.7 101.5 254.6 131.8 387.3 76.7 132.7-55 219.2-184.7 219.2-328.4 0.1-46.8-9.1-93.1-27-136.4-17.8-43.2-44.1-82.5-77.2-115.5-33.1-33-72.4-59.2-115.6-77-43.2-17.8-89.5-26.9-136.3-26.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

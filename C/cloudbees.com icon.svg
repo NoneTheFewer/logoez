@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.922 22.922">
+	<style>
+		.cls0 { fill: url(#c); }
+		.cls1 { fill: url(#b); }
+		.cls2 { fill: url(#a); }
+	</style>
+	<defs>
+		<linearGradient id="c" x1="16.086" x2="20.715" y1="2.5896" y2="15.474" gradientTransform="scale(.82742 1.2086)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#77CFFE" offset="0"/>
+			<stop stop-color="#289CE1" offset="1"/>
+		</linearGradient>
+		<linearGradient id="b" x1="3.8252" x2="7.903" y1="1.2411" y2="6.9057" gradientTransform="scale(.91407 1.094)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#289CE1" offset="0"/>
+			<stop stop-color="#006AB0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="a" x1="13.086" x2="16.43" y1="11.223" y2="11.223" gradientTransform="scale(1.0037 .99627)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#006AB0" stop-opacity=".5" offset="0"/>
+			<stop stop-color="#006AB0" stop-opacity="0" offset="1"/>
+		</linearGradient>
+	</defs>
+	<path d="M 13.141,9.7615 L 13.141,13.0915 L 16.331,13.0915 C 18.091,13.0915 19.517,14.4865 19.517,16.2075 C 19.517,17.9285 18.087,19.3245 16.327,19.3245 C 14.568,19.3245 13.14,17.9145 13.14,16.1925 L 13.141,6.6655 C 13.141,5.2385 12.651,3.7985 11.769,2.6945 C 11.435,2.3075 11.546,2.3155 11.149,2.6425 A 0.436,0.436 0.0 0,0 11.121,2.6675 L 9.285,4.4645 C 8.977,4.7655 9.008,4.6575 9.223,4.9945 A 3.06,3.06 0.0 0,1 9.73,6.6655 L 9.73,16.2075 C 9.73,19.7695 12.687,22.6515 16.328,22.6515 C 19.968,22.6515 22.922,19.7695 22.922,16.2075 C 22.922,12.6465 19.968,9.7615 16.328,9.7615 L 13.14,9.7615 L 13.141,9.7615" class="cls0"/>
+	<path d="M 6.56,3.6105 C 7.262,3.6105 7.876,3.7905 8.402,4.1505 L 10.8,1.7895 C 9.607,0.7765 8.194,0.2705 6.56,0.2705 C 2.943,0.2705 -0.0,3.1705 -0.0,6.7335 C -0.0,10.2975 2.943,13.1965 6.56,13.1965 L 8.88,13.1965 L 8.88,9.8575 L 6.56,9.8575 C 4.812,9.8575 3.39,8.4565 3.39,6.7335 C 3.39,5.0105 4.811,3.6105 6.56,3.6105 L 6.56,3.6105" class="cls1"/>
+	<path d="M 13.135,9.7855 L 16.492,9.7855 L 16.492,13.1175 L 13.135,13.1175 L 13.135,9.7855" class="cls2"/>
+</svg>

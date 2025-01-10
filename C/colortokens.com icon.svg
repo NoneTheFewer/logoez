@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<defs>
+		<clipPath id="clip-path">
+			<path id="Rectangle_50" d="M 0.0,0.0 L 191.142,0.0 L 191.142,24.0 L 0.0,24.0 L 0.0,0.0"/>
+		</clipPath>
+		<style>
+			.ct-nav-svg-logo{fill-rule:evenodd;fill:#e20000}
+		</style>
+	</defs>
+	<g id="ct-logo-white" style="clip-path:url(#clip-path)">
+		<path id="Path_24293" data-name="Path 24293" class="ct-nav-svg-logo" d="M 7.785,12.5 A 4.638,4.638 0.0 0,0 12.337,17.214 A 4.5,4.5 0.0 0,0 16.0,15.3 L 23.6,15.967 A 13.128,13.128 0.0 0,0 23.674,9.255 L 16.0,9.7 A 4.5,4.5 0.0 0,0 12.336,7.785 A 4.638,4.638 0.0 0,0 7.785,12.5" transform="translate(-.07 -.07)"/>
+		<path id="Path_24294" data-name="Path 24294" class="ct-nav-svg-logo" d="M 0.0,10.312 L 4.124,10.312 A 7.905,7.905 0.0 0,1 11.834,4.077 A 7.815,7.815 0.0 0,1 15.89,5.2 L 21.428,4.843 A 11.936,11.936 0.0 0,0 0.0,10.312 M 0.12,14.387 A 11.935,11.935 0.0 0,0 21.429,19.154 L 15.915,18.781 A 7.876,7.876 0.0 0,1 4.309,14.387 L 0.12,14.387"/>
+	</g>
+</svg>

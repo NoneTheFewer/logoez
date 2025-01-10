@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1227 1540">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1203.55-1088.42h12674.63v17920.08h-12674.63z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-850.583,-476.623,192.67,-343.839,1060.572,1459.033)">
+			<stop offset="0" stop-color="#ff8726"/>
+			<stop offset=".299" stop-color="#ff2e17"/>
+			<stop offset=".945" stop-color="#a6180e"/>
+			<stop offset="1" stop-color="#a6180e"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(856.287,554.065,-239.524,370.175,195.1,64.663)">
+			<stop offset="0" stop-color="#6dc248"/>
+			<stop offset=".481" stop-color="#2f713b"/>
+			<stop offset="1" stop-color="#1e4732"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-831.183,0,0,-848.971,1236.452,858.207)">
+			<stop offset="0" stop-color="#bcd755"/>
+			<stop offset=".232" stop-color="#7ac547"/>
+			<stop offset="1" stop-color="#268b42"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(774.653,-709.375,376.462,411.105,26.744,1029.958)">
+			<stop offset="0" stop-color="#ff8726"/>
+			<stop offset=".332" stop-color="#ff2e17"/>
+			<stop offset=".945" stop-color="#a6180e"/>
+			<stop offset="1" stop-color="#a6180e"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { mix-blend-mode: multiply;fill: #ececed } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 8" class="s0" d="m1.1 764.2v348c1.1 225.6 406.6 450.1 1058.9 425.7 0 0 0-135.2 0-204.3 0-158.6-167.1-140.5-309.7-136.3-310.7 7.5-498-77.6-649.1-219.2-62.8-61.7-96.9-146.8-100.1-213.9z"/>
+			<path id="Path 9" class="s1" d="m166.1 1.3c0 0-1.1 136.2-1.1 205.3 0 157.5 168.2 139.4 309.7 136.2 310.7-7.4 498 76.7 649.2 218.2 62.7 61.7 96.8 146.8 100 213.9v-346.9c0-215-366.1-427.8-961-427.8q-47.9 0-96.8 1.1z"/>
+			<path id="Path 10" class="s2" d="m1089.8 582.3c-72.4 23.4-167.1 38.3-255.4 48.9-205.4 27.7-428.9 52.2-428.9 254.4v392.6c356.5-30.8 804.6-258.6 820.5-475.6 1.1-6.4 0-13.9 0-20.3 0-30.8-2.1-340.5-2.1-342.6-30.9 107.5-134.1 142.6-134.1 142.6z"/>
+			<path id="Path 11" class="s3" d="m0.1 736.6c0 7.4 0 13.8 0 20.2 0 30.9 1 344.8 1 344.8 32-108.6 135.2-144.7 135.2-144.7 71.3-22.4 167.1-37.3 254.3-49 205.4-27.7 428.9-52.1 428.9-254.3v-392.7c-356.5 30.9-803.5 258.6-819.4 475.7z"/>
+			<g id="&lt;Group&gt;">
+				<path id="Path 14" class="s4" d="m819.5 654.6v-21.2c-201.1 26.6-414 55.3-414 252.2v20.2c201.2-26.6 414-55.4 414-251.2z"/>
+			</g>
+		</g>
+	</g>
+</svg>

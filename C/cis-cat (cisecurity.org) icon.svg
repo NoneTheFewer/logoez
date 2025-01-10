@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 544">
+	<style>
+		.blue { fill: #0086bf; }
+		.white { fill: #FFF; }
+	</style>
+	<circle cx="272" cy="272" r="272" class="blue"/>
+	<g transform="scale(1.92) translate(41.4 43.5)">
+		<path d="M 0.0,100.0 A 100.0,100.0 0.0 0,1 200.0,100.0 L 0.0,100.0" class="white"/>
+		<path d="M 0.0,100.0 A 100.0,100.0 0.0 0,1 200.0,100.0 L 0.0,100.0" class="blue" transform="scale(0.85) translate(18.3 18.1)"/>
+	</g>
+	<circle cx="272" cy="272" r="67" class="white"/>
+	<line x1="273" y1="272" x2="424" y2="120" stroke-width="43" stroke="white" stroke-linecap="round"/>
+</svg>

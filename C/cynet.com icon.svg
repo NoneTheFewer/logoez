@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33.2 33.2">
+	<style>
+		.cls0 { fill: url(#logoa); }
+		.cls1 { fill: url(#logob); }
+		.cls2 { fill: url(#logoc); }
+		.cls3 { fill: url(#logod); }
+		.cls4 { fill: url(#logoe); }
+		.cls5 { fill: url(#logof); }
+		.cls6 { fill: url(#logog); }
+		.cls7 { fill: url(#logoh); }
+		.cls8 { fill: url(#logoi); }
+		.cls9 { fill: url(#logoj); }
+	</style>
+	<path d="M 0.0,16.584 L 9.852,6.381 A 13.644,13.644 0.0 0,1 29.558,6.381 C 31.343,8.273 32.601,10.503 33.196,12.867 C 32.799,12.124 32.337,11.381 31.742,10.773 C 28.634,7.53 23.607,7.53 20.433,10.773 L 14.813,16.583 L 20.433,22.395 C 23.541,25.638 28.568,25.638 31.742,22.395 C 32.337,21.786 32.866,21.043 33.196,20.3 C 32.601,22.666 31.411,24.963 29.558,26.786 C 24.136,32.461 15.275,32.461 9.852,26.786 L 0.0,16.585 L 0.0,16.584" class="cls8"/>
+	<path d="M 33.196,16.583 C 33.196,13.813 31.08,11.583 28.369,11.583 C 25.724,11.583 23.542,13.813 23.542,16.583 C 23.542,19.353 25.659,21.583 28.369,21.583 C 31.014,21.515 33.196,19.286 33.196,16.583 L 33.196,16.583" class="cls9"/>
+	<defs>
+		<linearGradient id="logoa" x1="63.865" x2="57.451" y1="21.656" y2="6.057" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#D10055"/>
+			<stop offset=".88" stop-color="#F9379F"/>
+		</linearGradient>
+		<linearGradient id="logoc" x1="64.447" x2="64.447" y1="28.868" y2="6.929" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#D10055"/>
+			<stop offset=".88" stop-color="#F9379F"/>
+		</linearGradient>
+		<linearGradient id="logod" x1="94.627" x2="99.719" y1="25.767" y2="8.219" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#D10055"/>
+			<stop offset=".88" stop-color="#F9379F"/>
+		</linearGradient>
+		<linearGradient id="logoe" x1="103.684" x2="89.116" y1="7.87" y2="16.106" gradientUnits="userSpaceOnUse">
+			<stop offset=".102" stop-color="#F9379F"/>
+			<stop offset="1" stop-color="#D10055"/>
+		</linearGradient>
+		<linearGradient id="logof" x1="95.598" x2="116.297" y1="10.35" y2="5.714" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#D10055"/>
+			<stop offset=".88" stop-color="#F9379F"/>
+		</linearGradient>
+		<linearGradient id="logog" x1="110.583" x2="113.817" y1="28.353" y2="4.528" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#D10055"/>
+			<stop offset=".88" stop-color="#F9379F"/>
+		</linearGradient>
+		<linearGradient id="logoh" x1="37.932" x2="54.999" y1="13.069" y2="13.069" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F9379F"/>
+			<stop offset="1" stop-color="#D10055"/>
+		</linearGradient>
+		<linearGradient id="logoi" x1="-.001" x2="46.907" y1="14.431" y2="14.433" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F9379F"/>
+			<stop offset="1" stop-color="#D10055"/>
+		</linearGradient>
+		<linearGradient id="logoj" x1="23.542" x2="38.248" y1="14.407" y2="14.433" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F9379F"/>
+			<stop offset="1" stop-color="#D10055"/>
+		</linearGradient>
+		<radialGradient id="logob" cx="0" cy="0" r="1" gradientTransform="matrix(0 -16.4936 24.0198 0 79.384 19.872)" gradientUnits="userSpaceOnUse">
+			<stop offset=".05" stop-color="#D10055"/>
+			<stop offset=".912" stop-color="#F9379F"/>
+		</radialGradient>
+	</defs>
+</svg>

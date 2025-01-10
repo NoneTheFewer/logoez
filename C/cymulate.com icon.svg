@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2011.5 2011.5">
+	<style>
+		.blue {fill:#0653c5;}
+		.red {fill:#f02817;}
+		.purple {fill:#703fba;}
+	</style>
+	<g>
+		<circle cx="1340.25" cy="336" r="336" class="blue"/>
+		<circle cx="1340.25" cy="1675.5" r="336" class="purple"/>
+		<circle cx="671.25" cy="1005.75" r="336" class="red"/>
+	</g>
+</svg>

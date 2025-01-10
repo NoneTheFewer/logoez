@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.2 114.2">
+	<style>
+		.green2{fill:#7a994a;}
+		.green1{fill:#b5be34;}
+		.blue{fill:#109dd9;}
+		.orange1{fill:#ea7925;}
+		.orange2{fill:#b77230;}
+		.pink1{fill:#c14197;}
+		.pink2{fill:#ad3b71;}
+		.yellow1{fill:#fadd0d;}
+		.yellow2{fill:#d29729;}
+	</style>
+	<path class="green1" d="M 5.65,8.43 L 46.65,35.19 L 114.21,19.4 L 5.65,8.43"/>
+	<path class="blue" d="M 0.0,34.82 L 35.45,57.82 L 114.2,19.36 L 0.0,34.82"/>
+	<path class="green2" d="M 46.63,35.19 L 114.19,19.4 L 38.11,29.64 L 46.63,35.19"/>
+	<path class="orange1" d="M 14.24,57.77 L 14.24,105.77 L 114.24,19.41 L 14.24,57.77"/>
+	<path class="orange2" d="M 35.44,57.86 L 114.19,19.4 L 27.48,52.64 L 35.44,57.86"/>
+	<path class="pink1" d="M 52.62,98.64 L 52.62,56.74 L 114.19,19.4 L 52.62,98.64"/>
+	<path class="pink2" d="M 52.62,56.74 L 52.62,72.65 L 114.16,19.4 L 52.62,56.74"/>
+	<path class="yellow1" d="M 77.47,93.91 L 77.47,55.75 L 114.19,19.4 L 77.47,93.91"/>
+	<path class="yellow2" d="M 77.47,55.75 L 77.47,66.69 L 114.19,19.4 L 77.47,55.75"/>
+</svg>

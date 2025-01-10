@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 174 187" version="1.1">
+	<style>
+		.blue { fill: #00274c; }
+		.red { fill: #9a1220; }
+	</style>
+	<defs>
+		<g id="brick">
+			<polygon points="75.5,31 75.5,16.5 136.5,52 136.5,66.5" stroke="white" stroke-width=".75" />
+			<polygon points="75.5,16.5 100,2.5 112,9.5 100,16.5 136.5,38 149,30.5 161,37.5 136.5,52" stroke="white" stroke-width=".75" />
+			<polygon points="112,9.5 100,16.5 112,23.5" stroke="white" stroke-width=".75" />
+			<polygon points="161,37.75 149,44.79 161,51.75" stroke="white" stroke-width=".75" />
+		</g>
+	</defs>
+	<g class="blue">
+		<use xlink:href="#brick" />
+	</g>
+	<g class="blue" transform="rotate(120 87.6 94.51)">
+		<use xlink:href="#brick" />
+	</g>
+	<g class="blue" transform="rotate(240 87.6 94.51)">
+		<use xlink:href="#brick" />
+	</g>
+	<g class="red" transform="rotate(60 87.6 94.41)">
+		<use xlink:href="#brick" />
+	</g>
+	<g class="red" transform="rotate(180 87.6 94.51)">
+		<use xlink:href="#brick" />
+	</g>
+	<g class="red" transform="rotate(300 87.6 94.51)">
+		<use xlink:href="#brick" />
+	</g>
+</svg>

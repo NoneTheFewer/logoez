@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1290 961">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-6555.18-1372.12h14402.79v19530.67h-14402.79z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="644.9" y1="316.3" x2="644.9" y2="700.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffa32b"/>
+			<stop offset=".5" stop-color="#eb4e1f"/>
+			<stop offset=".75" stop-color="#de361d"/>
+			<stop offset="1" stop-color="#cf2b1d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #cf2b1d } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 17" class="s0" d="m1284.7 470.8l-129.2-130.2-339.8 340.9-30.6-30.6 330.1-331.1c4.9-4.9 4.9-13.3 0-18.1l-130.5-130.6-339.8 339.9-30.1-30.5 331.4-331.1c4.9-4.9 4.9-12 0-16.8l-130.5-131.9-480.1 479.8 169 170.4-28.7 30.6-200.9-201 330.1-328.5c4.8-6.2 4.8-15.9 0-21.6l-129.2-129.7-470.8 470.1c-5.8 6.2-5.8 14.6 0 19.4l470.8 470.1 169-170.4 170.8 170.4 469-470.1c6.2-4.8 6.2-14.6 0-19.4z"/>
+				<path id="Path 17" class="s1" d="m471 345.5l-135.4 135 169 170.4-28.7 30.6-200.9-201 120.8-120.8c-132.8 29.2-257.5 81-369.9 151.3l450 449.3 169-170.4 170.8 170.4 448.6-449.3q-87.1-54.4-185.4-94.2l-263.2 264.7-30.6-30.6 250.5-251.4c-71.3-25.2-146.5-43.4-223.9-55.3l-166.8 166.8-30.1-30.5 142.5-142.5q-55.3-4.9-112.4-4.9-89.4 0-173.9 12.4z"/>
+			</g>
+		</g>
+	</g>
+</svg>

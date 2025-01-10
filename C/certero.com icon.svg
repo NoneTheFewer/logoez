@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+	<style>
+		.blue { fill: #99d4e0; }
+		.green { fill: #8cb3a1; }
+		.purple { fill: #826379; }
+		.grey { fill: #e4e4e4; }
+		.brick { fill: #7f4042; }
+	</style>
+	<circle class="blue" cx="96" cy="96" r="96" />
+	<circle class="green" cx="96" cy="96" r="73" />
+	<circle class="purple" cx="96" cy="96" r="49.5" />
+	<circle class="grey" cx="96" cy="96" r="28" />
+	<circle class="brick" cx="96" cy="96" r="15" />
+</svg>

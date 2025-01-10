@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+	<defs>
+		<linearGradient id="c" x1=".182" x2="1.061" y1=".91" y2=".232" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#fd0fd0"/>
+			<stop offset=".355" stop-color="#9d00ff"/>
+			<stop offset=".631" stop-color="#0063ff"/>
+			<stop offset="1" stop-color="#00f5ff"/>
+		</linearGradient>
+		<linearGradient id="d" x1=".542" x2=".279" y1=".499" y2=".482" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#821c1d"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="e" x1=".866" x2="-.123" y1="-.143" y2="1.937" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-opacity=".686"/>
+			<stop offset="1" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="a" x1="-.048" x2="1.061" y1=".939" y2=".055" gradientUnits="objectBoundingBox">
+			<stop offset=".006"/>
+			<stop offset=".086" stop-color="#1d1d1d"/>
+			<stop offset=".28" stop-color="#616161"/>
+			<stop offset=".465" stop-color="#999"/>
+			<stop offset=".634" stop-color="#c5c5c5"/>
+			<stop offset=".785" stop-color="#e4e4e4"/>
+			<stop offset=".912" stop-color="#f8f8f8"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="f" x1="-1.507" x2="2.502" y1=".743" y2=".256"/>
+		<linearGradient id="g" x1="1.002" x2="-.038" y1=".629" y2=".365" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-opacity=".725"/>
+			<stop offset=".537" stop-opacity=".314"/>
+			<stop offset=".911" stop-opacity="0"/>
+			<stop offset="1" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="h" x1=".902" x2=".107" y1=".998" y2=".253" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-opacity=".435"/>
+			<stop offset=".512" stop-opacity="0"/>
+			<stop offset="1" stop-opacity=".902"/>
+		</linearGradient>
+		<linearGradient id="i" x1=".211" x2="1.005" y1=".366" y2=".898" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-opacity=".902"/>
+			<stop offset=".655" stop-opacity="0"/>
+			<stop offset="1" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="j" x1=".42" x2=".701" y1=".166" y2=".843"/>
+		<clipPath id="b">
+			<path d="M0 0h1000v1000H0z"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#b)" data-name="Group 42562">
+		<g data-name="Group 31938">
+			<path fill="url(#c)" d="M895.671 948.446c-94.25-27.627-179.059-86.293-238.786-165.2-61.632-81.414-94.2-178.591-94.2-281.03 0-256.579 208.741-465.319 465.329-465.319 140.308 0 271.718 62.385 360.57 171.162 21.087 25.81 41.682 54.553 41.682 96.77 0 119.386-152.979 170.2-224.469 74.567l-.039.029a215.934 215.934 0 0 0-177.746-93.225c-119.113 0-216.023 96.908-216.023 216.017 0 77.065 43.528 179.243 165.683 234.9 66.26 30.193 151.7 46.59 231.13 35.125 22.907-56.789 26.842-107.388 29.416-132.273 2.152-20.947 5.418-52.606 18.838-80.705 48.389-101.311 220.743-84.017 220.743 61.171 0 75.191-81.506 183.324-221.641 217.276C1180.684 952.755 1027.9 987.2 895.671 948.446Zm132.341-838.234c-216.16 0-392.019 175.854-392.019 392.005 0 172.946 115.26 327.51 280.3 375.877 59.209 17.359 154.525 22.3 227.766-29.093-67.046-1.731-135.874-17.428-196.776-45.173-153.808-70.071-208.6-201.75-208.6-301.611 0-159.537 129.793-289.33 289.336-289.33a289.262 289.262 0 0 1 236.3 122.339c29.387 39.838 92.639 19.07 92.639-30.4 0-16.671-8.107-29.537-25.146-50.387a390.8 390.8 0 0 0-303.8-144.228Zm327.54 458.843c-44.462 2.883-39.6 57.933-46.96 98.634-1.384 7.661-8.654 54.321-14.527 79.288 73.31-35.162 109.974-96.273 110.417-126.608 0-34.069-14.653-53.522-48.93-51.315Z" data-name="Path 10221" transform="translate(-520.242 -.3)"/>
+			<path fill="url(#d)" d="M725.01 206.067a.842.842 0 0 1-.031.168.7.7 0 0 1 .042-.158Z" data-name="Path 10222" transform="translate(-21.513 519.548)"/>
+			<path fill="url(#e)" d="M882.578 398.987c57.368-53.926 72.53-108.478 72.53-138.407 0-49.958-18.335-77.235-36.782-94.919-17.95-17.213-93.377-29.6-120.44 71.178 5.758-15.374 15.749-26.387 34.977-27.634 12.545-.806 26.086 1.279 35.328 9.946 11.242 10.541 13.6 28.349 13.6 41.369-.006.551-2.082 40.554-49.424 85.044a240.378 240.378 0 0 1-61 41.565c.516-2.2.976-4.35 1.444-6.512-14.962 65.471-44.991 105.847-39.341 97.241 57.821-14.013 108.471-40.667 149.108-78.871Z" data-name="Path 10223" transform="translate(2.449 359.549)"/>
+			<path fill="url(#a)" d="m726.943 241.245.006-.007Z" data-name="Path 10224" transform="translate(-15.482 627.629)"/>
+			<path fill="url(#f)" d="M744.1 202.152c-.057.468-.133.92-.2 1.385.077-.468.139-.921.2-1.385Z" data-name="Path 10225" transform="translate(36.643 507.517)"/>
+			<path fill="url(#g)" d="M1052.162 172.05c0 49.467-63.255 70.234-92.645 30.4A289.139 289.139 0 0 0 661.87 86.717l9.276 73.09a215.946 215.946 0 0 1 229.816 86.84l.041-.028c35.761 47.836 91.9 59.029 139.088 43.336 67.615-54.279 26.742-117.235-1.935-153.929 9.444 13.174 14.006 23.529 14.006 36.024Z" data-name="Path 10226" transform="translate(-215.449 132.479)"/>
+			<path fill="url(#a)" d="m726.943 241.245.006-.007Z" data-name="Path 10227" transform="translate(-15.482 627.629)"/>
+			<path fill="url(#f)" d="M744.1 202.152c-.057.468-.133.92-.2 1.385.077-.468.139-.921.2-1.385Z" data-name="Path 10228" transform="translate(36.643 507.517)"/>
+			<path fill="url(#h)" d="M656.169 292.462c0-79.324 44.606-149.758 108.513-187.306C635.19 169.7 533.37 385.562 701.222 537.541c80.636 66.279 187.421 99.132 287.005 101.705 7.649-3.384 42.892-39.365 64.742-76.763-180.087 25.648-396.8-81.292-396.8-270.021Z" data-name="Path 10229" style="mix-blend-mode:multiply" transform="translate(-364.41 209.454)"/>
+			<path fill="url(#i)" d="M842.017 654.43C698.216 594.672 600.88 451.361 600.88 292.462c0-34.4 8.181-114.384 47.719-187.306-59.683 107.986-154.719 387.66 52.282 549.685 47.392 37.1 100.849 66.389 158.4 83.451 14.001-11.798-1.224-51.413-17.264-83.862Z" data-name="Path 10230" transform="translate(-485.126 209.454)"/>
+			<path fill="url(#j)" d="m599.389 94.208.006.032.039-.057Z" data-name="Path 10231" transform="translate(-407.45 175.737)"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.52 9.52">
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="scale(-25.27637 25.27637) rotate(-67 20.633 15.65)" spreadMethod="pad" id="b">
+			<stop offset="0" stop-color="#155ba0"/>
+			<stop offset=".862" stop-color="#239de0"/>
+			<stop offset="1" stop-color="#239de0"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="scale(-25.27637 25.27637) rotate(-67 20.71 16.033)" spreadMethod="pad" id="d">
+			<stop offset="0" stop-color="#a6cdda"/>
+			<stop offset="1" stop-color="#617a89"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="a">
+			<path d="M 31.804,699.803 L 51.081,699.803 L 51.081,719.079 L 31.804,719.079 L 31.804,699.803 M 35.501,715.383 L 47.386,715.383 L 47.386,703.499 L 35.501,703.499 L 35.501,715.383"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="c">
+			<path d="M 39.515,707.513 L 58.791,707.513 L 58.791,726.79 L 39.515,726.79 L 39.515,707.513 M 43.212,723.094 L 55.096,723.094 L 55.096,711.21 L 43.212,711.21 L 43.212,723.094"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#a)" transform="matrix(.35278 0 0 -.35278 -11.22 256.395)">
+		<path d="M 31.804,699.803 L 51.081,699.803 L 51.081,719.079 L 31.804,719.079 L 31.804,699.803 M 35.501,715.383 L 47.386,715.383 L 47.386,703.499 L 35.501,703.499 L 35.501,715.383" fill="url(#b)"/>
+	</g>
+	<g clip-path="url(#c)" transform="matrix(.35278 0 0 -.35278 -11.22 256.395)">
+		<path d="M 39.515,707.513 L 58.791,707.513 L 58.791,726.79 L 39.515,726.79 L 39.515,707.513 M 43.212,723.094 L 55.096,723.094 L 55.096,711.21 L 43.212,711.21 L 43.212,723.094" fill="url(#d)"/>
+	</g>
+</svg>

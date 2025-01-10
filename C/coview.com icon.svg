@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+	<style>
+		.cls0 { fill: #3E3E3E; }
+		.cls1 { fill: magenta; }
+		.blue1 { fill: #00477f; }
+		.blue2 { fill: #00a5df; }
+		.orange1 { fill: #ea5155; }
+		.orange2 { fill: #f7a73e; }
+	</style>
+	<rect fill="lightgrey" height="100%" width="100%"/>
+	<polygon points=" 16.6026,1.45459 16.6026,17.95979 2.16553,9.6768" class="orange1"/>
+	<polygon points=" 16.6026,17.95979 2.16553,9.6768 2.16553,26.1819" class="orange2"/>
+	<polygon points=" 9.38403,14.0404 23.8211,22.2828 23.8211,5.81836" class="blue1"/>
+	<polygon points=" 9.38403,30.5456 23.8211,22.2828 9.38403,14.0404" class="blue2"/>
+</svg>

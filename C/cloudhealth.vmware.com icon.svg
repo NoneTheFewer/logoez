@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"  >
+	<style>
+		.cls0 { fill: url(#A); }
+		.cls1 { fill: url(#B); }
+	</style>
+	<defs>
+		<linearGradient id="A" spreadMethod="pad" y2="27.54%" x2="734.05%" y1="27.54%" x1="-459.38%">
+			<stop offset="0%" stop-color="#6dccaa"/>
+			<stop offset="99.5%" stop-color="#26285e"/>
+		</linearGradient>
+		<linearGradient id="B" spreadMethod="pad" y2="26.99%" x2="1004.68%" y1="26.99%" x1="-5.02%">
+			<stop offset="0%" stop-color="#6dccaa"/>
+			<stop offset="99.5%" stop-color="#26285e"/>
+		</linearGradient>
+	</defs>
+	<g stroke="none" fill-rule="nonzero">
+		<path d="M 0.0,30.979 C 0.0,20.673 7.719,14.472 15.927,14.472 C 23.957,14.472 28.73,19.2 30.158,24.735 L 25.117,26.43 C 24.179,22.592 21.236,19.515 15.928,19.515 C 10.71,19.515 5.488,23.31 5.488,30.981 C 5.488,38.387 10.577,42.314 15.973,42.314 C 21.281,42.314 24.317,38.922 25.387,35.354 L 30.294,36.96 C 28.867,42.314 24.048,47.443 15.973,47.443 C 7.452,47.444 0.0,41.288 0.0,30.982" class="cls1"/>
+		<path d="M 58.602,47.044 L 58.602,33.525 L 43.725,33.525 L 43.725,47.044 L 38.371,47.044 L 38.371,14.745 L 43.725,14.745 L 43.725,28.486 L 58.602,28.486 L 58.602,14.745 L 64.001,14.745 L 64.001,47.044 L 58.602,47.044" class="cls0"/>
+	</g>
+</svg>

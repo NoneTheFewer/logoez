@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 352 352">
+	<defs>
+		<linearGradient id="a">
+			<stop offset="0" stop-color="#021348"/>
+			<stop offset="1" stop-color="#092d74"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="b" x1="232.805" y1="953.311" x2="232.805" y2="601.311" gradientUnits="userSpaceOnUse"/>
+	</defs>
+	<g transform="translate(-56.805 -601.311)">
+		<path id="c" d="M 232.805,953.311 C 230.579,835.978 229.633,718.644 232.805,601.311 L 385.225,689.311 L 385.225,865.311 L 232.805,953.311" opacity="1" fill="url(#b)" fill-opacity="1" stroke="none" stroke-width="13.012" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="1.8" stroke-opacity="1" paint-order="markers fill stroke" stop-color="#000"/>
+		<use xlink:href="#c" transform="rotate(180 232.805 777.311)" width="100%" height="100%"/>
+	</g>
+	<g transform="translate(-57.458 -604.246)" fill="#fff">
+		<use xlink:href="#d" transform="matrix(-1 0 0 1 466.916 0)" width="100%" height="100%"/>
+		<path d="M 156.013,734.5 L 170.107,672.25 L 295.57,672.25 L 310.648,735.75 L 156.013,734.5 M 206.363,781.75 L 192.397,745.716 L 273.647,745.736 L 260.481,781.348 L 264.686,821.25 L 202.647,821.25 L 206.363,781.75"/>
+		<path d="M 246.648,864.053 L 246.648,850.404 L 274.62,823.75 C 274.63,809.57 274.638,795.39 274.647,781.209 L 310.974,757.458 C 324.704,767.683 338.363,778.004 352.027,788.318 C 334.136,822.031 315.112,855.102 296.147,888.215 L 273.147,888.243 L 246.647,864.053 L 246.648,864.053" id="d"/>
+	</g>
+</svg>

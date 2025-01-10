@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+	<defs>
+		<linearGradient id="linear-gradient" x1="512" x2="512" y1="1.41" y2="1033.45" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1e88e5"/>
+			<stop offset="1" stop-color="#00b6ff"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="457.12" x2="986.09" y1="424.47" y2="869.53" gradientUnits="userSpaceOnUse">
+			<stop offset="0"/>
+			<stop offset=".13" stop-opacity=".52"/>
+			<stop offset=".88" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="613.87" x2="613.87" y1="203.57" y2="499.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b6ff"/>
+			<stop offset="1" stop-color="#1e88e5"/>
+		</linearGradient>
+		<style>.cls-4{fill:#fff}.cls-7{fill:#1e88e5}</style>
+	</defs>
+	<g style="">
+		<g id="Layer_1" data-name="Layer 1">
+			<path d="M0 0h1024v1024H0z" style="fill:url(#linear-gradient)"/>
+			<path d="m803.82 189.38-190 438.42-353.15 113.29L543.57 1024h276c112.89 0 204.4-91.51 204.4-204.4v-410Z" style="mix-blend-mode:overlay;fill:url(#linear-gradient-2)"/>
+			<path d="M495.55 145.52h303.84v421.33H495.55a67.2 67.2 0 0 1-67.2-67.2V212.71a67.2 67.2 0 0 1 67.2-67.19Z" class="cls-4" transform="rotate(90 613.87 356.18)"/>
+			<path d="M495.55 145.52h303.84v421.33H495.55a67.2 67.2 0 0 1-67.2-67.2V212.71a67.2 67.2 0 0 1 67.2-67.19Z" style="fill:#00d8ff;opacity:.3" transform="rotate(90 613.87 356.18)"/>
+			<path d="M853.33 405.73V712c0 143.64-96.72 141.29-96.72 141.29.37-.75.73-1.49 1.08-2.24 22.67-48-12.93-103.16-66-103.16h-410A35.88 35.88 0 0 1 245.84 712v-17.73c76.73 0 139.16-62.43 139.16-139.17s-62.43-139.17-139.16-139.17v-10.2a35.87 35.87 0 0 1 35.88-35.88h535.73a35.87 35.87 0 0 1 35.88 35.88Z" class="cls-4"/>
+			<path d="M470.41 199.57h286.93a38.29 38.29 0 0 1 38.29 38.29v274.93H432.11V237.86a38.29 38.29 0 0 1 38.3-38.29Z" style="fill:url(#linear-gradient-3)"/>
+			<path d="m671.42 359.6-33.73 47.47a9.29 9.29 0 0 1-15.15 0l-50-70.32a9.29 9.29 0 0 0-15.15 0l-87.51 123.17a4.81 4.81 0 0 0 3.92 7.6h280.14a4.82 4.82 0 0 0 3.93-7.6L686.58 359.6a9.31 9.31 0 0 0-15.16 0Z" class="cls-4"/>
+			<circle cx="642.33" cy="282.74" r="38.69" class="cls-4"/>
+			<path d="M432.11 555.1h363.52v34.6H432.11zM432.11 627.8h363.52v34.6H432.11z" class="cls-7"/>
+			<path d="M245.84 448.07a107 107 0 1 0 107 107 107.15 107.15 0 0 0-107-107ZM231.18 616.3l-59-59 22.73-22.73 36.26 36.26 65.58-65.57L319.48 528Z" class="cls-4"/>
+		</g>
+	</g>
+</svg>

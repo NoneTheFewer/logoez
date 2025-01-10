@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 164.79 164.79">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: #D1D5E3; }
+		.cls2 { fill: url(#b); }
+		.cls3 { fill: url(#c); }
+		.cls4 { fill: url(#g); }
+	</style>
+	<g transform="translate(-3.46 27.145)">
+		<defs>
+			<linearGradient id="a" x1="100%" x2="0%" y1="50%" y2="50%">
+				<stop offset="0%" stop-color="#D1D5E3"/>
+				<stop offset="100%" stop-color="#B4B9CA"/>
+			</linearGradient>
+			<linearGradient id="b" x1="0%" x2="100%" y1="50%" y2="50%">
+				<stop offset="0%" stop-color="#D1D5E3"/>
+				<stop offset="100%" stop-color="#B4B9CB"/>
+			</linearGradient>
+			<linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+				<stop offset="0%" stop-color="#6DDEF9"/>
+				<stop offset="100%" stop-color="#3BBAF0"/>
+			</linearGradient>
+			<linearGradient id="d" x1="73.939%" x2="29.738%" y1="7.842%" y2="77.307%">
+				<stop offset="0%" stop-color="#1FB4FF"/>
+				<stop offset="99.971%" stop-color="#4A90E2"/>
+			</linearGradient>
+			<path id="e" d="M 37.19,37.43 L 6.382,68.24 A 6.34,6.34 0.0 0,0 5.212,75.596 C -1.871,65.839 -1.014,52.109 7.782,43.313 L 25.427,25.668 L 37.19,37.43"/>
+			<filter id="f" width="110.9%" height="108%" x="-5.4%" y="-4%" filterUnits="objectBoundingBox">
+				<feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+				<feOffset dx="1" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+				<feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+				<feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.3 0"/>
+			</filter>
+			<linearGradient id="g" x1="50%" x2="50%" y1="0%" y2="100%">
+				<stop offset="0%" stop-color="#D361EA"/>
+				<stop offset="100%" stop-color="#EB9BF6"/>
+			</linearGradient>
+			<linearGradient id="h" x1="73.939%" x2="29.751%" y1="7.842%" y2="77.286%">
+				<stop offset="0%" stop-color="#F0D32D"/>
+				<stop offset="99.971%" stop-color="#F0A62D"/>
+			</linearGradient>
+			<path id="i" d="M 128.531,84.484 L 159.34,53.676 A 6.34,6.34 0.0 0,0 160.509,46.32 C 167.592,56.077 166.736,69.806 157.939,78.603 L 140.294,96.248 L 128.531,84.484"/>
+			<filter id="j" width="110.9%" height="108%" x="-5.4%" y="-4%" filterUnits="objectBoundingBox">
+				<feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"/>
+				<feOffset dx="1" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+				<feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+				<feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.3 0"/>
+			</filter>
+		</defs>
+		<g fill="none" fill-rule="evenodd">
+			<path fill-rule="nonzero" d="M 73.751,28.629 L 60.268,19.157 C 68.408,7.568 85.96,-0.783 101.93,1.137 C 108.61,1.94 114.77,4.447 120.773,8.449 C 125.255,11.437 129.193,14.859 134.58,20.126 C 135.01,20.546 139.134,24.622 140.29,25.736 L 128.847,37.593 C 127.608,36.398 123.427,32.266 123.059,31.906 C 113.409,22.468 107.269,18.376 99.963,17.496 C 90.18,16.32 78.488,21.883 73.75,28.629 L 73.751,28.629" transform="translate(3 2)" class="cls0"/>
+			<path fill-rule="nonzero" d="M 118.863,75.255 L 102.385,75.255 C 102.385,69.204 99.345,64.876 94.443,62.929 C 89.631,61.017 84.145,61.908 80.425,65.364 L 69.208,53.303 C 69.208,45.236 65.057,39.346 58.424,36.719 C 51.937,34.149 44.522,35.349 39.475,40.024 L 28.278,27.935 C 38.098,18.84 52.248,16.549 64.493,21.4 C 75.043,25.579 82.585,34.374 84.923,45.688 C 101.443,43.271 118.863,55.241 118.863,75.255" class="cls1"/>
+			<path fill-rule="nonzero" d="M 129.597,83.5 L 140.294,96.248 C 135.075,100.878 129.711,103.182 123.205,104.501 C 118.463,105.464 114.805,105.632 105.753,105.632 L 58.935,105.632 C 40.924,105.632 33.402,104.188 25.427,96.248 L 36.625,83.983 C 40.763,88.103 44.879,89.155 58.935,89.155 L 105.753,89.155 C 120.056,89.155 124.161,88.322 129.597,83.5" transform="translate(3 2)" class="cls2"/>
+			<path d="M 25.427,96.248 L 7.782,78.603 C -1.014,69.806 -1.871,56.077 5.212,46.32 A 6.34,6.34 0.0 0,0 6.382,53.676 L 37.19,84.484 L 25.427,96.248" transform="translate(3 2)" class="cls3"/>
+			<g transform="translate(3 2)">
+				<use fill="url(#d)" xlink:href="#e"/>
+				<use fill="#000" filter="url(#f)" xlink:href="#e"/>
+			</g>
+			<path d="M 140.294,25.667 L 157.939,43.312 C 166.736,52.108 167.592,65.838 160.509,75.595 A 6.34,6.34 0.0 0,0 159.339,68.239 L 128.532,37.43 L 140.295,25.667 L 140.294,25.667" transform="translate(3 2)" class="cls4"/>
+			<g transform="translate(3 2)">
+				<use fill="url(#h)" xlink:href="#i"/>
+				<use fill="#000" filter="url(#j)" xlink:href="#i"/>
+			</g>
+		</g>
+	</g>
+</svg>
