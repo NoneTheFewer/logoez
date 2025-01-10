@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<style>
+		.orange { fill: rgb(239,120,48); }
+		.yellow { fill: rgb(237,234,50); }
+		.red { fill: rgb(212,46,51); }
+		.white { fill: #FFF; }
+		.black { fill: #000; }
+	</style>
+	<rect width="100%" height="100%" fill="black" />
+	<rect width="1" height="3" x="2" y="6" class="yellow" />
+	<rect width="1" height="1" x="2" y="9" class="orange" />
+	<rect width="1" height="3" x="13" y="6" class="yellow" />
+	<rect width="1" height="1" x="13" y="9" class="orange" />
+	<polygon class="orange" points="5,1 11,1 11,3 12,3 12,11 10,11 10,12 12,12 12,14 11,14 11,15 5,15 5,14 4,14 4,12 6,12 6,11 4,11 4,3 5,3" />
+	<rect width="2" height="4" x="5" y="5" class="white" />
+	<rect width="1" height="1" x="6" y="7" class="black" />
+	<rect width="2" height="4" x="9" y="5" class="white" />
+	<rect width="1" height="1" x="10" y="7" class="black" />
+	<rect width="2" height="1" x="7" y="11" class="black" />
+	<rect width="1" height="1" x="10" y="1" class="red" />
+	<rect width="1" height="1" x="10" y="3" class="red" />
+	<rect width="1" height="1" x="11" y="4" class="red" />
+	<rect width="1" height="1" x="11" y="6" class="red" />
+	<rect width="1" height="1" x="11" y="8" class="red" />
+	<rect width="1" height="1" x="11" y="10" class="red" />
+	<rect width="1" height="1" x="11" y="12" class="red" />
+	<rect width="1" height="1" x="9" y="12" class="red" />
+	<rect width="1" height="1" x="8" y="13" class="red" />
+	<rect width="1" height="1" x="10" y="13" class="red" />
+	<rect width="1" height="1" x="9" y="14" class="red" />
+	<rect width="1" height="1" x="7" y="14" class="red" />
+</svg>

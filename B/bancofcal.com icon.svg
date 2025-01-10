@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1548 1541">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-8041.55-24217.41h23158.03v29438.18h-23158.03z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="809.4" y1="771.8" x2="1570.8" y2="771.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d5b66c"/>
+			<stop offset=".2" stop-color="#d5b66c"/>
+			<stop offset=".5" stop-color="#ffeac8"/>
+			<stop offset=".9" stop-color="#d5b66c"/>
+			<stop offset="1" stop-color="#d5b66c"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="-22.2" y1="771.8" x2="737.4" y2="771.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d5b66c"/>
+			<stop offset=".1" stop-color="#d5b66c"/>
+			<stop offset=".5" stop-color="#ffeac8"/>
+			<stop offset=".8" stop-color="#d5b66c"/>
+			<stop offset="1" stop-color="#d5b66c"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="386.6" y1="1591.8" x2="386.6" y2="-50.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#84631b"/>
+			<stop offset=".3" stop-color="#84631b"/>
+			<stop offset=".5" stop-color="#f1deb5"/>
+			<stop offset=".8" stop-color="#84631b"/>
+			<stop offset="1" stop-color="#84631b"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1160.3" y1="1591.8" x2="1160.3" y2="-50.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#84631b"/>
+			<stop offset=".3" stop-color="#84631b"/>
+			<stop offset=".5" stop-color="#f1deb5"/>
+			<stop offset=".8" stop-color="#84631b"/>
+			<stop offset="1" stop-color="#84631b"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 10" class="s0" d="m833.9 0.8c398.3 29.7 714.1 362.7 714.1 771c0 406.5-315.8 739.4-714.1 769.2v-236.6c366.7-22.7 473.7-252.3 473.7-532.6c0-282.2-107-511.7-473.7-534.5z"/>
+			<path id="Path 11" class="s1" d="m714.6 0.8v236.5c-366.6 22.8-473.6 252.3-473.6 534.5c0 280.3 107 509.9 473.6 532.6v236.6c-400-29.8-714-362.7-714-769.2c0-408.3 314-741.3 714-771z"/>
+			<path id="Path 12" class="s2" d="m714.6 237.3c-266.6 29.8-473.6 257.6-473.6 534.5c0 275.1 207 502.9 473.6 532.6c-366.6-22.7-654.4-252.3-654.4-532.6c0-282.2 287.8-511.7 654.4-534.5z"/>
+			<path id="Path 13" class="s3" d="m1488.3 771.8c0 280.3-287.7 509.9-654.4 532.6c266.7-29.7 473.7-257.5 473.7-532.6c0-276.9-207-504.7-473.7-534.5c366.7 22.8 654.4 252.3 654.4 534.5z"/>
+		</g>
+	</g>
+</svg>

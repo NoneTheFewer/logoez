@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1570 258">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m786.79 0.4c324.99 0 612.1 100.87 782.77 254.38h-79.76c-137.97-111.64-328.18-180.62-538.32-180.62-211.35 0-402.75 69.78-540.72 182.61l-409.93 0.8c170.27-155.1 458.57-257.17 785.96-257.17z"/>
+		</clipPath>
+		<linearGradient id="g1" x1=".7" y1="129" x2="1569.4" y2="129" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#042f5f"/>
+			<stop offset=".2" stop-color="#042f5f"/>
+			<stop offset=".4" stop-color="#025662"/>
+			<stop offset=".7" stop-color="#008066"/>
+			<stop offset="1" stop-color="#008066"/>
+			<stop offset="1" stop-color="#008066"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<path id="Layer" class="s0" d="m0.8 0.4h1568.8v257.6h-1568.8z"/>
+		</g>
+	</g>
+</svg>

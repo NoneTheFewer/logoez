@@ -1,0 +1,19 @@
+<svg viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="41" height="40" fill="#DADADA"/>
+<rect width="1920" height="1080" transform="translate(-1833 -45)" fill="white"/>
+<g clip-path="url(#clip0_109_72)">
+<rect width="1119" height="1080" transform="translate(-1032 -45)" fill="#F7F9FF"/>
+<rect x="-1129" y="-45" width="1216.19" height="1080" fill="url(#pattern0)"/>
+<rect x="0.466797" width="40" height="40" rx="10" fill="#425AE7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2002 12.9706L17.6398 7.4668H18.9538V11.2858V15.1051L20.1336 14.2503C21.5671 13.2117 23.8656 12.6174 25.4612 12.8726C29.5375 13.5244 31.1592 16.3918 30.9346 22.5493C30.7942 26.3991 30.125 28.291 28.3315 29.9115C26.1727 31.8618 22.5898 32.0638 20.2287 30.3684L18.9538 29.4529V30.352V31.2511H15.577H12.2002V19.3589V12.9706ZM19.0154 22.3942C18.9323 20.2155 18.9511 20.1473 19.8455 19.3948C20.754 18.6304 22.4941 18.3509 23.2408 18.8495C23.9167 19.3008 24.2391 20.4151 24.2391 22.2985C24.2391 24.0629 24.1572 24.331 23.3809 25.1074C22.3467 26.1416 21.4347 26.1935 20.0983 25.2944C19.127 24.6411 19.0982 24.5642 19.0154 22.3942Z" fill="white"/>
+<rect x="12.2002" y="7.4668" width="5.86667" height="5.86667" fill="white"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_109_72" transform="scale(0.000520833 0.00058651)"/>
+</pattern>
+<clipPath id="clip0_109_72">
+<rect width="1119" height="1080" fill="white" transform="translate(-1032 -45)"/>
+</clipPath>
+</defs>
+</svg>

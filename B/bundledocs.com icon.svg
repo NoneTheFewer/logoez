@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 68 68">
+	<defs>
+		<clipPath id="d" transform="translate(0 -.04)">
+			<polygon points="8.11 138.77 8.11 14.8 175.82 14.8 175.82 138.77" fill="none"/>
+		</clipPath>
+		<clipPath id="c" transform="translate(0 -.04)">
+			<polygon points="4.66 141.85 4.66 11.73 178.36 11.73 178.36 141.85" fill="none"/>
+		</clipPath>
+		<clipPath id="b" transform="translate(0 -.04)">
+			<rect width="187.53" height="149.8" fill="none"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-53.149 -8.3592)">
+		<g transform="matrix(.35276 0 0 .35276 54.213 15.633)" clip-path="url(#b)">
+			<g opacity=".57">
+				<path transform="translate(0 -.04)" d="M 147.52,149.8 0,105 40,0 187.53,44.8 Z" fill="#27aae1"/>
+			</g>
+		</g>
+		<g transform="matrix(.35276 0 0 .35276 54.213 15.633)" clip-path="url(#c)">
+			<g opacity=".57">
+				<path transform="translate(0 -.04)" d="m178.36 121.8-153.31 20-20.38-110 153.33-20z" fill="#27aae1"/>
+			</g>
+		</g>
+		<g transform="matrix(.35276 0 0 .35276 54.213 15.633)" clip-path="url(#d)">
+			<g opacity=".57">
+				<path transform="translate(0 -.04)" d="M 162.46,138.8 8.11,125.65 21.46,14.8 175.81,27.92 Z" fill="#27aae1"/>
+			</g>
+		</g>
+		<path d="m78.762 67.021 12.491-47.976" clip-path="url(#a)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width=".70553px"/>
+		<path d="m83.779 67.021 12.491-47.976" clip-path="url(#a)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width=".70553px"/>
+	</g>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1617 1617">
+	<defs>
+		<linearGradient id="g1" x1="399" y1="1298.5" x2="680.6" y2="1412.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1218.2" y1="1296" x2="936.5" y2="1409.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1295.7" y1="1220.9" x2="1409.4" y2="936.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1295.7" y1="398.7" x2="1409.4" y2="680.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="321.5" y1="1220.9" x2="207.7" y2="936.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="321.5" y1="398.7" x2="207.7" y2="680.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="399" y1="321.1" x2="680.6" y2="207.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="1218.2" y1="321.1" x2="936.5" y2="207.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1658af"/>
+			<stop offset="1" stop-color="#76aedc"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #198b3b } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: url(#g4) } 
+		.s5 { fill: url(#g5) } 
+		.s6 { fill: url(#g6) } 
+		.s7 { fill: url(#g7) } 
+		.s8 { fill: url(#g8) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 8" class="s0" d="m809.8 1396.8l5.2-10.4c64.6-113.7 157.7-206.8 261-271.5-74.9-87.9-168-157.7-266.2-206.8-100.7 49.1-193.8 118.9-268.7 206.8 105.9 64.7 196.4 157.8 261 271.5z"/>
+			<path id="Path 9" class="s1" d="m442.9 1252c-67.2 116.3-103.4 240.4-113.7 364.6h398c15.5-75 41.3-150 82.6-219.8l-7.7-10.4c-64.6-113.7-155.1-206.8-261-271.5q-54.3 62.1-98.2 137.1z"/>
+			<path id="Path 10" fill-rule="evenodd" class="s2" d="m1076 1114.9c-103.3 64.7-196.4 157.8-261 271.5l-2.6 5.2-2.6 5.2c38.8 69.8 67.2 144.8 82.7 219.8h395.4c-7.7-124.2-46.5-248.3-113.7-364.6q-41.3-75-98.2-137.1zm-266.2 281.9l2.6-5.2z"/>
+			<path id="Path 11" fill-rule="evenodd" class="s0" d="m815 233.2c64.6 113.8 157.7 204.3 261 271.5-74.9 87.9-168 157.7-266.2 206.9-100.7-49.2-193.8-119-268.7-206.9 105.9-67.2 196.4-157.7 263.6-271.5l5.1-10.3zm-581.4 568.8c113.7-64.6 206.7-155.1 271.3-261.1 87.9 74.9 157.7 168 206.8 268.9-49.1 98.2-118.9 191.3-206.8 266.3-64.6-103.4-157.6-196.5-271.3-261.2l-10.3-5.1zm1162.9 7.7l-10.4 7.8c-116.3 64.6-206.7 157.7-271.3 261.1-87.9-74.9-157.7-168-206.8-268.9 49.1-98.2 118.9-191.3 206.8-266.3 64.6 103.4 155 196.5 271.3 261.2z"/>
+			<path id="Path 12" class="s3" d="m1386.1 815c-116.3 67.2-206.7 157.7-273.9 261.1q64.6 56.9 139.6 100.9c116.2 64.6 240.3 103.4 364.3 113.8v-398.2c-74.9-15.6-149.9-44-219.6-82.8z"/>
+			<path id="Path 13" class="s4" d="m1251.8 442.6q-75 44-139.6 98.3c67.2 106 157.6 196.5 273.9 263.7l10.4 5.2c69.7-41.4 144.7-67.2 219.6-82.7v-398.2c-124 10.3-248.1 46.5-364.3 113.7z"/>
+			<path id="Path 14" class="s5" d="m223.2 809.8c-72.3 38.8-147.3 67.2-222.2 82.8v398.2c124-10.4 250.6-49.2 364.4-113.8q77.5-44 139.5-100.9c-67.2-103.4-157.6-193.9-273.9-261.1z"/>
+			<path id="Path 15" class="s6" d="m1 328.9v398.2c74.9 15.5 149.9 41.3 222.2 82.7l7.8-5.2c116.3-67.2 206.7-157.7 273.9-263.7q-62-54.3-139.5-98.3c-113.8-67.2-240.4-103.4-364.4-113.7z"/>
+			<path id="Path 16" class="s7" d="m329.2 0.5c10.3 124.1 46.5 250.8 113.7 367.2q43.9 74.9 98.2 137c105.9-67.2 196.4-157.7 261-271.5l7.7-10.3c-41.3-72.4-67.1-147.4-82.6-222.4z"/>
+			<path id="Path 17" class="s8" d="m892.5 0.5c-15.5 75-43.9 150-82.7 222.4l5.2 10.3c64.6 113.8 157.7 204.3 261 271.5q56.9-62.1 98.2-137c67.2-116.4 106-240.5 113.7-367.2z"/>
+		</g>
+	</g>
+</svg>

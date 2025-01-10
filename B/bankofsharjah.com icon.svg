@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1039 1372">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-44.659,707.104,-210.092,-13.269,152.642,387.122)">
+			<stop offset="0" stop-color="#213d76"/>
+			<stop offset=".503" stop-color="#6b644a"/>
+			<stop offset="1" stop-color="#ec9f09"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-44.659,707.104,-312.885,-19.761,537.305,411.382)">
+			<stop offset="0" stop-color="#213d76"/>
+			<stop offset=".503" stop-color="#6b644a"/>
+			<stop offset="1" stop-color="#ec9f09"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-44.659,707.105,-210.491,-13.294,921.331,435.602)">
+			<stop offset="0" stop-color="#213d76"/>
+			<stop offset=".503" stop-color="#6b644a"/>
+			<stop offset="1" stop-color="#ec9f09"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m1 317.6v734.8l176.1 108.1 148.6-1041.4z"/>
+		<path id="Layer" class="s1" d="m853.5 205.3l-333.9-204.9c-215.1 1088-333.3 1165.7-333.3 1165.7l333.3 204.9c213.6-1071 333.9-1165.7 333.9-1165.7z"/>
+		<path id="Layer" class="s2" d="m863.4 210.9c0 0-58.7 36.8-150 1041.4l325.5-199.9v-734.1z"/>
+	</g>
+</svg>

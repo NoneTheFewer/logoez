@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1631 1430">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m915.98 1429.76c-395.4 0-715.01-319.57-715.01-714.93 0-395.36 319.61-714.94 715.01-714.94 395.4 0 715.01 319.58 715.01 714.94 0 395.36-319.61 714.93-715.01 714.93z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="173.8" y1="947.7" x2="1686.2" y2="947.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d6e6a6"/>
+			<stop offset="1" stop-color="#d3deaa"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1685.9" y1="760.7" x2="828" y2="760.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#cdd894"/>
+			<stop offset=".3" stop-color="#bfcf83"/>
+			<stop offset="1" stop-color="#9eba56"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1538.3" y1="1145.9" x2="896.1" y2="33.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#cfe294"/>
+			<stop offset=".2" stop-color="#b9d187"/>
+			<stop offset=".5" stop-color="#87b268"/>
+			<stop offset="1" stop-color="#338d45"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m915.98 1429.76c-395.4 0-715.01-319.57-715.01-714.93 0-395.36 319.61-714.94 715.01-714.94 395.4 0 715.01 319.58 715.01 714.94 0 395.36-319.61 714.93-715.01 714.93z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1106.05 691.77c-286.68-880.65-894.4-969.86-1078.47-276.26-372.68 1404.7 1192.35 626.06 1078.47 276.26z"/>
+		</clipPath>
+		<radialGradient id="g4" cx="598.7" cy="626.7" r="603.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#010101"/>
+			<stop offset=".1" stop-color="#1f2428"/>
+			<stop offset=".2" stop-color="#35404a"/>
+			<stop offset=".3" stop-color="#46596b"/>
+			<stop offset=".5" stop-color="#536f8a"/>
+			<stop offset=".6" stop-color="#5c80a4"/>
+			<stop offset=".7" stop-color="#618db8"/>
+			<stop offset=".9" stop-color="#6595c6"/>
+			<stop offset="1" stop-color="#6699cc"/>
+		</radialGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m460.42 25.11c124.96 121.83 246.39 314.28 327.92 582.46 56.69 186.49-323.93 470.92-660.59 523.95-80.17-119-126.96-262.4-126.96-416.64 0-310.71 189.72-577.15 459.63-689.77z"/>
+		</clipPath>
+		<radialGradient id="g5" cx="237.2" cy="523.1" r="814.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e7f2f8"/>
+			<stop offset=".1" stop-color="#cadbed"/>
+			<stop offset=".3" stop-color="#a5c1e1"/>
+			<stop offset=".5" stop-color="#89aed7"/>
+			<stop offset=".7" stop-color="#76a2d1"/>
+			<stop offset=".8" stop-color="#6a9bcd"/>
+			<stop offset="1" stop-color="#6699cc"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+	</style>
+	<g id="Layer">
+		<g id="circle_1_">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<g id="Layer">
+					<path id="_x33__2_" class="s0" d="m1686.1 332.1v592.4c-43.1 75.5-92.4 150.8-147 221.9-299.9 390.5-757.3 651.9-1211.7 105-257.3-309.7-173.4-339.3 118.9-403.6 103.2-22.6 232.4-49.7 381.7-94.9 299.6 336.8 686.3 575.6 811.6 210 69.2-201.8 58.4-409.7-15.8-587.9 20.6-13.8 41.4-28.1 62.3-42.9z"/>
+					<path id="_x32__2_" class="s1" d="m828 752.9c225.9-68.3 497.9-178.4 795.8-377.9 74.2 178.2 85 386 15.8 587.9-125.3 365.6-512 126.8-811.6-210z"/>
+					<path id="_x31__2_" class="s2" d="m828 753c-212.4-238.8-381.1-526.8-381.7-683.5v-0.3c-0.1-53.9 19.7-92.2 64.4-107.6 547.1-188.4 962 50.8 1113.1 413.4-297.9 199.5-569.9 309.6-795.8 378z"/>
+				</g>
+			</g>
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer" style="opacity: .9">
+					<g id="Layer">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp3)">
+								<path id="Layer" class="s3" d="m-287.5-241.2h1565v2098.3h-1565z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="outer_1_">
+			<g id="Clip-Path" clip-path="url(#cp4)">
+				<path id="Layer" class="s4" d="m-123.2 1118.2l134.2-1183.1 959.6 103.4-134.1 1183.1z"/>
+			</g>
+		</g>
+	</g>
+</svg>

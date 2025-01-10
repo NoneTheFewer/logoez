@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 500 500" baseProfile="tiny-ps">
+	<rect id="background" width="500" height="500" fill="#FFF"/>
+	<polygon id="rightbottomtriangle" points="295.819,377.191 295.819,455.867 374.494,377.191 " fill="#FDBA12"/>
+	<linearGradient id="rightmiddlesquare_00000159434472631383988060000001731360957765745290_" gradientUnits="userSpaceOnUse" x1="335.1577" y1="293.9266" x2="335.1577" y2="372.6028">
+		<stop offset="0.0013" stop-color="#F05B61"/>
+		<stop offset="1" stop-color="#F6921E"/>
+	</linearGradient>
+	<path id="rightmiddlesquare" d="  M295.82,293.927l78.676,0l0,78.676l-78.676,0L295.82,293.927z" fill="url(#rightmiddlesquare_00000159434472631383988060000001731360957765745290_)"/>
+	<polygon id="righttoptrriangle" points="295.82,210.662 295.82,289.338 374.496,289.338 " fill="#E55860"/>
+	<linearGradient id="midbottomsquare_00000011003615236702587610000016136198153314459806_" gradientUnits="userSpaceOnUse" x1="212.3583" y1="416.5274" x2="291.0345" y2="416.5274">
+		<stop offset="0.0013" stop-color="#F05B61"/>
+		<stop offset="1" stop-color="#F6921E"/>
+	</linearGradient>
+	<path id="midbottomsquare_00000121281564439483775270000008354476206542890625_" d="  M212.358,377.189h78.676v78.676h-78.676V377.189z" fill="url(#midbottomsquare_00000011003615236702587610000016136198153314459806_)"/>
+	<linearGradient id="midtopsquare_00000154404296553852871460000007955543071885250700_" gradientUnits="userSpaceOnUse" x1="212.3583" y1="250" x2="291.0345" y2="250">
+		<stop offset="0" stop-color="#F6921E"/>
+		<stop offset="0.9987" stop-color="#F05B61"/>
+	</linearGradient>
+	<path id="midtopsquare_00000052082428442852175880000004563070769876297362_" d="  M212.358,210.662h78.676v78.676h-78.676V210.662z" fill="url(#midtopsquare_00000154404296553852871460000007955543071885250700_)"/>
+	<polygon id="leftbottomtriangle" points="207.569,455.865 207.569,377.189 128.893,377.189 " fill="#E55860"/>
+	<linearGradient id="leftmiddlerectangle_00000124862452267821740260000009490359274503389631_" gradientUnits="userSpaceOnUse" x1="168.2323" y1="372.6046" x2="168.2323" y2="127.3526">
+		<stop offset="0.0013" stop-color="#F05B61"/>
+		<stop offset="1" stop-color="#F6921E"/>
+	</linearGradient>
+	<path id="leftmiddlerectangle" d="  M128.894,127.353h78.676v245.252h-78.676V127.353z" fill="url(#leftmiddlerectangle_00000124862452267821740260000009490359274503389631_)"/>
+	<polygon id="lefttoptriangle" points="128.895,44.133 128.895,122.809 207.571,122.809 " fill="#FDBA12"/>
+</svg>

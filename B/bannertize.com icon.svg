@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" class="w-14 h-14 transition-all ease-in-out duration-700 hover:rotate-[12deg]" viewBox="0 0 267 267" version="1.1">
+	<defs>
+		<linearGradient x1="-17.1735982%" y1="48.8930271%" x2="55.9693772%" y2="50.0931099%" id="linearGradient-1">
+			<stop stop-color="#D40035" offset="0%"/>
+			<stop stop-color="#FF0000" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="59.7581128%" y1="34.7348538%" x2="12.0635367%" y2="94.6900798%" id="linearGradient-2">
+			<stop stop-color="#FF0000" offset="0%"/>
+			<stop stop-color="#DE0001" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="36.682292%" y1="58.5438839%" x2="91.8841391%" y2="12.7724467%" id="linearGradient-3">
+			<stop stop-color="#FF0000" offset="0%"/>
+			<stop stop-color="#DE0001" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="16.8656615%" y1="11.5477839%" x2="81.0738896%" y2="85.6636629%" id="linearGradient-4">
+			<stop stop-color="#DE0001" offset="0%"/>
+			<stop stop-color="#FF0000" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="final-push-vertizer-" transform="translate(133.500000, 133.500000) rotate(90.000000) translate(-133.500000, -133.500000) translate(-0.000000, 0.000000)" fill-rule="nonzero">
+			<rect id="Rectangle" fill="url(#linearGradient-1)" x="184.83" y="182.5" width="48.33" height="48.33" rx="5.44"/>
+			<path d="M263.25,113.41 L158.57,11.66 C155.004445,8.37441847 150.957736,5.65300664 146.57,3.59 L146.57,146.53 L253.79,146.37 C253.79,146.37 266.14,145.23 266.64,132.26 L266.64,121.51 C266.64,118.465214 265.418099,115.547771 263.25,113.41 Z" id="Path" fill="url(#linearGradient-2)"/>
+			<path d="M12.23,159.15 L12.23,159.15 L113.23,263.37 C115.371192,265.534264 118.285564,266.75758 121.33,266.77 L132.07,266.77 C145.07,266.29 146.2,253.95 146.2,253.94 L146.56,146.52 L3.63,146.52 C5.80954487,151.158971 8.71240798,155.42213 12.23,159.15 Z" id="Path" fill="url(#linearGradient-3)"/>
+			<path d="M130.54,3.10775711e-15 L18.89,3.10775711e-15 C0.42,3.10775711e-15 0,17.48 0,17.48 L0,132.28 C0.236240248,137.226252 1.4710229,142.07354 3.63,146.53 L146.57,146.53 L146.57,3.59 C141.574746,1.17393113 136.088599,-0.0547193067 130.54,3.10775711e-15 Z M73.29,102.610002 C62.146156,102.614045 52.0973577,95.9042681 47.8299901,85.6098595 C43.5626226,75.3154509 45.9172147,63.4640649 53.7956723,55.5827465 C61.67413,47.7014281 73.5246604,45.3425336 83.8206176,49.6061636 C94.1165747,53.8697935 100.83,63.9161553 100.83,75.06 C100.83,90.2715405 88.5015395,102.604479 73.29,102.610002 L73.29,102.610002 Z" id="Shape" fill="url(#linearGradient-4)"/>
+		</g>
+	</g>
+</svg>
