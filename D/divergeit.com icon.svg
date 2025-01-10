@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 250 250" baseProfile="tiny-ps">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="113.411" y1="-449.9723" x2="113.411" y2="-545.7323">
+		<stop offset="0.33" stop-color="#317639"/>
+		<stop offset="0.69" stop-color="#009444"/>
+	</linearGradient>
+	<rect x="65.531" y="110.668" width="95.76" height="95.76" fill="url(#SVGID_1_)"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="85.961" y1="-382.6523" x2="85.961" y2="-478.4123">
+		<stop offset="0.33" stop-color="#BE1E2D"/>
+		<stop offset="0.69" stop-color="#ED1C24"/>
+	</linearGradient>
+	<polygon points="61.001,106.128 133.841,106.128 133.841,43.348 38.081,43.348 38.081,139.108   61.001,139.108 " fill="url(#SVGID_2_)"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="174.906" y1="-399.8223" x2="174.906" y2="-495.5823">
+		<stop offset="0.33" stop-color="#FFDE17"/>
+		<stop offset="0.69" stop-color="#FFF200"/>
+	</linearGradient>
+	<polygon points="138.371,60.518 138.371,106.128 165.831,106.128 165.831,156.278 211.441,156.278   211.441,60.518 " fill="url(#SVGID_3_)"/>
+	<rect x="249" width="1" height="1" fill="none"/>
+	<rect y="249" width="1" height="1" fill="none"/>
+</svg>

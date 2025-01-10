@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<defs>
+		<linearGradient id="a" x1="75.15" y1="5346.58" x2="85.12" y2="5371.42" gradientTransform="matrix(1 0 0 -1 0 5378.82)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9775f8"/>
+			<stop offset=".95" stop-color="#22d88f"/>
+		</linearGradient>
+		<linearGradient id="b" x1="31.21" y1="5312.56" x2="44.16" y2="5256.16" gradientTransform="matrix(1 0 0 -1 0 5378.82)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9775f8"/>
+			<stop offset=".21" stop-color="#689cce"/>
+			<stop offset=".42" stop-color="#42bdac"/>
+			<stop offset=".59" stop-color="#2bd197"/>
+			<stop offset=".69" stop-color="#22d88f"/>
+		</linearGradient>
+		<linearGradient id="c" x1="8.91" y1="5316.54" x2="121.07" y2="5254.61" gradientTransform="matrix(1 0 0 -1 0 5378.82)" gradientUnits="userSpaceOnUse">
+			<stop offset=".08" stop-color="#22d88f"/>
+			<stop offset=".72" stop-color="#9775f8"/>
+		</linearGradient>
+		<linearGradient id="d" y1="5329.82" x2="112.72" y2="5329.82" gradientTransform="matrix(1 0 0 -1 0 5378.82)" gradientUnits="userSpaceOnUse">
+			<stop offset=".08" stop-color="#22d88f"/>
+			<stop offset=".27" stop-color="#5ab0b4"/>
+			<stop offset=".56" stop-color="#b86cf2"/>
+			<stop offset="1" stop-color="#ff59e6"/>
+		</linearGradient>
+	</defs>
+	<path fill="#9775f8" d="M 119.8,19.8 L 128.0,72.2 L 97.0,90.4 L 91.0,60.6 L 119.8,19.8 L 119.8,19.8"/>
+	<path fill="url(#a)" d="M 119.8,19.8 L 74.0,0.0 L 35.6,32.0 L 91.0,60.6 L 119.8,19.8 L 119.8,19.8"/>
+	<path fill="url(#b)" d="M 86.4,128.0 L 33.0,55.8 L 17.0,66.6 L 1.2,114.2 L 86.4,128.0"/>
+	<path fill="url(#c)" d="M 96.6,91.6 L 59.0,67.0 L 0.0,59.0 L 86.4,128.0 L 96.6,91.6 L 96.6,91.6"/>
+	<path fill="url(#d)" d="M 0.0,0.8 L 0.0,59.0 L 111.0,97.2 L 119.8,19.8 L 0.0,0.8"/>
+	<g>
+		<path d="M 24.0,24.0 L 104.0,24.0 L 104.0,104.0 L 24.0,104.0 L 24.0,24.0"/>
+		<g fill="#fff">
+			<path d="M 32.11,34.4 L 45.0,34.4 C 55.41,34.4 62.61,41.55 62.61,50.87 L 62.61,51.0 C 62.61,60.32 55.42,67.56 45.0,67.56 L 32.11,67.56 L 32.11,34.4 M 39.4,41.0 L 39.4,61.0 L 45.0,61.0 C 51.0,61.0 55.0,57.0 55.0,51.11 L 55.0,51.0 C 55.0,45.13 51.0,41.0 45.0,41.0 L 39.4,41.0 M 63.93,51.06 L 63.93,51.0 A 17.0,17.0 0.0 0,1 81.3,33.83 C 87.3,33.83 90.86,35.44 94.3,38.37 L 89.71,43.91 A 12.2,12.2 0.0 0,0 81.05,40.55 C 75.75,40.55 71.54,45.23 71.54,50.87 L 71.54,51.0 C 71.54,57.06 75.7,61.51 81.54,61.51 A 11.63,11.63 0.0 0,0 88.4,59.51 L 88.4,54.75 L 81.11,54.75 L 81.11,48.46 L 95.5,48.46 L 95.5,62.84 A 21.5,21.5 0.0 0,1 81.35,68.1 C 71.0,68.1 63.93,60.86 63.93,51.06 L 63.93,51.06 M 31.36,88.99 L 61.36,88.99 L 61.36,93.99 L 31.36,93.99 L 31.36,88.99"/>
+		</g>
+	</g>
+</svg>

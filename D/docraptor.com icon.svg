@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 45">
+	<style>
+		.cls0 { fill: #25376b; }
+		.cls1 { fill: #144b8d; }
+		.cls2 { fill: #252e67; }
+		.cls3 { fill: #223d76; }
+		.cls4 { fill: #3878b0; }
+		.cls5 { fill: #232d65; }
+		.cls6 { fill: #135698; }
+		.cls7 { fill: #1c5c9f; }
+		.cls8 { fill: #233c76; }
+	</style>
+	<g>
+		<path name="5_tip" d="M 9.025,29.009 L 18.385,36.895 L 17.092,27.496 L 13,27" class="cls2"/>
+		<path name="5_hand" d="M 51.521,24.322 L 50.323,29.35 L 48.486,25.933 L 49.513,24.328" class="cls5"/>
+
+		<path name="4_shoulder" d="M 51.521,24.322 L 46.053,15.999 L 36.619,12.937 L 34.292,25.98 L 45.116,27.908" class="cls0"/>
+		<path name="4_back" d="M 23.74,26.252 L 9.025,29.009 L 18.216,17.417 L 24.719,21.81" class="cls8"/>
+		<path name="4_foot" d="M 23.878,41.508 L 36.486,41.508 L 29.075,36.102 L 26,38" class="cls3"/>
+
+		<path name="3_flank" d="M 38.424,12.96 L 35.222,30.119 L 23.878,41.508 L 23.719,22.81 L 30,17" class="cls1"/>
+
+		<path name="2_neck" d="M 53.077,17.081 L 43.001,27.803 L 37.816,26.903 L 40.82,5.659 L 45.613,5.123 L 50.417,6.888" class="cls7"/>
+		<path name="2_tail" d="M 38.424,12.96 L 0.1,0.752 L 23.719,22.81" class="cls6"/>
+
+		<path name="1_head" d="M 48.924,-0.200 L 58,5.659 L 58,7.853 L 40.81,5.659" class="cls4"/>
+
+
+
+	</g>
+</svg>

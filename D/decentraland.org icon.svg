@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+	<defs>
+		<linearGradient x1="85.355%" y1="14.645%" x2="14.645%" y2="85.355%" id="a">
+			<stop stop-color="#FF2D55" offset="0%"/>
+			<stop stop-color="#FFBC5B" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="b">
+			<stop stop-color="#A524B3" offset="0%"/>
+			<stop stop-color="#FF2D55" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="evenodd">
+		<circle fill="url(#a)" cx="200" cy="200" r="200"/>
+		<path fill="url(#b)" d="M 125.7,0.0 L 125.7,150.0 L 250.7,150.0 L 125.7,0.0" transform="translate(16 130)"/>
+		<path fill="#FFF" d="M 16.7,280.0 L 141.7,280.0 L 141.7,130.0 L 16.7,280.0"/>
+		<path d="M 40.0,320.0 C 51.4,335.1 64.9,348.6 80.0,360.0 L 320.0,360.0 C 335.1,348.6 348.6,335.1 360.0,320.0 L 40.0,320.0" fill="#FC9965"/>
+		<path d="M 80.0,360.0 C 113.4,385.1 155.0,400.0 200.0,400.0 C 245.0,400.0 286.6,385.1 320.0,360.0 L 80.0,360.0" fill="#FF2D55"/>
+		<path fill="url(#b)" d="M 252.3,0.0 L 252.3,110.0 L 344.0,110.0 L 252.3,0.0" transform="translate(16 210)"/>
+		<path d="M 268.3,280.0 L 16.7,280.0 C 22.9,294.3 30.8,307.7 40.0,320.0 L 268.4,320.0 L 268.4,280.0 L 268.3,280.0 L 268.3,280.0" fill="#FFBC5B"/>
+		<path fill="#FFF" d="M 176.7,320.0 L 268.3,320.0 L 268.3,210.0 L 176.7,320.0"/>
+		<circle fill="#FFC95B" cx="268.3" cy="130" r="50"/>
+		<circle fill="#FFC95B" cx="141.7" cy="75" r="25"/>
+	</g>
+</svg>

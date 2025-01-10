@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1600 246">
+	<style>
+		.s0 { fill: #98002e } 
+		.s1 { fill: #e31837 } 
+		.s2 { fill: #003d79 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m297.1 219.8l-142.9-68.7v-151.1zm-142.8 26.2v-65l154.2 65z"/>
+		<path id="Layer" class="s1" d="m11.4 219.8l142.8-219.8v151.1l-142.8 68.7"/>
+		<path id="Layer" class="s1" d="m0 246l154.2-65v65h-154.2"/>
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m429 23.8h69.2c71.4 0 113.8 36.7 113.8 97.9 0 61.2-42.4 98.1-113.8 98.1h-69.2zm43.8 161.8h25.4c46.3 0 69.5-22.8 69.5-63.9 0-41-23.2-63.9-69.5-63.9h-25.4z"/>
+			<path id="Layer" class="s2" d="m761.1 185.8h97.3v34h-141.3v-196h138.3v34h-94.3v43h83.4v34h-83.4z"/>
+			<path id="Layer" class="s2" d="m1108.3 219.8h-128.6v-196h44v162h84.6z"/>
+			<path id="Layer" class="s2" d="m1345.1 57.8h-66.1v162h-44.1v-162h-65.9v-34h176.1z"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1600 219.8h-45.9l-19.2-49h-79.9l-19.2 49h-42.8l82-196.8h44.4zm-77.6-81.9l-27.4-69.7-27.5 69.7z"/>
+		</g>
+	</g>
+</svg>

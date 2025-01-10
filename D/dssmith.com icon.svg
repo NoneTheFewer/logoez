@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 75">
+	
+    
+	<defs>
+		
+        
+		<radialGradient id="prefix__a" cx=".51%" cy="-2.56%" r="201.339%" fx=".51%" fy="-2.56%" gradientTransform="matrix(.53944 0 0 1 .002 0)">
+			
+            
+			<stop offset="23.84%" stop-color="#E7B041"/>
+			
+            
+			<stop offset="88.17%" stop-color="#C7352D"/>
+			
+        
+		</radialGradient>
+		
+        
+		<radialGradient id="prefix__c" cx="92.883%" cy="1.077%" r="125.342%" fx="92.883%" fy="1.077%" gradientTransform="matrix(.75521 0 0 1 .227 0)">
+			
+            
+			<stop offset="23.84%" stop-color="#E7AE40"/>
+			
+            
+			<stop offset="85.17%" stop-color="#C9382F"/>
+			
+        
+		</radialGradient>
+		
+        
+		<linearGradient id="prefix__b" x1="96.633%" x2="-4.001%" y1="14.042%" y2="78.746%">
+			
+            
+			<stop offset="10%" stop-color="#C9382F"/>
+			
+            
+			<stop offset="19.68%" stop-color="#D15734"/>
+			
+            
+			<stop offset="47.53%" stop-color="#E7AE40"/>
+			
+            
+			<stop offset="90%" stop-color="#C9382F"/>
+			
+        
+		</linearGradient>
+		
+    
+	</defs>
+	
+    
+	<g fill="none">
+		
+        
+		<path fill="url(#prefix__a)" d="M37.022 0H.092c0 6.774 1.796 13.13 4.973 18.605 6.4 11.135 18.327 18.605 32.003 18.605 13.676 0 25.602-7.47 32.003-18.605C62.624 7.47 50.698 0 37.022 0z" transform="translate(.046)"/>
+		
+        
+		<path fill="url(#prefix__b)" d="M38.68 40.411c16.577 0 25.97-8.537 30.299-21.806-6.4 11.135-18.327 18.605-32.003 18.605-13.676 0-25.602 7.47-32.003 18.605C1.842 61.243.046 67.507 0 74.188c.967-5.475 4.006-10.625 6.63-15.172 6.447-11.135 18.374-18.605 32.05-18.605z" transform="translate(.046)"/>
+		
+        
+		<path fill="url(#prefix__c)" d="M69.578 19.672c-.185-.371-.415-.742-.6-1.067-4.328 13.27-13.721 21.806-30.298 21.806-13.676 0-25.603 7.47-32.003 18.605-2.625 4.547-5.664 9.697-6.631 15.172v.232h36.93c13.676 0 25.602-7.47 32.003-18.605 3.131-5.475 4.973-11.831 4.973-18.605 0-6.356-1.566-12.342-4.374-17.538z" transform="translate(.046)"/>
+		
+    
+	</g>
+	
+
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1598 1231">
+	<style>
+		.s0 { fill: #2c508a } 
+		.s1 { fill: #31766b } 
+		.s2 { fill: #ffd101 } 
+		.s3 { fill: #1a9a5e } 
+		.s4 { fill: #182e55 } 
+		.s5 { fill: #014e50 } 
+		.s6 { fill: #ffa300 } 
+		.s7 { fill: #015d38 } 
+	</style>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m0.7 414.4l374 179.5 0.1 435.4-374.2-184.2 0.1-430.7z"/>
+				<path id="Layer" class="s1" d="m407.9 615.1l374 179.5 0.1 435.4-374.2-184.2 0.1-430.7z"/>
+				<path id="Layer" class="s2" d="m1597.2 414.4l0.1 430.7-374.2 184.2 0.1-435.4 374-179.5z"/>
+				<path id="Layer" class="s3" d="m1190 615.1l0.1 430.7-374.2 184.2 0.1-435.4 374-179.5z"/>
+				<g id="Layer">
+					<path id="Layer" class="s4" d="m374.7 200.7v348l-354-173.7 354-174.3z"/>
+					<path id="Layer" class="s5" d="m781.8 435.4l-322.4 154.8-51.6-25.2-0.1-380.8 374.2-184.2-0.1 435.4z"/>
+					<path id="Layer" class="s6" d="m1223.1 200.7l354 174.3-354 173.7v-348z"/>
+					<path id="Layer" class="s7" d="m1190.1 184.2l-0.2 380.8-51.4 25.3-322.6-154.9v-435.4l374.2 184.2z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
