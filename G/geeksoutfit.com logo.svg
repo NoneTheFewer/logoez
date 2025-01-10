@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294 276">
+	<style>
+		.black { fill: #000000; }
+		.dgrey { fill: #9d9d9d; }
+		.lgrey { fill: #d7d7d7; }
+		.blue { fill: #69c2ed; }
+		.grass { fill: #0d8149; }
+		.bush { fill: #084b29; }
+		.light { fill: #38fc1a; }
+	</style>
+	<rect fill="#999" width="100%" height="100%" />
+	<polygon name="backdrop" points="42,0 42,7 35,7 35,182 28,182 28,189 21,189 21,196 14,196 14,203 7,203 7,210 0,210 0,231 7,231 7,238 287,238 287,231 294,231 294,210 287,210 287,203 280,203 280,196 273,196 273,189 266,189 266,182 259,182 259,7 252,7 252,0" fill-rule="evenodd" fill="#000"/>
+	<rect name="front" class="dgrey" x="7" y="217" width="280" height="14"/>
+	<polygon name="keyboard_l" points="14,210 14,203 21,203 21,196 28,196 28,189 35,189 35,182 259,182 259,210" fill-rule="evenodd" class="lgrey"/>
+	<polygon name="keyboard_d" points="42,210 42,203 56,203 56,196 63,196 63,189 266,189 266,196 273,196 273,203 280,203 280,210" fill-rule="evenodd" class="dgrey"/>
+	<polygon name="keyl1" points="49,203 49,196 63,196 63,189 56,189 56,203" fill-rule="evenodd" class="black"/>
+	<polygon name="keyl2" points="70,203 70,196 84,196 84,189 77,189 77,203" fill-rule="evenodd" class="black"/>
+	<polygon name="keyl3" points="91,203 91,196 105,196 105,189 98,189 98,203" fill-rule="evenodd" class="black"/>
+	<polygon name="keyl4" points="112,203 112,196 126,196 126,189 119,189 119,203" fill-rule="evenodd" class="black"/>
+	<polygon name="keyl5" points="133,203 133,196 147,196 147,189 140,189 140,203" fill-rule="evenodd" class="black"/>
+
+	<polygon name="keyr5" points="147,189 154,189 154,203 161,203 161,196 147,196" fill-rule="evenodd" class="black"/>
+	<polygon name="keyr4" points="168,189 175,189 175,203 182,203 182,196 168,196" fill-rule="evenodd" class="black"/>
+	<polygon name="keyr3" points="189,189 196,189 196,203 203,203 203,196 189,196" fill-rule="evenodd" class="black"/>
+	<polygon name="keyr2" points="210,189 217,189 217,203 224,203 224,196 210,196" fill-rule="evenodd" class="black"/>
+	<polygon name="keyr1" points="231,189 238,189 238,203 245,203 245,196 231,196" fill-rule="evenodd" class="black"/>
+
+	<rect name="monitor" class="lgrey" x="42" y="7" width="203" height="161"/>
+	<polygon name="shade" points="245,7 252,7 252,175 42,175 42,168 245,168" fill-rule="evenodd" class="dgrey"/>
+	<rect name="screen" class="black" x="56" y="14" width="182" height="140"/>
+	<rect name="bg" class="blue" x="63" y="21" width="168" height="126"/>
+	<rect name="grass" class="grass" x="84" y="133" width="147" height="14"/>
+	<rect name="bush" class="bush" x="63" y="126" width="21" height="21"/>
+	<rect name="power" class="light" x="217" y="161" width="21" height="7"/>
+
+	<rect name="btn1" class="black" x="56" y="161" width="14" height="7"/>
+	<rect name="btn2" class="black" x="84" y="161" width="14" height="7"/>
+	<rect name="btn3" class="black" x="105" y="161" width="7" height="7"/>
+
+	<g name="title">
+		<polygon name="G" class="black" points="4.8,252 24,252 24,256.8 4.8,256.8 4.8,271.2 19.2,271.2 19.2,266.4 9.6,266.4 9.6,261.6 24,261.6 24,271.2 19.2,271.2 19.2,276 4.8,276 4.8,271.2 0,271.2 0,256.8 4.8,256.8"/>
+		<polygon name="E1" class="black" points="27,252 51,252 51,256.8 31.8,256.8 31.8,261.6 46.2,261.6 46.2,266.4 31.8,266.4 31.8,271.2 51,271.2 51,276 27,276" />
+		<polygon name="E2" class="black" points="54,252 78,252 78,256.8 58.8,256.8 58.8,261.6 73.2,261.6 73.2,266.4 58.8,266.4 58.8,271.2 78,271.2 78,276 54,276" />
+		<polygon name="K" class="black" points="81,252 85.8,252 85.8,261.6 95.4,261.6 95.4,256.8 100.2,256.8 100.2,252 105,252 105,256.8 100.2,256.8 100.2,261.6 95.4,261.6 95.4,266.4 100.2,266.4 100.2,271.2 105,271.2 105,276 100.2,276 100.2,271.2 95.4,271.2 95.4,266.4 85.8,266.4 85.8,276 81,276" />
+		<polygon name="S" class="black" points="132,252 132,256.8 108,256.8 108,261.6 127.2,261.6 127.2,276 108,276 108,271.2 132,271.2 132,266.4 112.8,266.4 112.8,252" />
+		<polygon name="O" class="black" points="139.8,252 154.2,252 154.2,276 139.8,276 139.8,256.8 135,256.8 135,271.2 159,271.2 159,256.8 139.8,256.8" />
+		<polygon name="U" class="black" points="162,252 166.8,252 166.8,276 181.2,276 181.2,252 186,252 186,271.2 162,271.2" />
+		<polygon name="T1" class="black" points="189,252 213,252 213,256.8 203.4,256.8 203.4,276 198.6,276 198.6,256.8 189,256.8" />
+		<polygon name="F" class="black" points="216,252 240,252 240,256.8 220.8,256.8 220.8,261.6 235.2,261.6 235.2,266.4 220.8,266.4 220.8,276 216,276" />
+		<polygon name="I" class="black" points="243,252 267,252 267,256.8 257.4,256.8 257.4,271.2 267,271.2 267,276 243,276 243,271.2 252.6,271.2 252.6,256.8 243,256.8" />
+		<polygon name="T2" class="black" points="270,252 294,252 294,256.8 284.4,256.8 284.4,276 279.6,276 279.6,256.8 270,256.8" />
+	</g>
+
+</svg>

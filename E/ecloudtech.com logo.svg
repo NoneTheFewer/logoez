@@ -1,0 +1,653 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="335.83 328.08 450.58 162.33">
+	<defs>
+		<clipPath id="be" clipPathUnits="userSpaceOnUse">
+			<path d="M 317.792,286.689 C 316.379,286.506 314.994,286.239 313.636,285.903 C 295.186,277.707 284.63,256.315 271.79,256.665 C 270.453,256.703 269.206,256.942 268.042,257.337 C 268.16,257.157 268.285,256.973 268.41,256.793 C 268.41,256.79 268.417,256.79 268.417,256.79 C 268.708,256.375 269.005,255.966 269.31,255.564 C 269.358,255.495 269.407,255.432 269.456,255.367 C 269.712,255.031 269.975,254.691 270.238,254.359 C 270.342,254.227 270.446,254.099 270.55,253.97 C 270.764,253.708 270.979,253.444 271.201,253.188 C 271.36,252.991 271.526,252.801 271.692,252.606 C 271.858,252.416 272.025,252.225 272.191,252.039 C 272.419,251.786 272.648,251.533 272.876,251.284 C 272.988,251.159 273.105,251.034 273.223,250.913 C 273.507,250.612 273.798,250.31 274.089,250.016 C 274.151,249.947 274.213,249.881 274.283,249.815 C 274.622,249.472 274.969,249.13 275.322,248.797 L 275.384,248.735 C 278.487,245.795 281.936,243.212 285.662,241.061 C 285.69,241.04 285.725,241.019 285.752,241.006 C 286.161,240.77 286.576,240.542 286.992,240.313 C 287.089,240.264 287.186,240.213 287.276,240.161 C 287.629,239.973 287.982,239.794 288.335,239.613 C 288.516,239.523 288.689,239.44 288.862,239.35 C 289.139,239.216 289.423,239.08 289.7,238.948 C 289.963,238.824 290.233,238.703 290.497,238.585 C 290.697,238.495 290.891,238.405 291.092,238.321 C 291.452,238.162 291.819,238.01 292.187,237.857 C 292.291,237.816 292.394,237.771 292.505,237.726 C 292.976,237.539 293.44,237.355 293.918,237.178 C 293.918,237.178 293.939,237.172 293.945,237.172 C 297.097,236.009 300.401,235.122 303.829,234.547 C 305.429,234.284 307.022,234.09 308.608,233.966 C 308.76,233.955 308.919,233.941 309.072,233.93 C 309.363,233.91 309.654,233.896 309.945,233.883 C 310.277,233.865 310.603,233.847 310.935,233.834 C 311.074,233.827 311.212,233.827 311.357,233.823 C 311.822,233.813 312.292,233.8 312.764,233.8 L 312.888,233.8 C 314.01,233.805 315.125,233.841 316.233,233.906 C 316.233,233.906 316.247,233.91 316.254,233.91 C 316.802,233.944 317.342,233.986 317.882,234.035 C 317.93,234.042 317.986,234.049 318.034,234.049 C 318.519,234.096 318.997,234.149 319.482,234.208 C 319.6,234.221 319.724,234.242 319.842,234.257 C 320.244,234.304 320.639,234.363 321.033,234.423 C 321.241,234.457 321.449,234.492 321.664,234.523 C 321.961,234.575 322.259,234.623 322.557,234.678 C 322.855,234.734 323.159,234.793 323.464,234.851 C 323.658,234.89 323.845,234.927 324.039,234.969 C 324.441,235.052 324.842,235.142 325.237,235.24 C 325.328,235.257 325.417,235.281 325.507,235.299 C 333.895,237.324 341.631,241.313 348.107,246.837 C 348.135,246.858 348.162,246.885 348.19,246.906 C 348.543,247.212 348.89,247.515 349.236,247.831 C 349.333,247.922 349.437,248.014 349.534,248.104 C 349.804,248.35 350.074,248.603 350.337,248.856 C 350.51,249.011 350.676,249.178 350.843,249.341 C 351.03,249.528 351.224,249.718 351.417,249.912 C 351.494,249.995 351.577,250.075 351.653,250.158 C 347.22,268.245 334.415,288.843 317.792,286.689"/>
+		</clipPath>
+		<clipPath id="aP" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.236,247.831 C 348.89,247.515 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.515 349.236,247.831"/>
+		</clipPath>
+		<clipPath id="af" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.236,247.831 C 349.333,247.921 349.437,248.015 349.534,248.104 C 349.437,248.015 349.333,247.921 349.236,247.831"/>
+		</clipPath>
+		<clipPath id="bE" clipPathUnits="userSpaceOnUse">
+			<path d="M 259.197,297.202 C 258.413,292.513 258.256,288.14 258.661,283.614 C 259.119,280.661 260.267,279.127 260.502,278.81 C 262.563,276.023 265.049,274.116 268.777,273.385 C 282.344,270.732 297.121,291.688 319.115,294.342 C 334.495,296.198 344.247,286.068 350.089,275.937 C 355.489,266.572 357.547,257.206 357.62,257.312 C 362.019,263.682 365.132,271.086 366.495,279.23 C 366.489,279.244 366.489,279.265 366.489,279.279 C 366.482,279.237 366.475,279.195 366.467,279.15 C 363.469,289.668 339.664,301.846 322.994,298.615 C 306.329,295.388 300.325,289.096 285.808,288.199 C 266.713,287.018 259.725,299.086 259.828,300.403 C 259.586,299.35 259.378,298.283 259.197,297.202"/>
+		</clipPath>
+		<clipPath id="X" clipPathUnits="userSpaceOnUse">
+			<path d="M 351.418,249.912 C 351.493,249.992 351.577,250.071 351.66,250.148 C 351.66,250.148 351.66,250.155 351.652,250.158 C 351.577,250.075 351.493,249.995 351.418,249.912"/>
+		</clipPath>
+		<clipPath id="bC" clipPathUnits="userSpaceOnUse">
+			<path d="M 332.485,320.027 C 320.247,315.675 304.196,301.241 293.274,301.891 C 285.461,302.362 273.832,309.313 268.762,320.11 C 268.749,320.089 268.736,320.069 268.721,320.044 L 268.721,319.999 C 268.728,320.007 268.728,320.014 268.736,320.021 C 270.342,313.576 274.613,298.256 291.605,296.491 C 302.101,296.104 311.12,302.167 319.9,308.229 C 332.512,316.937 344.634,325.644 359.94,315.243 C 359.94,315.243 355.983,320.367 348.074,321.7 C 346.651,321.956 345.152,322.096 343.574,322.096 C 340.246,322.096 336.564,321.476 332.485,320.027"/>
+		</clipPath>
+		<clipPath id="ai" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.337,248.856 C 350.51,249.011 350.676,249.178 350.842,249.34 C 350.676,249.178 350.51,249.011 350.337,248.856"/>
+		</clipPath>
+		<clipPath id="bz" clipPathUnits="userSpaceOnUse">
+			<path d="M 309.681,327.116 C 323.603,332.969 344.422,329.163 349.271,328.605 C 341.895,335.26 332.392,340.102 321.733,341.889 C 305.609,344.584 290.088,339.902 278.362,330.337 C 291.494,324.031 301.633,324.443 309.681,327.116"/>
+		</clipPath>
+		<clipPath id="ak" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+		<clipPath id="k" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.843,249.912 L 351.418,249.912 L 351.418,249.341 L 350.843,249.341 L 350.843,249.912"/>
+		</clipPath>
+		<clipPath id="l" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.843,249.912 L 351.417,249.912 L 351.417,249.341 L 350.843,249.341 L 350.843,249.912"/>
+		</clipPath>
+		<clipPath id="m" clipPathUnits="userSpaceOnUse">
+			<path d="M 351.417,249.912 C 351.224,249.719 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.719 351.417,249.912"/>
+		</clipPath>
+		<clipPath id="by" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.362,342.643 L 349.27,342.643 L 349.27,325.275 L 278.362,325.275 L 278.362,342.643"/>
+		</clipPath>
+		<clipPath id="al" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.843,249.912 L 351.418,249.912 L 351.418,249.341 L 350.843,249.341 L 350.843,249.912"/>
+		</clipPath>
+		<clipPath id="S" clipPathUnits="userSpaceOnUse">
+			<path d="M 351.417,249.912 C 351.224,249.718 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.718 351.417,249.912"/>
+		</clipPath>
+		<clipPath id="f" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.19,247.831 L 349.236,247.831 L 349.236,246.906 L 348.19,246.906 L 348.19,247.831"/>
+		</clipPath>
+		<clipPath id="g" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.19,247.831 L 349.236,247.831 L 349.236,246.906 L 348.19,246.906 L 348.19,247.831"/>
+		</clipPath>
+		<clipPath id="h" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.236,247.831 C 348.89,247.516 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.516 349.236,247.831"/>
+		</clipPath>
+		<clipPath id="v" clipPathUnits="userSpaceOnUse">
+			<path d="M 309.681,327.117 C 323.603,332.969 344.416,329.146 349.264,328.588 C 341.804,335.331 332.392,340.103 321.733,341.89 C 305.609,344.584 289.977,339.916 278.251,330.351 C 291.383,324.045 301.633,324.443 309.681,327.117"/>
+		</clipPath>
+		<clipPath id="u" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.251,344.584 L 349.264,344.584 L 349.264,324.045 L 278.251,324.045 L 278.251,344.584"/>
+		</clipPath>
+		<clipPath id="ao" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.19,247.831 L 349.236,247.831 L 349.236,246.906 L 348.19,246.906 L 348.19,247.831"/>
+		</clipPath>
+		<clipPath id="ap" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.236,247.831 C 348.89,247.515 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.515 349.236,247.831"/>
+		</clipPath>
+		<clipPath id="t" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.251,342.645 L 349.264,342.645 L 349.264,325.28 L 278.251,325.28 L 278.251,342.645"/>
+		</clipPath>
+		<clipPath id="a" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.534,248.856 L 350.337,248.856 L 350.337,248.104 L 349.534,248.104 L 349.534,248.856"/>
+		</clipPath>
+		<clipPath id="b" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.534,248.856 L 350.337,248.856 L 350.337,248.104 L 349.534,248.104 L 349.534,248.856"/>
+		</clipPath>
+		<clipPath id="c" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.337,248.856 C 350.074,248.604 349.804,248.351 349.534,248.104 C 349.804,248.354 350.074,248.604 350.337,248.856"/>
+		</clipPath>
+		<clipPath id="bv" clipPathUnits="userSpaceOnUse">
+			<path d="M 309.681,327.116 C 323.603,332.969 344.388,329.167 349.236,328.609 C 341.982,335.213 332.392,340.102 321.733,341.889 C 305.609,344.584 290.088,339.902 278.362,330.337 C 291.494,324.031 301.633,324.443 309.681,327.116"/>
+		</clipPath>
+		<clipPath id="bu" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.362,342.643 L 349.237,342.643 L 349.237,325.275 L 278.362,325.275 L 278.362,342.643"/>
+		</clipPath>
+		<clipPath id="ab" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.534,248.856 L 350.337,248.856 L 350.337,248.104 L 349.534,248.104 L 349.534,248.856"/>
+		</clipPath>
+		<clipPath id="as" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.337,248.856 C 350.074,248.603 349.804,248.35 349.534,248.104 C 349.804,248.354 350.074,248.603 350.337,248.856"/>
+		</clipPath>
+		<clipPath id="i" clipPathUnits="userSpaceOnUse">
+			<path d="M 325.507,246.837 L 348.107,246.837 L 348.107,235.298 L 325.507,235.298 L 325.507,246.837"/>
+		</clipPath>
+		<clipPath id="p" clipPathUnits="userSpaceOnUse">
+			<path d="M 325.507,246.837 L 348.107,246.837 L 348.107,235.299 L 325.507,235.299 L 325.507,246.837"/>
+		</clipPath>
+		<clipPath id="q" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.352 348.107,246.837"/>
+		</clipPath>
+		<clipPath id="A" clipPathUnits="userSpaceOnUse">
+			<path d="M 309.681,327.117 C 323.603,332.969 344.416,329.146 349.264,328.588 C 341.804,335.331 332.392,340.103 321.733,341.89 C 305.609,344.584 289.977,339.916 278.251,330.351 C 291.383,324.045 301.633,324.443 309.681,327.117"/>
+		</clipPath>
+		<clipPath id="av" clipPathUnits="userSpaceOnUse">
+			<path d="M 325.507,246.837 L 348.107,246.837 L 348.107,235.298 L 325.507,235.298 L 325.507,246.837"/>
+		</clipPath>
+		<clipPath id="aw" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.351 348.107,246.837"/>
+		</clipPath>
+		<clipPath id="n" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.251,344.584 L 349.264,344.584 L 349.264,324.045 L 278.251,324.045 L 278.251,344.584"/>
+		</clipPath>
+		<clipPath id="az" clipPathUnits="userSpaceOnUse">
+			<path d="M 317.792,286.69 C 295.822,283.836 280.71,261.22 267.142,263.875 C 265.826,264.132 264.635,264.577 263.541,265.163 C 270.876,249.517 285.51,237.615 303.829,234.546 C 322.038,231.5 339.637,237.895 351.66,250.148 C 347.443,267.362 335.641,286.845 320.19,286.845 C 319.4,286.845 318.6,286.794 317.792,286.69"/>
+		</clipPath>
+		<clipPath id="z" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.251,342.645 L 349.264,342.645 L 349.264,325.28 L 278.251,325.28 L 278.251,342.645"/>
+		</clipPath>
+		<clipPath id="B" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.107,246.837 C 348.134,246.858 348.162,246.885 348.19,246.906 C 348.162,246.885 348.134,246.858 348.107,246.837"/>
+		</clipPath>
+		<clipPath id="bt" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+		<clipPath id="aC" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.236,247.831 C 349.333,247.921 349.437,248.015 349.534,248.104 C 349.437,248.015 349.333,247.921 349.236,247.831"/>
+		</clipPath>
+		<clipPath id="br" clipPathUnits="userSpaceOnUse">
+			<path d="M 278.362,330.337 C 279.913,319.306 284.512,310.81 291.28,308.732 C 301.384,305.632 320.984,322.58 333.223,326.93 C 338.874,328.937 344.429,329.16 349.27,328.605 C 341.847,335.265 332.427,340.124 321.781,341.907 C 318.75,342.414 315.735,342.659 312.76,342.659 C 299.946,342.659 287.868,338.111 278.362,330.337"/>
+		</clipPath>
+		<clipPath id="aE" clipPathUnits="userSpaceOnUse">
+			<path d="M 267.142,263.875 C 265.826,264.132 264.635,264.577 263.541,265.163 C 264.822,262.431 266.332,259.813 268.042,257.337 C 269.206,256.942 270.453,256.702 271.789,256.665 C 284.63,256.315 295.186,277.707 313.637,285.903 C 293.883,281.027 279.837,261.392 267.142,263.875"/>
+		</clipPath>
+		<clipPath id="x" clipPathUnits="userSpaceOnUse">
+			<path d="M -32768.0,32767.0 L 32767.0,32767.0 L 32767.0,-32768.0 L -32768.0,-32768.0 L -32768.0,32767.0"/>
+		</clipPath>
+		<clipPath id="aG" clipPathUnits="userSpaceOnUse">
+			<path d="M 351.418,249.912 C 351.493,249.992 351.577,250.071 351.66,250.148 C 351.66,250.148 351.66,250.155 351.652,250.158 C 351.577,250.075 351.493,249.995 351.418,249.912"/>
+		</clipPath>
+		<clipPath id="bo" clipPathUnits="userSpaceOnUse">
+			<path d="M 285.766,288.206 C 300.283,289.103 306.295,295.395 322.958,298.623 C 339.616,301.85 363.434,289.675 366.426,279.157 C 368.622,292.267 366.184,304.615 359.939,315.243 C 359.88,315.344 359.004,316.257 358.865,316.336 C 333.932,330.378 317.546,298.481 292.124,297.896 C 274.691,297.743 270.3,313.583 268.694,320.028 C 265.625,315.785 263.139,311.055 261.366,305.936 C 261.324,305.812 261.283,305.687 261.241,305.559 C 260.999,304.835 260.763,304.101 260.549,303.36 C 260.486,303.121 260.417,302.879 260.354,302.64 C 260.216,302.145 260.092,301.642 259.967,301.144 C 259.904,300.902 259.842,300.655 259.787,300.409 C 259.683,299.093 266.671,287.025 285.766,288.206"/>
+		</clipPath>
+		<clipPath id="aH" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.337,248.856 C 350.51,249.011 350.676,249.178 350.842,249.34 C 350.676,249.178 350.51,249.011 350.337,248.856"/>
+		</clipPath>
+		<clipPath id="bm" clipPathUnits="userSpaceOnUse">
+			<path d="M 259.785,320.028 L 367.218,320.028 L 367.218,279.157 L 259.785,279.157 L 259.785,320.028"/>
+		</clipPath>
+		<clipPath id="aJ" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+		<clipPath id="r" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.843,249.912 L 351.418,249.912 L 351.418,249.341 L 350.843,249.341 L 350.843,249.912"/>
+		</clipPath>
+		<clipPath id="D" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.843,249.912 L 351.417,249.912 L 351.417,249.341 L 350.843,249.341 L 350.843,249.912"/>
+		</clipPath>
+		<clipPath id="E" clipPathUnits="userSpaceOnUse">
+			<path d="M 351.417,249.912 C 351.224,249.719 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.719 351.417,249.912"/>
+		</clipPath>
+		<clipPath id="aK" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.843,249.912 L 351.418,249.912 L 351.418,249.341 L 350.843,249.341 L 350.843,249.912"/>
+		</clipPath>
+		<clipPath id="aL" clipPathUnits="userSpaceOnUse">
+			<path d="M 351.417,249.912 C 351.224,249.718 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.718 351.417,249.912"/>
+		</clipPath>
+		<clipPath id="aa" clipPathUnits="userSpaceOnUse">
+			<path d="M 285.766,288.206 C 300.283,289.104 306.295,295.396 322.958,298.623 C 339.616,301.851 363.434,289.675 366.426,279.157 C 368.643,292.394 365.865,305.307 359.493,315.994 C 334.117,330.171 317.688,298.484 292.124,297.896 C 274.691,297.744 270.3,313.583 268.694,320.028 C 265.625,315.786 263.139,311.055 261.366,305.937 C 261.324,305.812 261.283,305.687 261.241,305.56 C 260.999,304.835 260.763,304.102 260.549,303.36 C 260.486,303.122 260.417,302.879 260.354,302.64 C 260.216,302.145 260.092,301.643 259.967,301.144 C 259.904,300.902 259.842,300.656 259.787,300.41 C 259.683,299.094 266.671,287.025 285.766,288.206"/>
+		</clipPath>
+		<clipPath id="H" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.19,247.831 L 349.236,247.831 L 349.236,246.906 L 348.19,246.906 L 348.19,247.831"/>
+		</clipPath>
+		<clipPath id="I" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.19,247.831 L 349.236,247.831 L 349.236,246.906 L 348.19,246.906 L 348.19,247.831"/>
+		</clipPath>
+		<clipPath id="J" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.236,247.831 C 348.89,247.516 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.516 349.236,247.831"/>
+		</clipPath>
+		<clipPath id="O" clipPathUnits="userSpaceOnUse">
+			<path d="M 259.683,330.171 L 368.643,330.171 L 368.643,279.157 L 259.683,279.157 L 259.683,330.171"/>
+		</clipPath>
+		<clipPath id="Z" clipPathUnits="userSpaceOnUse">
+			<path d="M 259.785,320.028 L 367.18,320.028 L 367.18,279.157 L 259.785,279.157 L 259.785,320.028"/>
+		</clipPath>
+		<clipPath id="aO" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.19,247.831 L 349.236,247.831 L 349.236,246.906 L 348.19,246.906 L 348.19,247.831"/>
+		</clipPath>
+		<clipPath id="bl" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+		<clipPath id="bj" clipPathUnits="userSpaceOnUse">
+			<path d="M 292.124,297.895 C 274.692,297.743 270.301,313.582 268.694,320.027 C 265.625,315.786 263.138,311.055 261.365,305.936 C 261.324,305.812 261.283,305.687 261.241,305.559 C 260.998,304.835 260.763,304.101 260.549,303.36 C 260.486,303.121 260.417,302.879 260.355,302.64 C 260.216,302.144 260.092,301.642 259.967,301.144 C 259.905,300.901 259.843,300.656 259.787,300.409 C 259.682,299.093 266.671,287.025 285.766,288.206 C 300.283,289.103 306.295,295.395 322.959,298.623 C 339.616,301.85 363.434,289.675 366.426,279.157 C 368.626,292.301 366.116,304.763 359.838,315.407 C 359.794,315.482 359.159,316.111 359.116,316.136 C 354.369,318.907 349.95,320.038 345.743,320.039 C 327.321,320.041 312.9,298.374 292.124,297.895"/>
+		</clipPath>
+		<clipPath id="L" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.534,248.856 L 350.337,248.856 L 350.337,248.104 L 349.534,248.104 L 349.534,248.856"/>
+		</clipPath>
+		<clipPath id="M" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.534,248.856 L 350.337,248.856 L 350.337,248.104 L 349.534,248.104 L 349.534,248.856"/>
+		</clipPath>
+		<clipPath id="N" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.337,248.856 C 350.074,248.604 349.804,248.351 349.534,248.104 C 349.804,248.354 350.074,248.604 350.337,248.856"/>
+		</clipPath>
+		<clipPath id="bh" clipPathUnits="userSpaceOnUse">
+			<path d="M 317.799,286.69 C 295.822,283.839 280.71,261.222 267.142,263.875 C 265.826,264.132 264.635,264.582 263.541,265.163 C 278.999,254.989 297.097,280.498 319.073,283.349 C 325.174,284.14 331.228,282.527 336.678,278.928 C 331.929,283.744 326.35,286.846 320.197,286.846 C 319.407,286.846 318.607,286.795 317.799,286.69"/>
+		</clipPath>
+		<clipPath id="ad" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.107,246.837 C 348.134,246.858 348.162,246.885 348.19,246.906 C 348.162,246.885 348.134,246.858 348.107,246.837"/>
+		</clipPath>
+		<clipPath id="aS" clipPathUnits="userSpaceOnUse">
+			<path d="M 349.534,248.856 L 350.337,248.856 L 350.337,248.104 L 349.534,248.104 L 349.534,248.856"/>
+		</clipPath>
+		<clipPath id="aT" clipPathUnits="userSpaceOnUse">
+			<path d="M 350.337,248.856 C 350.074,248.603 349.804,248.35 349.534,248.104 C 349.804,248.354 350.074,248.603 350.337,248.856"/>
+		</clipPath>
+		<clipPath id="bd" clipPathUnits="userSpaceOnUse">
+			<path d="M 268.043,286.845 L 351.653,286.845 L 351.653,233.799 L 268.043,233.799 L 268.043,286.845"/>
+		</clipPath>
+		<clipPath id="U" clipPathUnits="userSpaceOnUse">
+			<path d="M 325.507,246.837 L 348.107,246.837 L 348.107,235.298 L 325.507,235.298 L 325.507,246.837"/>
+		</clipPath>
+		<clipPath id="V" clipPathUnits="userSpaceOnUse">
+			<path d="M 325.507,246.837 L 348.107,246.837 L 348.107,235.299 L 325.507,235.299 L 325.507,246.837"/>
+		</clipPath>
+		<clipPath id="W" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.352 348.107,246.837"/>
+		</clipPath>
+		<clipPath id="aW" clipPathUnits="userSpaceOnUse">
+			<path d="M 325.507,246.837 L 348.107,246.837 L 348.107,235.298 L 325.507,235.298 L 325.507,246.837"/>
+		</clipPath>
+		<clipPath id="aX" clipPathUnits="userSpaceOnUse">
+			<path d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.351 348.107,246.837"/>
+		</clipPath>
+		<clipPath id="K" clipPathUnits="userSpaceOnUse">
+			<path d="M 317.792,286.688 C 316.379,286.505 314.994,286.238 313.636,285.902 C 295.186,277.706 284.63,256.314 271.79,256.664 C 270.453,256.702 269.206,256.941 268.042,257.336 C 268.16,257.156 268.285,256.973 268.41,256.792 C 268.41,256.789 268.417,256.789 268.417,256.789 C 268.708,256.374 269.005,255.965 269.31,255.563 C 269.358,255.494 269.407,255.432 269.456,255.366 C 269.712,255.03 269.975,254.69 270.238,254.358 C 270.342,254.227 270.446,254.099 270.55,253.97 C 270.764,253.707 270.979,253.443 271.201,253.187 C 271.36,252.99 271.526,252.8 271.692,252.605 C 271.858,252.415 272.025,252.225 272.191,252.038 C 272.419,251.785 272.648,251.532 272.876,251.283 C 272.988,251.158 273.105,251.033 273.223,250.912 C 273.507,250.611 273.798,250.31 274.089,250.016 C 274.151,249.946 274.213,249.88 274.283,249.814 C 274.622,249.472 274.969,249.129 275.322,248.796 L 275.384,248.734 C 278.487,245.794 281.936,243.211 285.662,241.061 C 285.69,241.039 285.725,241.019 285.752,241.005 C 286.161,240.77 286.576,240.541 286.992,240.312 C 287.089,240.264 287.186,240.212 287.276,240.16 C 287.629,239.973 287.982,239.793 288.335,239.612 C 288.516,239.522 288.689,239.439 288.862,239.35 C 289.139,239.215 289.423,239.079 289.7,238.947 C 289.963,238.823 290.233,238.702 290.497,238.584 C 290.697,238.494 290.891,238.404 291.092,238.32 C 291.452,238.161 291.819,238.01 292.187,237.856 C 292.291,237.815 292.394,237.771 292.505,237.726 C 292.976,237.538 293.44,237.354 293.918,237.178 C 293.918,237.178 293.939,237.171 293.945,237.171 C 297.097,236.008 300.401,235.121 303.829,234.546 C 305.429,234.283 307.022,234.089 308.608,233.965 C 308.76,233.954 308.919,233.94 309.072,233.93 C 309.363,233.909 309.654,233.896 309.945,233.882 C 310.277,233.864 310.603,233.847 310.935,233.833 C 311.074,233.826 311.212,233.826 311.357,233.822 C 311.822,233.812 312.292,233.799 312.764,233.799 L 312.888,233.799 C 314.01,233.805 315.125,233.84 316.233,233.905 C 316.233,233.905 316.247,233.909 316.254,233.909 C 316.802,233.943 317.342,233.985 317.882,234.034 C 317.93,234.041 317.986,234.048 318.034,234.048 C 318.519,234.096 318.997,234.148 319.482,234.207 C 319.6,234.221 319.724,234.241 319.842,234.256 C 320.244,234.304 320.639,234.362 321.033,234.422 C 321.241,234.456 321.449,234.491 321.664,234.522 C 321.961,234.574 322.259,234.622 322.557,234.678 C 322.855,234.733 323.159,234.792 323.464,234.851 C 323.658,234.89 323.845,234.927 324.039,234.969 C 324.441,235.052 324.842,235.142 325.237,235.239 C 325.328,235.256 325.417,235.28 325.507,235.298 C 333.895,237.323 341.631,241.312 348.107,246.836 C 348.135,246.857 348.162,246.885 348.19,246.905 C 348.543,247.211 348.89,247.515 349.236,247.83 C 349.333,247.921 349.437,248.014 349.534,248.104 C 349.804,248.35 350.074,248.603 350.337,248.855 C 350.51,249.011 350.676,249.178 350.843,249.34 C 351.03,249.527 351.224,249.718 351.417,249.911 C 351.494,249.994 351.577,250.074 351.653,250.157 C 347.22,268.244 334.415,288.843 317.792,286.688"/>
+		</clipPath>
+		<clipPath id="ba" clipPathUnits="userSpaceOnUse">
+			<path d="M 317.792,286.69 C 316.379,286.506 314.994,286.239 313.637,285.903 C 295.186,277.707 284.63,256.315 271.789,256.665 C 270.453,256.702 269.206,256.942 268.042,257.337 C 268.16,257.157 268.285,256.973 268.41,256.792 C 268.41,256.79 268.417,256.79 268.417,256.79 C 268.708,256.375 269.005,255.965 269.31,255.564 C 269.358,255.495 269.407,255.433 269.456,255.367 C 269.712,255.031 269.975,254.691 270.238,254.359 C 270.342,254.227 270.445,254.1 270.55,253.97 C 270.764,253.707 270.979,253.445 271.201,253.188 C 271.36,252.991 271.526,252.8 271.692,252.607 C 271.858,252.416 272.025,252.225 272.191,252.039 C 272.419,251.786 272.649,251.533 272.876,251.284 C 272.988,251.158 273.106,251.034 273.223,250.913 C 273.507,250.612 273.798,250.311 274.089,250.016 C 274.152,249.947 274.214,249.88 274.283,249.815 C 274.622,249.473 274.969,249.13 275.322,248.797 C 275.342,248.776 275.363,248.755 275.385,248.735 C 278.487,245.794 281.936,243.212 285.662,241.061 C 285.69,241.04 285.725,241.019 285.753,241.006 C 286.16,240.77 286.576,240.542 286.992,240.313 C 287.089,240.264 287.186,240.213 287.275,240.16 C 287.629,239.973 287.982,239.793 288.336,239.613 C 288.516,239.523 288.689,239.44 288.862,239.35 C 289.139,239.215 289.423,239.08 289.7,238.948 C 289.964,238.824 290.234,238.702 290.497,238.585 C 290.697,238.495 290.891,238.405 291.092,238.321 C 291.452,238.162 291.82,238.01 292.187,237.857 C 292.29,237.816 292.394,237.771 292.504,237.726 C 292.976,237.539 293.44,237.355 293.918,237.179 C 293.918,237.179 293.939,237.172 293.945,237.172 C 297.097,236.009 300.401,235.121 303.829,234.546 C 305.428,234.283 307.022,234.09 308.608,233.966 C 308.76,233.955 308.92,233.941 309.073,233.931 C 309.362,233.91 309.654,233.896 309.945,233.882 C 310.277,233.865 310.603,233.847 310.935,233.833 C 311.073,233.827 311.213,233.827 311.358,233.823 C 311.822,233.813 312.293,233.799 312.763,233.799 L 312.889,233.799 C 314.01,233.806 315.125,233.841 316.233,233.906 C 316.233,233.906 316.247,233.91 316.255,233.91 C 316.802,233.944 317.342,233.986 317.882,234.035 C 317.93,234.041 317.986,234.049 318.034,234.049 C 318.519,234.096 318.997,234.149 319.482,234.208 C 319.6,234.221 319.724,234.242 319.842,234.257 C 320.243,234.304 320.638,234.363 321.034,234.423 C 321.241,234.457 321.448,234.492 321.664,234.523 C 321.961,234.575 322.258,234.623 322.557,234.679 C 322.855,234.734 323.159,234.793 323.464,234.851 C 323.658,234.89 323.845,234.928 324.039,234.969 C 324.441,235.052 324.842,235.142 325.237,235.24 C 325.327,235.256 325.417,235.281 325.508,235.299 C 333.895,237.324 341.631,241.313 348.107,246.837 C 348.134,246.858 348.162,246.885 348.19,246.906 C 348.543,247.212 348.889,247.515 349.236,247.831 C 349.333,247.921 349.437,248.015 349.534,248.104 C 349.804,248.35 350.074,248.603 350.337,248.856 C 350.51,249.011 350.676,249.178 350.842,249.34 C 351.03,249.528 351.223,249.719 351.418,249.912 C 351.493,249.995 351.577,250.075 351.652,250.158 C 347.436,267.365 335.641,286.845 320.19,286.845 C 319.4,286.845 318.6,286.794 317.792,286.69"/>
+		</clipPath>
+		<clipPath id="R" clipPathUnits="userSpaceOnUse">
+			<path d="M 268.042,288.843 L 351.653,288.843 L 351.653,233.799 L 268.042,233.799 L 268.042,288.843"/>
+		</clipPath>
+		<clipPath id="bc" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+		<clipPath id="Q" clipPathUnits="userSpaceOnUse">
+			<path d="M 268.043,286.845 L 351.653,286.845 L 351.653,233.799 L 268.043,233.799 L 268.043,286.845"/>
+		</clipPath>
+		<clipPath id="bG" clipPathUnits="userSpaceOnUse">
+			<path d="M 0.0,595.28 L 841.89,595.28 L 841.89,0.0 L 0.0,0.0 L 0.0,595.28"/>
+		</clipPath>
+		<linearGradient id="bs" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(88.0971 -88.0971) rotate(-3.165 -64.998 -58.646)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="bb" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(131.33282 -131.33282) rotate(-3.856 -28.051 -31.473)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="Y" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.0496 -23.0496) rotate(-83.868 1.655 -13.173)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="T" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.0503 -23.0503) rotate(-83.868 .975 -12.562)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="ag" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(130.78917 -130.78917) rotate(-3.856 -26.523 -31.697)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="aV" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.09369 -23.09369) rotate(-83.868 1.948 -13.412)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="bD" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(-111.30096 111.30096) rotate(9.497 -17.956 -18.252)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="bg" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.0503 -23.0503) rotate(-83.868 .975 -12.562)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="P" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.09369 -23.09369) rotate(-83.868 1.948 -13.412)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="bi" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(-75.25959 75.25959) rotate(-.06 3489.5 4196.554)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="aR" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.08075 -23.08075) rotate(-83.868 1.923 -13.396)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="bk" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(108.79641 -108.79641) rotate(9.497 18.508 13.05)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="ae" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(135.55518 -135.55518) rotate(-3.856 -25.47 -30.277)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="ah" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(131.28125 -131.28125) rotate(-3.856 -26.64 -31.538)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="F" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.08075 -23.08075) rotate(-83.868 1.923 -13.396)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="aN" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.05188 -23.05188) rotate(-83.868 1.977 -13.46)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="bB" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(4.7626 -4.7626) rotate(62.016 92.493 16.898)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="G" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.05188 -23.05188) rotate(-83.868 1.977 -13.46)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="ac" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(108.68448 -108.68448) rotate(9.497 18.52 13.062)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="aj" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(132.7643 -132.7643) rotate(-3.856 -26.241 -31.087)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="aI" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(132.7643 -132.7643) rotate(-3.856 -26.241 -31.087)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="w" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(131.28125 -131.28125) rotate(-3.856 -26.64 -31.538)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="aF" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(131.05722 8.834 8.834 -131.05722 268.8 269.647)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="y" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(108.68448 -108.68448) rotate(9.497 18.525 13.063)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="o" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.05188 -23.05188) rotate(-83.868 1.977 -13.46)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="bq" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(108.68448 -108.68448) rotate(9.497 18.525 13.063)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="aZ" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.0496 -23.0496) rotate(-83.868 1.655 -13.173)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="bF" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(136.97368 -136.97368) rotate(9.497 13.805 10.288)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="aB" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(135.55518 -135.55518) rotate(-3.856 -25.47 -30.277)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="aA" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(131.34614 -131.34614) rotate(-3.856 -28.048 -31.47)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<linearGradient id="ay" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.0496 -23.0496) rotate(-83.868 1.655 -13.173)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(4.77153 -4.77153) rotate(62.016 92.317 16.851)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="s" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.0496 -23.0496) rotate(-83.868 1.655 -13.173)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="au" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.09369 -23.09369) rotate(-83.868 1.948 -13.412)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="C" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(40.82637 -40.82637) rotate(39.549 15.46 5.558)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="an" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.05188 -23.05188) rotate(-83.868 1.977 -13.46)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="j" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.08075 -23.08075) rotate(-83.868 1.923 -13.396)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.09369 -23.09369) rotate(-83.868 1.948 -13.412)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#231916"/>
+		</linearGradient>
+		<linearGradient id="bx" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(40.7324 -40.7324) rotate(39.549 15.496 5.575)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="ar" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(23.08075 -23.08075) rotate(-83.868 1.923 -13.396)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="1" stop-color="#fff"/>
+		</linearGradient>
+		<linearGradient id="aD" x1="0" x2="1" y1="0" y2="0" gradientTransform="scale(130.78917 -130.78917) rotate(-3.856 -26.523 -31.697)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+			<stop offset="0" stop-color="#30a8e1"/>
+			<stop offset="1" stop-color="#172a88"/>
+		</linearGradient>
+		<mask id="at" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#a)">
+				<g clip-path="url(#b)">
+					<g clip-path="url(#c)" mask="url(#d)" opacity=".2">
+						<path fill="url(#e)" d="M 350.337,248.856 C 350.074,248.604 349.804,248.351 349.534,248.104 C 349.804,248.354 350.074,248.604 350.337,248.856"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="aq" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#f)">
+				<g clip-path="url(#g)">
+					<g clip-path="url(#h)" mask="url(#i)" opacity=".2">
+						<path fill="url(#j)" d="M 349.236,247.831 C 348.89,247.516 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.516 349.236,247.831"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="am" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#k)">
+				<g clip-path="url(#l)">
+					<g clip-path="url(#m)" mask="url(#n)" opacity=".2">
+						<path fill="url(#o)" d="M 351.417,249.912 C 351.224,249.719 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.719 351.417,249.912"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="ax" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#i)">
+				<g clip-path="url(#p)">
+					<g clip-path="url(#q)" mask="url(#r)" opacity=".2">
+						<path fill="url(#s)" d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.352 348.107,246.837"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="bA" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#t)">
+				<g clip-path="url(#u)">
+					<g clip-path="url(#v)" mask="url(#w)" opacity=".2">
+						<path fill="url(#d)" d="M 309.681,327.117 C 323.603,332.969 344.416,329.146 349.264,328.588 C 341.804,335.331 332.392,340.103 321.733,341.89 C 305.609,344.584 289.977,339.916 278.251,330.351 C 291.383,324.045 301.633,324.443 309.681,327.117"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="bp" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#x)">
+				<path fill="url(#y)" d="M -32768.0,32767.0 L 32767.0,32767.0 L 32767.0,-32768.0 L -32768.0,-32768.0 L -32768.0,32767.0"/>
+			</g>
+		</mask>
+		<mask id="bw" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#z)">
+				<g clip-path="url(#n)">
+					<g clip-path="url(#A)" mask="url(#B)" opacity=".3">
+						<path fill="url(#C)" d="M 309.681,327.117 C 323.603,332.969 344.416,329.146 349.264,328.588 C 341.804,335.331 332.392,340.103 321.733,341.89 C 305.609,344.584 289.977,339.916 278.251,330.351 C 291.383,324.045 301.633,324.443 309.681,327.117"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="aM" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#r)">
+				<g clip-path="url(#D)">
+					<g clip-path="url(#E)" mask="url(#F)" opacity=".2">
+						<path fill="url(#G)" d="M 351.417,249.912 C 351.224,249.719 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.719 351.417,249.912"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="aQ" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#H)">
+				<g clip-path="url(#I)">
+					<g clip-path="url(#J)" mask="url(#K)" opacity=".2">
+						<path fill="url(#F)" d="M 349.236,247.831 C 348.89,247.516 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.516 349.236,247.831"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="aU" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#L)">
+				<g clip-path="url(#M)">
+					<g clip-path="url(#N)" mask="url(#O)" opacity=".2">
+						<path fill="url(#P)" d="M 350.337,248.856 C 350.074,248.604 349.804,248.351 349.534,248.104 C 349.804,248.354 350.074,248.604 350.337,248.856"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="bf" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#Q)">
+				<g clip-path="url(#R)">
+					<g clip-path="url(#K)" mask="url(#S)" opacity=".2">
+						<path fill="url(#T)" d="M 317.792,286.688 C 316.379,286.505 314.994,286.238 313.636,285.902 C 295.186,277.706 284.63,256.314 271.79,256.664 C 270.453,256.702 269.206,256.941 268.042,257.336 C 268.16,257.156 268.285,256.973 268.41,256.792 C 268.41,256.789 268.417,256.789 268.417,256.789 C 268.708,256.374 269.005,255.965 269.31,255.563 C 269.358,255.494 269.407,255.432 269.456,255.366 C 269.712,255.03 269.975,254.69 270.238,254.358 C 270.342,254.227 270.446,254.099 270.55,253.97 C 270.764,253.707 270.979,253.443 271.201,253.187 C 271.36,252.99 271.526,252.8 271.692,252.605 C 271.858,252.415 272.025,252.225 272.191,252.038 C 272.419,251.785 272.648,251.532 272.876,251.283 C 272.988,251.158 273.105,251.033 273.223,250.912 C 273.507,250.611 273.798,250.31 274.089,250.016 C 274.151,249.946 274.213,249.88 274.283,249.814 C 274.622,249.472 274.969,249.129 275.322,248.796 L 275.384,248.734 C 278.487,245.794 281.936,243.211 285.662,241.061 C 285.69,241.039 285.725,241.019 285.752,241.005 C 286.161,240.77 286.576,240.541 286.992,240.312 C 287.089,240.264 287.186,240.212 287.276,240.16 C 287.629,239.973 287.982,239.793 288.335,239.612 C 288.516,239.522 288.689,239.439 288.862,239.35 C 289.139,239.215 289.423,239.079 289.7,238.947 C 289.963,238.823 290.233,238.702 290.497,238.584 C 290.697,238.494 290.891,238.404 291.092,238.32 C 291.452,238.161 291.819,238.01 292.187,237.856 C 292.291,237.815 292.394,237.771 292.505,237.726 C 292.976,237.538 293.44,237.354 293.918,237.178 C 293.918,237.178 293.939,237.171 293.945,237.171 C 297.097,236.008 300.401,235.121 303.829,234.546 C 305.429,234.283 307.022,234.089 308.608,233.965 C 308.76,233.954 308.919,233.94 309.072,233.93 C 309.363,233.909 309.654,233.896 309.945,233.882 C 310.277,233.864 310.603,233.847 310.935,233.833 C 311.074,233.826 311.212,233.826 311.357,233.822 C 311.822,233.812 312.292,233.799 312.764,233.799 L 312.888,233.799 C 314.01,233.805 315.125,233.84 316.233,233.905 C 316.233,233.905 316.247,233.909 316.254,233.909 C 316.802,233.943 317.342,233.985 317.882,234.034 C 317.93,234.041 317.986,234.048 318.034,234.048 C 318.519,234.096 318.997,234.148 319.482,234.207 C 319.6,234.221 319.724,234.241 319.842,234.256 C 320.244,234.304 320.639,234.362 321.033,234.422 C 321.241,234.456 321.449,234.491 321.664,234.522 C 321.961,234.574 322.259,234.622 322.557,234.678 C 322.855,234.733 323.159,234.792 323.464,234.851 C 323.658,234.89 323.845,234.927 324.039,234.969 C 324.441,235.052 324.842,235.142 325.237,235.239 C 325.328,235.256 325.417,235.28 325.507,235.298 C 333.895,237.323 341.631,241.312 348.107,246.836 C 348.135,246.857 348.162,246.885 348.19,246.905 C 348.543,247.211 348.89,247.515 349.236,247.83 C 349.333,247.921 349.437,248.014 349.534,248.104 C 349.804,248.35 350.074,248.603 350.337,248.855 C 350.51,249.011 350.676,249.178 350.843,249.34 C 351.03,249.527 351.224,249.718 351.417,249.911 C 351.494,249.994 351.577,250.074 351.653,250.157 C 347.22,268.244 334.415,288.843 317.792,286.688"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="aY" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#U)">
+				<g clip-path="url(#V)">
+					<g clip-path="url(#W)" mask="url(#X)" opacity=".2">
+						<path fill="url(#Y)" d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.352 348.107,246.837"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="bn" width="1" height="1" x="0" y="0" maskUnits="userSpaceOnUse">
+			<g clip-path="url(#Z)">
+				<g clip-path="url(#O)">
+					<g clip-path="url(#aa)" mask="url(#ab)" opacity=".25">
+						<path fill="url(#ac)" d="M 285.766,288.206 C 300.283,289.104 306.295,295.396 322.958,298.623 C 339.616,301.851 363.434,289.675 366.426,279.157 C 368.643,292.394 365.865,305.307 359.493,315.994 C 334.117,330.171 317.688,298.484 292.124,297.896 C 274.691,297.744 270.3,313.583 268.694,320.028 C 265.625,315.786 263.139,311.055 261.366,305.937 C 261.324,305.812 261.283,305.687 261.241,305.56 C 260.999,304.835 260.763,304.102 260.549,303.36 C 260.486,303.122 260.417,302.879 260.354,302.64 C 260.216,302.145 260.092,301.643 259.967,301.144 C 259.904,300.902 259.842,300.656 259.787,300.41 C 259.683,299.094 266.671,287.025 285.766,288.206"/>
+					</g>
+				</g>
+			</g>
+		</mask>
+	</defs>
+	<g clip-path="url(#ad)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#ae)" d="M 348.107,246.837 C 348.134,246.858 348.162,246.885 348.19,246.906 C 348.162,246.885 348.134,246.858 348.107,246.837"/>
+	</g>
+	<g clip-path="url(#af)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#ag)" d="M 349.236,247.831 C 349.333,247.921 349.437,248.015 349.534,248.104 C 349.437,248.015 349.333,247.921 349.236,247.831"/>
+	</g>
+	<g clip-path="url(#X)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#ah)" d="M 351.418,249.912 C 351.493,249.992 351.577,250.071 351.66,250.148 C 351.66,250.148 351.66,250.155 351.652,250.158 C 351.577,250.075 351.493,249.995 351.418,249.912"/>
+	</g>
+	<g clip-path="url(#ai)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#aj)" d="M 350.337,248.856 C 350.51,249.011 350.676,249.178 350.842,249.34 C 350.676,249.178 350.51,249.011 350.337,248.856"/>
+	</g>
+	<g clip-path="url(#ak)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<g clip-path="url(#al)">
+			<g clip-path="url(#S)" mask="url(#am)" opacity=".2">
+				<path fill="url(#an)" d="M 351.417,249.912 C 351.224,249.718 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.718 351.417,249.912"/>
+			</g>
+		</g>
+		<g clip-path="url(#ao)">
+			<g clip-path="url(#ap)" mask="url(#aq)" opacity=".2">
+				<path fill="url(#ar)" d="M 349.236,247.831 C 348.89,247.515 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.515 349.236,247.831"/>
+			</g>
+		</g>
+		<g clip-path="url(#ab)">
+			<g clip-path="url(#as)" mask="url(#at)" opacity=".2">
+				<path fill="url(#au)" d="M 350.337,248.856 C 350.074,248.603 349.804,248.35 349.534,248.104 C 349.804,248.354 350.074,248.603 350.337,248.856"/>
+			</g>
+		</g>
+		<g clip-path="url(#av)">
+			<g clip-path="url(#aw)" mask="url(#ax)" opacity=".2">
+				<path fill="url(#ay)" d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.351 348.107,246.837"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#az)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#aA)" d="M 317.792,286.69 C 295.822,283.836 280.71,261.22 267.142,263.875 C 265.826,264.132 264.635,264.577 263.541,265.163 C 270.876,249.517 285.51,237.615 303.829,234.546 C 322.038,231.5 339.637,237.895 351.66,250.148 C 347.443,267.362 335.641,286.845 320.19,286.845 C 319.4,286.845 318.6,286.794 317.792,286.69"/>
+	</g>
+	<g clip-path="url(#B)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#aB)" d="M 348.107,246.837 C 348.134,246.858 348.162,246.885 348.19,246.906 C 348.162,246.885 348.134,246.858 348.107,246.837"/>
+	</g>
+	<g clip-path="url(#aC)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#aD)" d="M 349.236,247.831 C 349.333,247.921 349.437,248.015 349.534,248.104 C 349.437,248.015 349.333,247.921 349.236,247.831"/>
+	</g>
+	<g clip-path="url(#aE)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#aF)" d="M 267.142,263.875 C 265.826,264.132 264.635,264.577 263.541,265.163 C 264.822,262.431 266.332,259.813 268.042,257.337 C 269.206,256.942 270.453,256.702 271.789,256.665 C 284.63,256.315 295.186,277.707 313.637,285.903 C 293.883,281.027 279.837,261.392 267.142,263.875"/>
+	</g>
+	<g clip-path="url(#aG)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#w)" d="M 351.418,249.912 C 351.493,249.992 351.577,250.071 351.66,250.148 C 351.66,250.148 351.66,250.155 351.652,250.158 C 351.577,250.075 351.493,249.995 351.418,249.912"/>
+	</g>
+	<g clip-path="url(#aH)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#aI)" d="M 350.337,248.856 C 350.51,249.011 350.676,249.178 350.842,249.34 C 350.676,249.178 350.51,249.011 350.337,248.856"/>
+	</g>
+	<g clip-path="url(#aJ)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<g clip-path="url(#aK)">
+			<g clip-path="url(#aL)" mask="url(#aM)" opacity=".2">
+				<path fill="url(#aN)" d="M 351.417,249.912 C 351.224,249.718 351.03,249.528 350.843,249.341 C 351.03,249.531 351.224,249.718 351.417,249.912"/>
+			</g>
+		</g>
+		<g clip-path="url(#aO)">
+			<g clip-path="url(#aP)" mask="url(#aQ)" opacity=".2">
+				<path fill="url(#aR)" d="M 349.236,247.831 C 348.89,247.515 348.543,247.212 348.19,246.906 C 348.543,247.212 348.89,247.515 349.236,247.831"/>
+			</g>
+		</g>
+		<g clip-path="url(#aS)">
+			<g clip-path="url(#aT)" mask="url(#aU)" opacity=".2">
+				<path fill="url(#aV)" d="M 350.337,248.856 C 350.074,248.603 349.804,248.35 349.534,248.104 C 349.804,248.354 350.074,248.603 350.337,248.856"/>
+			</g>
+		</g>
+		<g clip-path="url(#aW)">
+			<g clip-path="url(#aX)" mask="url(#aY)" opacity=".2">
+				<path fill="url(#aZ)" d="M 348.107,246.837 C 341.631,241.313 333.895,237.324 325.507,235.299 C 333.985,237.332 341.693,241.351 348.107,246.837"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#ba)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#bb)" d="M 317.792,286.69 C 316.379,286.506 314.994,286.239 313.637,285.903 C 295.186,277.707 284.63,256.315 271.789,256.665 C 270.453,256.702 269.206,256.942 268.042,257.337 C 268.16,257.157 268.285,256.973 268.41,256.792 C 268.41,256.79 268.417,256.79 268.417,256.79 C 268.708,256.375 269.005,255.965 269.31,255.564 C 269.358,255.495 269.407,255.433 269.456,255.367 C 269.712,255.031 269.975,254.691 270.238,254.359 C 270.342,254.227 270.445,254.1 270.55,253.97 C 270.764,253.707 270.979,253.445 271.201,253.188 C 271.36,252.991 271.526,252.8 271.692,252.607 C 271.858,252.416 272.025,252.225 272.191,252.039 C 272.419,251.786 272.649,251.533 272.876,251.284 C 272.988,251.158 273.106,251.034 273.223,250.913 C 273.507,250.612 273.798,250.311 274.089,250.016 C 274.152,249.947 274.214,249.88 274.283,249.815 C 274.622,249.473 274.969,249.13 275.322,248.797 C 275.342,248.776 275.363,248.755 275.385,248.735 C 278.487,245.794 281.936,243.212 285.662,241.061 C 285.69,241.04 285.725,241.019 285.753,241.006 C 286.16,240.77 286.576,240.542 286.992,240.313 C 287.089,240.264 287.186,240.213 287.275,240.16 C 287.629,239.973 287.982,239.793 288.336,239.613 C 288.516,239.523 288.689,239.44 288.862,239.35 C 289.139,239.215 289.423,239.08 289.7,238.948 C 289.964,238.824 290.234,238.702 290.497,238.585 C 290.697,238.495 290.891,238.405 291.092,238.321 C 291.452,238.162 291.82,238.01 292.187,237.857 C 292.29,237.816 292.394,237.771 292.504,237.726 C 292.976,237.539 293.44,237.355 293.918,237.179 C 293.918,237.179 293.939,237.172 293.945,237.172 C 297.097,236.009 300.401,235.121 303.829,234.546 C 305.428,234.283 307.022,234.09 308.608,233.966 C 308.76,233.955 308.92,233.941 309.073,233.931 C 309.362,233.91 309.654,233.896 309.945,233.882 C 310.277,233.865 310.603,233.847 310.935,233.833 C 311.073,233.827 311.213,233.827 311.358,233.823 C 311.822,233.813 312.293,233.799 312.763,233.799 L 312.889,233.799 C 314.01,233.806 315.125,233.841 316.233,233.906 C 316.233,233.906 316.247,233.91 316.255,233.91 C 316.802,233.944 317.342,233.986 317.882,234.035 C 317.93,234.041 317.986,234.049 318.034,234.049 C 318.519,234.096 318.997,234.149 319.482,234.208 C 319.6,234.221 319.724,234.242 319.842,234.257 C 320.243,234.304 320.638,234.363 321.034,234.423 C 321.241,234.457 321.448,234.492 321.664,234.523 C 321.961,234.575 322.258,234.623 322.557,234.679 C 322.855,234.734 323.159,234.793 323.464,234.851 C 323.658,234.89 323.845,234.928 324.039,234.969 C 324.441,235.052 324.842,235.142 325.237,235.24 C 325.327,235.256 325.417,235.281 325.508,235.299 C 333.895,237.324 341.631,241.313 348.107,246.837 C 348.134,246.858 348.162,246.885 348.19,246.906 C 348.543,247.212 348.889,247.515 349.236,247.831 C 349.333,247.921 349.437,248.015 349.534,248.104 C 349.804,248.35 350.074,248.603 350.337,248.856 C 350.51,249.011 350.676,249.178 350.842,249.34 C 351.03,249.528 351.223,249.719 351.418,249.912 C 351.493,249.995 351.577,250.075 351.652,250.158 C 347.436,267.365 335.641,286.845 320.19,286.845 C 319.4,286.845 318.6,286.794 317.792,286.69"/>
+	</g>
+	<g clip-path="url(#bc)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<g clip-path="url(#bd)">
+			<g clip-path="url(#be)" mask="url(#bf)" opacity=".2">
+				<path fill="url(#bg)" d="M 317.792,286.689 C 316.379,286.506 314.994,286.239 313.636,285.903 C 295.186,277.707 284.63,256.315 271.79,256.665 C 270.453,256.703 269.206,256.942 268.042,257.337 C 268.16,257.157 268.285,256.973 268.41,256.793 C 268.41,256.79 268.417,256.79 268.417,256.79 C 268.708,256.375 269.005,255.966 269.31,255.564 C 269.358,255.495 269.407,255.432 269.456,255.367 C 269.712,255.031 269.975,254.691 270.238,254.359 C 270.342,254.227 270.446,254.099 270.55,253.97 C 270.764,253.708 270.979,253.444 271.201,253.188 C 271.36,252.991 271.526,252.801 271.692,252.606 C 271.858,252.416 272.025,252.225 272.191,252.039 C 272.419,251.786 272.648,251.533 272.876,251.284 C 272.988,251.159 273.105,251.034 273.223,250.913 C 273.507,250.612 273.798,250.31 274.089,250.016 C 274.151,249.947 274.213,249.881 274.283,249.815 C 274.622,249.472 274.969,249.13 275.322,248.797 L 275.384,248.735 C 278.487,245.795 281.936,243.212 285.662,241.061 C 285.69,241.04 285.725,241.019 285.752,241.006 C 286.161,240.77 286.576,240.542 286.992,240.313 C 287.089,240.264 287.186,240.213 287.276,240.161 C 287.629,239.973 287.982,239.794 288.335,239.613 C 288.516,239.523 288.689,239.44 288.862,239.35 C 289.139,239.216 289.423,239.08 289.7,238.948 C 289.963,238.824 290.233,238.703 290.497,238.585 C 290.697,238.495 290.891,238.405 291.092,238.321 C 291.452,238.162 291.819,238.01 292.187,237.857 C 292.291,237.816 292.394,237.771 292.505,237.726 C 292.976,237.539 293.44,237.355 293.918,237.178 C 293.918,237.178 293.939,237.172 293.945,237.172 C 297.097,236.009 300.401,235.122 303.829,234.547 C 305.429,234.284 307.022,234.09 308.608,233.966 C 308.76,233.955 308.919,233.941 309.072,233.93 C 309.363,233.91 309.654,233.896 309.945,233.883 C 310.277,233.865 310.603,233.847 310.935,233.834 C 311.074,233.827 311.212,233.827 311.357,233.823 C 311.822,233.813 312.292,233.8 312.764,233.8 L 312.888,233.8 C 314.01,233.805 315.125,233.841 316.233,233.906 C 316.233,233.906 316.247,233.91 316.254,233.91 C 316.802,233.944 317.342,233.986 317.882,234.035 C 317.93,234.042 317.986,234.049 318.034,234.049 C 318.519,234.096 318.997,234.149 319.482,234.208 C 319.6,234.221 319.724,234.242 319.842,234.257 C 320.244,234.304 320.639,234.363 321.033,234.423 C 321.241,234.457 321.449,234.492 321.664,234.523 C 321.961,234.575 322.259,234.623 322.557,234.678 C 322.855,234.734 323.159,234.793 323.464,234.851 C 323.658,234.89 323.845,234.927 324.039,234.969 C 324.441,235.052 324.842,235.142 325.237,235.24 C 325.328,235.257 325.417,235.281 325.507,235.299 C 333.895,237.324 341.631,241.313 348.107,246.837 C 348.135,246.858 348.162,246.885 348.19,246.906 C 348.543,247.212 348.89,247.515 349.236,247.831 C 349.333,247.922 349.437,248.014 349.534,248.104 C 349.804,248.35 350.074,248.603 350.337,248.856 C 350.51,249.011 350.676,249.178 350.843,249.341 C 351.03,249.528 351.224,249.718 351.417,249.912 C 351.494,249.995 351.577,250.075 351.653,250.158 C 347.22,268.245 334.415,288.843 317.792,286.689"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#bh)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#bi)" d="M 317.799,286.69 C 295.822,283.839 280.71,261.222 267.142,263.875 C 265.826,264.132 264.635,264.582 263.541,265.163 C 278.999,254.989 297.097,280.498 319.073,283.349 C 325.174,284.14 331.228,282.527 336.678,278.928 C 331.929,283.744 326.35,286.846 320.197,286.846 C 319.407,286.846 318.607,286.795 317.799,286.69"/>
+	</g>
+	<g clip-path="url(#bj)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#bk)" d="M 292.124,297.895 C 274.692,297.743 270.301,313.582 268.694,320.027 C 265.625,315.786 263.138,311.055 261.365,305.936 C 261.324,305.812 261.283,305.687 261.241,305.559 C 260.998,304.835 260.763,304.101 260.549,303.36 C 260.486,303.121 260.417,302.879 260.355,302.64 C 260.216,302.144 260.092,301.642 259.967,301.144 C 259.905,300.901 259.843,300.656 259.787,300.409 C 259.682,299.093 266.671,287.025 285.766,288.206 C 300.283,289.103 306.295,295.395 322.959,298.623 C 339.616,301.85 363.434,289.675 366.426,279.157 C 368.626,292.301 366.116,304.763 359.838,315.407 C 359.794,315.482 359.159,316.111 359.116,316.136 C 354.369,318.907 349.95,320.038 345.743,320.039 C 327.321,320.041 312.9,298.374 292.124,297.895"/>
+	</g>
+	<g clip-path="url(#bl)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<g clip-path="url(#bm)" mask="url(#bn)">
+			<g clip-path="url(#bo)" mask="url(#bp)" opacity=".25">
+				<path fill="url(#bq)" d="M 285.766,288.206 C 300.283,289.103 306.295,295.395 322.958,298.623 C 339.616,301.85 363.434,289.675 366.426,279.157 C 368.622,292.267 366.184,304.615 359.939,315.243 C 359.88,315.344 359.004,316.257 358.865,316.336 C 333.932,330.378 317.546,298.481 292.124,297.896 C 274.691,297.743 270.3,313.583 268.694,320.028 C 265.625,315.785 263.139,311.055 261.366,305.936 C 261.324,305.812 261.283,305.687 261.241,305.559 C 260.999,304.835 260.763,304.101 260.549,303.36 C 260.486,303.121 260.417,302.879 260.354,302.64 C 260.216,302.145 260.092,301.642 259.967,301.144 C 259.904,300.902 259.842,300.655 259.787,300.409 C 259.683,299.093 266.671,287.025 285.766,288.206"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#br)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#bs)" d="M 278.362,330.337 C 279.913,319.306 284.512,310.81 291.28,308.732 C 301.384,305.632 320.984,322.58 333.223,326.93 C 338.874,328.937 344.429,329.16 349.27,328.605 C 341.847,335.265 332.427,340.124 321.781,341.907 C 318.75,342.414 315.735,342.659 312.76,342.659 C 299.946,342.659 287.868,338.111 278.362,330.337"/>
+	</g>
+	<g clip-path="url(#bt)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<g clip-path="url(#bu)">
+			<g clip-path="url(#bv)" mask="url(#bw)" opacity=".3">
+				<path fill="url(#bx)" d="M 309.681,327.116 C 323.603,332.969 344.388,329.167 349.236,328.609 C 341.982,335.213 332.392,340.102 321.733,341.889 C 305.609,344.584 290.088,339.902 278.362,330.337 C 291.494,324.031 301.633,324.443 309.681,327.116"/>
+			</g>
+		</g>
+		<g clip-path="url(#by)">
+			<g clip-path="url(#bz)" mask="url(#bA)" opacity=".2">
+				<path fill="url(#bB)" d="M 309.681,327.116 C 323.603,332.969 344.422,329.163 349.271,328.605 C 341.895,335.26 332.392,340.102 321.733,341.889 C 305.609,344.584 290.088,339.902 278.362,330.337 C 291.494,324.031 301.633,324.443 309.681,327.116"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#bC)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#bD)" d="M 332.485,320.027 C 320.247,315.675 304.196,301.241 293.274,301.891 C 285.461,302.362 273.832,309.313 268.762,320.11 C 268.749,320.089 268.736,320.069 268.721,320.044 L 268.721,319.999 C 268.728,320.007 268.728,320.014 268.736,320.021 C 270.342,313.576 274.613,298.256 291.605,296.491 C 302.101,296.104 311.12,302.167 319.9,308.229 C 332.512,316.937 344.634,325.644 359.94,315.243 C 359.94,315.243 355.983,320.367 348.074,321.7 C 346.651,321.956 345.152,322.096 343.574,322.096 C 340.246,322.096 336.564,321.476 332.485,320.027"/>
+	</g>
+	<g clip-path="url(#bE)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path fill="url(#bF)" d="M 259.197,297.202 C 258.413,292.513 258.256,288.14 258.661,283.614 C 259.119,280.661 260.267,279.127 260.502,278.81 C 262.563,276.023 265.049,274.116 268.777,273.385 C 282.344,270.732 297.121,291.688 319.115,294.342 C 334.495,296.198 344.247,286.068 350.089,275.937 C 355.489,266.572 357.547,257.206 357.62,257.312 C 362.019,263.682 365.132,271.086 366.495,279.23 C 366.489,279.244 366.489,279.265 366.489,279.279 C 366.482,279.237 366.475,279.195 366.467,279.15 C 363.469,289.668 339.664,301.846 322.994,298.615 C 306.329,295.388 300.325,289.096 285.808,288.199 C 266.713,287.018 259.725,299.086 259.828,300.403 C 259.586,299.35 259.378,298.283 259.197,297.202"/>
+	</g>
+	<g fill="#231916" clip-path="url(#bG)" transform="matrix(1.33333 0 0 -1.33333 0 793.707)">
+		<path d="M 418.931,251.256 C 419.948,251.355 420.762,251.62 421.373,252.051 C 421.984,252.482 422.29,252.997 422.29,253.598 C 422.29,253.937 422.177,254.216 421.951,254.435 C 421.725,254.653 421.431,254.764 421.071,254.764 C 420.464,254.764 419.952,254.481 419.535,253.915 C 419.118,253.351 418.91,252.644 418.91,251.796 C 418.91,251.712 418.911,251.623 418.915,251.531 C 418.918,251.44 418.924,251.348 418.931,251.256 M 418.994,250.45 C 419.1,249.532 419.397,248.836 419.885,248.363 C 420.372,247.89 421.036,247.653 421.877,247.653 C 422.491,247.653 423.019,247.752 423.461,247.95 C 423.902,248.148 424.328,248.484 424.738,248.956 C 424.808,249.041 424.896,249.154 425.003,249.296 C 425.158,249.515 425.281,249.624 425.374,249.624 C 425.451,249.624 425.516,249.596 425.569,249.539 C 425.623,249.483 425.649,249.416 425.649,249.338 C 425.649,249.19 425.506,248.893 425.22,248.448 C 424.933,248.003 424.557,247.505 424.092,246.954 C 423.802,246.608 423.487,246.391 423.148,246.302 C 422.809,246.214 422.275,246.17 421.548,246.17 C 420.149,246.17 419.074,246.542 418.322,247.288 C 417.569,248.033 417.193,249.094 417.193,250.472 C 417.193,251.92 417.62,253.149 418.475,254.159 C 419.33,255.169 420.354,255.675 421.548,255.675 C 422.36,255.675 423.013,255.453 423.503,255.012 C 423.994,254.57 424.24,253.983 424.24,253.248 C 424.24,252.824 423.779,252.365 422.857,251.87 C 421.935,251.376 420.648,250.902 418.994,250.45 M 437.63,246.127 C 434.982,246.127 432.92,246.789 431.447,248.114 C 429.975,249.439 429.238,251.287 429.238,253.661 C 429.238,256.367 430.143,258.504 431.95,260.072 C 433.759,261.64 436.246,262.424 439.41,262.424 C 441.134,262.424 442.752,262.219 444.264,261.81 C 445.776,261.4 446.531,261.058 446.531,260.782 C 446.531,260.69 446.418,260.433 446.193,260.008 C 446.093,259.824 446.019,259.687 445.97,259.595 C 445.906,259.468 445.832,259.302 445.747,259.097 C 445.606,258.773 445.483,258.609 445.376,258.609 C 445.271,258.609 445.184,258.635 445.116,258.684 C 445.049,258.733 445.016,258.797 445.016,258.875 C 445.016,258.889 445.037,258.966 445.079,259.107 C 445.122,259.249 445.143,259.38 445.143,259.5 C 445.143,260.107 444.699,260.584 443.814,260.93 C 442.927,261.276 441.699,261.449 440.131,261.449 C 437.538,261.449 435.447,260.757 433.859,259.373 C 432.269,257.988 431.474,256.18 431.474,253.947 C 431.474,251.927 432.145,250.304 433.487,249.078 C 434.829,247.853 436.616,247.24 438.849,247.24 C 440.035,247.24 441.245,247.411 442.479,247.754 C 443.711,248.097 444.998,248.617 446.34,249.316 C 446.567,249.443 446.814,249.596 447.082,249.773 C 447.351,249.949 447.513,250.037 447.569,250.037 C 447.619,250.037 447.654,250.016 447.676,249.974 C 447.696,249.932 447.707,249.857 447.707,249.751 L 447.707,249.581 C 447.707,249.454 447.692,249.362 447.659,249.306 C 447.628,249.249 447.534,249.169 447.379,249.063 C 446.001,248.165 444.433,247.452 442.674,246.922 C 440.915,246.393 439.234,246.127 437.63,246.127 M 452.2,250.323 L 452.2,256.109 C 452.2,256.448 452.194,256.836 452.183,257.274 C 452.173,257.713 452.168,257.991 452.168,258.111 C 452.168,259.1 452.126,260.044 452.041,260.94 C 452.026,261.075 452.019,261.152 452.019,261.174 C 452.019,261.344 452.168,261.456 452.465,261.512 C 452.641,261.548 452.793,261.58 452.92,261.608 C 453.351,261.7 453.773,261.812 454.186,261.947 C 454.599,262.081 454.817,262.148 454.838,262.148 C 454.902,262.148 454.958,262.117 455.008,262.053 C 455.057,261.989 455.082,261.912 455.082,261.82 C 455.082,261.77 454.938,261.654 454.652,261.47 C 454.366,261.287 454.184,261.064 454.107,260.802 C 453.994,260.435 453.915,259.632 453.869,258.392 C 453.822,257.152 453.8,254.714 453.8,251.076 L 453.8,249.846 C 453.8,248.836 453.837,248.202 453.911,247.944 C 453.985,247.686 454.136,247.557 454.361,247.557 C 454.545,247.557 454.748,247.594 454.971,247.669 C 455.193,247.743 455.307,247.78 455.307,247.78 C 455.379,247.78 455.435,247.745 455.484,247.674 C 455.534,247.603 455.558,247.522 455.558,247.43 C 455.558,247.289 455.34,247.151 454.902,247.017 C 454.591,246.926 454.34,246.841 454.149,246.762 C 453.719,246.587 453.3,246.36 452.893,246.085 C 452.487,245.809 452.256,245.672 452.2,245.672 C 452.1,245.672 452.014,245.709 451.94,245.783 C 451.866,245.857 451.829,245.943 451.829,246.043 C 451.829,246.056 451.836,246.095 451.849,246.159 C 452.083,247.084 452.2,248.472 452.2,250.323 M 463.195,254.614 C 462.39,254.614 461.775,254.344 461.351,253.804 C 460.927,253.263 460.716,252.477 460.716,251.446 C 460.716,250.26 461.028,249.269 461.654,248.474 C 462.279,247.679 463.044,247.282 463.948,247.282 C 464.704,247.282 465.316,247.551 465.786,248.088 C 466.256,248.624 466.491,249.331 466.491,250.207 C 466.491,251.5 466.181,252.557 465.563,253.381 C 464.945,254.203 464.156,254.614 463.195,254.614 M 463.799,255.675 C 465.12,255.675 466.162,255.264 466.925,254.445 C 467.688,253.626 468.07,252.503 468.07,251.076 C 468.07,249.677 467.61,248.51 466.692,247.573 C 465.773,246.637 464.63,246.17 463.258,246.17 C 461.973,246.17 460.968,246.561 460.244,247.345 C 459.52,248.13 459.158,249.214 459.158,250.598 C 459.158,252.125 459.586,253.351 460.44,254.281 C 461.295,255.21 462.415,255.675 463.799,255.675 M 478.918,247.78 C 478.417,247.533 477.791,247.215 477.043,246.827 C 476.159,246.36 475.63,246.127 475.453,246.127 C 474.437,246.127 473.692,246.452 473.223,247.102 C 472.753,247.752 472.519,248.787 472.519,250.2074 C 472.519,250.552 472.532,251.127 472.561,251.928 C 472.589,252.73 472.603,253.357 472.603,253.809 C 472.603,253.908 472.589,254.058 472.561,254.259 C 472.532,254.461 472.519,254.614 472.519,254.72 C 472.519,254.777 472.642,254.844 472.889,254.922 C 473.087,254.985 473.253,255.042 473.387,255.092 C 473.698,255.204 474.014,255.33 474.335,255.467 C 474.656,255.605 474.832,255.675 474.86,255.675 C 474.966,255.675 475.051,255.651 475.114,255.605 C 475.178,255.559 475.21,255.498 475.21,255.42 C 475.21,255.335 475.134,255.215 474.981,255.059 C 474.83,254.904 474.719,254.763 474.648,254.635 C 474.479,254.346 474.356,253.962 474.282,253.481 C 474.208,253.001 474.171,252.273 474.171,251.298 C 474.171,249.949 474.335,249.004 474.664,248.464 C 474.992,247.924 475.552,247.653 476.344,247.653 C 476.633,247.653 477.009,247.719 477.472,247.854 C 477.935,247.988 478.435,248.179 478.972,248.426 L 478.972,253.078 C 478.972,253.905 478.805,254.403 478.474,254.572 C 478.409,254.6 478.378,254.629 478.378,254.657 C 478.378,254.883 478.463,255.017 478.632,255.059 C 478.682,255.067 478.728,255.077 478.77,255.092 C 479.081,255.204 479.413,255.349 479.766,255.526 C 480.119,255.702 480.324,255.791 480.381,255.791 C 480.473,255.791 480.578,255.734 480.698,255.621 C 480.818,255.509 480.879,255.413 480.879,255.335 C 480.879,255.328 480.871,255.296 480.857,255.24 C 480.759,254.873 480.691,254.424 480.656,253.894 C 480.628,253.407 480.606,252.762 480.593,251.961 C 480.578,251.159 480.571,250.27 480.571,249.296 C 480.571,248.54 480.596,247.815 480.646,247.123 C 480.652,247.017 480.656,246.954 480.656,246.932 C 480.656,246.77 480.412,246.556 479.925,246.291 C 479.438,246.026 479.134,245.894 479.014,245.894 C 478.972,245.894 478.941,245.924 478.924,245.984 C 478.906,246.044 478.897,246.144 478.897,246.286 L 478.897,246.604 C 478.897,246.759 478.898,246.935 478.902,247.134 C 478.906,247.332 478.911,247.547 478.918,247.78 M 492.246,253.66 C 491.752,253.844 491.272,253.983 490.81,254.079 C 490.348,254.174 489.908,254.222 489.491,254.222 C 488.572,254.222 487.932,254.012 487.568,253.591 C 487.204,253.171 487.022,252.428 487.022,251.36 C 487.022,250.252 487.272,249.395 487.774,248.791 C 488.276,248.187 488.986,247.886 489.904,247.886 C 490.413,247.886 490.868,247.978 491.271,248.166 C 491.674,248.353 491.929,248.592 492.034,248.881 C 492.083,249.037 492.124,249.442 492.156,250.099 C 492.187,250.757 492.218,251.943 492.246,253.664 M 492.076,247.991 C 491.956,247.892 491.798,247.751 491.6,247.567 C 490.667,246.726 489.887,246.306 489.258,246.306 C 488.0,246.306 487.073,246.622 486.476,247.255 C 485.88,247.887 485.581,248.871 485.581,250.206 C 485.581,251.887 486.024,253.219 486.911,254.2 C 487.798,255.182 488.996,255.674 490.509,255.674 C 490.721,255.674 491.018,255.641 491.403,255.578 C 491.788,255.514 492.069,255.475 492.246,255.462 C 492.246,256.026 492.253,256.634 492.267,257.284 L 492.267,257.612 C 492.267,258.842 492.218,259.972 492.119,261.003 C 492.104,261.144 492.098,261.229 492.098,261.258 C 492.098,261.42 492.267,261.529 492.606,261.586 C 492.698,261.6 492.775,261.614 492.84,261.628 C 493.227,261.706 493.651,261.826 494.111,261.988 C 494.57,262.151 494.831,262.232 494.895,262.232 C 494.973,262.232 495.04,262.204 495.097,262.147 C 495.153,262.091 495.182,262.024 495.182,261.946 C 495.182,261.854 495.036,261.732 494.747,261.581 C 494.457,261.429 494.267,261.205 494.175,260.908 C 494.061,260.512 493.974,259.37 493.909,257.479 C 493.846,255.591 493.814,253.116 493.814,250.057 L 493.814,248.775 C 493.814,248.168 493.837,247.777 493.883,247.604 C 493.929,247.431 494.019,247.345 494.153,247.345 C 494.344,247.345 494.573,247.386 494.842,247.467 C 495.11,247.548 495.273,247.589 495.329,247.589 C 495.4,247.589 495.462,247.56 495.515,247.504 C 495.568,247.447 495.595,247.38 495.595,247.303 C 495.595,247.139 495.39,246.999 494.979,246.879 C 494.739,246.807 494.542,246.744 494.387,246.687 C 493.892,246.518 493.438,246.333 493.024,246.132 C 492.611,245.931 492.401,245.829 492.401,245.829 C 492.296,245.829 492.2,245.866 492.108,245.941 C 492.017,246.014 491.971,246.091 491.971,246.169 C 491.971,246.197 491.977,246.25 491.992,246.327 C 492.062,246.659 492.098,246.991 492.098,247.324 C 492.098,247.338 492.094,247.373 492.087,247.43 C 492.08,247.62 492.076,247.807 492.076,247.991 M 507.259,260.623 C 507.189,258.468 507.135,256.446 507.1,254.557 C 507.065,252.667 507.047,251.037 507.047,249.666 C 507.047,248.798 507.111,248.259 507.238,248.051 C 507.365,247.842 507.619,247.737 508.001,247.737 C 508.128,247.737 508.299,247.756 508.515,247.791 C 508.73,247.826 508.876,247.844 508.954,247.844 C 509.011,247.844 509.046,247.833 509.061,247.812 C 509.074,247.791 509.081,247.724 509.081,247.61 C 509.081,247.378 508.898,247.232 508.53,247.176 C 508.149,247.127 507.799,247.06 507.482,246.975 C 506.726,246.777 506.016,246.516 505.352,246.19 C 505.21,246.12 505.129,246.085 505.108,246.085 C 505.009,246.085 504.939,246.102 504.896,246.138 C 504.854,246.173 504.832,246.229 504.832,246.308 C 504.832,246.343 504.869,246.485 504.944,246.736 C 505.018,246.987 505.066,247.219 505.087,247.431 C 505.157,247.981 505.208,248.935 505.24,250.292 C 505.272,251.647 505.288,253.414 505.288,255.59 L 505.288,256.564 C 505.288,258.048 505.265,259.033 505.219,259.52 C 505.173,260.008 505.094,260.311 504.981,260.433 C 504.867,260.552 504.637,260.641 504.286,260.697 C 503.937,260.754 503.423,260.782 502.745,260.782 C 501.947,260.782 501.282,260.743 500.753,260.665 C 500.223,260.588 499.788,260.468 499.449,260.305 C 499.231,260.199 499.03,260.042 498.846,259.834 C 498.662,259.625 498.538,259.52 498.475,259.52 C 498.405,259.52 498.349,259.549 498.311,259.605 C 498.272,259.662 498.252,259.743 498.252,259.85 C 498.252,259.856 498.256,259.905 498.263,259.998 C 498.27,260.089 498.274,260.185 498.274,260.284 C 498.274,260.481 498.267,260.715 498.2525,260.983 C 498.238,261.251 498.231,261.421 498.231,261.491 L 498.231,261.842 C 498.231,261.976 498.259,262.063 498.316,262.106 C 498.372,262.148 498.468,262.17 498.602,262.17 C 498.652,262.17 498.821,262.166 499.111,262.159 C 500.996,262.109 502.94,262.085 504.939,262.085 C 507.517,262.085 510.138,262.102 512.801,262.139 C 513.337,262.145 513.662,262.148 513.776,262.148 C 513.903,262.148 513.988,262.135 514.03,262.106 C 514.072,262.078 514.094,262.018 514.094,261.926 C 514.094,261.481 513.913,261.251 513.553,261.237 L 513.468,261.237 C 512.388,261.187 511.331,261.113 510.3,261.015 C 509.269,260.916 508.255,260.785 507.259,260.623 M 515.564,251.256 C 516.581,251.355 517.395,251.62 518.006,252.051 C 518.617,252.482 518.922,252.997 518.922,253.598 C 518.922,253.937 518.809,254.216 518.584,254.435 C 518.357,254.653 518.064,254.764 517.704,254.764 C 517.096,254.764 516.585,254.481 516.168,253.915 C 515.751,253.351 515.543,252.644 515.543,251.796 C 515.543,251.712 515.544,251.623 515.547,251.531 C 515.551,251.44 515.556,251.348 515.564,251.256 M 515.627,250.45 C 515.733,249.532 516.03,248.836 516.517,248.363 C 517.004,247.89 517.668,247.653 518.509,247.653 C 519.124,247.653 519.652,247.752 520.093,247.95 C 520.535,248.148 520.96,248.484 521.371,248.956 C 521.441,249.041 521.529,249.154 521.635,249.296 C 521.791,249.515 521.915,249.624 522.006,249.624 C 522.084,249.624 522.149,249.596 522.202,249.539 C 522.255,249.483 522.282,249.416 522.282,249.338 C 522.282,249.19 522.138,248.893 521.852,248.448 C 521.566,248.003 521.19,247.505 520.724,246.954 C 520.434,246.608 520.12,246.391 519.781,246.302 C 519.442,246.214 518.909,246.17 518.181,246.17 C 516.782,246.17 515.707,246.542 514.955,247.288 C 514.202,248.033 513.826,249.094 513.826,250.472 C 513.826,251.92 514.253,253.149 515.108,254.159 C 515.962,255.169 516.987,255.675 518.181,255.675 C 518.993,255.675 519.645,255.453 520.136,255.012 C 520.626,254.57 520.873,253.983 520.873,253.248 C 520.873,252.824 520.412,252.365 519.49,251.87 C 518.568,251.376 517.28,250.902 515.627,250.45 M 529.665,246.244 C 528.245,246.244 527.179,246.594 526.466,247.293 C 525.752,247.992 525.395,249.038 525.395,250.43 C 525.395,251.948 525.826,253.202 526.687,254.19 C 527.55,255.18 528.644,255.675 529.973,255.675 C 530.587,255.675 531.214,255.572 531.853,255.367 C 532.493,255.162 532.812,254.992 532.812,254.858 C 532.812,254.71 532.717,254.408 532.526,253.952 C 532.336,253.497 532.209,253.268 532.144,253.268 C 532.096,253.268 531.939,253.34 531.679,253.481 C 530.654,254.046 529.761,254.329 528.998,254.329 C 528.291,254.329 527.746,254.094 527.36,253.624 C 526.976,253.154 526.783,252.485 526.783,251.616 C 526.783,250.458 527.073,249.5327 527.652,248.84 C 528.231,248.147 529.019,247.802 530.016,247.802 C 530.559,247.802 531.028,247.877 531.425,248.029 C 531.82,248.181 532.166,248.416 532.463,248.734 C 532.604,248.875 532.74,249.065 532.871,249.306 C 533.001,249.546 533.12,249.666 533.226,249.666 C 533.311,249.666 533.383,249.64 533.443,249.587 C 533.503,249.534 533.533,249.469 533.533,249.39 C 533.533,249.285 533.416,249.034 533.184,248.639 C 532.95,248.243 532.66,247.819 532.314,247.367 C 531.968,246.922 531.613,246.623 531.25,246.472 C 530.886,246.32 530.357,246.244 529.665,246.244 M 539.38,254.2 C 540.221,254.737 540.924,255.117 541.488,255.34 C 542.054,255.562 542.573,255.674 543.046,255.674 C 543.915,255.674 544.567,255.336 545.001,254.661 C 545.436,253.987 545.653,252.971 545.653,251.615 C 545.653,251.233 545.637,250.728 545.606,250.099 C 545.573,249.471 545.526,248.715 545.462,247.832 C 545.844,248.009 546.11,248.124 546.263,248.177 C 546.414,248.229 546.543,248.256 546.649,248.256 C 546.685,248.256 546.707,248.251 546.718,248.24 C 546.729,248.229 546.737,248.192 546.744,248.129 L 546.744,247.991 C 546.744,247.793 546.578,247.641 546.246,247.535 C 545.901,247.423 545.586,247.309 545.304,247.196 C 544.872,247.006 544.45,246.787 544.037,246.54 C 543.624,246.292 543.41,246.169 543.41,246.169 C 543.312,246.169 543.232,246.202 543.157,246.269 C 543.083,246.337 543.046,246.405 543.046,246.475 C 543.054,246.504 543.089,246.554 543.152,246.624 C 543.738,247.253 544.031,248.341 544.031,249.888 C 544.031,251.59 543.85,252.752 543.486,253.374 C 543.122,253.995 542.499,254.306 541.616,254.306 C 541.263,254.306 540.915,254.245 540.572,254.121 C 540.23,253.997 539.924,253.819 539.655,253.586 C 539.564,253.501 539.495,253.372 539.449,253.199 C 539.403,253.026 539.38,252.724 539.38,252.293 L 539.38,247.133 C 539.38,246.921 539.26,246.762 539.02,246.656 C 538.984,246.641 538.96,246.631 538.945,246.624 C 538.649,246.49 538.414,246.392 538.241,246.333 C 538.068,246.273 537.949,246.243 537.886,246.243 C 537.844,246.243 537.816,246.269 537.801,246.322 C 537.787,246.375 537.78,246.469 537.78,246.603 L 537.78,259.064 C 537.78,259.198 537.776,259.346 537.77,259.51 C 537.762,259.672 537.759,259.763 537.759,259.784 C 537.759,260.237 537.722,260.526 537.648,260.653 C 537.573,260.781 537.431,260.845 537.219,260.845 C 537.084,260.845 536.929,260.837 536.752,260.823 C 536.575,260.808 536.462,260.802 536.413,260.802 C 536.328,260.802 536.274,260.812 536.249,260.834 C 536.224,260.855 536.212,260.901 536.212,260.971 C 536.212,261.169 536.417,261.31 536.826,261.395 C 537.038,261.444 537.208,261.483 537.335,261.512 C 537.984,261.675 538.607,261.865 539.2,262.084 C 539.349,262.14 539.43,262.169 539.443,262.169 C 539.507,262.169 539.57,262.13 539.635,262.053 C 539.698,261.974 539.73,261.889 539.73,261.798 C 539.73,261.784 539.723,261.738 539.709,261.66 C 539.489,260.587 539.38,259.113 539.38,257.241 L 539.38,254.2"/>
+		<path fill-rule="evenodd" d="M 427.509,324.139 L 428.049,324.139 C 428.944,324.139 429.662,324.05 430.202,323.865 L 431.275,323.865 C 431.992,323.333 434.33,322.7 438.282,321.982 C 438.282,321.446 438.548,320.994 439.088,320.636 L 439.088,319.829 L 437.476,319.289 L 437.476,319.019 L 437.741,318.212 L 437.201,317.672 L 437.201,317.406 L 438.815,315.785 C 438.459,315.608 437.476,315.43 435.855,315.249 L 435.588,315.249 C 435.588,314.35 432.266,313.277 425.622,312.019 C 424.905,311.657 423.735,311.028 422.122,310.132 C 421.042,310.132 419.066,309.415 416.196,307.979 C 415.301,306.899 413.502,306.004 410.809,305.286 L 410.809,305.552 C 414.219,307.169 417.179,308.874 419.695,310.673 L 419.695,310.939 C 414.131,310.044 410.091,309.592 407.575,309.592 L 404.616,309.056 C 402.818,309.056 401.294,310.762 400.036,314.172 L 400.036,314.443 C 400.213,314.62 402.729,315.342 407.575,316.595 C 417.091,320.365 422.566,322.252 424.001,322.252 L 427.509,324.139 M 430.468,309.326 C 430.468,309.326 430.29,309.056 429.928,308.52 L 430.202,308.245 L 429.928,308.245 L 429.928,307.979 C 429.928,308.52 429.662,308.785 429.121,308.785 L 428.049,308.785 C 425.17,305.729 423.195,304.206 422.122,304.206 C 409.188,299.718 401.834,297.472 400.036,297.472 L 400.036,297.746 L 402.729,300.44 L 402.729,300.706 C 400.036,298.376 398.06,297.206 396.802,297.206 L 394.915,297.472 L 394.383,297.206 L 393.302,297.472 C 392.939,297.472 392.762,297.025 392.762,296.126 L 391.15,295.054 L 391.15,294.779 C 392.23,290.828 392.762,288.32 392.762,287.239 C 392.762,285.981 393.48,285.176 394.915,284.82 L 397.342,285.087 C 398.237,285.087 401.471,286.163 407.043,288.32 C 407.043,289.392 407.22,289.932 407.575,289.932 L 407.842,288.587 L 398.689,282.127 C 397.076,281.946 396.262,281.494 396.262,280.78 C 395.012,280.78 393.931,280.062 393.036,278.624 C 392.319,278.624 391.956,278.353 391.956,277.813 C 391.238,277.459 390.875,276.918 390.875,276.2 L 390.875,274.853 C 390.343,274.853 390.069,274.764 390.069,274.584 L 390.069,274.048 L 390.343,272.967 C 389.98,271.89 389.803,270.544 389.803,268.927 L 389.803,268.661 C 389.803,267.04 391.69,265.697 395.455,264.621 L 400.301,264.887 C 402.463,264.887 407.22,265.879 414.582,267.85 C 414.76,268.927 415.114,269.467 415.655,269.467 C 416.018,269.467 417.993,270.995 421.582,274.048 C 422.477,274.048 422.929,274.224 422.929,274.584 L 422.929,274.853 L 421.308,274.853 C 421.131,274.853 420.864,275.482 420.501,276.74 C 420.864,277.281 421.759,277.999 423.195,278.893 L 422.929,278.893 L 419.695,277.813 C 419.155,277.813 418.889,277.902 418.889,278.087 L 418.889,278.353 C 419.606,278.353 420.147,278.624 420.501,279.164 L 420.501,279.434 L 420.236,279.7 C 421.131,280.062 421.5824,280.506 421.5824,281.047 C 422.122,281.047 422.389,281.224 422.389,281.587 C 425.259,282.659 426.968,283.562 427.509,284.28 L 427.235,284.28 C 418.977,281.224 412.873,279.7 408.922,279.7 L 410.543,282.127 L 410.809,281.857 C 411.349,281.857 415.114,284.098 422.122,288.587 C 427.331,292.715 430.92,295.319 432.896,296.4 L 433.701,296.126 L 435.855,296.666 L 436.395,296.4 C 438.185,297.114 439.628,297.472 440.701,297.472 C 441.781,297.472 442.322,298.464 442.322,300.44 C 441.781,301.875 441.064,303.133 440.16,304.206 C 437.476,304.746 435.588,305.641 434.508,306.899 L 433.701,306.363 C 433.701,306.721 433.339,307.439 432.621,308.52 L 432.896,308.52 L 432.896,309.056 L 431.815,309.056 L 431.815,308.52 C 431.097,308.52 430.646,308.785 430.468,309.326 M 433.701,288.587 L 434.782,286.973 L 435.315,287.239 L 434.782,288.046 C 436.395,287.51 438.185,285.981 440.16,283.47 C 442.137,280.78 443.66,276.2 444.74,269.733 L 444.74,268.927 C 443.306,266.951 442.137,265.968 441.241,265.968 C 441.241,264.887 440.258,264.08 438.282,263.541 C 437.564,264.798 436.209,266.326 434.242,268.12 C 434.242,268.839 433.613,269.556 432.355,270.273 L 432.355,272.427 L 432.081,273.237 L 429.928,273.507 L 428.856,273.237 C 428.856,273.959 427.863,274.313 425.888,274.313 L 425.081,274.313 L 425.081,274.584 C 430.646,275.306 433.428,277.547 433.428,281.316 C 433.968,282.216 434.242,283.111 434.242,284.011 L 434.242,285.087 C 434.242,286.163 433.79,287.333 432.896,288.587 L 433.428,288.587 L 433.701,288.587 M 471.324,323.598 L 472.137,323.598 C 474.469,320.905 475.815,317.405 476.178,313.091 L 476.178,309.592 L 476.719,309.862 L 476.719,309.326 L 482.371,313.632 L 482.637,313.632 L 482.637,313.366 L 479.137,309.326 L 479.678,309.326 C 486.137,312.378 492.063,315.43 497.45,318.478 L 497.45,318.752 L 496.103,319.018 C 494.491,319.018 491.886,318.3 488.298,316.865 C 490.805,318.663 492.063,319.736 492.063,320.099 L 492.063,320.365 C 489.193,320.905 487.758,321.357 487.758,321.711 C 490.451,324.05 492.781,325.304 494.757,325.485 L 495.297,325.211 L 495.563,325.211 L 496.91,325.485 C 501.579,324.05 504.006,322.611 504.183,321.171 L 506.07,320.635 L 506.336,320.905 L 506.61,320.905 C 509.118,320.365 510.376,319.828 510.376,319.288 L 510.11,316.059 L 510.65,314.172 L 506.877,313.091 L 505.803,313.366 L 497.45,309.326 L 492.87,306.898 C 490.184,305.64 488.741,304.657 488.563,303.939 L 489.104,303.939 C 489.999,303.939 490.894,304.475 491.797,305.552 C 496.467,305.015 498.886,304.387 499.071,303.669 L 499.071,302.858 C 498.345,302.858 497.99,302.504 497.99,301.782 C 497.99,301.423 498.257,301.246 498.797,301.246 L 499.071,300.705 C 489.733,298.189 485.153,295.408 485.33,292.36 L 485.33,292.085 L 485.604,292.085 C 490.628,293.884 493.95,295.408 495.563,296.665 C 499.878,296.488 502.03,295.948 502.03,295.053 L 502.03,294.779 L 500.949,294.243 L 500.949,293.165 L 502.304,293.165 L 502.304,292.36 C 494.757,289.125 489.555,287.062 486.677,286.162 C 485.419,284.191 484.887,281.946 485.064,279.434 C 488.83,282.481 493.499,285.352 499.071,288.045 C 499.789,289.666 500.949,290.561 502.57,290.739 L 504.457,290.739 C 507.506,289.481 509.03,288.586 509.03,288.045 L 509.03,287.509 L 501.764,275.66 L 502.03,275.394 C 502.208,273.595 501.579,272.612 500.143,272.426 C 495.838,272.072 492.152,272.701 489.104,274.313 L 489.104,274.583 L 489.37,274.853 C 493.677,275.031 496.378,277.095 497.45,281.046 C 497.813,281.046 498.345,282.037 499.071,284.01 L 498.53,284.01 C 490.273,280.417 486.225,277.006 486.411,273.773 C 484.798,271.265 483.443,270.007 482.371,270.007 C 482.371,270.543 481.742,270.813 480.484,270.813 L 478.871,274.583 C 481.201,280.687 483.0,284.643 484.258,286.433 C 483.895,288.586 483.177,290.295 482.104,291.549 C 482.104,291.909 483.354,293.432 485.871,296.125 L 483.984,302.052 L 483.718,302.052 L 478.597,299.629 C 475.903,299.448 474.469,301.157 474.291,304.745 L 473.751,305.015 L 472.944,305.015 L 468.631,298.012 L 469.171,294.512 L 469.711,288.045 L 472.67,292.892 L 473.211,292.892 L 473.211,292.36 C 471.235,289.125 469.622,284.82 468.364,279.434 L 464.598,267.579 C 463.695,267.221 462.801,266.414 461.905,265.16 C 460.107,266.414 458.583,267.132 457.325,267.314 L 457.051,270.543 L 456.518,273.237 L 456.244,274.5837 C 458.938,277.281 461.276,282.844 463.244,291.279 L 463.517,293.702 L 463.244,293.702 L 462.172,293.432 L 462.172,294.243 L 461.365,293.702 C 460.462,293.884 460.018,294.601 460.018,295.859 L 459.478,295.585 L 458.938,295.585 L 458.938,296.399 L 458.672,296.399 L 456.518,295.053 L 456.244,295.319 L 456.244,295.585 L 457.325,304.745 C 458.22,304.923 461.091,308.785 465.937,316.325 C 467.381,317.76 468.002,319.107 467.824,320.365 L 467.292,321.171 C 467.292,321.893 468.631,322.7 471.324,323.598 M 558.398,326.292 C 557.496,326.114 557.044,325.663 557.044,324.945 C 553.996,322.97 551.931,321.264 550.851,319.829 L 550.851,319.559 L 557.859,321.445 L 558.398,321.171 L 557.318,312.285 L 555.971,312.285 C 555.971,313.3666 555.076,314.083 553.278,314.442 L 555.971,307.168 C 550.94,303.222 547.174,301.157 544.658,300.972 L 543.311,302.052 L 542.504,301.246 L 542.504,300.706 C 542.682,298.189 545.916,296.307 552.206,295.053 C 552.383,292.537 547.98,287.602 539.005,280.24 L 539.005,279.7 L 539.545,279.434 L 539.812,279.434 L 540.352,279.7 L 540.618,279.973 L 541.964,278.624 L 544.658,279.434 L 545.464,278.624 L 547.626,279.164 L 550.044,278.893 L 550.851,278.893 L 553.012,279.434 C 554.085,279.434 556.149,284.909 559.205,295.859 C 562.076,296.037 565.035,298.012 568.091,301.782 L 567.55,302.858 L 568.357,303.9394 L 568.357,304.476 L 567.817,306.092 C 567.817,306.451 565.938,307.979 562.165,310.672 C 561.809,314.62 563.422,319.107 567.018,324.139 L 567.018,324.675 C 566.834,325.751 563.962,326.292 558.398,326.292 M 528.772,315.519 C 527.329,315.519 526.168,308.697 525.264,295.053 C 525.45,292.178 526.885,287.691 529.579,281.586 L 529.579,281.046 C 525.991,279.789 524.015,278.535 523.652,277.281 L 522.04,270.543 C 522.572,266.951 524.37,265.25 527.426,265.427 L 527.966,265.427 L 530.385,266.237 L 543.311,266.503 L 562.97,262.467 C 572.848,263.721 577.695,264.975 577.518,266.237 L 577.518,266.503 L 576.977,267.04 C 579.856,267.943 581.195,269.019 581.017,270.273 L 581.017,270.813 L 580.477,271.084 C 580.477,271.801 581.469,272.249 583.444,272.426 L 583.444,273.237 L 571.857,274.047 L 564.317,273.237 L 563.245,272.701 L 563.245,272.966 L 561.358,272.426 L 546.279,274.313 C 541.432,274.853 538.909,276.289 538.739,278.624 C 532.812,286.344 529.756,291.013 529.579,292.625 L 532.272,303.669 C 531.909,307.798 530.925,311.837 529.304,315.785 L 528.772,315.519 M 562.97,291.013 C 563.688,290.114 567.018,287.957 572.937,284.545 C 575.63,282.393 576.977,280.417 576.977,278.624 C 576.623,276.829 575.63,275.837 574.018,275.66 L 573.478,275.66 C 571.325,275.482 568.898,277.546 566.204,281.857 C 565.487,281.857 564.769,282.304 564.051,283.2 L 565.124,284.545 C 564.414,286.88 563.422,288.945 562.165,290.739 L 562.705,291.013 L 562.97,291.013"/>
+	</g>
+</svg>

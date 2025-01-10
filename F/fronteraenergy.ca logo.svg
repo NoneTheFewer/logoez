@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1542 354">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-99.111,99.111,-49.531,-49.531,110.179,.328)">
+			<stop offset="0" stop-color="#2e2f67"/>
+			<stop offset=".5" stop-color="#803372"/>
+			<stop offset="1" stop-color="#cc2172"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-88.938,88.938,-46.403,-46.403,94.066,148.496)">
+			<stop offset="0" stop-color="#2e2f67"/>
+			<stop offset=".5" stop-color="#803372"/>
+			<stop offset="1" stop-color="#cc2172"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #231f20 } 
+		.s1 { fill: #868789 } 
+		.s2 { fill: #716f70 } 
+		.s3 { fill: #231f47 } 
+		.s4 { fill: url(#g1) } 
+		.s5 { fill: url(#g2) } 
+	</style>
+	<g id="Capa 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m407.1 94.6h-68.9v47.6h66.4v28.1h-66.4v94.1h-29.8v-197.8h98.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m492.9 180.1l61.2 84.3h-36.5l-56.5-81h-5.4v81h-29.8v-197.8h34.9q39.2 0 56.6 14.7 19.3 16.4 19.3 43.3-0.1 21-12.1 36.2-12 15.1-31.7 19.3zm-37.2-22.7h9.5q42.4 0 42.4-32.4 0-30.4-41.2-30.4h-10.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m553.7 164.6q0-41.8 30.6-71.7c20.3-20 44.7-30.1 73.2-30.1q42.3 0.1 72.5 30.3c20.2 20.2 30.3 44.4 30.3 72.7q0 42.6-30.4 72.4-30.6 29.8-73.9 29.8-38.3 0-68.8-26.5-33.5-29.3-33.5-76.9zm30.1 0.4q0 32.8 22 53.9 21.9 21.2 50.6 21.2 31.1 0 52.5-21.5 21.4-21.8 21.4-53.1 0-31.6-21.2-53.1-21-21.5-52-21.5-30.8 0-52.1 21.5-21.2 21.3-21.2 52.6z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m782.1 264.4v-211.3l144.2 151v-137.5h29.8v209.9l-144.1-150.6v138.5z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m1042.3 94.6v169.8h-29.8v-169.8h-45.5v-28h120.6v28z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m1207.6 94.6h-79.2v47.6h76.9v28.1h-76.9v66.1h79.2v28h-109.1v-197.8h109.1z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m1288.4 180.1l61.2 84.3h-36.4l-56.5-81h-5.4v81h-29.8v-197.8h34.9c26.2 0 45 4.9 56.6 14.7q19.2 16.4 19.2 43.3 0 21-12 36.2-12.1 15.1-31.8 19.3zm-37.1-22.7h9.5q42.3 0 42.4-32.4 0-30.4-41.3-30.4h-10.6z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m1487 216.4h-84.6l-22.1 48h-32.1l97.8-210.3 94.4 210.3h-32.7zm-12.1-28.1l-29.4-67.2-30.7 67.2z"/>
+			<path id="&lt;Path&gt;" class="s2" d="m986.2 303h-21.8v13.1h21.2v7.8h-21.2v18.2h21.8v7.7h-30v-54.5h30z"/>
+			<path id="&lt;Path&gt;" class="s2" d="m1049.3 350.1v-58.3l39.7 41.6v-37.9h8.2v57.9l-39.7-41.5v38.2z"/>
+			<path id="&lt;Path&gt;" class="s2" d="m1208.3 303.3h-21.9v13.1h21.2v7.7h-21.2v18.3h21.9v7.7h-30.1v-54.6h30.1z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s2" d="m1302.4 326.9l16.9 23.2h-10.1l-15.5-22.3h-1.5v22.3h-8.3v-54.6h9.7q10.8 0 15.6 4.1 5.3 4.5 5.3 11.9 0 5.8-3.3 10-3.4 4.2-8.8 5.4zm-10.2-6.3h2.6q11.7 0 11.6-8.9 0.1-8.4-11.3-8.4h-2.9z"/>
+			<path id="&lt;Path&gt;" class="s2" d="m1407.8 321.7h22.5v1.8q0 6.1-1.5 10.9-1.4 4.3-4.7 8.2-7.6 8.5-19.3 8.5-11.5 0-19.6-8.3-8.1-8.3-8.2-19.9 0-11.8 8.3-20.1 8.3-8.3 20.2-8.3 6.4 0 11.9 2.6 5.3 2.6 10.4 8.5l-5.8 5.6c-4.5-6-9.9-9-16.3-9-5.8 0-10.6 2.1-14.6 6q-5.8 5.9-5.8 14.7 0 9.1 6.5 15 6.1 5.5 13.2 5.5 6.1 0 11-4.1 4.8-4.1 5.4-9.9h-13.6z"/>
+			<path id="&lt;Path&gt;" class="s2" d="m1515.2 326.5l-17.8-31h9.5l12.4 21.8 12.5-21.8h9.5l-17.9 31v23.6h-8.2z"/>
+			<path id="&lt;Path&gt;" class="s3" d="m242.2 264.6l-242.1-154.2v88.1l242 154.2z"/>
+			<g id="&lt;Clip Group&gt;">
+				<path id="&lt;Path&gt;" class="s4" d="m0.1 110.4v88.1l242-110.1v-88.1z"/>
+			</g>
+			<g id="&lt;Clip Group&gt;">
+				<path id="&lt;Path&gt;" class="s5" d="m0.2 238.4l-0.1 88 198-89.8v-88.1z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 523.53 523.53" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient id="a" x1="521.31" x2="463.23" y1="415.86" y2="502.03" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#002727"/>
+			<stop offset="1" stop-color="#016d76"/>
+		</linearGradient>
+		<linearGradient id="b" x1="373.69" x2="284.16" y1="462.06" y2="490.95" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#05918b"/>
+			<stop offset=".91" stop-color="#25b1a1"/>
+		</linearGradient>
+		<linearGradient xlink:href="#a" id="c" x1="180.8" x2="175.09" y1="292.94" y2="185.7"/>
+		<linearGradient xlink:href="#a" id="d" x1="237.33" x2="500.31" y1="298.03" y2="59.76" gradientTransform="rotate(47.21 368.844 178.915)"/>
+		<linearGradient xlink:href="#b" id="e" x1="323.22" x2="307.82" y1="318.11" y2="150.48"/>
+		<linearGradient xlink:href="#b" id="f" x1="517" x2="447.16" y1="374.31" y2="307.02" gradientTransform="rotate(47.21 482.102 340.706)"/>
+		<linearGradient xlink:href="#b" id="g" x1="353.95" x2="265.17" y1="224.92" y2="253.56"/>
+		<linearGradient xlink:href="#b" id="h" x1="178.26" x2="89.2" y1="130.85" y2="159.59"/>
+	</defs>
+	<g transform="translate(73.79 0)">
+		<path d="M 590.59,475.31 L 461.21,376.31 C 460.95,376.11 460.67,375.96 460.41,375.77 L 450.72,368.35 A 46.72,46.72 0.0 0,0 385.23,377.07 A 46.73,46.73 0.0 0,0 394.0,442.59 L 523.38,541.59 C 523.64,541.79 523.91,541.95 524.17,542.14 L 533.87,549.55 A 46.72,46.72 0.0 0,0 599.36,540.83 A 46.71,46.71 0.0 0,0 590.59,475.31 L 590.59,475.31" style="fill:url(#a)" transform="translate(-232.97 -35.87)"/>
+		<circle cx="328.92" cy="476.5" r="47.03" style="fill:url(#b)"/>
+		<rect width="355.88" height="93.43" y="192.61" rx="46.71" style="fill:url(#c)"/>
+		<rect width="355.88" height="93.43" x="190.88" y="132.18" rx="46.71" style="fill:url(#d)" transform="rotate(-47.21 211.327 427.513)"/>
+		<path d="M 333.66,148.11 L 245.4,243.47 A 46.72,46.72 0.0 0,0 247.95,309.47 A 46.71,46.71 0.0 0,0 313.95,306.92 L 400.12,213.82" style="fill:url(#e)" transform="translate(-232.97 -35.87)"/>
+		<rect width="270.26" height="93.43" x="346.95" y="293.95" rx="46.71" style="fill:url(#f)" transform="rotate(-47.21 324.603 589.299)"/>
+		<circle cx="309.56" cy="239.24" r="46.63" style="fill:url(#g)"/>
+		<circle cx="133.73" cy="145.22" r="46.78" style="fill:url(#h)"/>
+	</g>
+</svg>

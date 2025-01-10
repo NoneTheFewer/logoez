@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" version="1.1">
+    <defs>
+        <linearGradient x1="21.2438297%" y1="0%" x2="77.5415733%" y2="102.741679%" id="linearGradient-473">
+            <stop stop-color="#31415C" offset="0%"/>
+            <stop stop-color="#161F38" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="72.9624476%" y1="2.52097084%" x2="10.6263686%" y2="99.5229237%" id="linearGradient-474">
+            <stop stop-color="#FFBC57" offset="0%"/>
+            <stop stop-color="#FF7D0F" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="40.3669866%" y1="91.8482626%" x2="90.0471665%" y2="13.5740207%" id="linearGradient-475">
+            <stop stop-color="#FFA33A" offset="0%"/>
+            <stop stop-color="#FFB04A" offset="100%"/>
+        </linearGradient>
+        <path d="M9.08854104,18 L10.5866425,18 C18.3714736,17.95986 19.6496566,17.1774512 19.6751835,9.25092857 L19.6739721,8.5054698 C19.6228654,0.889137826 18.3182806,0.0584128008 10.8278063,0.00328711272 L9.83759174,0 C1.38481958,0 0.0263246219,0.576628826 0,8.75085531 L0.00121141994,9.49631408 C0.0528617339,17.1936709 1.38480184,17.9602781 9.08854104,18 L9.08854104,18 Z" id="path-476"/>
+        <linearGradient x1="53.3659029%" y1="8.73046056%" x2="51.7462436%" y2="82.4596845%" id="linearGradient-478">
+            <stop stop-color="#FFC89F" offset="0%"/>
+            <stop stop-color="#FF7203" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="12.9699616%" x2="48.2507018%" y2="93.0761524%" id="linearGradient-479">
+            <stop stop-color="#FF8513" stop-opacity="0" offset="0%"/>
+            <stop stop-color="#AE3E07" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="46.7971126%" y1="12.1781893%" x2="47.741387%" y2="89.484619%" id="linearGradient-480">
+            <stop stop-color="#D5FF83" stop-opacity="0.843804633" offset="0%"/>
+            <stop stop-color="#FF933E" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="48.2961619%" y1="23.3906246%" x2="47.4289507%" y2="91.5634378%" id="linearGradient-481">
+            <stop stop-color="#DDA3FF" stop-opacity="0.0160620629" offset="0%"/>
+            <stop stop-color="#F6B141" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="70.8570459%" y1="2.52097084%" x2="27.2310398%" y2="72.485053%" id="linearGradient-482">
+            <stop stop-color="#FFDC55" offset="0%"/>
+            <stop stop-color="#FF7D0F" stop-opacity="0.148355551" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="header_icon0906" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g name="online_screen_rec">
+            <rect id="矩形" fill="url(#linearGradient-473)" x="0" y="0" width="40" height="40" rx="8"/>
+            <g id="矩形备份-4" transform="translate(7.000000, 11.000000)">
+                <path d="M17.0138144,5.1793225 L25.0204742,1.79837404 C25.3771925,1.64774369 25.7903029,1.81055706 25.9431821,2.1620279 C25.9806699,2.24821272 26,2.34100199 26,2.43476828 L26,15.5670156 C26,15.9494045 25.6853845,16.2593919 25.2972866,16.2593919 C25.2021204,16.2593919 25.1079458,16.2403462 25.0204742,16.2034098 L17.0138144,12.8224614 C16.4970617,12.6042537 16.1620124,12.1036129 16.1620124,11.5496729 L16.1620124,6.45211097 C16.1620124,5.89817101 16.4970617,5.39753014 17.0138144,5.1793225 Z" id="矩形" fill="url(#linearGradient-474)"/>
+                <g id="椭圆形-2">
+                    <mask id="mask-477" fill="white">
+                        <use xlink:href="#path-476"/>
+                    </mask>
+                    <use id="椭圆形" fill="url(#linearGradient-475)" xlink:href="#path-476"/>
+                    <polygon id="矩形" fill="url(#linearGradient-478)" opacity="0.657063802" style="mix-blend-mode: overlay;" mask="url(#mask-477)" transform="translate(0.948267, 4.309287) rotate(45.000000) translate(-0.948267, -4.309287) " points="-2.8065664 -6.68349438 4.86642698 -6.74034843 4.70310081 15.3020689 -2.96989257 15.358923"/>
+                    <polygon id="矩形备份" fill="url(#linearGradient-479)" opacity="0.657063802" style="mix-blend-mode: overlay;" mask="url(#mask-477)" transform="translate(6.265509, 8.293424) rotate(45.000000) translate(-6.265509, -8.293424) " points="2.59955399 -5.28079039 10.1330384 -5.33661073 9.93146496 21.8676385 2.39798055 21.9234589"/>
+                    <polygon id="矩形备份-2" fill="url(#linearGradient-480)" opacity="0.657063802" style="mix-blend-mode: overlay;" mask="url(#mask-477)" transform="translate(12.573805, 9.514846) rotate(45.000000) translate(-12.573805, -9.514846) " points="4.88276326 -6.81957006 20.507768 -6.93534557 20.2648461 25.8492625 4.63984143 25.965038"/>
+                    <polygon id="矩形备份-3" fill="url(#linearGradient-481)" opacity="0.657063802" style="mix-blend-mode: overlay;" mask="url(#mask-477)" transform="translate(18.381100, 9.514846) rotate(45.000000) translate(-18.381100, -9.514846) " points="13.4802376 -6.84024426 23.5248835 -6.91467137 23.2819617 25.8699367 13.2373158 25.9443638"/>
+                </g>
+                <path d="M17.3839982,5.02300608 L24.6109929,1.9712845 C25.1197768,1.75644182 25.7063921,1.99472828 25.9212348,2.5035122 C25.9732175,2.6266161 26,2.75889002 26,2.89251926 L26,15.1092646 C26,15.6615494 25.5522847,16.1092646 25,16.1092646 C24.8663708,16.1092646 24.7340968,16.0824821 24.6109929,16.0304994 L17.3839982,12.9787778 C16.6433835,12.6660406 16.1620124,11.9402452 16.1620124,11.1363083 L16.1620124,6.86547562 C16.1620124,6.06153866 16.6433835,5.33574324 17.3839982,5.02300608 Z" id="矩形" fill="url(#linearGradient-482)"/>
+            </g>
+        </g>
+    </g>
+</svg>

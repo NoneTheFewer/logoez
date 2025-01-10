@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 512 512" baseProfile="tiny-ps">
+	<g>
+		<radialGradient id="SVGID_1_" cx="115.0863" cy="28.5468" r="707.7734" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1B42EC"/>
+			<stop offset="0.6811" stop-color="#001596"/>
+		</radialGradient>
+		<rect width="512" height="512" fill="url(#SVGID_1_)"/>
+		<g>
+			<path d="M176,362.667V149.333h156.952v41.143H221.714v43.276h86.857v39.619h-86.857v48.153H336v41.143H176z    " fill="#FFFFFF"/>
+		</g>
+	</g>
+</svg>

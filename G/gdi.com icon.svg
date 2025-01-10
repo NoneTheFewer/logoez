@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1541 1656">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2577.16 0.12h9235.33v1655.77h-9235.33z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #9f0b10 } 
+		.s1 { fill: #00853f } 
+		.s2 { fill: #00467f } 
+	</style>
+	<g id="Artwork_1">
+		<g id="Clip-Path: g83" clip-path="url(#cp1)">
+			<g id="g83">
+				<path id="polygon15" class="s0" d="m1499.4 328.9l-724.9-328.8-724.9 328.8 724.9 327.9z"/>
+				<path id="polygon17" class="s1" d="m0.8 407.9l76.2 788.2 648.7 459.8-76.1-788.2z"/>
+				<path id="polygon19" class="s2" d="m1540.7 407.9l-648.8 459.8-76.1 788.2 648.8-459.8z"/>
+			</g>
+		</g>
+	</g>
+</svg>

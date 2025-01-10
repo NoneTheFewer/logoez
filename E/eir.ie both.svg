@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <defs>
+        <radialGradient id="edzNbDUsXFw13-fill" cx="0" cy="0" r="110.684" spreadMethod="pad" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.4 0 0 0.4 167.59752 11.64032)">
+            <stop id="edzNbDUsXFw13-fill-0" offset="50%" stop-color="#fff" />
+            <stop id="edzNbDUsXFw13-fill-1" offset="58.25%" stop-color="#fafafa" />
+            <stop id="edzNbDUsXFw13-fill-2" offset="67.99%" stop-color="#ececec" />
+            <stop id="edzNbDUsXFw13-fill-3" offset="78.47%" stop-color="#d4d4d4" />
+            <stop id="edzNbDUsXFw13-fill-4" offset="89.4%" stop-color="#b3b4b4" />
+            <stop id="edzNbDUsXFw13-fill-5" offset="99.97%" stop-color="#8c8d8d" />
+        </radialGradient>
+        <radialGradient id="edzNbDUsXFw14-fill" cx="0" cy="0" r="389.3814" spreadMethod="pad" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.4 0 0 0.3055 249.42092 69.485954)">
+            <stop id="edzNbDUsXFw14-fill-0" offset="0%" stop-color="#9c9e9f" />
+            <stop id="edzNbDUsXFw14-fill-1" offset="80%" stop-color="#fff" />
+        </radialGradient>
+        <radialGradient id="edzNbDUsXFw15-fill" cx="0" cy="0" r="165.9153" spreadMethod="pad" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.1368 -0.3759 0.5074 0.1847 63.487046 112.591909)">
+            <stop id="edzNbDUsXFw15-fill-0" offset="20%" stop-color="#fff" />
+            <stop id="edzNbDUsXFw15-fill-1" offset="38.07%" stop-color="#fcfcfc" />
+            <stop id="edzNbDUsXFw15-fill-2" offset="52.59%" stop-color="#f2f2f2" />
+            <stop id="edzNbDUsXFw15-fill-3" offset="65.87%" stop-color="#e1e1e1" />
+            <stop id="edzNbDUsXFw15-fill-4" offset="78.41%" stop-color="#c9caca" />
+            <stop id="edzNbDUsXFw15-fill-5" offset="90.33%" stop-color="#ababab" />
+            <stop id="edzNbDUsXFw15-fill-6" offset="100%" stop-color="#8c8d8d" />
+        </radialGradient>
+        <radialGradient id="edzNbDUsXFw16-fill" cx="0" cy="0" r="146.8957" spreadMethod="pad" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.3159 -0.2453 0.2544 0.3277 131.709226 146.55277)">
+            <stop id="edzNbDUsXFw16-fill-0" offset="0%" stop-color="#8c8d8d" />
+            <stop id="edzNbDUsXFw16-fill-1" offset="70%" stop-color="#fff" />
+        </radialGradient>
+        <radialGradient id="edzNbDUsXFw17-fill" cx="0" cy="0" r="112.7847" spreadMethod="pad" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.3395 -0.2114 0.4142 0.6651 155.965926 76.139893)">
+            <stop id="edzNbDUsXFw17-fill-0" offset="15%" stop-color="#fff" />
+            <stop id="edzNbDUsXFw17-fill-1" offset="34.2%" stop-color="#fcfcfc" />
+            <stop id="edzNbDUsXFw17-fill-2" offset="49.63%" stop-color="#f2f2f2" />
+            <stop id="edzNbDUsXFw17-fill-3" offset="63.74%" stop-color="#e1e1e1" />
+            <stop id="edzNbDUsXFw17-fill-4" offset="77.06%" stop-color="#c9caca" />
+            <stop id="edzNbDUsXFw17-fill-5" offset="89.73%" stop-color="#ababab" />
+            <stop id="edzNbDUsXFw17-fill-6" offset="100%" stop-color="#8c8d8d" />
+        </radialGradient>
+    </defs>
+    <g>
+        <g mask="url(#edzNbDUsXFw7)">
+            <g>
+                <path d="M154.7,49.4c11.9,0,21.5-9.6,21.5-21.5s-9.6-21.5-21.5-21.5-21.5,9.6-21.5,21.5c0,11.8,9.6,21.5,21.5,21.5Zm134-23.3C238.8,35,218.8,56,208.1,94.5c-9.3,33.6-24.4,49.2-42.6,49.8-.3,0-.7,0-1,0-6,0-11.5-2.5-15.8-6.8c10.1-17.9,15.6-35.5,15.6-46.1c0-6.2-1.6-11.9-4.6-16.3c0,0,0,0,0,0s0,0,0,0c-3.3-4.8-8.5-8-15.3-8-12.9,0-30.9,17.2-30.9,45.4c0,8.6,1.8,17.3,5.2,25.2-12,17.8-33.5,35.6-54.7,35.6-1.7,0-3.3-.1-5-.3c10.7-8.7,22.8-26.4,22.8-43c0-.3,0-.6,0-.9-.3-19-14.5-33.1-35.5-33.1-23.8,0-43.1,21-43.1,47.8c0,4.1.4,7.5,1,10.2c5.6,28.8,34.5,44.7,58.9,44.7c29.3,0,53.7-17.9,71.1-39.7c6.8,5.8,15,9.7,24.4,10.7c1.6.2,3.3.3,5.3.3c43.2,0,61-39.9,69.6-69.7c4.2-14.6,8.3-24.1,15-30.9c7.7-7.8,19-12.1,38.2-16.8c6.4-5.5,6.6-20.6,2-26.5ZM36,161.3c-4.4-5-7.1-11.2-7.1-18.2c0-11.8,8.4-21.6,17.2-21.6c6.7,0,9.8,5.1,9.8,10.3c0,11.4-11.7,23.5-19.9,29.5Z" fill="#787878" />
+            </g>
+            <mask id="edzNbDUsXFw7" mask-type="luminance">
+                <g>
+                    <g>
+                        <g>
+                            <path d="M154.7,49.4c11.9,0,21.5-9.6,21.5-21.5s-9.6-21.5-21.5-21.5-21.5,9.6-21.5,21.5c0,11.8,9.6,21.5,21.5,21.5Zm134-23.3C238.8,35,218.8,56,208.1,94.5c-9.3,33.6-24.4,49.2-42.6,49.8-.3,0-.7,0-1,0-6,0-11.5-2.5-15.8-6.8c10.1-17.9,15.6-35.5,15.6-46.1c0-6.2-1.6-11.9-4.6-16.3c0,0,0,0,0,0s0,0,0,0c-3.3-4.8-8.5-8-15.3-8-12.9,0-30.9,17.2-30.9,45.4c0,8.6,1.8,17.3,5.2,25.2-12,17.8-33.5,35.6-54.7,35.6-1.7,0-3.3-.1-5-.3c10.7-8.7,22.8-26.4,22.8-43c0-.3,0-.6,0-.9-.3-19-14.5-33.1-35.5-33.1-23.8,0-43.1,21-43.1,47.8c0,4.1.4,7.5,1,10.2c5.6,28.8,34.5,44.7,58.9,44.7c29.3,0,53.7-17.9,71.1-39.7c6.8,5.8,15,9.7,24.4,10.7c1.6.2,3.3.3,5.3.3c43.2,0,61-39.9,69.6-69.7c4.2-14.6,8.3-24.1,15-30.9c7.7-7.8,19-12.1,38.2-16.8c6.4-5.5,6.6-20.6,2-26.5ZM36,161.3c-4.4-5-7.1-11.2-7.1-18.2c0-11.8,8.4-21.6,17.2-21.6c6.7,0,9.8,5.1,9.8,10.3c0,11.4-11.7,23.5-19.9,29.5Z" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M133.2,27.8c0,11.9,9.6,21.5,21.5,21.5s21.5-9.6,21.5-21.5-9.6-21.5-21.5-21.5-21.5,9.7-21.5,21.5Z" fill="url(#edzNbDUsXFw13-fill)" />
+                            <path d="M165.5,144.3c-.3,0-.7,0-1,0-14,0-31.2,25.7-.5,25.7c43.2,0,61-39.9,69.6-69.7c4.2-14.6,8.3-24.1,15-30.9v0c-21.5,21.1-35.1,74.1-83.1,74.9Z" fill="url(#edzNbDUsXFw14-fill)" />
+                            <path d="M73,106.6c0,0-9.8-3.4-16.6,3.5s-3.9,13.7-3.9,13.7c2.3,2,3.4,5,3.4,8.1c0,11.3-11.7,23.4-20,29.4c5.5,6.2,13.8,10.5,23.2,11.6.2-.1.4-.3.5-.5c3.2-2.7,6.6-6.2,9.6-10.2c7-9.1,12.6-20.9,12.6-32.3c0-.3,0-.6,0-.9-.1-8.8-3.3-16.6-8.8-22.4Z" fill="url(#edzNbDUsXFw15-fill)" />
+                            <path d="M134.2,158.9c-6.6-5.6-11.9-13-15.4-21.3c0,0,0,0,0,0-10,14.7-26.4,29.5-43.8,34.1c1.1,4.6,3.1,9,6,12.8c2.7,3.5,6,6.4,9.8,8.6c17.1-6.9,31.8-19.6,43.4-34.2Z" fill="url(#edzNbDUsXFw16-fill)" />
+                            <path d="M159.7,75v0c-11.1,6.3-20.5,20.5-20.5,37.1c0,10.6,3.7,19.6,9.5,25.3c10.1-17.9,15.6-35.5,15.6-46.1c0-6.1-1.6-11.9-4.6-16.3Z" fill="url(#edzNbDUsXFw17-fill)" />
+                        </g>
+                    </g>
+                </g>
+            </mask>
+        </g>
+    </g>
+</svg>

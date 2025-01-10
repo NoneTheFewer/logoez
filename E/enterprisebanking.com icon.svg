@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1533 987">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m767.07 0.94h-765.45v985.98h1530.9v-985.98h-765.45z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m767.07 0.94h-765.45v985.98h1530.9v-985.98h-765.45z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ab9157 } 
+	</style>
+	<g id="Symbols">
+		<g id="Brand/Logo-Full-Horz-Light">
+			<g id="Layer">
+				<g id="Group-4">
+<<<<<<< HEAD
+=======
+					
+>>>>>>> 3d7909065 (Self-closers)
+					<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+						<path id="Fill-1" fill-rule="evenodd" class="s0" d="m1532.5 554.4c0 146.1-107.9 265.1-240.5 265.1h-520.8l-43.6 167.4-199.1-54.1 254.4-931.9h250.3c138.1 0 250.4 108.1 250.4 241 0 16-1.7 31.8-4.9 47.4h13.3c132.6 0 240.5 118.9 240.5 265.1zm-278.8-71.5h-392.7l-38.6 144.6h431.3c48 0 87-32.4 87-72.3 0-39.9-39-72.3-87-72.3zm-160.4-244.5c0-28.1-28.6-50.9-63.8-50.9h-89.6l-27.1 101.8h116.7c35.2 0 63.8-22.9 63.8-50.9z"/>
+					</g>
+					<g id="Clip-Path: Fill-3" clip-path="url(#cp2)">
+						<path id="Fill-3" fill-rule="evenodd" class="s0" d="m273.6 634.7c-48 0-87-32.5-87-72.3 0-39.9 39-72.4 87-72.4h295.4l52.7-193.6h-127.2c-35.2 0-63.8-22.8-63.8-50.8 0-28.1 28.6-50.9 63.8-50.9h154.8l52.6-193.8h-210.8c-66.8 0-129.6 25.1-176.9 70.4-47.4 45.6-73.5 106.2-73.5 170.6 0 11 0.8 22 2.6 33.9l2.9 13.5h-5.7c-132.6 0-240.5 118.9-240.5 265.1 0 146.1 107.9 265.1 240.5 265.1h239l50.3-184.8z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

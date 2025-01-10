@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+    .white {
+        fill: #FFF;
+    }
+
+    .white2 {
+        stroke: #FFF;
+    }
+
+    .purple1 {
+        fill: #7d4ffd;
+    }
+
+    .purple2 {
+        stroke: #7d4ffd;
+    }
+
+    .blue {
+        fill: #4ec1e9;
+    }
+    </style>
+    <rect fill="grey" height="100%" width="100%" />
+    <g name="roof">
+        <path transform="scale(.99 .52) translate(0.07 -1)" d="M7.93189 1.24806 C7.84228 1.09446 7.67783 1 7.5 1 C7.32217 1 7.15772 1.09446 7.06811 1.24806L0.0681106 13.2481 C-0.0220988 13.4027 -0.0227402 13.5938 0.0664289 13.749 C0.155598 13.9043 0.320967 14 0.5 14H14.5 C14.679 14 14.8444 13.9043 14.9336 13.749 C15.0227 13.5938 15.0221 13.4027 14.9319 13.2481L7.93189 1.24806Z" class="purple1" />
+        <line x1=".52" y1="6.68" x2="14.48" y2="6.68" class="purple2" stroke-width="1" stroke-linecap="round" transform="scale(1 1.005)" />
+    </g>
+    <g name="body">
+        <rect x="1.695" y="5.1" width="11.565" height="8.9" stroke="none" class="blue" rx="1" ry="1" />
+        <rect x="1.695" y="6.1" width="11.565" height="8.9" stroke="none" class="white" rx="1.1" ry="1.1" />
+        <rect x="1.695" y="6" width="11.565" height="1.2" stroke="none" class="blue" />
+    </g>
+    <g name="hinges">
+        <line x1="4.92" y1="4.75" x2="4.92" y2="5.93" class="white2" stroke-width="1.12" stroke-linecap="round" />
+        <line x1="10.07" y1="4.75" x2="10.07" y2="5.93" class="white2" stroke-width="1.12" stroke-linecap="round" />
+    </g>
+    <g name="people">
+        <line x1="4.1" y1="9.069" x2="4.1" y2="9.09" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="4.1" y1="10.54" x2="4.1" y2="13.39" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="6.368" y1="10.759" x2="6.368" y2="10.759" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="6.368" y1="12.23" x2="6.368" y2="13.39" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="8.655" y1="10.029" x2="8.655" y2="10.029" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="8.655" y1="11.5" x2="8.655" y2="13.39" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="10.94" y1="8.659" x2="10.94" y2="8.659" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+        <line x1="10.94" y1="10.13" x2="10.94" y2="13.39" class="purple2" stroke-width="1.15" stroke-linecap="round" />
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1590 1184">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #231b0a } 
+		.t1 { font-size: 25px;fill: #ffffff;font-family: &quot;. SF NS Display&quot; } 
+		.s2 { fill: #322711 } 
+		.s3 { fill: #fffffe } 
+	</style>
+	<g id="Symbols">
+		<g id="header-links">
+			<g id="header">
+				<g id="logo-original">
+					<path id="Rectangle" class="s0" d="m1 0h1572.3v1184h-1572.3z"/>
+					<text id="EIK" style="transform: matrix(17.667,0,0,17.672,470.366,963.224)">
+						<tspan x="0" y="0" class="t1">EIK
+</tspan>
+					</text>
+					<g id="Eik-fasteignafel-logo">
+						<path id="Fill-1" fill-rule="evenodd" class="s2" d="m54 1184h1482.2c29.3 0 53-23.7 53-53v-1131h-1588.2v1131c0 29.3 23.7 53 53 53z"/>
+						<path id="Fill-4" class="s3" d="m318.6 912h317.7v-77.9h-201.6v-37.9h177.8v-72.4h-177.8v-37.9h195.8v-77.9h-311.9z"/>
+						<path id="Fill-5" class="s3" d="m699.8 608h111.2v304h-111.2z"/>
+						<path id="Fill-6" class="s3" d="m890.4 912h114.7v-89.8l31.8-28.6 91.8 118.4h142.9l-157-185.2 135.1-118.8h-141.3l-103.3 105.6v-105.6h-114.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

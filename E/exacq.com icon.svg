@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 403.82666 162.33333" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath clipPathUnits="userSpaceOnUse" id="right">
+            <path d="M 1238.51,1119.86 H 1130.1 L 954.727,841.801 1134.38,546.648 h 121.25 l -209.61,299.438 192.49,273.774 z" id="path72" />
+        </clipPath>
+        <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.8e-6,-573.203,-573.203,-6.8e-6,1105.19,1119.85)" spreadMethod="pad" id="linearGradient80">
+            <stop style="stop-opacity:1;stop-color:#82ade1" offset="0" id="stop76" />
+            <stop style="stop-opacity:1;stop-color:#1478c7" offset="1" id="stop78" />
+        </linearGradient>
+        <clipPath clipPathUnits="userSpaceOnUse" id="left">
+            <path d="M 664.016,1121.25 H 772.434 L 947.82,843.191 768.164,548.035 H 646.887 L 856.504,847.488 664.016,1121.25 Z" id="path88" />
+        </clipPath>
+        <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.8e-6,-573.218,-573.218,-6.8e-6,797.354,1121.25)" spreadMethod="pad" id="linearGradient96">
+            <stop style="stop-opacity:1;stop-color:#82ade1" offset="0" id="stop92" />
+            <stop style="stop-opacity:1;stop-color:#1478c7" offset="1" id="stop94" />
+        </linearGradient>
+    </defs>
+    <g id="g8" transform="matrix(1.3333333,0,0,-1.3333333,0,162.33333)">
+        <g id="g10" transform="scale(0.1)">
+            <g id="g70" clip-path="url(#right)">
+                <path d="M 1238.51,1119.86 H 1130.1 L 954.727,841.801 1134.38,546.648 h 121.25 l -209.61,299.438 192.49,273.774 v 0" style="fill:url(#linearGradient80);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+            </g>
+            <g id="g86" clip-path="url(#left)">
+                <path d="M 664.016,1121.25 H 772.434 L 947.82,843.191 768.164,548.035 H 646.887 L 856.504,847.488 664.016,1121.25 v 0" style="fill:url(#linearGradient96);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+            </g>
+        </g>
+    </g>
+</svg>

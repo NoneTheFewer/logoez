@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 189.949 33.412">
+    <defs>
+        <filter id='shadow' color-interpolation-filters="sRGB">
+            <feDropShadow dx=".2" dy=".2" stdDeviation=".3" flood-opacity=".2" />
+        </filter>
+    </defs>
+    <g>
+        <g id="Group_844" data-name="Group 844" transform="translate(-23 -22.831)">
+            <g id="Group_453" data-name="Group 453" transform="translate(23 22.831)">
+                <g filter="url(#shadow)" id="Group_452" data-name="Group 452" transform="translate(0.842 0.842)">
+                    <path id="Path_294" data-name="Path 294" d="M244.059,192.565v-2.553h-.473a5.493,5.493,0,0,0-.575,0,.733.733,0,0,1-.786-.634,1.139,1.139,0,0,1,.115-.9.61.61,0,0,1,.546-.332q3.468,0,6.936,0a.677.677,0,0,1,.618.488,1.128,1.128,0,0,1-.186,1.18.609.609,0,0,1-.455.194c-.377,0-.754,0-1.138,0v2.544a13.491,13.491,0,0,1,9.367,6.514,13.264,13.264,0,0,1,1.775,8.7,13.569,13.569,0,1,1-15.743-15.2Zm2.315,2.114A11.31,11.31,0,1,0,257.621,206,11.307,11.307,0,0,0,246.374,194.679Z" transform="translate(-232.797 -188.147)" fill="#fb6046" />
+                    <path id="Path_295" data-name="Path 295" d="M280.376,270.831a3.039,3.039,0,0,1,.966-3.736,3,3,0,0,1,3.745.166A14.749,14.749,0,0,0,280.376,270.831Z" transform="translate(-277.795 -262.712)" fill="#fb6046" />
+                    <path id="Path_296" data-name="Path 296" d="M323.415,356.329a9.672,9.672,0,1,1-9.634,9.592A9.651,9.651,0,0,1,323.415,356.329Zm-.005,1.98c-5.466.037-8.535,5.628-7.235,10.041,1.414-.566,2.84-1.1,4.258-1.656.937-.367,1.876-.732,2.823-1.076a.2.2,0,0,0,.157-.225q-.009-2.824,0-5.648Z" transform="translate(-309.847 -348.159)" fill="#fb6046" />
+                </g>
+            </g>
+            <text id="FocusCommit" transform="translate(63.949 49.087)" fill="#1c2b3f" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.02em">
+                <tspan x="0" y="0">FocusCommit</tspan>
+            </text>
+        </g>
+      </g>
+</svg>

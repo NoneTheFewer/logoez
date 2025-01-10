@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 960 1543">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1091.948,-533.841,647.861,1325.169,127.116,1056.843)">
+			<stop offset="0" stop-color="#034b70"/>
+			<stop offset="1" stop-color="#179bd7"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Layer_1_1_">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m2.1 652.1c0-298 193.5-561.1 477.9-652.1 284.4 89 477.9 352.2 477.9 652.1v1.9l1.9 888.2h-959.6zm179.9 0v710.1h595.9l-1.9-710.1c0-199.3-116.1-379.3-298-458.6-179.9 83.2-296 263.1-296 458.6z"/>
+	</g>
+</svg>

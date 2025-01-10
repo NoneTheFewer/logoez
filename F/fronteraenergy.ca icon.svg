@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 928 1351">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-379.878,379.878,-189.801,-189.801,422.205,.257)">
+			<stop offset="0" stop-color="#2e2f67"/>
+			<stop offset=".5" stop-color="#803372"/>
+			<stop offset="1" stop-color="#cc2172"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-340.888,340.888,-177.822,-177.822,360.463,568.166)">
+			<stop offset="0" stop-color="#2e2f67"/>
+			<stop offset=".5" stop-color="#803372"/>
+			<stop offset="1" stop-color="#cc2172"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #231f47 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="Capa 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m927.8 1013.2l-927.4-590.9v337.6l927.3 590.9z"/>
+			<g id="&lt;Clip Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m0.4 422.3v337.7l927.3-422.1v-337.6z"/>
+			</g>
+			<g id="&lt;Clip Group&gt;">
+				<path id="&lt;Path&gt;" class="s2" d="m0.7 912.8l-0.4 337.1 758.8-344.1v-337.6z"/>
+			</g>
+		</g>
+	</g>
+</svg>

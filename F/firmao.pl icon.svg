@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 45 45" baseProfile="tiny-ps">
+	<g>
+		<rect x="8.7403" y="8.6872" width="27.421" height="27.421" rx="3.612" fill="#fff" stroke="#0061cd" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="16.9" stroke-width="2.0683"/>
+		<g fill="#0061cd" stroke="#0061cd" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="16.9">
+			<circle cx="15.094" cy="14.889" r="2.1383" stroke-width="2.0221"/>
+			<circle cx="29.533" cy="14.899" r="2.1383" stroke-width="2.0221"/>
+			<rect x="13.563" y="20.106" width="3.0619" height="11.754" rx=".19242" stroke-width="1.8001"/>
+		</g>
+		<rect transform="rotate(44.133)" x="35.453" y="-4.9726" width=".071838" height="9.6263" rx=".19242" fill="#004490" stroke="#003168" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="16.9" stroke-width="2.2758"/>
+		<rect x="28.003" y="20.119" width="3.0619" height="11.754" rx=".19242" fill="#0061cd" stroke="#0061cd" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="16.9" stroke-width="1.8001"/>
+	</g>
+	<g transform="matrix(.064107 0 0 .064107 74.37 -5.5258)" fill="#0061cd" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="16.9">
+		<rect transform="matrix(.66523 -.71721 .6563 .72422 -89.217 -45.548)" x="-957.76" y="-309.6" width="6.2777" height="53.829" rx="0" ry="8.1191" stroke="#002243" stroke-width="35.5"/>
+		<rect transform="matrix(1.0178 0 0 .95842 4.3577 16.486)" x="-693.73" y="415.71" width="1.1206" height="150.16" rx="3.0016" stroke="#00050b" stroke-width="40.1"/>
+		<rect transform="matrix(.68146 -.73185 .70262 .71156 0 0)" x="-949.53" y="-392.59" width="1.1396" height="152.52" rx="3.0524" stroke="#0061cd" stroke-width="36.08"/>
+		<rect x="-699.52" y="414.8" width="1.1781" height="142.37" rx="3.1555" stroke="#0061cd" stroke-width="35.442"/>
+	</g>
+</svg>

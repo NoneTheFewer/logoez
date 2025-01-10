@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 160 160">
+	<style type="text/css">.st1{fill:#4ec3e0}</style>
+	<g id="Sign_8_" transform="translate(-80 -80)">
+		<path class="st1" d="M 120.0,160.0 L 200.0,160.0 L 200.0,240.0 L 120.0,240.0 L 120.0,160.0"/>
+		<path fill="#0095c8" d="M 120.0,200.0 L 200.0,200.0 L 200.0,220.0 L 120.0,220.0 L 120.0,200.0"/>
+		<path d="M 80.0,159.9 C 80.0,137.8 97.9,119.9 120.0,119.9 L 200.0,119.9 C 222.1,119.9 240.0,137.8 240.0,159.9 C 240.0,182.0 222.1,199.9 200.0,199.9 L 120.0,199.9 C 97.9,199.9 80.0,182.0 80.0,159.9" fill="#00b5e2"/>
+		<g>
+			<defs>
+				<path id="Paper_x5F_top_x5F_shadow_x5F_mask_8_" d="M 80.0,159.9 C 80.0,137.8 97.9,119.9 120.0,119.9 L 200.0,119.9 C 222.1,119.9 240.0,137.8 240.0,159.9 C 240.0,182.0 222.1,199.9 200.0,199.9 L 120.0,199.9 C 97.9,199.9 80.0,182.0 80.0,159.9"/>
+			</defs>
+			<clipPath id="Paper_x5F_top_x5F_shadow_x5F_mask_1_">
+				<use xlink:href="#Paper_x5F_top_x5F_shadow_x5F_mask_8_" id="use5695" x="0" y="0" width="100%" height="100%" overflow="visible"/>
+			</clipPath>
+			<path id="Paper_x5F_top_x5F_shadow_16_" clip-path="url(#Paper_x5F_top_x5F_shadow_x5F_mask_1_)" fill="#0095c8" d="M 240.0,136.8 L 200.0,113.7 L 200.0,159.9 L 240.0,136.8"/>
+		</g>
+		<path class="st1" d="M 120.0,80.0 L 200.0,80.0 L 200.0,160.0 L 120.0,160.0 L 120.0,80.0"/>
+	</g>
+</svg>

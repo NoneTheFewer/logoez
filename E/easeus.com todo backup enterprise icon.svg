@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" version="1.1">
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+			<stop stop-color="#2A2A2B" offset="0%"/>
+			<stop stop-color="#19191A" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="100%" y1="50%" x2="0%" y2="81.8710978%" id="linearGradient-2">
+			<stop stop-color="#FFFFFF" offset="0%"/>
+			<stop stop-color="#FFFFFF" stop-opacity="0.03" offset="100%"/>
+		</linearGradient>
+		<path d="M1,0 L11.640625,0 C15.9122024,-7.84676032e-16 19.375,3.46279764 19.375,7.734375 C19.375,12.0059524 15.9122024,15.46875 11.640625,15.46875 L1,15.46875 C0.44771525,15.46875 6.76353751e-17,15.0210347 0,14.46875 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="path-3"/>
+		<filter x="-5.2%" y="-6.5%" width="110.3%" height="112.9%" filterUnits="objectBoundingBox" id="filter-4">
+			<feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"/>
+			<feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+			<feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
+			<feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"/>
+		</filter>
+		<linearGradient x1="100%" y1="68.5991499%" x2="0%" y2="18.1289022%" id="linearGradient-5">
+			<stop stop-color="#0A8CB6" stop-opacity="0.0521470717" offset="0%"/>
+			<stop stop-color="#0A8CB6" offset="100%"/>
+		</linearGradient>
+		<path d="M1,9.53125 L11.640625,9.53125 C15.9122024,9.53125 19.375,12.9940476 19.375,17.265625 C19.375,21.5372024 15.9122024,25 11.640625,25 L1,25 C0.44771525,25 6.76353751e-17,24.5522847 0,24 L0,10.53125 C-6.76353751e-17,9.97896525 0.44771525,9.53125 1,9.53125 Z" id="path-6"/>
+		<filter x="-5.2%" y="-6.5%" width="110.3%" height="112.9%" filterUnits="objectBoundingBox" id="filter-7">
+			<feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"/>
+			<feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+			<feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
+			<feColorMatrix values="0 0 0 0 0.516520579   0 0 0 0 0.871945573   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"/>
+		</filter>
+	</defs>
+	<g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="header_icon" transform="translate(-100.000000, -114.000000)">
+			<g id="tb_business" transform="translate(100.000000, 114.000000)">
+				<g id="编组-2" transform="translate(20.000000, 20.000000) scale(1, -1) translate(-20.000000, -20.000000) ">
+					<rect id="矩形" x="0" y="0" width="40" height="40"/>
+					<g id="编组-4备份-2">
+						<path d="M7.5,0 C3.3578125,0 0,3.35796875 0,7.5 L0,32.5 C0,36.6421875 3.3578125,40 7.5,40 L32.5,40 C36.6420313,40 40,36.6421875 40,32.5 L40,7.5 C40,3.35796875 36.6420313,0 32.5,0 L7.5,0 Z" id="Fill-1备份-3" fill="url(#linearGradient-1)"/>
+						<g id="编组" transform="translate(10.781250, 7.500000)">
+							<g id="矩形">
+								<use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"/>
+								<use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"/>
+							</g>
+							<g id="矩形备份">
+								<use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"/>
+								<use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

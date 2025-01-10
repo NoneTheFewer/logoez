@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" version="1.1">
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+			<stop stop-color="#58BBFF" offset="0%"/>
+			<stop stop-color="#0F5DF0" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="header_icon" transform="translate(-50.000000, -178.000000)">
+			<g id="videoeditor" transform="translate(50.000000, 178.000000)">
+				<path d="M7.5,0 C3.3578125,0 0,3.35796875 0,7.5 L0,32.5 C0,36.6421875 3.3578125,40 7.5,40 L32.5,40 C36.6420313,40 40,36.6421875 40,32.5 L40,7.5 C40,3.35796875 36.6420313,0 32.5,0 L7.5,0 Z" id="Fill-1" fill="url(#linearGradient-1)"/>
+				<rect id="矩形" fill="#FFFFFF" x="9.453125" y="6.46875" width="4.6875" height="4.6875" rx="2.34375"/>
+				<rect id="矩形备份-3" fill="#FFFFFF" x="9.453125" y="13.75" width="4.6875" height="19.53125" rx="2.34375"/>
+				<rect id="矩形备份" fill-opacity="0.2" fill="#FFFFFF" x="18.046875" y="10.625" width="4.6875" height="18.75" rx="2.34375"/>
+				<rect id="矩形备份-5" fill-opacity="0.2" fill="#FFFFFF" x="9.453125" y="6.71875" width="4.6875" height="26.5625" rx="2.34375"/>
+				<rect id="矩形备份" fill="#FFFFFF" x="18.046875" y="10.625" width="4.6875" height="11.71875" rx="2.34375"/>
+				<rect id="矩形备份-4" fill="#FFFFFF" x="18.046875" y="24.6875" width="4.6875" height="4.6875" rx="2.34375"/>
+				<rect id="矩形备份-2" fill="#FFFFFF" x="26.640625" y="14.921875" width="4.6875" height="10.15625" rx="2.34375"/>
+			</g>
+		</g>
+	</g>
+</svg>

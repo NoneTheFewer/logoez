@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1334.04 1334.04">
+	<defs>
+		<linearGradient id="fastpath_gradient" x1="939.7" x2="1618.97" y1="-459.94" y2="-459.94" gradientTransform="translate(0 1843.17)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fab500"/>
+			<stop offset=".12" stop-color="#f9af02"/>
+			<stop offset=".27" stop-color="#f79f08"/>
+			<stop offset=".44" stop-color="#f48513"/>
+			<stop offset=".63" stop-color="#f06021"/>
+			<stop offset=".82" stop-color="#ea3234"/>
+			<stop offset="1" stop-color="#e50049"/>
+			<stop offset="1" stop-color="#e50049"/>
+		</linearGradient>
+		<linearGradient xlink:href="#fastpath_gradient" id="fastpath_gradient-2" x1="571.41" x2="1714.08" y1="-766.65" y2="-766.65"/>
+		<style>
+			.cls-1{fill:#e50049}
+		</style>
+	</defs>
+	<path d="M 716.06,1100.5 L 716.06,1204.2 C 699.75,1199.57 571.7,1160.78 506.79,1067.99 C 501.06,1057.08 482.1,1012.67 503.92,957.24 C 511.96,936.96 524.97,915.58 547.12,893.98 C 549.1,1003.52 691.81,1089.37 716.06,1100.5" class="cls-1"/>
+	<path d="M 1143.31,749.18 C 1143.31,749.18 855.9,722.07 642.99,827.97 C 445.18,926.49 498.41,1050.8 507.0,1067.99 C 464.13,1006.83 440.99,912.28 497.63,809.24 C 650.26,531.2 1083.46,554.45 1143.08,559.08 L 1143.3,749.18 L 1143.31,749.18" style="fill:url(#fastpath_gradient)"/>
+	<path d="M 1238.42,5.87 L 1238.42,303.86 C 1238.42,303.86 812.82,258.57 452.57,434.12 C 90.34,610.66 138.39,948.65 175.41,1010.81 C 122.62,924.19 64.33,745.33 115.57,565.38 C 266.99,34.1 930.84,-21.0 1238.41,5.89 L 1238.42,5.87" style="fill:url(#fastpath_gradient-2)"/>
+	<path d="M 716.06,1233.18 L 716.06,1333.57 C 579.74,1309.33 308.09,1227.23 175.41,1010.68 C 149.62,968.58 126.04,812.76 199.65,669.83 C 189.29,948.64 499.51,1165.3 716.05,1233.18 L 716.06,1233.18" class="cls-1"/>
+</svg>

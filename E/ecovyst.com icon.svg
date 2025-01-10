@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1511 1556">
+	<defs>
+		<linearGradient id="g1" x1="89.1" y1="1212.8" x2="1570.1" y2="213.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#36c3de"/>
+			<stop offset=".1" stop-color="#3ac3db"/>
+			<stop offset=".2" stop-color="#44c3d0"/>
+			<stop offset=".4" stop-color="#51c2bf"/>
+			<stop offset=".5" stop-color="#5ec2a6"/>
+			<stop offset=".7" stop-color="#6cc286"/>
+			<stop offset=".9" stop-color="#7ac25b"/>
+			<stop offset="1" stop-color="#81c341"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m1166.9 1423.7c-124.7 82.6-273 131.4-433.2 131.4-15.1 0-30.3 0-45.5-1.6l-610.2-584.7zm300.1-385.8c-54 153.3-156.8 284.7-288.3 377.4l-1073.7-549.3zm-1247.3-259.5l1250.7-249.3c25.3 77.5 40.5 161.7 40.5 249.3 0 87.7-13.5 171.9-40.5 249.4zm-141.6-192.1l610.2-584.6c15.2-1.7 30.3-1.7 45.5-1.7 160.1 0 310.2 48.8 433.2 131.4zm27 104.5l1073.7-551c131.5 91 234.3 224.1 288.2 377.4zm556.3 861c-306.8-28.6-563-235.9-660.8-517.3zm-660.7-1031.1c97.7-281.4 353.9-488.6 660.7-517.3z"/>
+	</g>
+</svg>

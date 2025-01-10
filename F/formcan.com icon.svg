@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	
+		.st0{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:url(#SVGID_3_);stroke-width:12;stroke-miterlimit:10;}
+	
+		.st1{clip-path:url(#SVGID_5_);fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:url(#SVGID_6_);stroke-width:12;stroke-miterlimit:10;}
+</style>
+
+<g id="_x31_">
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M20,44v2v38l0,0c0,2.2,1.8,4,4,4h2h7c1.7,0,3-1.3,3-3v-2c0-1.7-1.3-3-3-3h-5V48h32v34v2c0,2.2,1.8,4,4,4     l0,0h40l0,0c2.2,0,4-1.8,4-4v-2V44l0,0c0-2.2-1.8-4-4-4l0,0h-8h-1c-1.7,0-3,1.3-3,3v2c0,1.7,1.3,3,3,3h1h4v32H68V46v-2     c0-2.2-1.8-4-4-4h-2H26h-2C21.8,40,20,41.8,20,44z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_" style="overflow:visible;"/>
+		</clipPath>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="18" y1="64" x2="110" y2="64">
+			<stop offset="0.2" style="stop-color:#F8D328"/>
+			<stop offset="0.8" style="stop-color:#AED93E"/>
+		</linearGradient>
+		<polyline class="st0" points="38,84 24,84 24,44 64,44 64,84 104,84 104,44 90,44   "/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_4_" d="M44,108h2l38,0l0,0c2.2,0,4-1.8,4-4v-2v-7c0-1.7-1.3-3-3-3h-2c-1.7,0-3,1.3-3,3v5l-32,0l0-32l34,0h2     c2.2,0,4-1.8,4-4l0,0l0-40l0,0c0-2.2-1.8-4-4-4h-2l-38,0l0,0c-2.2,0-4,1.8-4,4l0,0l0,8v1c0,1.7,1.3,3,3,3h2c1.7,0,3-1.3,3-3v-1     l0-4l32,0l0,32l-34,0h-2c-2.2,0-4,1.8-4,4v2l0,36v2C40,106.2,41.8,108,44,108z"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_" style="overflow:visible;"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="18.3786" y1="62.736" x2="110.4104" y2="62.736" gradientTransform="matrix(6.129086e-04 -1 1 6.129086e-04 1.2246 128.356)">
+			<stop offset="0.2" style="stop-color:#7F6EE9"/>
+			<stop offset="0.8" style="stop-color:#3aa6e8"/>
+		</linearGradient>
+		<polyline class="st1" points="84,90 84,104 44,104 44,64 84,64 84,24 44,24 44,38   "/>
+	</g>
+</g>
+</svg>

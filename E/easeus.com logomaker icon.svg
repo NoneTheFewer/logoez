@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+    <defs>
+        <linearGradient x1="11.873%" y1="4.493%" x2="91.117%" y2="95.704%" id="linearGradient-165">
+            <stop stop-color="#FFFFFF" offset="0%"/>
+            <stop stop-color="#E1E9F6" offset="99.4%"/>
+        </linearGradient>
+        <linearGradient x1="100%" y1="55.206%" x2="0%" y2="44.794%" id="linearGradient-166">
+            <stop stop-color="#FBD07A" offset="0%"/>
+            <stop stop-color="#F55B3F" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="100%" y1="57.337%" x2="0%" y2="42.663%" id="linearGradient-167">
+            <stop stop-color="#90A1FF" offset="0%"/>
+            <stop stop-color="#3450FF" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="header_icon0906" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g name="_r5_c7" id="logomaker" fill-rule="nonzero">
+            <path d="M10.256,0 L29.744,0 C33.311,0 34.604,0.371 35.907,1.069 C37.21,1.767 38.234,2.789 38.931,4.093 C39.63,5.396 40,6.689 40,10.256 L40,29.744 C40,33.311 39.629,34.604 38.931,35.907 C38.233,37.21 37.211,38.234 35.907,38.931 C34.603,39.628 33.311,40 29.744,40 L10.256,40 C6.689,40 5.396,39.629 4.093,38.931 C2.789,38.234 1.766,37.211 1.069,35.907 C0.372,34.603 0,33.311 0,29.744 L0,10.256 C0,6.689 0.371,5.396 1.069,4.093 C1.75101862,2.80461402 2.80461402,1.75101862 4.093,1.069 C5.396,0.37 6.689,0 10.256,0 Z" id="路径" fill="url(#linearGradient-165)"/>
+            <g id="编组" transform="translate(12.000000, 5.998000)">
+                <path d="M-7.791,7.791 L7.882,7.791 C11.929,7.791 15.211,11.113 15.211,15.211 L-0.461,15.211 C-4.51,15.211 -7.791,11.889 -7.791,7.791 Z" id="路径" fill="url(#linearGradient-166)" transform="translate(3.710000, 11.501000) scale(-1, 1) rotate(-90.000000) translate(-3.710000, -11.501000) "/>
+                <path d="M0,15.724 L11.63,15.724 C15.7,15.724 19,18.982 19,23.002 L7.37,23.002 C3.3,23.002 0,19.743 0,15.724 Z" id="路径" fill="url(#linearGradient-167)"/>
+            </g>
+        </g>
+    </g>
+</svg>

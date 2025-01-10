@@ -1,0 +1,49 @@
+<svg viewBox='0 0 70 70' xmlns="http://www.w3.org/2000/svg" class="jb-product-card__logo" data-test="svg-sprite-image" data-test-sprite-id="gateway"><defs>    <linearGradient id="gateway_gateway_svg__a" x1="20.068" x2="64.396" y1="14.563" y2="58.891" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fdb60d" />
+        <stop offset=".548" stop-color="#ff318c" />
+        <stop offset=".888" stop-color="#6b57ff" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__b" x1="28.59" x2="31.451" y1="31.067" y2="26.112" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff" stop-opacity=".6" />
+        <stop offset=".081" stop-color="#ffc524" stop-opacity=".4" />
+        <stop offset=".705" stop-color="#ffc524" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__c" x1="28.433" x2="32.696" y1="8.59" y2="15.974" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#f9ed32" stop-opacity=".6" />
+        <stop offset=".198" stop-color="#ffc524" stop-opacity=".4" />
+        <stop offset=".705" stop-color="#ffc524" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__d" x1="41.913" x2="40.014" y1="7.991" y2="11.28" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fdb60d" stop-opacity=".6" />
+        <stop offset=".234" stop-color="#fdb60d" stop-opacity=".4" />
+        <stop offset=".518" stop-color="#ff318c" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__e" x1="9.026" x2="51.277" y1="34.972" y2="34.972" gradientUnits="userSpaceOnUse">
+        <stop offset=".015" />
+        <stop offset=".193" />
+        <stop offset=".572" stop-color="#6b57ff" />
+        <stop offset=".826" stop-color="#ff318c" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__f" x1="35" x2="41.997" y1="42.482" y2="42.482" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#ffb2ff" stop-opacity=".6" />
+        <stop offset=".081" stop-color="#d828ff" stop-opacity=".4" />
+        <stop offset=".705" stop-color="#ff318c" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__g" x1="61.081" x2="53.935" y1="42.482" y2="42.482" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#64f" stop-opacity=".8" />
+        <stop offset=".097" stop-color="#6b57ff" stop-opacity=".4" />
+        <stop offset=".705" stop-color="#ff318c" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__h" x1="54.865" x2="52.809" y1="54.396" y2="50.834" gradientUnits="userSpaceOnUse">
+        <stop offset=".006" stop-color="#ff318c" />
+        <stop offset=".469" stop-color="#6b57ff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__i" x1="22.013" x2="22.013" y1="5.936" y2="23.543" gradientUnits="userSpaceOnUse">
+        <stop offset=".239" stop-color="#ff5592" stop-opacity=".65" />
+        <stop offset=".829" stop-color="#ff57e4" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="gateway_gateway_svg__j" x1="28.237" x2="21.774" y1="22.192" y2="58.846" gradientUnits="userSpaceOnUse">
+        <stop offset=".047" stop-color="#fff" stop-opacity=".86" />
+        <stop offset=".767" stop-color="#cbcaa4" stop-opacity="0" />
+    </linearGradient>
+</defs><path fill="url(#gateway_gateway_svg__a)" d="m35 65 25.974-15.02V19.964L35 5 9.026 19.963v.002-.001L35 34.985z"></path><path fill="url(#gateway_gateway_svg__b)" d="M60.974 19.963 35 5 9.026 19.963v.002-.001L35 34.985z"></path><path fill="url(#gateway_gateway_svg__c)" d="M60.974 19.963 35 5 9.026 19.963v.002-.001L35 34.985z"></path><path fill="url(#gateway_gateway_svg__d)" d="M60.974 19.963 35 5 9.026 19.963v.002-.001L35 34.985z"></path><path fill="url(#gateway_gateway_svg__e)" d="M9.026 49.98V19.965L35 34.984z"></path><path fill="url(#gateway_gateway_svg__f)" d="m35 65 25.974-15.02V19.965L35 34.984z"></path><path fill="url(#gateway_gateway_svg__g)" d="m35 65 25.974-15.02V19.965L35 34.984z"></path><path fill="url(#gateway_gateway_svg__h)" d="m35 65 25.974-15.02V19.965L35 34.984z"></path><path fill="url(#gateway_gateway_svg__i)" d="M28.035 30.944 35 34.971V5L9.026 19.957z" opacity=".8"></path><path fill="url(#gateway_gateway_svg__j)" d="M35 34.984 9.026 49.98 35 65z"></path></svg>

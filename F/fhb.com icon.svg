@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1519 764">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0.83 0.16h1517.31v763.25h-1517.31z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0.83 0.16h1517.31v763.25h-1517.31z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #f0ab36 } 
+		.s1 { fill: #a1252c } 
+		.s2 { fill: #6a2427 } 
+	</style>
+	<g id="Logo/Color/Horizontal">
+		<g id="FHB-Logo-2014-Horizontal-4C-no-(r)">
+			<g id="Layer">
+				<g id="Group-4">
+<<<<<<< HEAD
+=======
+					
+					
+					
+					
+					
+>>>>>>> 3d7909065 (Self-closers)
+					<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+						<path id="Fill-1" fill-rule="evenodd" class="s0" d="m936.3 227.2c-295.1 0-534.4 240.1-534.4 536.2h323.4c0-188.1 146.1-359.6 375.4-359.6 198 0 349.9 161 349.9 359.6h20.1c0-296.1-239.2-536.2-534.4-536.2z"/>
+					</g>
+					<g id="Clip-Path: Fill-3" clip-path="url(#cp2)">
+						<path id="Fill-3" fill-rule="evenodd" class="s1" d="m759.1 0.2c-419.3 0-759.1 341.7-759.1 763.2h359.6c0-318.5 256.8-576.8 573.6-576.8 316.8 0 565.2 258.3 565.2 576.8h19.7c0-421.5-339.9-763.2-759-763.2z"/>
+					</g>
+				</g>
+				<path id="Fill-5" fill-rule="evenodd" class="s2" d="m1095.8 444.5c-180.9 0-327.5 142.8-327.5 318.9h20.1c0-85.7 69.3-155.2 154.7-155.2 85.5 0 154.8 69.5 154.8 155.2h325.5c0-176.1-146.7-318.9-327.6-318.9z"/>
+			</g>
+		</g>
+	</g>
+</svg>

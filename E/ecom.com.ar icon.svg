@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg"  xml:space="preserve" viewBox="0 0 40 40">
+	<defs>
+		<style type="text/css">
+    .fil1 {fill:none}
+    .fil0 {fill:url(#id1)}
+</style>
+		<clipPath id="id0">
+			<path d="M0 0l40 0 0 40 -40 0 0 -40z"/>
+		</clipPath>
+		<linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1.88346" y1="4.05906" x2="36.9752" y2="35.7594">
+			<stop offset="0" style="stop-opacity:1; stop-color:#E23B3B"/>
+			<stop offset="0.560784" style="stop-opacity:1; stop-color:#B52B4D"/>
+			<stop offset="1" style="stop-opacity:1; stop-color:#8A2560"/>
+		</linearGradient>
+	</defs>
+	<g id="Capa_x0020_1">
+		<g>
+  </g>
+		<g style="clip-path:url(#id0)">
+			<g>
+				<path class="fil0" d="M33 1l-27 0c-2,0 -5,3 -5,5l0 0c0,3 3,5 5,5l0 0 27 0c2,0 4,-2 4,-5l0 0c0,-2 -2,-5 -4,-5zm-27 14c-2,0 -5,2 -5,5l0 0c0,2 3,4 5,4l0 0 21 0c2,0 4,-2 4,-4l0 0c0,-3 -2,-5 -4,-5l0 0 -21 0zm0 14c-2,0 -5,2 -5,5l0 0c0,2 3,4 5,4l0 0 27 0c2,0 4,-2 4,-4l0 0c0,-3 -2,-5 -4,-5l0 0 -27 0z"/>
+			</g>
+		</g>
+		<polygon class="fil1" points="0,0 40,0 40,40 0,40 "/>
+	</g>
+</svg>

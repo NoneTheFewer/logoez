@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1520 1521">
+	<defs>
+		<linearGradient id="g1" x1="874.2" y1="1530.3" x2="1529.3" y2="874.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4e009e"/>
+			<stop offset="1" stop-color="#0052e2"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="-9" y1="646.5" x2="646.5" y2="-8.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a00098"/>
+			<stop offset="1" stop-color="#00c4f1"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="-8.7" y1="874.8" x2="646.5" y2="1530" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a00098"/>
+			<stop offset="1" stop-color="#4e009e"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="874.5" y1="-8.7" x2="1529.6" y2="646.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00c4f1"/>
+			<stop offset="1" stop-color="#0052e2"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="461.3" y1="1060" x2="1059.3" y2="461.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#78019c"/>
+			<stop offset="1" stop-color="#018cea"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+	</style>
+	<g id="Layer">
+		<path id="fullLogo" class="s0" d="m1472.5 817.7c14.8 15.1 26.8 32.9 35 52.4 7.8 19.6 12.2 40.6 12.2 61.6 0 21.2-4.4 42.2-12.2 61.8-8.2 19.5-20.2 37.3-35 52.2l-427.5 427.7c-14.8 14.9-32.6 26.9-52.2 35-19.5 7.9-40.5 12.3-61.5 12.3-21.3 0-42.3-4.4-61.8-12.3-19.5-8.1-37.3-20.1-52.2-35z"/>
+		<path id="fullLogo-2" class="s1" d="m475.3 48.2c15.2-14.9 32.9-26.9 52.5-35 19.5-8.2 40.5-12.3 61.5-12.3 21.3 0 42.3 4.1 61.8 12.3 19.6 8.1 37.3 20.1 52.2 35l-655.1 655.4c-14.9-14.8-26.9-32.6-35-52.2-8.2-19.5-12.3-40.5-12.3-61.8 0-21 4.1-42 12.3-61.5 8.1-19.5 20.1-37.3 35-52.5z"/>
+		<path id="fullLogo-3" class="s2" d="m703.3 1473.1c-14.9 14.9-32.6 26.9-52.2 35-19.5 7.9-40.5 12.3-61.5 12.3-21.3 0-42.3-4.4-61.8-12.3-19.6-8.1-37.3-20.1-52.2-35l-427.4-427.4c-14.9-15.2-26.9-33-35-52.5-7.9-19.5-12.3-40.5-12.3-61.5 0-21.3 4.4-42.3 12.3-61.9 8.1-19.5 20.1-37.3 35-52.1z"/>
+		<path id="fullLogo-4" class="s3" d="m1472.5 475.9c15.1 14.9 26.8 32.7 35 52.2 8.1 19.5 12.2 40.5 12.2 61.8 0 21-4.1 42-12.2 61.5-8.2 19.6-19.9 37.4-35 52.5l-655.2-655.7c15.2-14.9 32.7-26.9 52.5-35 19.5-7.9 40.2-12.3 61.5-12.3 21.3 0 42.3 4.4 61.8 12.3 19.6 8.1 37.4 20.1 52.2 35z"/>
+		<path id="fullLogo-5" class="s4" d="m1002.5 404.5l114 114-598.3 598.6-114-114z"/>
+	</g>
+</svg>

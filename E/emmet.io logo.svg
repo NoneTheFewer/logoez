@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 384">
+	<g fill="none" fill-rule="evenodd">
+		<text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="94" font-weight="bold" fill="#000">
+			<tspan x="270" y="228">Emmet</tspan>
+		</text>
+		<g transform="translate(51 96)" fill-rule="nonzero">
+			<circle fill="#1C1C20" cx="96" cy="96" r="96"/>
+			<path fill="#BAFFA9" d="M134.25 94l-10.625-10.625 5.465-22.464-22.768 5.16L96 55.752 147 43l-12.75 51z"/>
+			<path fill="#7ACB16" d="M117.106 165L25 72.896 76.58 60l10.438 10.439-36.843 9.21 20.878 20.877 24.254-5.833-6.14 23.947 20.878 20.877 9.21-36.842L130 113.421l-12.894 51.578z"/>
+		</g>
+	</g>
+</svg>

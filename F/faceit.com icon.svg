@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.567 113.567">
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 549.512 123.568) scale(673.08)" spreadMethod="pad" id="b">
+			<stop offset="0" stop-color="#ff5f00"/>
+			<stop offset=".265" stop-color="#ff6506"/>
+			<stop offset=".48" stop-color="#ff6e0f"/>
+			<stop offset=".482" stop-color="#fe690c"/>
+			<stop offset=".486" stop-color="#fd5e05"/>
+			<stop offset=".493" stop-color="#fc5701"/>
+			<stop offset=".511" stop-color="#fc5500"/>
+			<stop offset=".775" stop-color="#fe6300"/>
+			<stop offset="1" stop-color="#ff6900"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="a">
+			<path d="M 851.887,666.508 C 851.887,673.277 844.406,675.418 840.84,670.07 C 737.148,510.789 678.707,419.922 625.969,337.254 L 7.727,337.254 C -0.113,337.254 -2.965,327.273 3.805,324.781 C 260.367,227.855 630.96,82.117 837.992,0.516 C 843.336,-1.625 851.887,3.363 851.887,6.93 L 851.887,666.508"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#a)" transform="matrix(.13333 0 0 -.13333 -.018 101.656)">
+		<path d="M 836.0,0.0 L 1.0,325.0 C -1.04,331.735 0.616,334.388 5.0,338.0 L 626.0,338.0 L 841.0,671.0 L 842.0,672.0 C 844.613,674.945 847.49,674.035 850.0,672.0 C 850.93,671.307 851.255,670.745 852.0,670.0 C 855.542,694.736 913.967,3.605 846.0,0.0" fill="url(#b)"/>
+	</g>
+</svg>
