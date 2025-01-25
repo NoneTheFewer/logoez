@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+	<clipPath id="myClip1">
+		<polygon points="0,0 700,0 350,350 0,350"/>
+	</clipPath>
+	<clipPath id="myClip2">
+		<rect x="0" y="350" width="350" height="700"/>
+	</clipPath>
+	<clipPath id="myClip3">
+		<polygon points="700,0 350,350 700,700"/>
+	</clipPath>
+	<ellipse cx="350" cy="350" rx="345.5" ry="348.5" fill="#ffd761" clip-path="url(#myClip1)"/>
+	<ellipse cx="350" cy="350" rx="345.5" ry="348.5" fill="#2ecde5" clip-path="url(#myClip2)"/>
+	<ellipse cx="350" cy="350" rx="345.5" ry="348.5" fill="#f93e6d" clip-path="url(#myClip3)"/>
+	<polygon points="350,398 648,698.5 350,698.5" fill="#213383"/>
+</svg>

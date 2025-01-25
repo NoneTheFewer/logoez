@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300.51 196.49">
+	<defs>
+		<linearGradient id="b" x1="151.32" y1="9.5" x2="151.32" y2="187.62" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#12321a"/>
+			<stop offset="1" stop-color="#009247"/>
+		</linearGradient>
+		<linearGradient id="a" x1="219.58" y1=".51" x2="219.58" y2="197" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#8bc541"/>
+			<stop offset="1" stop-color="#009247"/>
+		</linearGradient>
+		<linearGradient id="c" x1="81.62" y1=".51" x2="81.62" y2="197" xlink:href="#a"/>
+	</defs>
+	<path d="M153.2 177.4l26.38-69.46-7.76-89s-2.55-9.44-11.31-9.44c-7.66 0-12 10.22-12 10.22L123 84.48l6.8 93.65s2.56 9.49 11.32 9.49c7.7 0 12.08-10.22 12.08-10.22z" transform="translate(-.34 -.51)" fill="url(#b)" fill-rule="evenodd"/>
+	<path d="M289.72.51h-47.84s-12.59 0-19.15 16.42c-6.15 15.37-46.83 122-62.66 163.52l-.59 1.23s-6.39 18.43-21.17 11.68c0 0 1.46 3.65 11.86 3.65H198s12.59 0 19.16-16.42c6.13-15.32 46.53-121.22 62.48-163.06l.77-1.69S286.81-3 300.85 4.88c0 0-.73-4.37-11.13-4.37z" transform="translate(-.34 -.51)" fill="url(#a)" fill-rule="evenodd"/>
+	<path d="M142.45 15.83S148.84-3 162.89 4.88c0 0-.74-4.38-11.13-4.38h-47.85S91.32.51 84.76 16.92c-6.15 15.37-46.83 122-62.66 163.52l-.59 1.23S15.12 200.1.34 193.35c0 0 1.46 3.65 11.86 3.65H60s12.59 0 19.16-16.42c6.13-15.32 46.52-121.22 62.48-163.06z" transform="translate(-.34 -.51)" fill="url(#c)" fill-rule="evenodd"/>
+</svg>

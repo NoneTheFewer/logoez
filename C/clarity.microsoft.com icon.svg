@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.5 30.5" fill="none">
+	<style>
+    .cls0 {
+        fill: magenta;
+    }
+    </style>
+	<clipPath id="myClip">
+		<path transform="translate(-.75 -.9)" d=" M 31.082,27.25 L 17.283,3.581 C 16.846,2.899 16.25,2.871 16.0,2.871 C 15.55,2.871 15.154,2.999 14.75,3.546 L 14.567,3.851 L 0.917,27.25 C 0.712,27.679 0.75,27.895 0.75,28.125 C 0.75,28.815 1.31,29.375 2.0,29.475 C 2.0,29.475 2.0,29.475 2.0,29.475 L 30.0,29.475 C 30.69,29.475 31.249,28.815 31.249,28.125 C 31.249,27.895 31.207,27.579 31.178,27.494 L 31.082,27.25"/>
+	</clipPath>
+	<linearGradient id="top" gradientTransform="rotate(0)">
+		<stop offset="0%" stop-color="#66adfd"/>
+		<stop offset="80%" stop-color="#7bdaf3"/>
+	</linearGradient>
+	<linearGradient id="mid" gradientTransform="rotate(45)">
+		<stop offset="25%" stop-color="#2b7cd4"/>
+		<stop offset="95%" stop-color="#185abd"/>
+	</linearGradient>
+	<linearGradient id="low" gradientTransform="rotate(105)">
+		<stop offset="5%" stop-color="#1348a0"/>
+		<stop offset="95%" stop-color="#185abe"/>
+	</linearGradient>
+	<g clip-path="url(#myClip)">
+		<polygon points="5.7,16.87 14.955,1 15.55,1 22.03,12.11" fill="url(#top)"/>
+		<polygon points="5.7,16.87 22.04,12.1 30.5,26.62 30.5,28.1" fill="url(#mid)"/>
+		<polygon points="5.7,16.87 0,26.63 0,28.58 30.5,28.58 30.5,28.1" fill="url(#low)"/>
+	</g>
+</svg>
