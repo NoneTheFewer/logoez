@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" version="1.1">
 	<defs>
@@ -43,52 +42,5 @@
 			</g>
 		</g>
 	</g>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ringroneeditor</title>
-    <defs>
-        <path d="M7.5,0 C3.3578125,0 0,3.35796875 0,7.5 L0,32.5 C0,36.6421875 3.3578125,40 7.5,40 L32.5,40 C36.6420313,40 40,36.6421875 40,32.5 L40,7.5 C40,3.35796875 36.6420313,0 32.5,0 L7.5,0 Z" id="path-1"></path>
-        <filter x="-382.6%" y="-596.9%" width="865.2%" height="1293.8%" filterUnits="objectBoundingBox" id="filter-3">
-            <feGaussianBlur stdDeviation="40" in="SourceGraphic"></feGaussianBlur>
-        </filter>
-        <filter x="-475.1%" y="-541.5%" width="1050.2%" height="1182.9%" filterUnits="objectBoundingBox" id="filter-4">
-            <feGaussianBlur stdDeviation="40" in="SourceGraphic"></feGaussianBlur>
-        </filter>
-        <linearGradient x1="0%" y1="1.98%" x2="100%" y2="98.02%" id="linearGradient-5">
-            <stop stop-color="#9B8FFE" offset="0%"></stop>
-            <stop stop-color="#3B30CC" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="78.4055469%" y1="100%" x2="21.5944531%" y2="0%" id="linearGradient-6">
-            <stop stop-color="#F55B3F" offset="0%"></stop>
-            <stop stop-color="#FBC97A" offset="100%"></stop>
-        </linearGradient>
-        <path d="M28.7215948,6.71875 C29.513933,6.71875 30.15625,7.35548414 30.15625,8.14093549 C29.9999816,11.4630562 27.6697475,14.292782 24.4176292,15.1096444 L24.4176292,15.1096444 L24.4176292,22.6749479 C24.4190841,24.8908969 22.9426617,26.8409605 20.7958645,27.4585867 C18.6490674,28.0762129 16.3489188,27.2126558 15.1534436,25.3402224 C13.9579683,23.467789 14.1550784,21.0374264 15.6369679,19.3783773 C17.1188575,17.7193283 19.528636,17.2311496 21.5483187,18.1808417 L21.5483187,18.1808417 L21.5483187,8.14093549 C21.5483187,7.35548414 22.1906357,6.71875 22.9829739,6.71875 L22.9829739,6.71875 Z M19.405773,20.5418381 C18.2210355,20.5367295 17.2549338,21.4818327 17.2444376,22.6562379 C17.2339414,23.8306431 18.1829992,24.7925667 19.3676428,24.8082261 C19.9433393,24.815836 20.4981048,24.5944446 20.9079071,24.1935495 C21.3177093,23.7926544 21.5483699,23.2456913 21.5483187,22.6749479 C21.5482134,21.5004966 20.5905105,20.5470301 19.405773,20.5418381 Z M27.0717413,9.56312096 L24.4176292,9.56312096 L24.4176292,12.1657204 C25.6555887,11.7434947 26.632383,10.7856587 27.0717413,9.56312096 L27.0717413,9.56312096 Z" id="path-7"></path>
-        <filter x="-47.5%" y="-35.8%" width="195.0%" height="171.6%" filterUnits="objectBoundingBox" id="filter-8">
-            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.968627451   0 0 0 0 0.568627451   0 0 0 0 0.352941176  0 0 0 0 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="header_icon" transform="translate(-250.000000, -178.000000)">
-            <g id="EaseUS-Ringtone-Editor_logo" transform="translate(250.000000, 178.000000)">
-                <g id="椭圆形-+-椭圆形-+-路径-+-形状结合-蒙版">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="蒙版" fill="#1A1D25" xlink:href="#path-1"></use>
-                    <ellipse id="椭圆形" fill="#F64F15" opacity="0.200000003" filter="url(#filter-3)" mask="url(#mask-2)" cx="29.1666667" cy="6.04166667" rx="15.681487" ry="10.0522353"></ellipse>
-                    <ellipse id="椭圆形" fill="#4D41D5" opacity="0.569754464" filter="url(#filter-4)" mask="url(#mask-2)" cx="7.90164574" cy="33.9108197" rx="12.6291432" ry="11.0813127"></ellipse>
-                    <path d="M16.5696859,11.6141808 C17.4237381,11.3930657 18.2964487,11.9018817 18.5189395,12.7506531 C18.7414303,13.5994245 18.2294486,14.4667389 17.3753963,14.687854 C13.6540106,15.6513249 11.0085227,19.00687 11.0085227,22.8849602 C11.0085227,27.562828 14.8242777,31.3549891 19.53125,31.3549891 C24.2382223,31.3549891 28.0539773,27.562828 28.0539773,22.8849602 C28.0539773,22.1440673 27.9586364,21.4171526 27.7723627,20.7159337 C27.5470856,19.8678885 28.0562162,18.9989181 28.9095378,18.7750339 C29.7628593,18.5511498 30.6372362,19.0571324 30.8625133,19.9051776 C31.1189206,20.8704111 31.25,21.8698098 31.25,22.8849602 C31.25,29.3170284 26.0033369,34.53125 19.53125,34.53125 C13.0591631,34.53125 7.8125,29.3170284 7.8125,22.8849602 C7.8125,17.5523226 11.448844,12.9399725 16.5696859,11.6141808 Z" id="路径" fill="url(#linearGradient-5)" mask="url(#mask-2)"></path>
-                    <g id="形状结合" fill-rule="nonzero" mask="url(#mask-2)">
-                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
-                        <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
-                    </g>
-                </g>
-                
-            </g>
-        </g>
-    </g>
->>>>>>> 3d7909065 (Self-closers)
+
 </svg>

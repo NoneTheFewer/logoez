@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1583 1128">
-<<<<<<< HEAD
 	<defs>
 		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
 			<path d="m-2531.19-6328.05h22884.41v12820.28h-22884.41z"/>
@@ -15,46 +14,3 @@
 		</g>
 	</g>
 </svg>
-=======
-	
-	
-	<title>SR_2023-57-pdf-svg</title>
-	
-	
-	<defs>
-		
-		
-		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
-			
-			
-			<path d="m-2531.19-6328.05h22884.41v12820.28h-22884.41z"/>
-			
-		
-		</clipPath>
-		
-	
-	</defs>
-	
-	
-	<style>
-		.s0 { fill: #a62139 } 
-	</style>
-	
-	
-	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
-		
-		
-		<g id="Page 1">
-			
-			
-			<path id="Path 4" class="s0" d="m1416 629.3c125.9-147.2 179.4-263.5 163.9-354.9-27.3-167.4-255.4-274.2-579.8-274.2-348.1 0-721.2 121.1-999.3 324.1l3.6 3.5c244.8-176.9 531.1-274.2 805.6-274.2 264.9 0 486 93.8 550.1 232.7 38 80.7 20.2 167.3-51.1 250.4l-175.8 197.1-186.6-205.4h-186.5l273.3 289.7-297.1 309.8h191.3l205.6-211.3 197.2 211.3h192.5l-294.7-305.1c0 0 124.8-121.1 187.8-193.5z"/>
-			
-		
-		</g>
-		
-	
-	</g>
-	
-
-</svg>
->>>>>>> 0544b3e98 (More SVGs)

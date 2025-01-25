@@ -1,70 +1,11 @@
 <?xml version="1.0" ?>
-<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 80 80">
-=======
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 80 80">
-	
-	
-  
-	
-	<title>logo-SVG-Tiny-PS</title>
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
->>>>>>> 3d7909065 (Self-closers)
-	<g id="Layer_8">
-		<rect x="-8.6" y="-10.4" fill="#FFFFFF" width="105.6" height="105.6"/>
-		<g>
-			<path fill="#66CCFF" d="M5.7,28H52v46.3H33.4c-15.3,0-27.7-12.4-27.7-27.7V28L5.7,28z"/>
-			<path fill="#FF5349" d="M74.3,52H28V5.7h18.6c15.3,0,27.7,12.4,27.7,27.7L74.3,52L74.3,52z"/>
-			<rect x="28" y="28" fill="#003366" width="24" height="24"/>
-		</g>
-	</g>
+    <g id="Layer_8">
+        <rect x="-8.6" y="-10.4" fill="#FFFFFF" width="105.6" height="105.6" />
+        <g>
+            <path fill="#66CCFF" d="M5.7,28H52v46.3H33.4c-15.3,0-27.7-12.4-27.7-27.7V28L5.7,28z" />
+            <path fill="#FF5349" d="M74.3,52H28V5.7h18.6c15.3,0,27.7,12.4,27.7,27.7L74.3,52L74.3,52z" />
+            <rect x="28" y="28" fill="#003366" width="24" height="24" />
+        </g>
+    </g>
 </svg>
