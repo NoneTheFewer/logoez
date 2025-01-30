@@ -23,8 +23,12 @@
         <g fill="#d6d6d6">
             <rect x="408.57141" y="541.79803" width="3.999988" height="1.00001" color="#000000" stroke-width=".666666"/>
             <path d="m389.56764 531.798c-4e-3 0-6e-3 0.223-6e-3 0.5s3e-3 0.5 6e-3 0.5h9.98728c4e-3 0 6e-3 -0.223 6e-3 -0.5s-2e-3 -0.5-6e-3 -0.5z" stroke-width=".79056048"/>
-            <text x="391.49927" y="530.59259" font-family="monospace" font-size="21.333334px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="391.49927" y="530.59259" fill="#d6d6d6" font-family="'Nimbus Sans'" font-size="10.666667px">6</tspan></text>
-            <text x="391.93033" y="541.3819" font-family="'Noto Sans'" font-size="10.666667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="391.93033" y="541.3819">3</tspan></text>
+            <text x="391.49927" y="530.59259" font-family="monospace" font-size="21.333334px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve">
+                <tspan x="391.49927" y="530.59259" fill="#d6d6d6" font-family="'Nimbus Sans'" font-size="10.666667px">6</tspan>
+            </text>
+            <text x="391.93033" y="541.3819" font-family="'Noto Sans'" font-size="10.666667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve">
+                <tspan x="391.93033" y="541.3819">3</tspan>
+            </text>
             <path d="m400.57083 530.798c-2e-3 0-2e-3 0.223-2e-3 0.5s8e-4 0.5 2e-3 0.5h3.9952c2e-3 0 2e-3 -0.223 2e-3 -0.5s-7.3e-4 -0.5-2e-3 -0.5z" stroke-width=".50001234"/>
             <path d="m400.57083 532.798c-2e-3 0-2e-3 0.223-2e-3 0.5s8e-4 0.5 2e-3 0.5h3.9952c2e-3 0 2e-3 -0.223 2e-3 -0.5s-7.3e-4 -0.5-2e-3 -0.5z" stroke-width=".50001234"/>
             <text x="405.63394" y="535.73547" font-family="'Noto Sans'" font-size="10.666667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="405.63394" y="535.73547">2</tspan></text>

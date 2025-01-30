@@ -1,29 +1,45 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 160.03045 32.952937" xml:space="preserve" sodipodi:docname="logo.svg" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
-	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1377" id="namedview79" showgrid="false" inkscape:zoom="11.231788" inkscape:cx="83.859901" inkscape:cy="16.667431" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="g76" inkscape:document-rotation="0"/>
-	<style type="text/css" id="style2">
-	.st0{fill:#36499B;}
-	.st1{fill:#0081C3;}
-	.st2{fill:#67CFEE;}
-	.st3{fill:#9D7AD1;}
-	.st4{fill:#FF5892;}
-	.st5{fill:#E470C0;}
-</style>
-	<g id="g76" transform="translate(-2.3517247,0.93564384)">
-		<circle class="st1" cx="27.615725" cy="11.960563" id="circle66" r="3.1671591" style="stroke-width:1.31965"/>
-		<circle class="st2" cx="28.11039" cy="18.931652" id="circle68" r="3.1671591" style="stroke-width:1.31965"/>
-		<circle class="st3" cx="36.414062" cy="14.542983" id="circle70" r="3.1671591" style="stroke-width:1.31965"/>
-		<circle class="st4" cx="38.431286" cy="20.84697" id="circle72-3" style="fill:#ff5892;stroke-width:0.855809" r="2.0539334"/>
-		<circle class="st4" cx="24.240574" cy="4.7224884" id="circle72-3-7" style="fill:#ff5892;stroke-width:0.70742" r="1.6978014"/>
-		<circle class="st2" cx="32.485462" cy="9.6702404" id="circle68-7-2" style="fill:#67cfee;stroke-width:0.416117" r="0.99868017"/>
-		<circle class="st3" cx="31.050169" cy="15.438481" id="circle70-9-7" style="fill:#9d7ad1;stroke-width:0.416117" r="0.99868017"/>
-		<circle class="st5" cx="36.619339" cy="25.412642" id="circle74-5-9" style="fill:#e470c0;stroke-width:0.416117" r="0.99868017"/>
-		<circle class="st1" cx="39.900227" cy="26.93733" id="circle66-5-3-0" style="fill:#0081c3;stroke-width:0.416117" r="0.99868017"/>
-		<circle class="st4" cx="28.027283" cy="6.6623545" id="circle72-3-6-6" style="fill:#ff5892;stroke-width:0.573475" r="1.3763392"/>
-		<circle class="st3" cx="32.979218" cy="23.757919" id="circle70-9-9-6-8" style="fill:#9d7ad1;stroke-width:0.573475" inkscape:transform-center-x="-0.64920976" inkscape:transform-center-y="3.0296455" r="1.3763392"/>
-		<circle class="st5" cx="33.938698" cy="19.919167" id="circle74-5-0-7-3" style="fill:#e470c0;stroke-width:0.573475" r="1.3763392"/>
-		<text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none" x="45.501362" y="24.470772" id="text679">
-			<tspan sodipodi:role="line" id="tspan677" x="45.501362" y="24.470772" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#666666">tatic.io</tspan>
-		</text>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160.03045 32.952937">
+    <style type="text/css" id="style2">
+    .st0 {
+        fill: #36499B;
+    }
+
+    .st1 {
+        fill: #0081C3;
+    }
+
+    .st2 {
+        fill: #67CFEE;
+    }
+
+    .st3 {
+        fill: #9D7AD1;
+    }
+
+    .st4 {
+        fill: #FF5892;
+    }
+
+    .st5 {
+        fill: #E470C0;
+    }
+    </style>
+    <g id="g76" transform="translate(-2.3517247,0.93564384)">
+        <circle class="st1" cx="27.615725" cy="11.960563" id="circle66" r="3.1671591" style="stroke-width:1.31965" />
+        <circle class="st2" cx="28.11039" cy="18.931652" id="circle68" r="3.1671591" style="stroke-width:1.31965" />
+        <circle class="st3" cx="36.414062" cy="14.542983" id="circle70" r="3.1671591" style="stroke-width:1.31965" />
+        <circle class="st4" cx="38.431286" cy="20.84697" id="circle72-3" style="fill:#ff5892;stroke-width:0.855809" r="2.0539334" />
+        <circle class="st4" cx="24.240574" cy="4.7224884" id="circle72-3-7" style="fill:#ff5892;stroke-width:0.70742" r="1.6978014" />
+        <circle class="st2" cx="32.485462" cy="9.6702404" id="circle68-7-2" style="fill:#67cfee;stroke-width:0.416117" r="0.99868017" />
+        <circle class="st3" cx="31.050169" cy="15.438481" id="circle70-9-7" style="fill:#9d7ad1;stroke-width:0.416117" r="0.99868017" />
+        <circle class="st5" cx="36.619339" cy="25.412642" id="circle74-5-9" style="fill:#e470c0;stroke-width:0.416117" r="0.99868017" />
+        <circle class="st1" cx="39.900227" cy="26.93733" id="circle66-5-3-0" style="fill:#0081c3;stroke-width:0.416117" r="0.99868017" />
+        <circle class="st4" cx="28.027283" cy="6.6623545" id="circle72-3-6-6" style="fill:#ff5892;stroke-width:0.573475" r="1.3763392" />
+        <circle class="st3" cx="32.979218" cy="23.757919" id="circle70-9-9-6-8" style="fill:#9d7ad1;stroke-width:0.573475" r="1.3763392" />
+        <circle class="st5" cx="33.938698" cy="19.919167" id="circle74-5-0-7-3" style="fill:#e470c0;stroke-width:0.573475" r="1.3763392" />
+        <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none" x="45.501362" y="24.470772" id="text679">
+            <tspan id="tspan677" x="45.501362" y="24.470772" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#666666">tatic.io</tspan>
+        </text>
+    </g>
 </svg>

@@ -1,12 +1,11 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 210 297" version="1.1" id="svg8" sodipodi:docname="hanami.svg" inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
-	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="348.57143" inkscape:cy="560" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1252" inkscape:window-height="943" inkscape:window-x="0" inkscape:window-y="23" inkscape:window-maximized="0"/>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" style="display:inline">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 297">
+	<g>
 		<rect style="fill:#ff6600;stroke-width:0.264583" id="rect24" width="261.55951" height="266.09525" x="-33.261898" y="12.095232"/>
 		<path style="fill:#f4ac00;stroke-width:2.85714;fill-opacity:1" d="M -125.71429,548.57143 V 44.285714 H 368.57143 862.85714 V 548.57143 1052.8571 H 368.57143 -125.71429 Z" id="path851" transform="scale(0.26458333)"/>
 		<path style="fill:#f4ac00;fill-opacity:1;stroke-width:0.755952" d="M -33.261905,132.44284 V -0.98273838 H 97.517856 228.29762 V 132.44284 265.86842 H 97.517856 -33.261905 Z" id="path853"/>
 		<text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583" x="-1.5119026" y="161.24464" id="text861">
-			<tspan sodipodi:role="line" id="tspan859" x="-1.5119026" y="161.24464" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#f2f2f2;stroke-width:0.264583">Hanami</tspan>
+			<tspan id="tspan859" x="-1.5119026" y="161.24464" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#f2f2f2;stroke-width:0.264583">Hanami</tspan>
 		</text>
 	</g>
 </svg>

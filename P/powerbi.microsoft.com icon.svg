@@ -14,7 +14,6 @@
       <stop offset="1" stop-color="#f9e589"/>
     </linearGradient>
   </defs>
-  <text transform="translate(0 -18.341)" fill="#b4b4b4" font-family="SegoeUI-Semibold, &apos;Segoe UI&apos;" font-size="48" font-weight="700"><tspan x="0" y="0">48x</tspan></text>
   <g>
     <path d="M42,46.003V1.997c-.002-1.103-.896-1.997-2-1.997h-12c-1.105,0-2,.895-2,2v3.136h0V48h14.001c1.103,0,1.997-.894,1.999-1.997Z" fill="url(#uuid-fb137de6-8df4-4210-b155-9a7c327a77b8)"/>
     <path d="M30,12h-12.001c-1.103,0-1.997,.894-1.999,1.998V48h16V14c0-1.105-.895-2-2-2Z" fill="url(#uuid-a31c695f-58e7-4061-a4db-21735696303d)"/>

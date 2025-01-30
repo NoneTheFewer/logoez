@@ -1,19 +1,15 @@
 <?xml version="1.0" ?>
-<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 128 128" id="svg3054" version="1.1" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="sc-apps-pvfViewer.svgz" inkscape:export-filename="/common/linux/development/git/SymbolEditor/icon_sources/SymbolEditor.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
-	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10000" gridtolerance="10000" guidetolerance="10000" inkscape:pageopacity="0.52941176" inkscape:pageshadow="2" inkscape:window-width="1600" inkscape:window-height="835" id="namedview3070" showgrid="true" inkscape:zoom="6.51" inkscape:cx="59.610847" inkscape:cy="37.003292" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3054" showborder="true" inkscape:showpageshadow="false" borderlayer="true">
-		<inkscape:grid type="xygrid" id="grid3081" empspacing="4" visible="true" enabled="true" snapvisiblegridlinesonly="true"/>
-	</sodipodi:namedview>
-	<defs id="defs3056">
-		<linearGradient id="linearGradient3871" osb:paint="solid">
-			<stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop3873"/>
-		</linearGradient>
-		<linearGradient inkscape:collect="always" xlink:href="#linearGradient3871" id="linearGradient3875" x1="71.21539" y1="90" x2="120.78461" y2="90" gradientUnits="userSpaceOnUse"/>
-	</defs>
-	<rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3000" width="128" height="128" x="-2.1316282e-14" y="-5.6843419e-14"/>
-	<text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:43.62857056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09071445" x="12.909208" y="42.642647" id="text831" transform="scale(0.96844738,1.0325806)">
-		<tspan sodipodi:role="line" id="tspan829" x="12.909208" y="42.642647" style="stroke-width:1.09071445">PVF</tspan>
-	</text>
-	<rect style="fill:none;fill-opacity:0.31651378;stroke:#010000;stroke-width:0.9682458;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect833" width="112" height="120" x="8" y="4"/>
-	<rect style="fill:none;fill-opacity:0.31651378;stroke:#010000;stroke-width:0.94280905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect845" width="96" height="64" x="16" y="52"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+    <defs id="defs3056">
+        <linearGradient id="linearGradient3871">
+            <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop3873" />
+        </linearGradient>
+        <linearGradient xlink:href="#linearGradient3871" id="linearGradient3875" x1="71.21539" y1="90" x2="120.78461" y2="90" gradientUnits="userSpaceOnUse" />
+    </defs>
+    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3000" width="128" height="128" x="-2.1316282e-14" y="-5.6843419e-14" />
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:43.62857056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09071445" x="12.909208" y="42.642647" id="text831" transform="scale(0.96844738,1.0325806)">
+        <tspan id="tspan829" x="12.909208" y="42.642647" style="stroke-width:1.09071445">PVF</tspan>
+    </text>
+    <rect style="fill:none;fill-opacity:0.31651378;stroke:#010000;stroke-width:0.9682458;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect833" width="112" height="120" x="8" y="4" />
+    <rect style="fill:none;fill-opacity:0.31651378;stroke:#010000;stroke-width:0.94280905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect845" width="96" height="64" x="16" y="52" />
 </svg>
