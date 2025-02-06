@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 61 61" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<use xlink:href="#A" x=".5" y=".5"/>
+	<symbol id="A" overflow="visible">
+		<g stroke="none">
+			<circle cx="30" cy="30" fill="#000" r="30"/>
+			<path d="M35.1 19.2C24.3 10.8 16.2 21.6 18 29.4c3.6 10.2 13.2 8.1 16.2 5.4 1.275-.6-.6 10.8-12.6 3.6-.6.9-1.8 3.9-2.4 5.1 5.7 3.3 13.2 3 15.3 2.25C38.4 44.4 42.6 42.9 42 27l-.15-9.9H35.1c-.15 0 .15 2.1 0 2.1z"/>
+			<ellipse cx="29.85" cy="26.7" fill="#000" rx="4.65" ry="4.05"/>
+		</g>
+	</symbol>
+</svg>
