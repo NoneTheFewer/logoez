@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1292 1558">
+	<title>logo-1-svg</title>
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(569.549,0,0,569.549,484.619,682.936)">
+			<stop offset=".01" stop-color="#eac524"/>
+			<stop offset=".39" stop-color="#cf9b17"/>
+			<stop offset=".78" stop-color="#965725"/>
+			<stop offset="1" stop-color="#cf9b17"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: #16355b } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m1102.5 713.6c81-75.3 132.4-182 132.4-301.4 0-227.6-184-412.2-411.3-412.2h-823.6v1557.3h823.6c258.6 0 468.2-209.9 468.2-468.9 0-153.9-75.1-289.3-189.4-374.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m903.5 915.5c0 171.2-138.4 310.1-309.4 310.1-170.9 0-309.4-138.9-309.4-310.1 0-210.5 242.1-278.1 302.6-568.8 1.5-7 1.9-14.8 6.8-14.8 5 0 5.4 7.8 6.8 14.8 60.4 290.7 302.6 358.3 302.6 568.8zm-486.4 148c36.6 33.5 86.1-6.8 43.1-49.8-50.1-49.9-129.2-133.7-21.5-302.3-100.2 116.5-135.3 247.7-21.6 352.1z"/>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1458 1441">
+	<title>london-metric-property-plc-seeklogo</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m780.26 358.86c54.11 0 210.27 21.54 406.14 240.16 20.47 22.76 41.25 47.72 62.52 75.06 111.97 113.57 248.66 331.49 199.02 417.44-102.35 177.15-843.01 300.39-866.13 304.09l-0.18-0.98c349.23-73.18 416.93-241.24 420.11-249.55l0.94 0.35c54.25-127.47-27.59-463.29-242.96-785.24q1.33-0.14 3.95-0.56c3.39-0.35 8.98-0.77 16.59-0.77z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="2950.2" y1="571.9" x2="2457.8" y2="-724" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3da8d0"/>
+			<stop offset="0" stop-color="#3da8d0"/>
+			<stop offset=".1" stop-color="#ace2f3"/>
+			<stop offset=".4" stop-color="#3ea2cd"/>
+			<stop offset="1" stop-color="#348fc4"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m193.46 473.13l0.98 0.35c-111.19 338.85 0.66 481.4 6.25 488.45l-0.77 0.56c83.35 110.67 415.15 207.76 801.89 182.34q-0.6 1.29-1.47 3.77c-11.28 25.18-90.93 177.43-418.78 246.03-30 6.35-62.07 11.94-96.38 16.72-154.33 40.05-411.54 49.51-461.18-36.52-102.36-177.14 161.15-879.85 169.46-901.7z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="-532.9" y1="1911.7" x2="44.5" y2="2251.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#227dbd"/>
+			<stop offset=".2" stop-color="#4993c8"/>
+			<stop offset=".4" stop-color="#1a66ad"/>
+			<stop offset="1" stop-color="#1b2b86"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m490.49 0.73c204.68 0 681.83 579.37 696.57 597.49l-0.81 0.76c-237.99-265.71-417.51-240.19-426.28-238.9l-0.14-0.87c-137.57 16.76-387.69 255.48-559 602.79q-0.84-1.08-2.48-3.07c-16.28-22.42-108.26-167.48-3.91-485.52 9.5-29.19 20.68-59.63 33.74-91.75 42.44-153.65 162.96-380.93 262.31-380.93z"/>
+		</clipPath>
+		<linearGradient id="g3" x1="-50.7" y1="-788.2" x2="-601.8" y2="-296.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#227dbd"/>
+			<stop offset=".2" stop-color="#4993c8"/>
+			<stop offset=".4" stop-color="#1a66ad"/>
+			<stop offset="1" stop-color="#1b2b86"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="layer">
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+			<path id="&lt;Path&gt;" class="s0" d="m697.2 1699.6l-460-1209.9 1144.8-434.8 460 1209.9z"/>
+		</g>
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp2)">
+			<path id="&lt;Path&gt;" class="s1" d="m199.6 1.2l1234.2 726.1-709.9 1205.5-1234.3-726.1z"/>
+		</g>
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp3)">
+			<path id="&lt;Path&gt;" class="s2" d="m1664.9 535.9l-1088.6 970.7-964-1079.8 1088.6-970.7z"/>
+		</g>
+	</g>
+</svg>

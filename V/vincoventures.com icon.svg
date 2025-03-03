@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1594 1496">
+	<title>en-logo-dark-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="178.4" y1="1305.5" x2="1583.8" y2="-34.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff009c"/>
+			<stop offset="1" stop-color="#ffbf00"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Logo Assets/logo-600px">
+		<g id="Group">
+			<g id="Group_3">
+				<path id="Vector_13" fill-rule="evenodd" class="s0" d="m1098.4 1314.8c-258.4 259.5-682.4 223.1-907.1-1.4-252.8-252.6-255.6-652.5-1.4-906.5 226.1-225.9 600.9-310.1 1009.5-366.2l-56.1 108 450.7-148.7-372.1 683.3 217.7-49.1c0 0-67.4 408.3-341.2 680.6zm-217.7-233c127.8-127.7 127.8-332.5 0-460.2-127.8-127.7-332.8-127.7-460.6 0-127.7 127.7-127.7 332.5 0 460.2 127.8 126.3 334.2 126.3 460.6 0z"/>
+			</g>
+		</g>
+	</g>
+</svg>

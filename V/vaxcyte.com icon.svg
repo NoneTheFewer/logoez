@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1424 1548">
+	<title>Vaxcyte-Logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2711.17 0h9620.25v3085.52h-9620.25z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #838993 } 
+		.s1 { fill: #47474c } 
+		.s2 { fill: #72bf44 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m957.1 889l466.2 658.2h-357.4l-286-407.8zm-313.1 250.3l-286 407.8h-357.4l466.1-658.1z"/>
+			<path id="Layer" class="s1" d="m1423.3 230.9l-643.4 908.4v-500.5-0.1 0.1l286-407.9zm-779.3 407.9v-0.1 0.1 500.5l-643.4-908.4h357.4z"/>
+			<path id="Layer" class="s2" d="m358.2 0h707.8l-353.9 501.6z"/>
+		</g>
+	</g>
+</svg>

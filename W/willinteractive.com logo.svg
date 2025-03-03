@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" class="will-logo-svg " version="1.1" viewBox="0 0 141 32" xml:space="preserve" preserveAspectRatio="xMinYMid">
+	<polygon style="fill: #2d2e2f;" class="letter-fill" points="34.859,0 30.43,18.43 27.083,6.63 17.154,6.61 14.155,18.712 9.272,0 0,0 7.155,32 18.265,32 22.296,18.487 25.881,32 37.031,32 44.186,0"/>
+	<polygon style="fill: #2d2e2f;" class="letter-fill" points="61,0 61,32 82,32 82,23 70.297,23 70.297,0"/>
+	<polygon style="fill: #2d2e2f;" class="letter-fill" points="86,0 86,32 106.8,32 106.8,23 95.297,23 95.297,0"/>
+	<polygon style="fill: #2d2e2f;" class="letter-fill" points="48.754,0 46.703,10.084 46.703,32 56,32 56,0"/>
+	<linearGradient id="logo_inline_7531_1" gradientUnits="userSpaceOnUse" x1="125.5329" y1="1.3163" x2="132.1996" y2="22.3163">
+		<stop offset="0" style="stop-color:#2D7DD2"/>
+		<stop offset="1" style="stop-color:#4DB794"/>
+	</linearGradient>
+	<path class="play-fill" style="fill: url(#logo_inline_7531_1);" d="M127.111,12.664l4.492-2.91l-8.729-6.129l2.713,8.495 C125.81,12.817,126.496,13.062,127.111,12.664z"/>
+	<linearGradient id="logo_inline_7531_2" gradientUnits="userSpaceOnUse" x1="116.8187" y1="4.0827" x2="123.4854" y2="25.0827">
+		<stop offset="0" style="stop-color:#2D7DD2"/>
+		<stop offset="1" style="stop-color:#4DB794"/>
+	</linearGradient>
+	<path class="play-fill" style="fill: url(#logo_inline_7531_2);" d="M123.551,14.97c0.615-0.398,0.936-1.296,0.713-1.994l-3.449-10.797l-1.842-1.293 C117.888,0.124,117,0.585,117,1.912v17.302L123.551,14.97z"/>
+	<linearGradient id="logo_inline_7531_3" gradientUnits="userSpaceOnUse" x1="128.1892" y1="0.473" x2="134.8559" y2="21.473">
+		<stop offset="0" style="stop-color:#2D7DD2"/>
+		<stop offset="1" style="stop-color:#4DB794"/>
+	</linearGradient>
+	<path class="play-fill" style="fill: url(#logo_inline_7531_3);" d="M138.526,14.614l-5.578-3.917l-5.357,3.47c-0.615,0.398-0.936,1.296-0.713,1.994l2.453,7.68 l9.195-6.456C139.612,16.624,139.612,15.376,138.526,14.614z"/>
+	<linearGradient id="logo_inline_7531_4" gradientUnits="userSpaceOnUse" x1="115.2075" y1="4.5942" x2="121.8742" y2="25.5942">
+		<stop offset="0" style="stop-color:#2D7DD2"/>
+		<stop offset="1" style="stop-color:#4DB794"/>
+	</linearGradient>
+	<path class="play-fill" style="fill: url(#logo_inline_7531_4);" d="M125.555,17.019c-0.223-0.698-0.909-0.943-1.524-0.545L117,21.029v9.059 c0,1.326,0.888,1.788,1.974,1.026l9.054-6.357L125.555,17.019z"/>
+</svg>

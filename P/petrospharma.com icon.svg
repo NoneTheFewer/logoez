@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1452 1522">
+	<title>petros_logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0.48L1451.17 0.48L1451.17 1235.69L0 1235.69L0 0.48Z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #091c4e } 
+	</style>
+	<g id="Final-Website">
+		<g id="Homepage-F0">
+			<g id="Group-19">
+				<g id="Group-16">
+					<g id="Clip-15">
+					</g>
+					<g id="Clip-Path: Fill-14" clip-path="url(#cp1)">
+					</g>
+				</g>
+				<path id="Fill-14" fill-rule="evenodd" class="shp0" d="M773.36 41.52L1451.17 1235.69L1288.94 1235.69L703.47 204.39L199.32 1092.7L279.67 1092.7L198.17 1235.69L60.61 1235.69C14.02 1235.69 -15.1 1184.39 8.2 1143.34L633.59 41.52C664.65 -13.21 742.3 -13.21 773.36 41.52ZM672.96 585.41C688.91 559.03 728.8 559.03 744.76 585.41L1089.82 1155.67C1113.76 1195.23 1083.84 1244.68 1035.97 1244.68L518.96 1244.68L565.02 1168.69L565.15 1168.69L602.73 1106.85L893.48 1106.85L708.86 801.38L440.7 1244.68L357.56 1382.33L273.15 1521.81L106.28 1521.81L190.69 1382.33L274.03 1244.68L672.96 585.41Z"/>
+			</g>
+		</g>
+	</g>
+</svg>

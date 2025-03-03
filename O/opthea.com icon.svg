@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1543 1553">
+	<title>OPT_BIG copy-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1042" y1="960" x2="462" y2="238.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#73caea"/>
+			<stop offset="1" stop-color="#0071b9"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1113.3" y1="1216.4" x2="363.5" y2="282.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0071b9"/>
+			<stop offset=".4" stop-color="#72c4ef"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1079.9" y1="1315.4" x2="500.3" y2="593.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00afb7"/>
+			<stop offset="1" stop-color="#73caea"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { mix-blend-mode: multiply;fill: url(#g3) } 
+	</style>
+	<g id="Clip-Path: Page 1">
+		<g id="Page 1">
+			<path id="Path 2" class="s0" d="m1531.1 849.5c-24.1 283.1-205.1 542.1-488.2 651.3-395.9 153.4-840.8-43.2-993.7-438.7-26.8-68.6-49.1-208.6-49.1-208.6 737.4 903.3 1531-4 1531-4z"/>
+			<path id="Path 2" class="s1" d="m776.3 0.1c308.1 0 598.7 186.8 716.9 491.3 26.3 68.7 49 208.7 49 208.7-737.8-903.7-1531.4 3.6-1531.4 3.6 24.1-283.1 205.5-541.7 488.2-651.4 91.4-35.2 185-52.2 277.3-52.2z"/>
+			<path id="Path 3" class="s2" d="m749.5 108c147.2 0 334.4 51.7 507.8 252.4 228.3 284 182.8 700.4-101.2 928.7-221.1 177.4-522.9 189-753 51.7 0 0 575.6-83.8 632.2-539 50.8-410.2-551-636.3-551-636.3 0 0 110.1-57.5 265.2-57.5z"/>
+			<g id="&lt;Group&gt;">
+				<path id="Path 5" class="s3" d="m1531.1 849.5c-24.1 283.1-205.1 542.1-488.2 651.3-89.6 34.8-181.9 51.8-272.8 52.2h-9c-306.2-1.8-594.7-188.1-712.4-490.9-26.3-68.6-48.6-208.6-48.6-208.6 737.4 903.3 1531-4 1531-4z"/>
+			</g>
+		</g>
+	</g>
+</svg>

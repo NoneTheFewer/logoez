@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1515 1543">
+	<title>LASE_BIG copy-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-10123.59-1221.69h16943.39v21925.12h-16943.39z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-175.17-225.1h6038.7v1993.2h-6038.7z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ff2e17 } 
+		.s1 { fill: #43454b } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<g id="Clip-Path: Clip-Path: Mask" clip-path="url(#cp2)">
+					<g id="Clip-Path: Mask">
+						<g id="Mask">
+							<path id="Path 58" class="s0" d="m769.3 0.4l-119.2 250.8h-349l120.6-250.8zm-142.7 299.1l-36 74.8h-347.1l35.9-74.8zm-59.5 121.6l-36 74.8h-347.5l35.9-74.8zm-56.6 120.6l-57.1 119.1h355.9l-103.8 217.4h-704.5l161.9-336.5z"/>
+							<path id="Path 59" fill-rule="evenodd" class="s1" d="m1400.4 660.8c148.2 47.2 110.8 197.8 106.4 217.4-26.1 0-286.5 0-286.5 0 0 0-4-61-77.4-59.5-70.4 1.1-87.1 59.5-87.1 59.5h-350.5l105.4-217.4c574.5 0 573 0 589.7 0zm-368.2 264.3l-32 74.8h-351.5l35.9-74.8zm465.2-1.5l-22.1 76.3h-310.1l33.4-74.8zm-519.3 119.1l-38.5 74.7-347.6 1.5 36-76.2zm476.1 1.4c0 0-17.8 41.4-51.2 73.3l-390.4 1.5 41.7-76.2zm-533.1 123l-177.2 374-353 1.4 177.2-375.4z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

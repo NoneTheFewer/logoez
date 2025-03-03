@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1533 1470">
+	<title>logo (1)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1109.5" y1="1469.5" x2="1109.5" y2="4.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6387ff"/>
+			<stop offset="1" stop-color="#aa06b7"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1247" y1="1470.5" x2="1247" y2="5.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6387ff"/>
+			<stop offset="1" stop-color="#aa06b7"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="423.5" y1="1469.5" x2="423.5" y2="4.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6387ff"/>
+			<stop offset="1" stop-color="#aa06b7"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="286" y1="1470.5" x2="286" y2="5.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6387ff"/>
+			<stop offset="1" stop-color="#aa06b7"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="logo">
+		<g id="Group_46">
+			<path id="fullLogo-7" class="s0" d="m1344.2 0l63.1 65.1-506.6 543.2v861.2h-89v-879.9q0-4.5 0.8-8.8 0.8-4.3 2.4-8.5 1.6-4.1 4-7.8 2.3-3.8 5.4-7z"/>
+			<path id="fullLogo-8" class="s1" d="m961.1 663.5l508.8-545.4 63.1 65-507.8 544.4z"/>
+			<path id="fullLogo-9" class="s2" d="m708.8 557.5q3 3.2 5.3 7 2.4 3.7 4 7.8 1.6 4.2 2.4 8.5 0.8 4.3 0.8 8.8v879.9h-89v-861.2l-506.5-543.2 63.1-65.1z"/>
+			<path id="fullLogo-10" class="s3" d="m507.7 727.5l-507.6-544.4 63.1-65 508.6 545.4z"/>
+		</g>
+	</g>
+</svg>

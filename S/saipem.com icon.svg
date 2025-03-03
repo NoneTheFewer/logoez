@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1598 1596">
+	<title>saipem-dark-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0.23h5005.54v1595.77h-5005.54z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0.23h5005.54v1595.77h-5005.54z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #e98300 } 
+		.s1 { fill: #22505f } 
+	</style>
+	<g id="--COMPONENTS-/-Atoms-/-Logo-/-Longversion-/-Green">
+		<g id="Group-12">
+			<g id="Clip-Path: Fill-10" clip-path="url(#cp1)">
+				<path id="Fill-10" class="s0" d="m350.6 584v270.2l895.9 177.4v-270z"/>
+			</g>
+			<g id="Clip-Path: Fill-11" clip-path="url(#cp2)">
+				<path id="Fill-11" fill-rule="evenodd" class="s1" d="m1329 769.1l268.1 52.4v774.5h-759.3v-267.9l491.2-1.7zm268.1-768.9v398.4h-268.1v-132.8h-491.2v-265.6zm-1331.3 1327.9h493.5v267.9h-759.3v-400.6h265.8zm-265.8-1327.9h759.3v265.6h-493.5v560.4l-265.8-51.6z"/>
+			</g>
+		</g>
+	</g>
+</svg>

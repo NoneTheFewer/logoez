@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 822 1500">
+	<title>pepgen-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="47.7" y1="1100.2" x2="875" y2="556.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#349ea8"/>
+			<stop offset=".7" stop-color="#96d4ce"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="529" y1="440.9" x2="-384.6" y2="-152.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0b4d85"/>
+			<stop offset=".1" stop-color="#175c94"/>
+			<stop offset=".3" stop-color="#327db3"/>
+			<stop offset=".5" stop-color="#4595c9"/>
+			<stop offset=".6" stop-color="#50a3d6"/>
+			<stop offset=".8" stop-color="#54a8db"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="198" y1="1270.4" x2="154.6" y2="1053" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0b4d85"/>
+			<stop offset="1" stop-color="#05262f"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m0.3 1500v-552.1c0-179.5 116.4-289.3 286-352.5l299.4-116.4c103.1-43.2 192.9-119.7 139.7-176.2 76.5 56.5 96.5 139.6 96.5 249.4 0 109.7-39.9 229.5-206.3 309.3l-319.3 143c-256.1 116.4-269.4 492.2-296 495.5z"/>
+				<path id="Layer" class="s1" d="m0.3 203v-202.9l578.8 226.2c63.2 23.2 113 49.9 146.3 76.5 53.2 56.5-36.6 133-139.7 176.2l-192.9 76.5-176.3-66.5c-169.7-56.5-216.2-176.3-216.2-286z"/>
+				<path id="Layer" class="s2" d="m379.5 1074.3c3.3 206.2-63.2 292.7-202.9 349.2l-173 73.2c23.3-16.7 43.2-379.2 292.7-492.2l83.2-36.6z"/>
+			</g>
+		</g>
+	</g>
+</svg>

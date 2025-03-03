@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 535 534">
+	<title>Tilray_MedMen_Presentation_August 17 2021-2-pdf-svg copy-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-4364.57 -20997.52L34733.12 -20997.52L34733.12 1018.36L-4364.57 1018.36L-4364.57 -20997.52Z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M2404.22 0.61L2404.22 536.08L0.13 536.08L0.13 0.61"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #0f191c } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<g id="Clip-Path: Clip-Path: Mask" clip-path="url(#cp2)">
+					<g id="Clip-Path: Mask">
+						<g id="Mask">
+							<path id="Path 7" fill-rule="evenodd" class="shp0" d="M497.97 401.81L267.28 0.08C415.08 0.08 534.72 119.31 534.72 266.74C534.72 316.15 521.28 362.35 497.97 401.81ZM417.76 487.48L267.82 225.92L117.35 488.02C160.26 516.75 211.77 533.93 267.28 533.93C323.08 533.93 374.87 516.75 417.76 487.48ZM202.64 112.58L267.28 0.08C119.77 0.08 0.13 119.31 0.13 266.74C0.13 316.15 13.27 362.35 36.61 401.81L137.73 225.92L267.82 225.92L202.64 112.58Z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

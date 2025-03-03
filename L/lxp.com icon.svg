@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1572 739">
+	<title>Supplemental-2q2022-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-5233.39-618.24h12038.78v9019.41h-12038.78z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="1185.3" y1="-86.5" x2="1171.1" y2="736.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b9f2"/>
+			<stop offset="1" stop-color="#0f2f93"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="393" y1="807.7" x2="393" y2="-145.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b9f2"/>
+			<stop offset="1" stop-color="#0f2f93"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 5" class="s0" d="m1572 181.3v375.7l-786 181.3v-738.3z"/>
+			<path id="Path 6" class="s1" d="m786 0v738.3l-786-181.3v-375.7z"/>
+			<path id="Path 10" fill-rule="evenodd" class="s2" d="m395.3 252.5v180.8h162.3v52.5h-239.6v-233.3zm551.8 0l-114.1 111.8 119 121.5h-96.1l-71.6-76.1-75.1 76.1h-93.4l122.6-119.7-110.5-113.6h95.3l64.2 68.2 66.9-68.2zm93.5 233.3v-233.3h161c41.1 0 70.9 9.2 90.7 26.7 15 13.3 23.8 30.1 23.8 49 0 20.4-10.6 38.6-28.3 52.1-18.9 14.8-46 23.3-86.2 23.3h-83.6v82.2zm77.5-182.6v49.7h88c9.7 0 17.6-2.1 22.9-6.5 5.7-4.7 9.7-11.3 9.7-18.2 0-6.8-3.4-13.5-9.2-18.2-6.3-5-14.6-6.8-23.4-6.8z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1393 1508">
+	<title>download (3)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2906.8-13.78h7227.97v3113.86h-7227.97zm1.09 14.23h4297.72v3055.99h-4297.72z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #eac24b } 
+		.s1 { fill: none } 
+		.s2 { fill: #000000 } 
+		.s3 { fill: #4abfe1 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m45.2 278.6l267.8-221.6l1033.3 1171l-267.8 221.6z"/>
+		<g id="Layer">
+			<path id="path-2" class="s1" d="m-2905.7 0.5h4297.7v3055.9h-4297.7z"/>
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<g id="Layer">
+					<path id="Layer" fill-rule="evenodd" class="s2" d="m0.9 999.3h362.5v507.9h-362.5z"/>
+					<path id="Layer" fill-rule="evenodd" class="s3" d="m1.9 180.6c0-99.5 80.7-180.1 180.2-180.1c99.6 0 180.3 80.6 180.3 180.1l1 39.6v778.7h-362.5v-778.7z"/>
+					<path id="Layer" fill-rule="evenodd" class="s2" d="m1029.5 0.5h362.5v507.8h-362.5z"/>
+					<path id="Layer" fill-rule="evenodd" class="s3" d="m1391 1327c0 99.6-80.7 180.2-180.3 180.2c-99.5 0-180.2-80.6-180.2-180.2l-1-39.5v-778.8h362.5v778.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

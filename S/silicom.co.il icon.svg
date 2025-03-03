@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1590 841">
+	<title>SILC_BIG copy-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1.23-1.23h4392.83v1505.66h-4392.83z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: #b81f25 } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 1" fill-rule="evenodd" class="s0" d="m687.3 264.8v-26.2c0-234.5-143.4-238.2-335-238.2-48.4 0-96.8 3.7-145.2 7.4-147 11.2-204.6 85.7-204.6 230.8 0 275.6 145.2 253.3 385.1 268.1 61.4 3.7 104.3 3.7 104.3 78.2 0 74.5-44.7 82-100.6 82h-94.9c-68.7 0-83.7-37.3-83.7-100.6h-212.1c0 264.3 119.1 273.7 348 273.7h54c87.5 0 182.4-5.7 251.1-61.4 57.7-50.3 57.7-139.7 57.7-210.4 0-266.2-226.9-229-420.5-243.9-52-3.8-66.9-28-66.9-78.2 0-74.4 61.3-76.4 119-76.4h22.3c80.1 0 109.9 11.2 109.9 95.1z"/>
+				<path id="Path 2" class="s1" d="m813.6 7.6h188v141.6h-188z"/>
+				<path id="Path 3" class="s0" d="m813.6 255.3h188v578.9h-188zm284.7 579h189.8v-826.6h-189.8z"/>
+				<path id="Path 4" class="s1" d="m1401.7 7.6h187.9v141.6h-187.9z"/>
+				<path id="Path 5" fill-rule="evenodd" class="s0" d="m1401.7 255.3h187.9v578.9h-187.9z"/>
+			</g>
+		</g>
+	</g>
+</svg>

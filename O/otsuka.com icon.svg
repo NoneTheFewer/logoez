@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1276 1543">
+	<title>Otsuka_Holdings_logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-21.78 0.25h1313.68v1263.96h-1313.68z"/>
+		</clipPath>
+		<radialGradient id="g1" cx="421.7" cy="1223.9" r="1288.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9fc9eb"/>
+			<stop offset=".5" stop-color="#76acdc"/>
+			<stop offset="1" stop-color="#0073bc"/>
+		</radialGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-827 0.26h5714.04v2406.65h-5714.04z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #ba0d2b } 
+	</style>
+	<g id="g3344">
+		<g id="g3386">
+			<g id="g3388">
+				<g id="g3394">
+					<g id="g3396">
+						<g id="Clip-Path: g3398" clip-path="url(#cp1)">
+							<g id="g3398">
+								<path id="path3412" class="s0" d="m839.2 0.3c104.2 0 193.7 47.8 253.9 114.1 71 78.2 122.4 153.2 156.1 256.6 42.7 130.5 42.7 260.6-72.4 402.4-98.5 121.2-369.1 320.4-558.5 405.8-189.3 85-340.4-8.3-440.7-169.5-91.5-147.5-145.4-273-170.5-401-28.9-147.8 31.4-265.1 225-385.7 168.6-104.9 437.4-199 548.7-217.8 19.9-3.3 39.4-4.9 58.4-4.9z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g3414">
+			<g id="Clip-Path: g3416" clip-path="url(#cp2)">
+				<g id="g3416">
+					<g id="g3422">
+						<path id="path3424" class="s1" d="m467.6 1291.2c22.7-33.6 52.9-45.1 103.3-31.6 44 11.5 105.3 46.1 120.6 61 22.5 22.3 29.9 44.8 26.1 79.7-3.1 28.6-10.4 52.3-23.9 78.8-19.8 39-47.5 62.8-84 63.4-36.4 0.9-112.7-7.8-156.2-27-43.3-19.3-48.7-65.5-34-115.4 13.4-45.5 28.4-79.7 48.1-108.9z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

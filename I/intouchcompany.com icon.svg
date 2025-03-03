@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1587 608">
+	<title>AGM2023FORM56-1_en-sss1-svg-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1012.3" y1="-341" x2="466.1" y2="605.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#64a52d"/>
+			<stop offset=".2" stop-color="#64a52d"/>
+			<stop offset=".75" stop-color="#c7dc00"/>
+			<stop offset="1" stop-color="#c7dc00"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="856.6" y1="590.8" x2="431.7" y2="83.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c7dc00"/>
+			<stop offset=".15" stop-color="#c7dc00"/>
+			<stop offset=".96" stop-color="#64a52d"/>
+			<stop offset="1" stop-color="#64a52d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="g190">
+		<g id="g206">
+			<g id="g208">
+				<g id="g214">
+					<g id="g216">
+						<path id="path228" class="s0" d="m1102.9 123.1c-290.3 113.9-645.5 227.7-1102.4-53.8 162.9 135.8 668.8 646.3 1244.5 161.6 113.9-96.7 214.3-171.4 341.7-222.8q-33-7.4-67.3-7.4c-123.7 0-260.9 61.2-416.5 122.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g230">
+			<g id="g232">
+				<g id="g238">
+					<g id="g240">
+						<path id="path252" class="s1" d="m208.7 271.2c44.1 62.5 87 112.7 128.7 160.4 431.1 421.1 728.8-44.1 732.4-47.7-242.5 130.9-519.3 156.6-861.1-112.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

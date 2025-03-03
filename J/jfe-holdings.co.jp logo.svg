@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1088 1511">
+	<title>JFE_Holdings_company_logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m543.99 0c300.32 0 541.15 243.68 543.98 544.03 0 300.35-243.66 544.03-543.98 544.03-300.33 0-543.99-243.68-543.99-544.03 0-300.35 243.66-544.03 543.99-544.03zm379.65 544.03c0-209.97-169.7-379.69-379.65-379.69-209.95 0-379.66 169.72-379.66 379.69 0 209.97 169.71 379.69 379.66 379.69 209.95 0 379.65-169.72 379.65-379.69z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="944.4" y1="938" x2="174.7" y2="168.3" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#004da0"/>
+			<stop offset=".8" stop-color="#00b3ec"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m484.49 864.22c-209.95 0-379.66-169.72-379.66-379.69 0-209.97 169.71-379.69 379.66-379.69 209.95 0 379.66 169.72 379.66 379.69 0 209.97-169.71 379.69-379.66 379.69z"/>
+		</clipPath>
+		<radialGradient id="g2" cx="361.4" cy="361.7" r="573.3" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#ffffff"/>
+			<stop offset=".3" stop-color="#00a0de"/>
+			<stop offset=".6" stop-color="#0060af"/>
+			<stop offset=".9" stop-color="#003893"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: #231815 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<path id="Layer" class="s0" d="m246.5 1422.4c0 19.9 0 45.4-31.2 65.2-28.3 17-68 22.7-110.5 22.7-51 0-79.3-8.5-102-14.2v-25.5c11.4 2.9 48.2 14.2 93.5 14.2 17 0 28.4-2.8 34-2.8 45.4-8.5 45.4-28.4 48.2-56.7v-172.9h70.8v170zm206.9 82.2h-70.9v-255h280.5v22.7h-209.6v87.8h181.3v22.7h-181.3zm578 0h-289v-255h283.3v22.6h-212.5v87.9h178.5v22.6h-178.5v96.4h218.2z"/>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<path id="Layer" class="s1" d="m544 1629.3l-1088-1085.3 1088-1088 1085.1 1088z"/>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<path id="Layer" class="s2" d="m104.8 104.8h759.3v759.4h-759.3z"/>
+	</g>
+</svg>

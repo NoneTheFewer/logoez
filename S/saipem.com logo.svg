@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1563 498">
+	<title>saipem-dark-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0.07h1562.08v497.93h-1562.08z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0.07h1562.08v497.93h-1562.08z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m0 0.07h1562.08v497.93h-1562.08z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m0 0.07h1562.08v497.93h-1562.08z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m0 0.07h1562.08v497.93h-1562.08z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m0 0.07h1562.08v497.93h-1562.08z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #22505f } 
+		.s1 { fill: #e98300 } 
+	</style>
+	<g id="--COMPONENTS-/-Atoms-/-Logo-/-Longversion-/-Green">
+		<g id="Group-12">
+			<path id="Fill-1" fill-rule="evenodd" class="s0" d="m755.2 202.3h-74.8c-8.8 0-10.4 0.5-10.4 8.4v3.1c0 4.5 2.6 5.7 8.9 6.9 0 0 47.5 8.8 52.9 9.8 28.4 5.5 34 16.5 34 39.9v20.1c0 29.7-13.2 43.8-55 43.5-31.9 0-83.6-3.8-83.6-3.8l0.5-34.4h77.7c13.2 0 17.7-2.4 17.7-12.5v-7.1c0-3.6-0.7-7-6.1-7.9-5.7-1.2-41.6-7.7-45.4-8.4-30.9-5.5-45.6-7.6-45.6-37.5v-15.3c0-29.9 14.2-43.1 56-43.1 31.9 0 73.7 3.9 73.7 3.9z"/>
+			<path id="Fill-3" fill-rule="evenodd" class="s0" d="m896.1 290.7h-59.7l-11 37.3h-47.4c0 0 47.8-147.6 51.2-157.4 1.9-6.3 2.6-6.6 11.2-6.6h51.7c8.6 0 9.3 0.3 11.2 6.6 3.1 9.8 51 157.4 51 157.4h-47.1zm-50.5-35.4h40.9l-17-58.5h-6.9z"/>
+			<g id="Clip-6">
+			</g>
+			<g id="Clip-Path: Fill-5" clip-path="url(#cp1)">
+				<path id="Fill-5" class="s0" d="m972.5 164h42.5v164h-42.5z"/>
+			</g>
+			<g id="Clip-Path: Fill-7" clip-path="url(#cp2)">
+				<path id="Fill-7" fill-rule="evenodd" class="s0" d="m1088.8 328h-43.4v-164h97c32.4 0 48.9 18.1 48.9 42.4v31.2c0 24.3-16.5 42.6-48.9 42.6h-53.6zm59.2-98.8v-14.1c0-10.5-4.8-16.4-17.3-16.4h-41.9v46.8h41.9c12.5 0 17.3-6 17.3-16.3z"/>
+			</g>
+			<g id="Clip-Path: Fill-8" clip-path="url(#cp3)">
+				<path id="Fill-8" class="s0" d="m1215.6 164h127.7v34.7h-84.2v28.6h71.4v35.6h-71.4v28.3h83.9v36.8h-127.4z"/>
+			</g>
+			<g id="Clip-Path: Fill-9" clip-path="url(#cp4)">
+				<path id="Fill-9" fill-rule="evenodd" class="s0" d="m1505.6 166.1c0 0 0.5-2.1 2.8-2.1h53.7v164h-42.4v-89h-2.4l-28.8 85.9c0 0-0.7 3.1-3.5 3.1h-34c-3.1 0-3.8-3.1-3.8-3.1l-28.8-85.9h-2.3v89h-42.4v-164h53.6c2.4 0 2.8 2.1 2.8 2.1l36.8 97.5h1.9z"/>
+			</g>
+			<g id="Clip-Path: Fill-10" clip-path="url(#cp5)">
+				<path id="Fill-10" class="s1" d="m109.4 182.2v84.3l279.6 55.4v-84.3z"/>
+			</g>
+			<g id="Clip-Path: Fill-11" clip-path="url(#cp6)">
+				<path id="Fill-11" fill-rule="evenodd" class="s0" d="m414.8 240l83.6 16.3v241.7h-236.9v-83.6l153.3-0.5zm83.6-239.9v124.3h-83.6v-41.5h-153.3v-82.8zm-415.5 414.3h154v83.6h-236.9v-125h82.9zm-82.9-414.3h236.9v82.8h-154v174.9l-82.9-16.1z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1066 1510">
+	<title>summitplc-logo_05fd32df-svg</title>
+	<defs>
+		<radialGradient id="g1" cx="723.9" cy="989" r="1110.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2b388f"/>
+			<stop offset=".6" stop-color="#3998d3"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m269.9 355.9c-113.9 186.2-88 417.1 62.8 573.2 99.2 102.7 219 170.6 348.2 224.8 85.2 35.8 169.9 73.3 246.1 127.5 32.5 23 57.9 50.9 59.8 95.1 2.3 50.4-20.7 83.9-63.5 105.4-34.3 17.3-71.2 24.7-108.6 26.8-237.5 12.4-443.3-66.1-610-237.9-251.4-258.9-271.3-667.9-57.6-959.2 188.6-257 524.7-370.8 833.7-280.3 28.9 8.5 58.8 15.9 84.9 34.1-153.4-13.3-305.5-12.4-453.5 36.5-140.6 46.6-261.8 122.2-342.3 254z"/>
+			</g>
+		</g>
+	</g>
+</svg>

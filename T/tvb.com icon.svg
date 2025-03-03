@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1566 1248">
+	<title>Tvb_logo-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-90.41-28.22h4429.13v1291.06h-4429.13z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff;stroke: #a69696;stroke-linecap: square;stroke-linejoin: bevel;stroke-width: 7.1;stroke-dasharray: 7.29275620639775,7.29275620639775 } 
+		.s1 { fill: #00b0ed } 
+		.s2 { fill: #35b256 } 
+		.s3 { fill: #ee3845 } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 3" class="s0" d="m4.3 494.1c0-270.7 219.4-490 490-490h577.5c270.6 0 490 219.3 490 490v259.6c0 270.6-219.4 490-490 490h-577.5c-270.6 0-490-219.4-490-490z"/>
+			<path id="Path 4" class="s1" d="m286 416.6h1004.2c0 0-122.4-324.8-502.9-323.8-380.4 1.5-501.3 323.8-501.3 323.8z"/>
+			<path id="Path 5" class="s2" d="m267.3 460l1038 0.5c35.8 88.2 32.3 233.5 1 310.6h-1040c-31.7-72.6-32.2-235 1-311.1z"/>
+			<path id="Path 6" class="s3" d="m284.5 809.5h1004.2c0 0-122.4 324.7-502.9 323.2-380.4-1-501.3-323.2-501.3-323.2z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1536 460">
+	<title>logo (9)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="611.1" y1="310.7" x2="611.1" y2="191.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="0" stop-color="#f9eef5"/>
+			<stop offset=".2" stop-color="#e6b9d5"/>
+			<stop offset=".3" stop-color="#d58bb9"/>
+			<stop offset=".5" stop-color="#c865a3"/>
+			<stop offset=".6" stop-color="#bd4891"/>
+			<stop offset=".7" stop-color="#b63485"/>
+			<stop offset=".9" stop-color="#b1277e"/>
+			<stop offset="1" stop-color="#b0237b"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #b0237b } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0.9 449.5l333.2-439.2h320.5v51.7h-205.1v336h209.9v51.7h-267.1v-430.7l-326.7 430.5h-64.7"/>
+		<path id="Layer" class="s0" d="m1535.9 10.3v439.4h-43l-241.7-335.9v335.9h-54v-439.4h43.6l241.2 335.9v-335.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m917.1 459.7c-130.9 0-236.7-102.7-236.7-229.7 0-127 105.8-229.6 236.7-229.6 130.9 0 236.7 102.6 236.7 229.6 0 127-105.8 229.7-236.7 229.7zm180.2-229.8c0-99.2-80.3-179.4-179.5-179.4-99.3 0-179.5 80.2-179.5 179.4 0 99.2 80.2 179.3 179.5 179.3 99.2 0 179.5-80.1 179.5-179.3z"/>
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m755.9 169.7c0.5-4.8 8.8-3.9 8.8-3.9 110.7 10.6 145.7 40.7 145.7 63.9 0 40.2-134.1 73.2-299 73.2-165.4 0-299.5-33-299.5-73.2 0-42.4 113.6-73.9 325.3-73.9 0 0 10.2-0.6 10.5 5 0 4.7-10.9 4.1-10.9 4.1-149.4 0-279.6 23.1-279.6 49.6 0 26.6 113.7 48.4 254.2 48.4 139.9 0 248.6-22.3 253.8-48.4 2-10.1-15-31.7-99.4-39.3 0 0-10.4-0.6-9.9-5.5z"/>
+		</g>
+		<path id="Layer" class="s0" d="m392.3 109.3h57.2v107.6h-57.2z"/>
+	</g>
+</svg>

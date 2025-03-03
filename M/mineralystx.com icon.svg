@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1528 1509">
+	<title>MIN_logo_primary_reversed_rgb-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="724.6" y1="1580" x2="788.2" y2="53.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#5ccbf2"/>
+			<stop offset="1" stop-color="#6a7cbd"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m875.2 511.1l-373.4-363.7 169.9-10.1 100.7-137.3zm143.6 134.8l-52.5-518.8 136.8 101.6 165.3-40.5zm23.4 195.4l293.2-431 39.3 165.6 152.8 75.4zm-107.5 164.7l501.7-141.7-76.4 152.3 68.5 155.8zm-188.6 57l475.4 213.9-156.3 67.7-47.6 163.5zm-180.7-77.5l226.5 469.7-163.2-48.6-141.5 94.4zm-88.9-175.7l-127.9 505.4-94.1-142.2-169.2-18.5zm44.4-191.7l-422.8 304.9 19.5-169.2-117.6-123zm158-118l-519.9-38.3 123.5-117-11.1-169.9z"/>
+</svg>

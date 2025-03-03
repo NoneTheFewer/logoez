@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1259 1550">
+	<title>TRML_BIG copy-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(15449.641,0,0,19020.649,-1,-43.129)">
+			<stop offset="0" stop-color="#00a6ab"/>
+			<stop offset=".5" stop-color="#009bd8"/>
+			<stop offset="1" stop-color="#212349"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="g12">
+		<path id="wordmark-full" fill-rule="evenodd" class="s0" d="m497.6 1550h262.8v-1295.2l-262.8 262.9zm-497.6-1301.2h1259v-248.8h-1259z"/>
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1484 459">
+	<title>redhillbio-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(345.873,-709.145,1198.32,584.459,599.331,751.076)">
+			<stop offset=".368" stop-color="#ffffff"/>
+			<stop offset=".408" stop-color="#fdebec"/>
+			<stop offset=".49" stop-color="#f7b6ba"/>
+			<stop offset=".607" stop-color="#ed6169"/>
+			<stop offset=".724" stop-color="#e30613"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0.3 458.7l208.5-206.3 173.5-212.1 37.6-5.4 62.6-34.9 35.3 20.1 30-11.6 27.7 18.8 18.3 2.2 8.5 13 50.1 4.5 30 33.1 51-0.9 24.6 32.7 23.7-0.5 15.6 29.6 21.1 0.9 23.2 17 25.5-13 38 23.7 49.2-15.2 30 22.4 39.8-8.1 49.6 31.3 28.7-33.5 26.8 8.9 38.5-25 35.7 28.1 21.1 17.1 21.9-5 31.7 34.9 41.2 13 64.4 105.6 99.7 114.6z"/>
+		<g id="Layer">
+		</g>
+	</g>
+</svg>

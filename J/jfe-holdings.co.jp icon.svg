@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1588 1588">
+	<title>JFE_Holdings_company_logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m793.98 0c438.34 0 789.84 355.67 793.98 794.05 0 438.38-355.64 794.04-793.98 794.04-438.34 0-793.98-355.66-793.98-794.04 0-438.38 355.64-794.05 793.98-794.05zm554.13 794.05c0-306.46-247.69-554.18-554.13-554.18-306.43 0-554.13 247.72-554.13 554.18 0 306.46 247.7 554.17 554.13 554.17 306.44 0 554.13-247.71 554.13-554.17z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="1378.4" y1="1369.1" x2="255" y2="245.7" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#004da0"/>
+			<stop offset=".8" stop-color="#00b3ec"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m707.14 1261.37c-306.44 0-554.13-247.71-554.13-554.17 0-306.46 247.69-554.18 554.13-554.18 306.43 0 554.13 247.72 554.13 554.18 0 306.46-247.7 554.17-554.13 554.17z"/>
+		</clipPath>
+		<radialGradient id="g2" cx="527.5" cy="527.9" r="836.8" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" stop-color="#ffffff"/>
+			<stop offset=".3" stop-color="#00a0de"/>
+			<stop offset=".6" stop-color="#0060af"/>
+			<stop offset=".9" stop-color="#003893"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<path id="Layer" class="s0" d="m794 2378l-1588-1584 1588-1588 1583.8 1588z"/>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<path id="Layer" class="s1" d="m153 153h1108.3v1108.4h-1108.3z"/>
+	</g>
+</svg>

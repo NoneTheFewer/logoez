@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1547 745">
+	<title>DHI-logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h1553.26v745h-1553.26z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0h1553.26v745h-1553.26z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m0 0h1553.26v745h-1553.26z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #152b51 } 
+		.s1 { fill: #55b046 } 
+	</style>
+	<g id="Layer">
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m1146.2 745h-135.3v-281.9l-249.4 98.2v183.7h-135.2v-619.8h135.2v310.5l249.4-98.1v-212.4h135.3zm87.6-386l131.6-52.2v438.2h-131.6zm-663.9 74.4v1.7c0 174.4-134.3 309.9-328.7 309.9h-241.2v-619.8h241.2c194.4 0 328.7 133.7 328.7 308.2zm-142.2 1.7c0-109.8-75.1-186.8-186.5-186.8h-105.1v373.6h105.1c111.4 0 186.5-75.2 186.5-185 0 0 0-1.8 0-1.8z"/>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp2)">
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m1547 125.2l-319.4 125.2v-125.3l319.4-125.1z"/>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp3)">
+		</g>
+	</g>
+</svg>

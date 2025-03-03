@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1526 1527">
+	<title>pzu-logo-svg</title>
+	<defs>
+		<radialGradient id="g1" cx="312.9" cy="275.6" r="1419.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#84d0f0"/>
+			<stop offset=".15" stop-color="#00a8e4"/>
+			<stop offset=".333" stop-color="#0078be"/>
+			<stop offset=".5" stop-color="#00509e"/>
+			<stop offset="1" stop-color="#001c54"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="319.2" cy="275.6" r="1408.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#84d0f0"/>
+			<stop offset=".15" stop-color="#00a8e4"/>
+			<stop offset=".333" stop-color="#0078be"/>
+			<stop offset=".5" stop-color="#00509e"/>
+			<stop offset="1" stop-color="#001c54"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="319.2" cy="272.6" r="1410.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#84d0f0"/>
+			<stop offset=".15" stop-color="#00a8e4"/>
+			<stop offset=".333" stop-color="#0078be"/>
+			<stop offset=".5" stop-color="#00509e"/>
+			<stop offset="1" stop-color="#001c54"/>
+		</radialGradient>
+		<radialGradient id="g4" cx="319.2" cy="275.7" r="1408.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#84d0f0"/>
+			<stop offset=".15" stop-color="#00a8e4"/>
+			<stop offset=".333" stop-color="#0078be"/>
+			<stop offset=".5" stop-color="#00509e"/>
+			<stop offset="1" stop-color="#001c54"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="switch3">
+		<g id="g5">
+			<g id="g7">
+				<path id="polygon20" class="s0" d="m607 459.5l16.9 86.5h145.1l-0.5 1.5-175.8 525.3h313.2l-20.6-92.1h-159.1l0.6-1.4 169.6-519.8z"/>
+				<path id="path33" fill-rule="evenodd" class="s1" d="m614.1 727.6c0 61.1-51.3 114.1-112.5 114.1-4.9 0-53.7-0.1-53.7-0.1h-1.1v71.5h-83.7v-227.6l-10.6-70.4h149.1c61.2 0 112.5 51.4 112.5 112.5zm-75.8 2c0-23.4-20.7-44-44.1-44-1.6 0-46.3 0-46.3 0h-1.1v90.1h1.1c0 0 45.8-0.1 46.3-0.1 23.4 0 44.1-22.4 44.1-46z"/>
+				<path id="path46" class="s2" d="m1085.3 791.9c0 27.9-22.8 48.8-48.7 48.8-25.9 0-48.6-20.9-48.6-48.8 0-2.3 0.1-167.6 0.1-183.9l-84.5 13.7v166.3c0 74.7 60.2 133.2 133 133.2 72.8 0 133-58.5 133-133.2v-180l-84.5 13.7c0 13.6 0.2 168 0.2 170.2z"/>
+				<path id="path59" fill-rule="evenodd" class="s3" d="m762.7 1526.5c-421.8 0-762.7-341-762.7-762.9 0-421.9 340.9-762.9 762.7-762.9 421.8 0 762.8 341 762.8 762.9 0 421.9-341 762.9-762.8 762.9zm536.4-762.9c-0.6-295.2-241.2-535.9-536.3-536.4-295.2 0.5-535.9 241.2-536.4 536.4 0.5 295.3 241.1 536 536.4 536.4 295.1-0.4 535.7-241.1 536.3-536.4z"/>
+			</g>
+		</g>
+	</g>
+</svg>

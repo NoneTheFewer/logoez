@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.3 24.3">
+	<style>
+    .D {
+        fill: none
+    }
+    .P {
+        stroke-miterlimit: 10
+    }
+    .Z {
+        stroke-width: 1.6
+    }
+    .a {
+        stroke-linecap: round
+    }
+    .b {
+        stroke-linejoin: round
+    }
+    </style>
+	<defs>
+		<path id="BI" d="M159.675 160.515c1.19 1.776 3.186 2.846 5.324 2.853 2.139-.007 4.135-1.076 5.326-2.853"/>
+	</defs>
+	<g name="communityspaces" transform="translate(-152.85 -151.97)">
+		<g stroke="#f9b21d" class="D Z">
+			<circle cx="164.994" cy="156.805" r="3.005"/>
+			<use href="#BI" class="P a b"/>
+		</g>
+		<g transform="matrix(-.407 .914 -.914 -.407 179 167.797)" stroke="#226db4" class="D Z">
+			<circle cx="5.33" cy="3.804" r="3.004"/>
+			<use href="#BI" x="-159.675" y="-152.923" class="P a b"/>
+		</g>
+		<g transform="matrix(-.407 -.914 .914 -.407 155.334 177.526)" stroke="#e42527" class="D Z">
+			<circle cx="5.32" cy="3.804" r="3.004"/>
+			<path d="M10.65 7.592c-1.19 1.776-3.186 2.846-5.324 2.853C3.187 10.438 1.191 9.369 0 7.592" class="P a b"/>
+		</g>
+	</g>
+</svg>
