@@ -1,5 +1,5 @@
 .DS_Store
-.sh
-.txt
-.htm
-.html
+*.sh
+*.txt
+*.htm
+*.html
