@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32" role="img">
+	<path fill="url(#ksuite_svg__ikpaint0_linear_4568_26245)" d="M4.675 32h7.968c.63 0 1.223-.32 1.547-.853L31.869 1.35C32.229.764 31.797 0 31.096 0h-10.36c-.63 0-1.223.32-1.547.853L4.388 26.133 1.78 32"/>
+	<path fill="url(#ksuite_svg__ikpaint1_linear_4568_26245)" d="M4.675 32h7.968c.63 0 1.223-.32 1.547-.853L31.869 1.35C32.229.764 31.797 0 31.096 0h-10.36c-.63 0-1.223.32-1.547.853L4.388 26.133 1.78 32" opacity="0.5" style="mix-blend-mode:hard-light"/>
+	<path fill="url(#ksuite_svg__ikpaint2_linear_4568_26245)" d="M1.672 0H9.28c.925 0 1.671.746 1.671 1.67v30.312H1.672c-.924 0-1.67-.746-1.67-1.67V1.67C.001.746.747 0 1.671 0"/>
+	<path fill="url(#ksuite_svg__ikpaint3_linear_4568_26245)" d="M1.672 0H9.28c.925 0 1.671.746 1.671 1.67v30.312H1.672c-.924 0-1.67-.746-1.67-1.67V1.67C.001.746.747 0 1.671 0" opacity="0.5" style="mix-blend-mode:hard-light"/>
+	<path fill="url(#ksuite_svg__ikpaint4_linear_4568_26245)" d="M31.108 31.982h-10.54c-.623 0-1.192-.32-1.512-.853L.712 1.35A.893.893 0 0 1 1.476 0h9.972c.622 0 1.191.32 1.511.853l18.896 29.779a.893.893 0 0 1-.765 1.35z"/>
+	<path fill="url(#ksuite_svg__ikpaint5_linear_4568_26245)" d="M31.108 31.982h-10.54c-.623 0-1.192-.32-1.512-.853L.712 1.35A.893.893 0 0 1 1.476 0h9.972c.622 0 1.191.32 1.511.853l18.896 29.779a.893.893 0 0 1-.765 1.35z" opacity="0.5" style="mix-blend-mode:hard-light"/>
+	<defs>
+		<linearGradient id="ksuite_svg__ikpaint0_linear_4568_26245" x1="31.48" x2="0.827" y1="0.903" y2="30.133" gradientUnits="userSpaceOnUse">
+			<stop offset="0.185" stop-color="#337CFF"/>
+			<stop offset="0.895" stop-color="#1DDDFD"/>
+		</linearGradient>
+		<linearGradient id="ksuite_svg__ikpaint1_linear_4568_26245" x1="31.48" x2="0.827" y1="0.903" y2="30.133" gradientUnits="userSpaceOnUse">
+			<stop offset="0.185" stop-color="#337CFF"/>
+			<stop offset="0.895" stop-color="#1DDDFD"/>
+		</linearGradient>
+		<linearGradient id="ksuite_svg__ikpaint2_linear_4568_26245" x1="5.279" x2="4.402" y1="0" y2="32.151" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F34BBB"/>
+			<stop offset="0.75" stop-color="#A055FC"/>
+		</linearGradient>
+		<linearGradient id="ksuite_svg__ikpaint3_linear_4568_26245" x1="5.279" x2="4.402" y1="0" y2="32.151" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F34BBB"/>
+			<stop offset="0.75" stop-color="#A055FC"/>
+		</linearGradient>
+		<linearGradient id="ksuite_svg__ikpaint4_linear_4568_26245" x1="0.583" x2="31.052" y1="1.999" y2="31.422" gradientUnits="userSpaceOnUse">
+			<stop offset="0.055" stop-color="#F34BBB"/>
+			<stop offset="0.865" stop-color="#FD8C3D"/>
+		</linearGradient>
+		<linearGradient id="ksuite_svg__ikpaint5_linear_4568_26245" x1="0.583" x2="31.052" y1="1.999" y2="31.422" gradientUnits="userSpaceOnUse">
+			<stop offset="0.055" stop-color="#F34BBB"/>
+			<stop offset="0.865" stop-color="#FD8C3D"/>
+		</linearGradient>
+	</defs>
+</svg>

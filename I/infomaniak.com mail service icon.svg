@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60">
+	<defs>
+		<path d="M2.186.672L20.763 6.39a1.689 1.689 0 011.193 1.614V23.89a1.689 1.689 0 01-2.186 1.614L1.192 19.79A1.689 1.689 0 010 18.175V2.287A1.689 1.689 0 012.186.672z" id="icon-mail_svg__a">
+  </path>
+	</defs>
+	<g fill="none" fill-rule="evenodd">
+		<circle cx="30" cy="30" r="30">
+  </circle>
+		<path d="M25.43 14.672l18.578 5.717a1.689 1.689 0 011.192 1.614V37.89a1.689 1.689 0 01-2.186 1.614L24.437 33.79a1.689 1.689 0 01-1.193-1.614V16.287a1.689 1.689 0 012.186-1.615z" fill="#FF9ABF" opacity="0.5">
+  </path>
+		<path d="M21.208 17.375l18.578 5.716a1.689 1.689 0 011.192 1.614v15.888a1.689 1.689 0 01-2.186 1.615L20.214 36.49a1.689 1.689 0 01-1.192-1.614V18.99a1.689 1.689 0 012.186-1.614z" fill="#F789B2" opacity="0.8">
+  </path>
+		<g transform="translate(14.8 20.08)">
+			<mask fill="#fff" id="icon-mail_svg__b">
+				<use xlink:href="#icon-mail_svg__a">
+    </use>
+			</mask>
+			<use fill="#FF5B97" xlink:href="#icon-mail_svg__a">
+   </use>
+			<path d="M0 0l21.956 6.756-11.04 9.835a1.689 1.689 0 01-2.625-.488L0 0z" fill="#F2357A" mask="url(#icon-mail_svg__b)" style="mix-blend-mode:multiply">
+   </path>
+			<path d="M0 0l21.956 6.756-11.04 9.835a1.689 1.689 0 01-2.625-.488L0 0z" fill="#F2357A" mask="url(#icon-mail_svg__b)" style="mix-blend-mode:multiply">
+   </path>
+		</g>
+	</g>
+</svg>

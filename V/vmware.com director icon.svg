@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+	<style>
+    .cls0 {
+        fill: #0091da;
+    }
+    .cls1 {
+        fill: #7f35b2;
+    }
+    </style>
+	<path transform="translate(-26.3 -58)" d=" M 90.5 204 A 109.3 109 180 0 1 302.2 162.6" stroke="#3c7ad7" stroke-width="16" fill="none"/>
+	<path transform="translate(2.3 -10.3)" d=" M 60 289.7 A 72.5 73 106 0 1 69 148.6" stroke="#3c7ad7" stroke-width="16" fill="none"/>
+	<circle cx="63" cy="279.6" r="8" fill="#3c7ad7"/>
+	<path d=" M 297 97.3 A 93.3 96 260 0 1 336 274" stroke="#3c7ad7" stroke-width="16" fill="none"/>
+	<path d="M 277 90 L 298 89.8 L 298 104.8 C 298 104.8 278 104.3 268.3 106.8" stroke="#3c7ad7" fill="#3c7ad7"/>
+	<circle cx="335.5" cy="274.25" r="8" fill="#3c7ad7"/>
+	<g>
+		<circle cx="160.6" cy="250.3" r="52.0" stroke="#00c1d5" stroke-width="17.2" fill="none"/>
+		<circle cx="285" cy="187.4" r="33.6" stroke="#00c1d5" stroke-width="16" fill="none"/>
+		<circle cx="249.3" cy="340.1" r="28.0" stroke="#00c1d5" stroke-width="16" fill="none"/>
+		<line x1="194" x2="226" y1="290" y2="320" stroke-width="16" stroke="#00c1d5"/>
+		<line x1="210" x2="250" y1="225.5" y2="205.5" stroke-width="16" stroke="#00c1d5"/>
+	</g>
+</svg>

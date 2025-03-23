@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 664 664">
+	<style>
+		.cls0 { fill: #FFF; }
+		.cls1 { fill: white; }
+		.cls2 { fill: #1786c8; }
+	</style>
+	<rect fill="#1786c8" width="100%" height="100%"/>
+	<ellipse cx="117.5" cy="308.8" rx="60" ry="73.4" class="cls1"/>
+	<circle cx="120.4" cy="301.3" r="28" class="cls2"/>
+	<rect x="170" y="284" width="150" height="38" fill="white"/>
+	<rect x="234.8" y="322" width="18.4" height="33.6" fill="white"/>
+	<rect x="277.5" y="322" width="18.4" height="33.6" fill="white"/>
+	<path stroke="white" stroke-width="23" fill="none" d="M 254.5,226 L 254.5,143.6 C 254.5,143.6 254.5,115.6 282.5,115.6 L 525.5,115.6 C 525.5,115.6 553.5,115.6 553.5,143.6 L 553.5,480.6 C 553.5,480.6 553.5,508.6 525.5,508.6 L 282.5,508.6 C 282.5,508.6 254.5,508.6 254.5,480.6 L 254.5,394"/>
+	<path stroke="none" fill="white" d="   M 390,179.7   L 502,127   L 540,127   L 565,143   L 565,500   C 565,500 565,514 553,520.2   L 410,585.5   C 410,585.5 362,605 359.3,550   L 359.3,216   C 359.3,216 360,191 390,179.7   "/>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd">
+	<defs>
+		<path id="swoop" d="M 168.5,273.5 C 258.833,273.5 349.167,273.5 439.5,273.5C 435.781,325.046 409.114,357.879 359.5,372C 354.833,372.667 350.167,373.333 345.5,374C 257.501,374.5 169.501,374.667 81.5,374.5C 86.0649,319.663 115.065,285.997 168.5,273.5 Z"/>
+		<clipPath id="clap1">
+			<path transform="scale(1 -1) translate(0 -523)" d="M 168.5,273.5 C 258.833,273.5 349.167,273.5 439.5,273.5C 435.781,325.046 409.114,357.879 359.5,372C 354.833,372.667 350.167,373.333 345.5,374C 257.501,374.5 169.501,374.667 81.5,374.5C 86.0649,319.663 115.065,285.997 168.5,273.5 Z"/>
+		</clipPath>
+		<clipPath id="clap2">
+			<path transform="translate(0 -252)" d="M 168.5,273.5 C 258.833,273.5 349.167,273.5 439.5,273.5C 435.781,325.046 409.114,357.879 359.5,372C 354.833,372.667 350.167,373.333 345.5,374C 257.501,374.5 169.501,374.667 81.5,374.5C 86.0649,319.663 115.065,285.997 168.5,273.5 Z"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-60 0)">
+		<g transform="translate(0 -252)" fill="#8ebe44">
+			<use href="#swoop"/>
+		</g>
+		<g transform="scale(1 -1) translate(0 -523)" fill="#1e88c4">
+			<use href="#swoop"/>
+		</g>
+		<g fill="#00b6e8">
+			<use href="#swoop"/>
+		</g>
+		<g fill="#56a7d4" stroke="none">
+			<path clip-path="url(#clap1)" d="   M 239,148   C 239,148 315,226 436,227   L 435,140   L 239,149   "/>
+		</g>
+		<g fill="#aacd71" stroke="none">
+			<path clip-path="url(#clap2)" d="       M 210,123       C 210,123 169,75 154,27       L 154,20       L 442,20       L 442,130       L 210,123       "/>
+		</g>
+	</g>
+</svg>
