@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><g stroke-linecap="round" stroke-width="1.5"><path fill="#eab819" stroke="#718fa4" d="M.75.75h14.5v14.5H.75z"/><circle cx="8" cy="8" r="4.5" fill="none" stroke="#fff"/><circle cx="8" cy="8" r="1.5" fill="#fff" stroke="#fff"/><path fill="#fff" stroke="#718fa4" d="M8 8h7.25v7.25H8z"/><path stroke="#718fa4" d="M8 15.25L15.25 8"/></g></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.38 124.38">
+	<g data-name="Layer 2">
+		<g data-name="Layer 1">
+			<rect width="112.72" height="112.72" x="5.83" y="5.83" rx="6.42" ry="6.42" style="stroke-linecap:round;stroke-width:11.66px;stroke:#718fa4;fill:#eab819"/>
+			<circle cx="62.19" cy="62.19" r="34.98" style="stroke:#fff;fill:none;stroke-linecap:round;stroke-width:11.66px"/>
+			<circle cx="62.19" cy="62.19" r="11.66" style="fill:#fff;stroke:#fff;stroke-linecap:round;stroke-width:11.66px"/>
+			<rect width="56.36" height="56.36" x="62.19" y="62.19" rx="6.42" ry="6.42" style="fill:#fff;stroke-linecap:round;stroke-width:11.66px;stroke:#718fa4"/>
+			<path d="m62.19 118.55 56.36-56.36" style="fill:none;stroke-linecap:round;stroke-width:11.66px;stroke:#718fa4"/>
+		</g>
+	</g>
+</svg>
