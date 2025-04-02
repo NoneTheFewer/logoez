@@ -8,8 +8,6 @@
       <stop offset="0.403" stop-color="#1771bb"/>
       <stop offset="0.994" stop-color="#0a518f"/>
     </linearGradient>
-    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 317 242">
-    </pattern>
   </defs>
   <g id="logo" transform="translate(-1.963 -21)">
     <g id="Group_216" data-name="Group 216" transform="translate(1.963 275.603)">
@@ -56,7 +54,6 @@
     <path id="Path_358" data-name="Path 358" d="M7.87,182.5A115.99,115.99,0,1,0,82.1,1.88C84.147,68.668,59.2,136.573,7.87,182.5Z" transform="translate(79.147 21)" fill="url(#linear-gradient)"/>
     <path id="Path_359" data-name="Path 359" d="M0,114.786a115.385,115.385,0,0,0,21.017,66.537C72.351,135.4,97.293,67.492,95.245.7A115.966,115.966,0,0,0,0,114.786Z" transform="translate(66 22.176)" fill="url(#linear-gradient-2)"/>
     <g id="Group_219" data-name="Group 219" transform="translate(84.146 64.867)">
-      <rect id="Rectangle_275" data-name="Rectangle 275" width="199.965" height="152.537" opacity="0.5" fill="url(#pattern)"/>
       <g id="Group_218" data-name="Group 218" transform="translate(45.42 45.42)">
         <g id="Group_217" data-name="Group 217">
           <path id="Path_388" data-name="Path 388" d="M64.429,80.756V93.5H23.8V33.625H39.027V80.753h25.4Z" transform="translate(-23.803 -33.118)" fill="#fff"/>
