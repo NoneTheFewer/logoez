@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.035 28.631">
+	<defs>
+		<clipPath id="prefix__a">
+			<path data-name="Rectangle 1" d="M0 0h75.026v28.631H0z"/>
+		</clipPath>
+		<clipPath id="prefix__b">
+			<path data-name="Path 5" d="M297.9 20.8l2.027 4.545h9.779A5.124 5.124 0 0 1 314.9 30.5c0 3.053-2.311 5.157-6.261 5.157h-4.174l10.719 13.289h5.864l-7.6-9.521A9.4 9.4 0 0 0 319.8 30.5a9.515 9.515 0 0 0-9.753-9.7H297.9z" transform="translate(-297.9 -20.8)"/>
+		</clipPath>
+		<clipPath id="prefix__c">
+			<path data-name="Path 8" d="M616.9 20.8a18.018 18.018 0 0 1 2.1 4.545h7.14v23.6h4.881v-23.6h9.227V20.8z" transform="translate(-616.9 -20.8)"/>
+		</clipPath>
+		<clipPath id="prefix__d">
+			<path data-name="Path 11" d="M112.463 17.4s-3.26 7.3-3.863 8.658c1.466-.63 2.354-.026 3.415 2.449l7.71 17.213h5.375z" transform="translate(-108.6 -17.4)"/>
+		</clipPath>
+		<clipPath id="prefix__e">
+			<path data-name="Path 13" d="M17.5 267.682A3.7 3.7 0 1 0 21.2 264a3.69 3.69 0 0 0-3.7 3.682" transform="translate(-17.5 -264)" fill="#f10f27"/>
+		</clipPath>
+	</defs>
+	<g data-name="Group 546">
+		<g data-name="Group 20">
+			<g data-name="Group 3">
+				<g data-name="Group 1" clip-path="url(#prefix__a)">
+					<path data-name="Path 3" d="M30.744 15.152h4.165c3.95 0 6.261-2.1 6.261-5.157a5.119 5.119 0 0 0-5.191-5.157h-9.771L24.181.293h12.142a9.515 9.515 0 0 1 9.753 9.7 9.4 9.4 0 0 1-6.338 8.926l7.6 9.521h-5.864l-10.73-13.288"/>
+				</g>
+				<g data-name="Group 2" clip-path="url(#prefix__a)">
+					<path data-name="Path 4" d="M30.744 15.152h4.165c3.95 0 6.261-2.1 6.261-5.157a5.119 5.119 0 0 0-5.191-5.157h-9.771L24.181.293h12.142a9.515 9.515 0 0 1 9.753 9.7 9.4 9.4 0 0 1-6.338 8.926l7.6 9.521h-5.864l-10.73-13.288"/>
+				</g>
+			</g>
+			<g data-name="Group 5">
+				<g data-name="Group 4" transform="translate(24.181 .293)" clip-path="url(#prefix__b)">
+					<path data-name="Rectangle 3" d="M-1.509-1.492h26.173v31.14H-1.509z"/>
+				</g>
+			</g>
+			<g data-name="Group 8">
+				<g data-name="Group 6" clip-path="url(#prefix__a)">
+					<path data-name="Path 6" d="M51.69.293a17.8 17.8 0 0 1 2.1 4.536h7.14v23.6h4.881V4.838h9.227V.293H51.69"/>
+				</g>
+				<g data-name="Group 7" clip-path="url(#prefix__a)">
+					<path data-name="Path 7" d="M51.69.293a17.8 17.8 0 0 1 2.1 4.536h7.14v23.6h4.881V4.838h9.227V.293H51.69"/>
+				</g>
+			</g>
+			<g data-name="Group 10">
+				<g data-name="Group 9" clip-path="url(#prefix__c)" transform="translate(51.69 .293)">
+					<path data-name="Rectangle 6" d="M-1.509-1.492h26.363v31.14H-1.509z"/>
+				</g>
+			</g>
+			<g data-name="Group 13">
+				<g data-name="Group 11" clip-path="url(#prefix__a)">
+					<path data-name="Path 9" d="M11.271 11.107l7.71 17.213h5.375L11.719 0s-3.26 7.3-3.863 8.658c1.466-.63 2.363-.026 3.415 2.449"/>
+				</g>
+				<g data-name="Group 12" clip-path="url(#prefix__a)">
+					<path data-name="Path 10" d="M11.271 11.107l7.71 17.213h5.375L11.719 0s-3.26 7.3-3.863 8.658c1.466-.63 2.363-.026 3.415 2.449"/>
+				</g>
+			</g>
+			<g data-name="Group 15">
+				<g data-name="Group 14" clip-path="url(#prefix__d)" transform="translate(7.856)">
+					<path data-name="Rectangle 9" d="M-1.509-1.501h19.515v31.313H-1.509z"/>
+				</g>
+			</g>
+			<g data-name="Group 17">
+				<g data-name="Group 16" clip-path="url(#prefix__a)">
+					<path data-name="Path 12" d="M3.709 21.266a3.682 3.682 0 1 0 3.7 3.682 3.69 3.69 0 0 0-3.7-3.682"/>
+				</g>
+			</g>
+			<g data-name="Group 19">
+				<g data-name="Group 18" clip-path="url(#prefix__e)" transform="translate(0 21.266)">
+					<path data-name="Rectangle 11" fill="#f10f27" d="M-1.509-1.501H8.917V8.856H-1.509z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
