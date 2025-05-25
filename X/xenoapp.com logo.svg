@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 415 100">
+	<defs>
+		<style>
+      #logo { fill: #27c469; }
+      .gradient { fill: url(#gradient); }
+			<!-- ORIGIN -->
+      .X, .X1, .X2 { transform-origin: 51.01px 49.97px; }
+      .E1 { transform-origin: 119.02px 13.59px; }
+      .E2 { transform-origin: 119.02px 49.97px; }
+      .E3 { transform-origin: 119.02px 86.5px; }
+      .N1 { transform-origin: 220.44px 12px; }
+      .N2 { transform-origin: 258.4px 49.97px; }
+      .N3 { transform-origin: 296.37px 87.93px; }
+      .O, .O1, .O2 { transform-origin: 363.79px 49.97px; }
+		</style>
+		<style>
+      #logo .X { animation: logo_xeno_anim1_x 50s 0s ease infinite; }
+      #logo .E1 { animation: logo_xeno_anim1_e1 50s 0s ease infinite; }
+      #logo .E2 { animation: logo_xeno_anim1_e2 50s 0s ease infinite; }
+      #logo .E3 { animation: logo_xeno_anim1_e3 50s 0s ease infinite; }
+      #logo .N1 { animation: logo_xeno_anim1_n1 50s 0s ease infinite; }
+      #logo .N2 { animation: logo_xeno_anim1_n2 50s 0s ease infinite; }
+      #logo .N3 { animation: logo_xeno_anim1_n3 50s 0s ease infinite; }
+      #logo .O { animation: logo_xeno_anim1_o 50s 0s ease infinite; }
+      /* X */
+      @keyframes logo_xeno_anim1_x {
+        0%  { transform: scale(0) rotate(-720deg); }
+        4% { transform: scale(1) rotate(0deg); }
+        100% { transform: scale(1) rotate(0deg); }
+      }
+      /* E */
+      @keyframes logo_xeno_anim1_e {
+        0%  { transform: scale(0); }
+        3% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_e1 {
+        0%  { transform: scale(0); }
+        3% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_e2 {
+        3%  { transform: scale(0); }
+        3.3% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_e3 {
+        .6%  { transform: scale(0); }
+        3.6% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      /* N */
+      @keyframes logo_xeno_anim1_n {
+        1.5%  { transform: scale(0); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_n1 {
+        1.5%  { transform: scale(0); }
+        4.5% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_n2 {
+        0%  { transform: scale(0); }
+        5% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_n3 {
+        2.5%  { transform: scale(0); }
+        5.5% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+			<!-- @keyframes logo_xeno_anim1_n1 {
+        1.5%  { transform: scale(0); transform-origin: 195.15px 37.67px; }
+        4.5% { transform: scale(1); transform-origin: 166.9px 9.42px; }
+        100% { transform: scale(1); transform-origin: 166.9px 9.42px; }
+      }
+      @keyframes logo_xeno_anim1_n2 {
+        0%  { transform: scale(0); }
+        5% { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      @keyframes logo_xeno_anim1_n3 {
+        2.5%  { transform: scale(0); transform-origin: 195.15px 37.67px; }
+        5.5% { transform: scale(1); transform-origin: 223.5px 65.84px; }
+        100% { transform: scale(1); transform-origin: 223.5px 65.84px; }
+      } -->
+      /* O */
+      @keyframes logo_xeno_anim1_o {
+        0%  { transform: scale(0) rotate(-320deg); }
+        5% { transform: scale(1) rotate(0deg); }
+        100% { transform: scale(1) rotate(0deg); }
+      }
+		</style>
+		<linearGradient id="gradient" x1="327" y1="74" x2="412" y2="74" gradientUnits="userSpaceOnUse">
+			<stop offset="0.2" stop-color="#27c469"/>
+			<stop offset="0.75" stop-color="#27c469" stop-opacity="0.5"/>
+			<stop offset="0.95" stop-color="#27c469" stop-opacity="0.1"/>
+		</linearGradient>
+		<symbol id="logo">
+			<path class="X" d="M65.15,50,96,19.08A10,10,0,0,0,81.9,4.93L51,35.82,20.12,4.94A10,10,0,1,0,6,19.07L36.86,50,6,80.86A10,10,0,0,0,20.12,95L51,64.11,81.9,95A10,10,0,0,0,96,80.86Z"/>
+			<path class="E1" d="M190.66,23.58a10,10,0,0,0,0-20H119a10,10,0,0,0,0,20Z"/>
+			<path class="E2" d="M190.66,60a10,10,0,0,0,0-20H119a10,10,0,0,0,0,20Z"/>
+			<path class="E3" d="M221.55,96.49a10,10,0,1,0,0-20H119a10,10,0,1,0,0,20Z"/>
+			<path class="N1" d="M210.44,12a10,10,0,1,1,20,0V50a10,10,0,1,1-20,0Z"/>
+			<path class="N2" d="M213.36,19.07A10,10,0,0,1,227.51,4.94l75.92,75.92A10,10,0,0,1,289.29,95Z"/>
+			<path class="N3" d="M306.36,12a10,10,0,1,0-20,0V87.93a10,10,0,1,0,20,0Z"/>
+			<g class="O">
+				<path class="O1" d="M363.79,2.09a47.88,47.88,0,0,0-33.85,81.73l14.15-14.15A27.87,27.87,0,1,1,391.67,50h0a18.85,18.85,0,0,1-3,11.13c-3.58,5.15-9.8,7.3-15.86,7.52a13.86,13.86,0,0,0,5.87,5.22,24.69,24.69,0,0,0,10.66,2.39c10.28,0,19-7.48,21.29-18l0-.16A49,49,0,0,0,411.67,50,47.88,47.88,0,0,0,363.79,2.09Z"/>
+				<path class="O2 gradient" d="M329.94,83.82c-1-1-1.93-2-2.82-3.08l15.33-12.87c.52.62,1.07,1.22,1.64,1.79h0a27.82,27.82,0,0,0,34.29,4l.26.13a24.69,24.69,0,0,0,10.66,2.39c10.28,0,19-7.48,21.29-18l0-.16A49,49,0,0,0,411.67,50a47.88,47.88,0,0,1-81.73,33.85Z"/>
+			</g>
+		</symbol>
+	</defs>
+	<use xlink:href="#logo"/>
+</svg>

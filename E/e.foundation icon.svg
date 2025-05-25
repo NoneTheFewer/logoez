@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="https://vecta.io/nano" viewBox="0 0 32 32">
+	<style>
+    .G {
+        clip-path: url(#B)
+    }
+    </style>
+	<defs>
+		<path id="A" d="M1.02 16A15 15 0 0 0 16 30.98c1.56 0 2.83-1.27 2.83-2.83s-1.27-2.83-2.83-2.83c-5.14 0-9.32-4.18-9.32-9.32S10.86 6.68 16 6.68c4.15 0 7.68 2.73 8.88 6.49H16c-1.56 0-2.83 1.27-2.83 2.83s1.27 2.83 2.83 2.83h12.15c1.56 0 2.83-1.27 2.83-2.83A15.01 15.01 0 0 0 16 1.01C7.74 1.02 1.02 7.74 1.02 16"/>
+	</defs>
+	<clipPath id="B">
+		<use xlink:href="#A"/>
+	</clipPath>
+	<path d="M16 16l-20.43-5.47L10.53-4.43z" fill="#f9cf43" class="G"/>
+	<path d="M36.43 21.47L16 16 30.95 1.05z" fill="#ec6a55" class="G"/>
+	<path d="M21.47 36.43L1.05 30.95 16 16z" fill="#25356c" class="G"/>
+	<path d="M-4.43 10.53L16 16 1.05 30.95z" fill="#b1d184" class="G"/>
+	<path d="M10.53-4.43l20.42 5.48L16 16z" fill="#f29039" class="G"/>
+	<path d="M16 16l20.43 5.47-14.96 14.96z" fill="#060f16" class="G"/>
+</svg>

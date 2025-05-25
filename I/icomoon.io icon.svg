@@ -1,5 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
-        <circle opacity="0.8" cx="6" cy="8" r="2"></circle>
-        <path opacity="0.25" d="M8 0C6.7633 0 5.5923 0.2805 4.5469 0.7816c7.2708 1.9824 7.2708 12.4544 0 14.4368C5.5923 15.7195 6.7633 16 8 16c4.4183 0 8-3.5817 8-8s-3.5817-8-8-8z"></path>
-        <path opacity="0.5" transform="matrix(1, 0, 0, -1, 0, 16)" d="M10.7383 0.4809C9.884 0.1697 8.9619 0 8 0 3.5817 0 0 3.5817 0 8s3.5817 8 8 8c0.9351 0 1.8325-0.1604 2.6667-0.4552l0-0.0215C-0.9127 16.1789-0.8888-0.2451 10.7383 0.4809z"></path>
-      </svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<defs>
+		<radialGradient id="gradient2" gradientTransform="matrix(3.2, 0, 0, 3.2, -1, -1.1)">
+			<stop offset="0%" stop-color="#d6fbfd"/>
+			<stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+		</radialGradient>
+		<radialGradient id="gradient1" gradientTransform="translate(0.5)">
+			<stop offset="0%" stop-color="#cffdff"/>
+			<stop offset="100%" stop-color="#d6fbfd" stop-opacity="0"/>
+		</radialGradient>
+		<linearGradient id="bg" gradientTransform="rotate(90">
+			<stop offset="0%" stop-color="#2871ae"/>
+			<stop offset="60%" stop-color="#1e5097"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#bg)" d="M4.598 0h6.804c1.2739 0 2.5477 0 3.5729 1.0251C16 2.0503 16 3.3241 16 4.598v6.804c0 1.2739 0 2.5477-1.0251 3.5729C13.9497 16 12.6759 16 11.402 16H4.598c-1.2739 0-2.5477 0-3.5729-1.0251C0 13.9497 0 12.6759 0 11.402V4.598c0-1.2739 0-2.5477 1.0251-3.5729C2.0503 0 3.3241 0 4.598 0z"/>
+	<circle fill="#fff" cx="6.5" cy="8" r="1.5"/>
+	<path opacity="0.61" fill="url(#gradient2)" d="M8 2C7.0725 2 6.1942 2.2104 5.4102 2.5862c5.4531 1.4868 5.4531 9.3408 0 10.8276C6.1942 13.7896 7.0725 14 8 14c3.3137 0 6-2.6863 6-6s-2.6863-6-6-6z"/>
+	<path stroke-width="0.5" stroke="url(#gradient1)" fill="none" d="M8 2.25c3.1756 0 5.75 2.5744 5.75 5.75S11.1756 13.75 8 13.75"/>
+	<path stroke-width="0.5" stroke="url(#gradient1)" fill="none" d="M5.476 13.655c1.3365-0.3644 2.3645-1.0986 3.077-2.0313C9.3527 10.5767 9.75 9.2864 9.75 8S9.3527 5.4233 8.5385 4.3763C7.826 3.4436 6.798 2.7094 5.4615 2.345"/>
+	<path fill="#cffdff" transform="matrix(1, 0, 0, -1, 0, 16)" d="M10.0537 2.3607C9.413 2.1273 8.7214 2 8 2 4.6863 2 2 4.6863 2 8s2.6863 6 6 6c0.7013 0 1.3744-0.1203 2-0.3414v-0.0161C1.3155 14.1342 1.3334 1.8162 10.0537 2.3607z"/>
+</svg>

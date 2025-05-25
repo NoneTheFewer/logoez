@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 725 995">
+	<defs>
+		<style>.b{fill:#fff;}.c{fill:#fbbd05;}.d{fill:#f2f3f5;}.e{fill:#4285f5;}.f{fill:#164ea7;}.g{fill:#1c68d5;}</style>
+	</defs>
+	<rect class="c" y="67" width="725" height="928" rx="60" ry="60"/>
+	<path class="e" d="M475,903.5H110c-11,0-20-9-20-20V178.5c0-11,9-20,20-20h505c11,0,20,9,20,20V743.5l-160,160Z"/>
+	<path class="g" d="M635,744l-160,159.5v-139.5c0-11.05,8.95-20,20-20h140Z"/>
+	<rect class="d" x="179" y="540" width="364" height="48"/>
+	<rect class="d" x="179" y="631" width="364" height="48"/>
+	<rect class="d" x="179" y="722" width="182" height="48"/>
+	<polygon class="d" points="338.01 499.15 238.43 400.79 273.57 365.21 337.99 428.85 498.42 270.22 533.58 305.78 338.01 499.15"/>
+	<path class="f" d="M565,120.67v85.33H157V120.67c0-14.53,3.73-28.87,11.14-41.36C204.45,18.08,294.51,0,361,0s156.55,18.08,192.86,79.31c7.41,12.49,11.14,26.83,11.14,41.36Z"/>
+	<circle class="b" cx="361" cy="103" r="35"/>
+</svg>

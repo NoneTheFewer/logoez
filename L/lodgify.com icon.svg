@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 200 200" fill="none">
-	<rect width="200" height="200" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
 	<path fill-rule="evenodd" clip-rule="evenodd" d="M57 57V143H143V100H100V57H57Z" fill="#FF3B59"/>
 	<path fill-rule="evenodd" clip-rule="evenodd" d="M117.199 82.8H142.999V57H117.199V82.8Z" fill="#03EBC3"/>
 </svg>

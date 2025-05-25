@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+	<g fill="none" fill-rule="evenodd">
+		<path d="M34 24c0 5.523-4.477 10-10 10H9v10h15c11.046 0 20-8.954 20-20 0 0-4.957-7.448-10 0z" fill="#EE675C"/>
+		<path d="M39 14V4H24C12.954 4 4 12.954 4 24v15h10V24c0-5.523 4.477-10 10-10h15z" fill="#EA4335"/>
+		<path d="M44 24V9a5 5 0 0 0-10 0v15h10z" fill="#EE675C"/>
+		<circle fill="#C5221F" cx="9" cy="39" r="5"/>
+	</g>
+</svg>

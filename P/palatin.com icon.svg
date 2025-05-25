@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1541 1143">
+	<title>palatin-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1035.7" y1="257.2" x2="447" y2="-82.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6d28a9" stop-opacity="0"/>
+			<stop offset=".086" stop-color="#6d28a9" stop-opacity=".22"/>
+			<stop offset=".195" stop-color="#6d28a9" stop-opacity=".46"/>
+			<stop offset=".307" stop-color="#6d28a9" stop-opacity=".66"/>
+			<stop offset=".422" stop-color="#6d28a9" stop-opacity=".81"/>
+			<stop offset=".54" stop-color="#6d28a9" stop-opacity=".91"/>
+			<stop offset=".663" stop-color="#6d28a9" stop-opacity=".98"/>
+			<stop offset=".801" stop-color="#6d28a9" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="277.7" y1="381.9" x2="561" y2="99.3" gradientUnits="userSpaceOnUse">
+			<stop offset=".093" stop-color="#6d28a9" stop-opacity="1"/>
+			<stop offset=".197" stop-color="#6d28a9" stop-opacity=".95"/>
+			<stop offset=".362" stop-color="#6d28a9" stop-opacity=".81"/>
+			<stop offset=".569" stop-color="#6d28a9" stop-opacity=".59"/>
+			<stop offset=".806" stop-color="#6d28a9" stop-opacity=".28"/>
+			<stop offset="1" stop-color="#6d28a9" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="121.3" y1="366.2" x2="640.3" y2="1265.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6d28a9" stop-opacity="0"/>
+			<stop offset=".076" stop-color="#6d28a9" stop-opacity=".17"/>
+			<stop offset=".211" stop-color="#6d28a9" stop-opacity=".42"/>
+			<stop offset=".348" stop-color="#6d28a9" stop-opacity=".63"/>
+			<stop offset=".486" stop-color="#6d28a9" stop-opacity=".79"/>
+			<stop offset=".624" stop-color="#6d28a9" stop-opacity=".91"/>
+			<stop offset=".764" stop-color="#6d28a9" stop-opacity=".98"/>
+			<stop offset=".907" stop-color="#6d28a9" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="770.7" y1="1023" x2="1392" y2="402.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6d28a9" stop-opacity="0"/>
+			<stop offset=".009" stop-color="#6d28a9" stop-opacity=".05"/>
+			<stop offset=".055" stop-color="#6d28a9" stop-opacity=".28"/>
+			<stop offset=".106" stop-color="#6d28a9" stop-opacity=".47"/>
+			<stop offset=".162" stop-color="#6d28a9" stop-opacity=".64"/>
+			<stop offset=".225" stop-color="#6d28a9" stop-opacity=".77"/>
+			<stop offset=".297" stop-color="#6d28a9" stop-opacity=".88"/>
+			<stop offset=".385" stop-color="#6d28a9" stop-opacity=".95"/>
+			<stop offset=".505" stop-color="#6d28a9" stop-opacity=".99"/>
+			<stop offset=".801" stop-color="#6d28a9" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="1121.3" y1="699.6" x2="1121.3" y2="67.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6d28a9" stop-opacity="0"/>
+			<stop offset=".016" stop-color="#6d28a9" stop-opacity=".05"/>
+			<stop offset=".106" stop-color="#6d28a9" stop-opacity=".3"/>
+			<stop offset=".2" stop-color="#6d28a9" stop-opacity=".52"/>
+			<stop offset=".299" stop-color="#6d28a9" stop-opacity=".69"/>
+			<stop offset=".402" stop-color="#6d28a9" stop-opacity=".83"/>
+			<stop offset=".513" stop-color="#6d28a9" stop-opacity=".93"/>
+			<stop offset=".638" stop-color="#6d28a9" stop-opacity=".98"/>
+			<stop offset=".801" stop-color="#6d28a9" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m399.1 0l566.3 62.6 3.6 310.2z"/>
+		<path id="Layer" class="s1" d="m386.6 17.4l302.2 209.6-358.2 207.9-111.6-141.8z"/>
+		<path id="Layer" class="s2" d="m204.3 318.4l-204.3 330.4 853.8 493.7z"/>
+		<path id="Layer" class="s3" d="m652.7 844.1l887.5-293-663 578.3z"/>
+		<path id="Layer" class="s4" d="m999.4 699.6l249.8-81.5-255.7-550.5z"/>
+	</g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 50 50">
+	<defs>
+		<style>.cls-1{fill:url(#_未命名的渐变_846);}.cls-2{fill:url(#_未命名的渐变_847);}.cls-3{fill:url(#_未命名的渐变_848);}</style>
+		<linearGradient id="_未命名的渐变_847" x1="17.42" y1="25" x2="45.79" y2="25" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#004dff"/>
+			<stop offset=".13" stop-color="#0162fe"/>
+			<stop offset=".32" stop-color="#027afe"/>
+			<stop offset=".52" stop-color="#038bfe"/>
+			<stop offset=".74" stop-color="#0395fe"/>
+			<stop offset="1" stop-color="#0499fe"/>
+		</linearGradient>
+		<linearGradient id="_未命名的渐变_848" x1="2.66" y1="43.95" x2="12.6" y2="24.83" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0038ff"/>
+			<stop offset=".41" stop-color="#0144fe"/>
+			<stop offset="1" stop-color="#045ffe"/>
+		</linearGradient>
+		<linearGradient id="_未命名的渐变_846" x1="21.13" y1="28.63" x2="21.23" y2="20.03" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0000b8"/>
+			<stop offset=".22" stop-color="#0008c1"/>
+			<stop offset=".6" stop-color="#021edb"/>
+			<stop offset="1" stop-color="#043bfe"/>
+		</linearGradient>
+	</defs>
+	<path class="cls-2" d="M44.81,26.1l-4.84-4.84-7.5-7.5-14.96,14.96,7.5,7.5,7.46-7.46,7.45,7.45,4.88-4.88c1.44-1.44,1.44-3.78,0-5.22Z"/>
+	<path class="cls-3" d="M10.03,21.27l-4.84,4.84c-1.44,1.44-1.44,3.78,0,5.22l4.87,4.87,7.46-7.46V13.77l-7.5,7.5Z"/>
+	<polygon class="cls-1" points="17.52 13.77 17.52 28.73 25 21.25 17.52 13.77"/>
+</svg>

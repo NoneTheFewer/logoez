@@ -12,7 +12,6 @@
             <circle cx="66.5" cy="74.25" r="36.3" />
         </clipPath>
     </defs>
-    <rect fill="lightgrey" height="100%" width="100%" />
     <circle cx="41.4" cy="93" r="36.3" stroke="#0f9a88" stroke-width="3" fill="url(#tealgrad)" />
     <circle clip-path="url(#slice)" id="gold" cx="41.4" cy="93" r="36.3" stroke="#fce173" stroke-width="3" fill="url(#ambergrad)" />
     <circle cx="66.5" cy="74.25" r="32.2" stroke="#f472b6" stroke-width="10.8" fill="none" />

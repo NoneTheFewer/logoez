@@ -1,7 +1,4 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" version="1.2" baseProfile="tiny-ps" viewBox="0 0 200 200" fill-rule="evenodd">
-	<g>
-		<path fill="#fff" d="M0 0h200v200H0z"/>
-		<path d="M138.2 71.7c6.7 8.7 12.3 18.5 16.6 29V45h-47.4c11.4 6.2 21.9 15.2 30.8 26.7zM69.9 50.9c-8.8 0-17.2 1.9-25.1 5.3V155H150c-.9-57.6-36.4-104.1-80.1-104.1" fill="#387ed1"/>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill-rule="evenodd">
+	<path d="M138.2 71.7c6.7 8.7 12.3 18.5 16.6 29V45h-47.4c11.4 6.2 21.9 15.2 30.8 26.7zM69.9 50.9c-8.8 0-17.2 1.9-25.1 5.3V155H150c-.9-57.6-36.4-104.1-80.1-104.1" fill="#387ed1"/>
 </svg>
