@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142 192">
+	<defs>
+		<style>
+            .cls-1{fill:#d1d3d4;}.cls-2{fill:#727c83;}.cls-3{fill:#9c62ff;}.cls-4,.cls-8{opacity:0.15;}.cls-5{fill:#c0c9e1;}.cls-6{fill:#abb3c7;}.cls-7{fill:#c4cde7;}.cls-8{fill:#545657;}.cls-9{fill:#fff;}
+        </style>
+	</defs>
+	<title>moon-flag</title>
+	<path class="cls-1" d="M72,68H68V6a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2Z" transform="translate(-6 -4)"/>
+	<path class="cls-2" d="M72,68V6a2,2,0,0,0-2-2V68Z" transform="translate(-6 -4)"/>
+	<polygon class="cls-3" points="114 34 66 34 66 2 114 2 98 18 114 34"/>
+	<rect class="cls-4" x="66" y="2" width="2" height="32"/>
+	<circle class="cls-5" cx="64" cy="128" r="64"/>
+	<path class="cls-6" d="M108.85,81.15A63.7,63.7,0,0,1,122,120c0,53.22-61.14,82.77-102.85,50.85a64,64,0,1,0,89.7-89.7Z" transform="translate(-6 -4)"/>
+	<circle class="cls-7" cx="72" cy="168" r="16"/>
+	<circle class="cls-6" cx="72" cy="168" r="14"/>
+	<path class="cls-8" d="M80,160a13.94,13.94,0,0,1,8.85,3.15C80.58,153,64,158.82,64,172a14,14,0,0,0,5.15,10.85A14,14,0,0,1,80,160Z" transform="translate(-6 -4)"/>
+	<circle class="cls-7" cx="46" cy="178" r="8"/>
+	<circle class="cls-6" cx="46" cy="178" r="6"/>
+	<path class="cls-8" d="M53,177a6,6,0,0,1,3.71,1.29,6,6,0,1,0-8.42,8.42A6,6,0,0,1,53,177Z" transform="translate(-6 -4)"/>
+	<circle class="cls-6" cx="45" cy="157" r="10"/>
+	<path class="cls-8" d="M53,153a9.94,9.94,0,0,1,6,2c-5.75-7.66-18-3.6-18,6a10,10,0,0,0,4,8A10,10,0,0,1,53,153Z" transform="translate(-6 -4)"/>
+	<circle class="cls-7" cx="109" cy="127" r="12"/>
+	<circle class="cls-6" cx="109" cy="127" r="10"/>
+	<path class="cls-8" d="M117,123a9.94,9.94,0,0,1,6,2c-5.75-7.66-18-3.6-18,6a10,10,0,0,0,4,8A10,10,0,0,1,117,123Z" transform="translate(-6 -4)"/>
+	<circle class="cls-7" cx="112" cy="107" r="8"/>
+	<circle class="cls-6" cx="112" cy="107" r="6"/>
+	<path class="cls-8" d="M119,106a6,6,0,0,1,3.71,1.29,6,6,0,1,0-8.42,8.42A6,6,0,0,1,119,106Z" transform="translate(-6 -4)"/>
+	<circle class="cls-6" cx="48" cy="112" r="14"/>
+	<path class="cls-8" d="M56,104a13.94,13.94,0,0,1,8.85,3.15C56.58,97,40,102.82,40,116a14,14,0,0,0,5.15,10.85A14,14,0,0,1,56,104Z" transform="translate(-6 -4)"/>
+	<circle class="cls-6" cx="85" cy="78" r="4"/>
+	<path class="cls-8" d="M94.28,79.72a4,4,0,1,0-5.56,5.56A4,4,0,0,1,94.28,79.72Z" transform="translate(-6 -4)"/>
+	<polygon class="cls-9" points="7 186 6 190 5 186 6 182 7 186"/>
+	<polygon class="cls-9" points="6 185 10 186 6 187 2 186 6 185"/>
+	<polygon class="cls-9" points="12 68 10 76 8 68 10 60 12 68"/>
+	<polygon class="cls-9" points="10 66 18 68 10 70 2 68 10 66"/>
+	<polygon class="cls-9" points="139 110 138 114 137 110 138 106 139 110"/>
+	<polygon class="cls-9" points="138 109 142 110 138 111 134 110 138 109"/>
+</svg>

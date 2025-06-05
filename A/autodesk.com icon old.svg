@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="logosandtypes com" viewBox="0 0 150 150">
+	<defs>
+		<style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+      .cls-2 {
+        fill: none;
+      }
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+        fill-rule: evenodd;
+      }
+    </style>
+		<linearGradient id="linear-gradient" x1="2313.34" y1="-3102.11" x2="2711.55" y2="-3022.77" gradientTransform="translate(-379.5 -421.74) scale(.17 -.17)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2b7a77"/>
+			<stop offset=".51" stop-color="#4ebaa9"/>
+			<stop offset="1" stop-color="#5cc2b1"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="2527.8" y1="-2568.93" x2="2330.19" y2="-3033.01" gradientTransform="translate(-379.5 -421.74) scale(.17 -.17)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#236736"/>
+			<stop offset=".49" stop-color="#6ba443"/>
+			<stop offset="1" stop-color="#86c146"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="2571.21" y1="-2524.42" x2="2861.64" y2="-3216.06" gradientTransform="translate(-379.5 -421.74) scale(.17 -.17)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#29a5e3"/>
+			<stop offset=".52" stop-color="#356eb9"/>
+			<stop offset="1" stop-color="#394da5"/>
+		</linearGradient>
+	</defs>
+	<path class="cls-2" d="M0,0H150V150H0V0Z"/>
+	<path id="path4460" class="cls-3" d="M37.08,136.66c-3.45,0-5.24-1.3-6.96-4.32l-15.72-29.13c-1.08-2.09-1.1-2.78-1.1-4.29l24.7,1.09,5.65,5.65h49.54l-41.14,25.48c-2.01,1.19-9.63,5.52-14.98,5.52Z"/>
+	<path id="path4458" class="cls-1" d="M43.68,105.66H22.32c-6.45,0-9.01-3.38-9.01-6.74,0-2.13,.69-3.29,1.63-5.66L46.08,18.93l.33-.65,.43-.67,.9-.87,1.32-.7,1.91-.42,3.28,.09,21.64,8.04-7.32,23.07-24.87,58.85Z"/>
+	<path id="path4456" class="cls-4" d="M106.42,136.66L57.27,20.32c-.85-1.98-2.2-4.54-5.72-4.54-3.14,0-4.63,1.52-5.48,3.15,.44-1.18,1.76-3.47,5.59-3.47h33.92c3.13,0,4.63,1.84,5.31,3.53l49.7,117.67h-34.17Z"/>
+</svg>
