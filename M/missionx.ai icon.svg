@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 53.7 53.7">
+	<defs>
+		<style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+		<linearGradient id="linear-gradient" x1="13.43" y1="29.61" x2="53.7" y2="29.61" gradientTransform="translate(0 56.46) scale(1 -1)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2581c4"/>
+			<stop offset="1" stop-color="#2581c4" stop-opacity=".5"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="13.16" y1="16.19" x2="53.7" y2="16.19" gradientTransform="translate(0 56.46) scale(1 -1)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#312783"/>
+			<stop offset=".2" stop-color="#312985" stop-opacity=".97"/>
+			<stop offset=".37" stop-color="#30318a" stop-opacity=".89"/>
+			<stop offset=".54" stop-color="#2e3d93" stop-opacity=".76"/>
+			<stop offset=".69" stop-color="#2c4e9f" stop-opacity=".57"/>
+			<stop offset=".84" stop-color="#2964af" stop-opacity=".32"/>
+			<stop offset=".99" stop-color="#257fc3" stop-opacity=".02"/>
+			<stop offset="1" stop-color="#2581c4" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="0" y1="29.61" x2="40.27" y2="29.61" gradientTransform="translate(0 56.46) scale(1 -1)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffef26"/>
+			<stop offset=".02" stop-color="#ffea21"/>
+			<stop offset=".1" stop-color="#fed70f"/>
+			<stop offset=".19" stop-color="#fdcc04"/>
+			<stop offset=".28" stop-color="#fdc800"/>
+			<stop offset=".67" stop-color="#f18f34"/>
+			<stop offset=".89" stop-color="#e95f32"/>
+			<stop offset="1" stop-color="#e3312d"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-4" x1="0" y1="16.19" x2="40.27" y2="16.19" gradientTransform="translate(0 56.46) scale(1 -1)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f9b233"/>
+			<stop offset=".05" stop-color="#f7a722"/>
+			<stop offset=".12" stop-color="#f59b0f"/>
+			<stop offset=".2" stop-color="#f39404"/>
+			<stop offset=".28" stop-color="#f39200"/>
+			<stop offset=".67" stop-color="#e94e1b"/>
+			<stop offset=".89" stop-color="#be1622"/>
+			<stop offset="1" stop-color="#be1622"/>
+		</linearGradient>
+	</defs>
+	<polygon class="cls-1" points="53.7 13.43 40.27 0 13.43 26.85 40.27 53.7 53.7 40.27 40.27 26.85 53.7 13.43"/>
+	<polygon class="cls-2" points="40.27 53.7 53.7 40.27 40.27 26.85 13.43 26.85 40.27 53.7"/>
+	<polygon class="cls-3" points="0 40.27 13.43 53.7 40.27 26.85 13.43 0 0 13.43 13.43 26.85 0 40.27"/>
+	<polygon class="cls-4" points="13.43 26.85 0 40.27 13.43 53.7 40.27 26.85 13.43 26.85"/>
+</svg>

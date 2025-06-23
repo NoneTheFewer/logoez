@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 35">
+	<defs>
+		<clipPath id="clip-Logo">
+			<path d="M0 0h109v35H0z"/>
+		</clipPath>
+		<style>.cls-2{fill:#2f8cf7}</style>
+	</defs>
+	<g id="Logo" clip-path="url(#clip-Logo)">
+		<path fill="#fff" d="M0 0h109v35H0z"/>
+		<g id="Group_411" transform="translate(4 7.002)">
+			<g id="Group_407" transform="translate(0 .105)">
+				<path id="Path_366" d="M0 17.585 11.252 4.093H.907V.2h16.532v3.626L6.133 17.319h11.572v3.893H0z" class="cls-2" transform="translate(0 -.2)"/>
+				<path id="Path_367" d="M38.3.2h15.732v3.893H42.94v4.533h10.132V12.2H42.94v5.173h11.305v3.893H38.3z" class="cls-2" transform="translate(-17.875 -.2)"/>
+				<path id="Path_368" d="M74 .2h9.493c5.226 0 7.253 3.306 7.253 6.719s-2.027 6.719-7.253 6.719H78.64v7.519H74zm4.64 9.919h3.573c2.133 0 4.053-.48 4.053-3.146s-1.92-3.146-4.053-3.146H78.64z" class="cls-2" transform="translate(-34.536 -.2)"/>
+				<path id="Path_369" d="M114.093 4.093H107.8V.2h17.172v3.893h-6.293v17.119h-4.64V4.093z" class="cls-2" transform="translate(-50.311 -.2)"/>
+			</g>
+			<path id="Path_370" fill="#ffcf42" d="m179.84 5.466 3.733-1.333A10.754 10.754 0 0 0 180.96.4l-2.56 3.04a7.1 7.1 0 0 1 1.44 2.026z" transform="translate(-83.261 -.188)"/>
+			<path id="Path_371" d="m156.7.479 1.387 3.733a7.111 7.111 0 0 1 5.92 1.067l2.56-3.04A10.985 10.985 0 0 0 156.7.479z" class="cls-2" transform="translate(-73.133)"/>
+			<path id="Path_372" d="M142.162 9.919a10.348 10.348 0 0 0 .533 5.546 11.029 11.029 0 0 0 14.079 6.56 11.257 11.257 0 0 0 7.093-8.533 11.428 11.428 0 0 0-.32-5.013l-3.733 1.387a6.977 6.977 0 0 1-4.373 8.426 7.24 7.24 0 0 1-5.386-.213 6.623 6.623 0 0 1-3.626-3.946 6.849 6.849 0 0 1-.32-3.573 7.008 7.008 0 0 1 3.946-5.226L148.668 1.6a11.191 11.191 0 0 0-6.506 8.319z" class="cls-2" transform="translate(-66.274 -.748)"/>
+		</g>
+	</g>
+</svg>

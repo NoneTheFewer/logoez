@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1098 1538">
+	<title>akerrho-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1080.559,0,0,156.026,3.14,1459.797)">
+			<stop offset=".1" stop-color="#7eea7c"/>
+			<stop offset=".5" stop-color="#50e7c3"/>
+			<stop offset=".9" stop-color="#4db6f7"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m547.9 0c296.3-4.5 554.8 240.7 549.2 539.4 6.7 298.7-252.9 543.9-549.2 539.4-298.6 4.5-553.7-240.7-547-539.4-5.6-298.7 249.5-543.9 547-539.4zm1.1 153.8c-216.1 0-375.4 164.9-375.4 384.5 0 222.9 158.2 387.8 375.4 387.8 213.9 0 374.3-164.9 374.3-387.8 1.1-218.4-160.4-384.5-374.3-384.5z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m3.1 1382h1080.6v156h-1080.6z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1531 827">
+	<title>hkex-eps_20230427_10713774_0-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1279.07-870.04h14015.04v19015.63h-14015.04z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="364.8" y1="405.5" x2="1526.3" y2="405.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f8a83e"/>
+			<stop offset="1" stop-color="#f8e158"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="218.9" y1="525.5" x2="1465.1" y2="525.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f14e1f"/>
+			<stop offset="1" stop-color="#fa9d39"/>
+		</linearGradient>
+		<linearGradient id="g3" x1=".1" y1="665.6" x2="1368.6" y2="665.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1f70b3"/>
+			<stop offset="1" stop-color="#6dcde9"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 8" class="s0" d="m663.7 0.7c-122.3 0-224.7 58.9-294.2 156.5 123.6-41.2 262.5-5.9 382.5 50.6 221.2 103.6 390.7 261.3 540.1 395.4 71.8 65.9 147.1 135.3 238.9 214.2-87.1-164.8-311.8-554.3-600.1-731.9-95.4-58.9-186-84.8-267.2-84.8z"/>
+			<path id="Path 9" class="s1" d="m218.9 443.2c289.5-98.9 696.7 77.6 1243.8 381.2-149.4-134.1-543.6-506-846-593q-61.8-17.7-113-17.7c-160 0-253 115.3-284.8 229.5z"/>
+			<path id="Path 10" class="s2" d="m334.2 491.4c-180 17.7-268.3 169.5-334.1 335.4 191.8-165.9 591.9-163.6 1368.5-2.4-164.7-82.3-681.3-334.2-988.5-334.2q-23.5 0-45.9 1.2z"/>
+		</g>
+	</g>
+</svg>

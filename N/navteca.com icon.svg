@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.5 300.5">
+	<g transform="translate(-19 -92)">
+		<g transform="matrix(1.25 0 0 -1.25 78.811 346.66)">
+			<g>
+				<circle cx="72.385" transform="scale(1,-1)" cy="-83.483" r="120.25" fill="#6e798b" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+				<circle cx="72.385" transform="scale(1,-1)" cy="-83.483" r="94.667" fill="#fff" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+				<circle cx="72.385" transform="scale(1,-1)" cy="-83.483" r="80.879" fill="#6e798b" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+			</g>
+			<g stroke-linecap="square">
+				<circle cy="77.849" stroke="#fff" cx="78.413" stroke-width="4" fill="none" transform="matrix(-.067414 .99773 .99773 .067414 0 0)" r="107.68" stroke-dasharray="1, 7" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+				<path stroke="#495677" stroke-width=".27491" fill="#969594" transform="matrix(-1.3443 -.55673 -.55673 1.3443 123.22 236.01)" d="m127.85-28.017-55.465-40.71-55.465 40.71 40.71-55.466-40.71-55.467 55.465 40.712 55.465-40.712-40.709 55.467z" stroke-dasharray="0.27490621, 0.54981242" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+				<path stroke="#495677" stroke-width=".4" fill="#fff" d="m72.39 161.92-8.7851-57.24 8.7806-6.4462 8.7825 6.445-8.7781 57.241zm8.7781-57.241 1.6517-10.767l10.767-1.651 34.263 46.678-46.682-34.26zm12.419-12.418-6.446-8.78 6.445-8.783 57.244 8.778-57.243 8.785zm-0.001-17.563-10.768-1.652-1.653-10.767 46.685-34.267-34.264 46.686zm-12.421-12.419-8.78 6.447-8.783-6.445 8.778-57.24 8.785 57.238zm-17.563 0.0011-1.6517 10.767-10.767 1.6528-34.268-46.682 46.686 34.262zm-12.419 12.42 6.4461 8.7822-6.445 8.781-57.239-8.778 57.238-8.7852zm0.0011 17.563 10.767 1.6517 1.6528 10.767-46.682 34.268 34.262-46.686z" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+			</g>
+			<g stroke="#495677" stroke-width="3.2" fill="none">
+				<circle cy="-83.483" stroke-linecap="square" transform="scale(1,-1)" r="80.879" cx="72.385" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+				<path d="m103.34 158.45-62.397-150m-43.591 106.48 150-62.4"/>
+			</g>
+			<circle cy="-83.483" stroke="#495677" cx="72.385" stroke-width=".8" fill="none" transform="scale(1,-1)" r="23.279" stroke-linecap="square" color-rendering="auto" color="#000000" isolation="auto" mix-blend-mode="normal" paint-order="normal" shape-rendering="auto" image-rendering="auto"/>
+			<path d="m81.296 105.06-17.961-43.174m-12.547 30.647 43.175-17.961" stroke="#495677" stroke-width=".8" fill="none"/>
+		</g>
+	</g>
+</svg>

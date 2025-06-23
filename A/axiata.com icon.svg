@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1037 1498">
+	<title>axiata-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(518.032,0,0,597.138,519.494,899.214)">
+			<stop offset="0" stop-color="#231e67"/>
+			<stop offset=".09" stop-color="#3f1e6b"/>
+			<stop offset=".2" stop-color="#5e1f70"/>
+			<stop offset="1" stop-color="#ad3f80"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,597.755,-518.567,0,778.301,301.036)">
+			<stop offset=".1" stop-color="#e64e23"/>
+			<stop offset=".67" stop-color="#eb7720"/>
+			<stop offset="1" stop-color="#ed891e"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(518.032,0,0,600.512,519.494,1197.246)">
+			<stop offset=".05" stop-color="#a52947"/>
+			<stop offset=".18" stop-color="#b2254b"/>
+			<stop offset=".5" stop-color="#cd1c53"/>
+			<stop offset=".78" stop-color="#dd1658"/>
+			<stop offset="1" stop-color="#e3145a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ee3e80 } 
+		.s1 { fill: #fdb933 } 
+		.s2 { fill: #f7941d } 
+		.s3 { fill: url(#g1) } 
+		.s4 { fill: url(#g2) } 
+		.s5 { fill: url(#g3) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0.8 1197.6l518.8 299.7v-599.5z"/>
+		<path id="Layer" class="s1" d="m0.8 0.3v601.2l518.8-299.8z"/>
+		<path id="Layer" class="s2" d="m519.6 301.7l-518.8 299.8 518.8 296.3z"/>
+		<path id="Layer" class="s3" d="m1036.7 1197.6v-596.1l-517.1 296.3z"/>
+		<path id="Layer" class="s4" d="m519.6 897.8l517.1-296.3-517.1-299.8z"/>
+		<path id="Layer" class="s5" d="m1036.7 1197.6l-517.1-299.8v599.5z"/>
+	</g>
+</svg>

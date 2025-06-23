@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 665 180">
+	<defs>
+		<radialGradient id="radial-gradient" cx="84.1" cy="64.99" r="62.47" gradientTransform="translate(-16.25 -1.39)" gradientUnits="userSpaceOnUse">
+			<stop offset=".37" stop-color="#ffe1cb"/>
+			<stop offset=".39" stop-color="#ffe1cb" stop-opacity=".93"/>
+			<stop offset=".46" stop-color="#ffe1cb" stop-opacity=".72"/>
+			<stop offset=".53" stop-color="#ffe1cb" stop-opacity=".52"/>
+			<stop offset=".6" stop-color="#ffe1cb" stop-opacity=".36"/>
+			<stop offset=".68" stop-color="#ffe1cb" stop-opacity=".23"/>
+			<stop offset=".75" stop-color="#ffe1cb" stop-opacity=".13"/>
+			<stop offset=".83" stop-color="#ffe1cb" stop-opacity=".06"/>
+			<stop offset=".91" stop-color="#ffe1cb" stop-opacity=".01"/>
+			<stop offset="1" stop-color="#ffe1cb" stop-opacity="0"/>
+		</radialGradient>
+		<radialGradient id="radial-gradient-2" cx="90.01" cy="85.84" r="44.59" gradientUnits="userSpaceOnUse">
+			<stop offset=".4" stop-color="#cd3100"/>
+			<stop offset=".48" stop-color="#cd3100" stop-opacity=".77"/>
+			<stop offset=".57" stop-color="#cd3100" stop-opacity=".54"/>
+			<stop offset=".66" stop-color="#cd3100" stop-opacity=".34"/>
+			<stop offset=".75" stop-color="#cd3100" stop-opacity=".19"/>
+			<stop offset=".84" stop-color="#cd3100" stop-opacity=".09"/>
+			<stop offset=".92" stop-color="#cd3100" stop-opacity=".02"/>
+			<stop offset="1" stop-color="#cd3100" stop-opacity="0"/>
+		</radialGradient>
+		<linearGradient id="linear-gradient" x1="-3574.24" x2="-3399.96" y1="-3735.46" y2="-3909.74" gradientTransform="rotate(90 -3652.765 8.805)" gradientUnits="userSpaceOnUse">
+			<stop offset=".02" stop-color="#f76a3e"/>
+			<stop offset=".24" stop-color="#fb8e50"/>
+			<stop offset=".42" stop-color="#fda65d"/>
+			<stop offset=".54" stop-color="#feaf61"/>
+		</linearGradient>
+	</defs>
+	<path d="m190.32 114.07 6.46-2.55c1.36 4.31 5.27 6.86 11.1 6.86 5.26 0 8.69-2.23 8.69-6.14 0-10.14-24.18-5.59-24.18-20 0-7.26 6-11.73 15.25-11.73 7.66 0 13.16 3.11 15 8.7l-6.47 2.55c-1.35-3.75-4.38-5.51-8.61-5.51-4.87 0-7.67 2.16-7.67 5.59 0 9.42 24.34 4.47 24.34 19.87 0 8-6.62 12.61-16.59 12.61-8.7-.03-15.09-3.54-17.32-10.25zm44.21-4.78V87.18h-7.66v-5.82h4.38c2.56 0 3.76-1.28 3.76-3.84v-6.94h6.54v10.78H254v5.82h-12.69v21.39c0 5.66 2.95 8.86 8.38 8.86h4.95v6h-6.15c-9.1-.02-13.96-5.43-13.96-14.14zm22.66-6.87c0-12.61 9.1-21.94 21.87-21.94s21.86 9.33 21.86 21.94-9.1 21.87-21.86 21.87-21.87-9.29-21.87-21.87zm36.95 0c0-9.25-6.07-15.88-15-15.88s-15.09 6.63-15.09 15.88 6.15 15.8 15.09 15.8 15-6.62 15-15.8zm33.27-21.94v6.3c-7.66.08-13 5.27-13 11.25v25.38h-6.79v-42H314v6.09a16.32 16.32 0 0 1 13.41-7.02zM351.43 118c6.87 0 10.7-2.64 12.77-7.51l5.91 3.59c-3.11 6-8.94 10.3-18.92 10.3-12.92 0-21.7-9.42-21.7-22 0-12.21 9.34-22 21.23-22 12.68 0 20.74 10 20.74 21.07 0 1.19-.07 2.63-.15 3.43h-35A15 15 0 0 0 351.43 118zm13.09-19c-1-7.9-6.54-12.69-13.56-12.69S337.71 91 336.43 99zm81.4-1.52v25.93h-6.79V98.67c0-7.1-4.23-12.21-11.25-12.13s-11.49 5.51-11.65 10.38v26.49h-6.78V98.67c0-7.18-4.23-12.21-11.26-12.13s-11.49 5.51-11.57 10.38v26.49h-6.78v-42h6.38v6.22a16.33 16.33 0 0 1 13.89-7.1c7.26 0 12.05 3.11 14.36 8.54 2.16-4.55 7.35-8.54 14.93-8.54 10.53-.05 16.52 7.13 16.52 16.95zm48.99-16.12v42.05h-6.3v-8.06a17.44 17.44 0 0 1-15.8 8.94c-12 0-20.67-9.34-20.67-22 0-12.45 8.78-21.46 20.67-21.46 7.1 0 12.61 3.19 15.8 8.62v-8.09zm-6.54 21c0-9.33-6-15.88-14.77-15.88-8.45 0-14.76 6.87-14.76 15.88 0 9.18 6.31 16 14.76 16 8.7-.06 14.77-6.6 14.77-16.02zm54.82-21L526 123.41h-7.66l-17.16-42h7.11l13.88 35.35 13.89-35.35zM567.05 118c6.86 0 10.69-2.64 12.77-7.51l5.9 3.59c-3.11 6-8.93 10.3-18.91 10.3-12.93 0-21.71-9.42-21.71-22 0-12.21 9.34-22 21.23-22 12.69 0 20.75 10 20.75 21.07 0 1.19-.08 2.63-.16 3.43H552A14.94 14.94 0 0 0 567.05 118zm13.09-19c-1-7.9-6.55-12.69-13.57-12.69S553.32 91 552.05 99zm51.95-1.28v25.69h-6.79v-24.5c0-7.82-4.55-12.45-12-12.37-7.18 0-12.29 5.19-12.37 10.86v26h-6.83v-42h6.38v6.1c2.72-4 7.83-7 14.53-7 10.77-.02 17.08 6.76 17.08 17.22z" fill="#14161d"/>
+	<circle cx="67.48" cy="63.31" r="62.2" fill="url(#radial-gradient)"/>
+	<circle cx="105.03" cy="100.86" r="51.63" fill="url(#linear-gradient)"/>
+	<circle cx="90.01" cy="85.84" r="44.59" fill="url(#radial-gradient-2)" opacity=".8"/>
+	<circle cx="76.87" cy="72.7" r="36.61" fill="#feaf61"/>
+	<path fill="#fff" d="M105 49.23a51.63 51.63 0 0 0-51.6 51.56A36.61 36.61 0 0 0 105 49.23z"/>
+</svg>
