@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 256 256" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 256 256" xml:space="preserve">
 	<rect y="0" fill="#4353FF" width="256" height="256"/>
 	<path fill-rule="evenodd" fill="#FFFFFF" d="M103,58c-22.1,0-40,17.9-40,40h80V58H103z M153,188c22.1,0,40-17.9,40-40h-80v40H153z   M153,58c22.1,0,40,17.9,40,40v40h-40V58z M103,108H63v90l40-10V108z"/>
 </svg>

@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" >
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-168">
-            <stop stop-color="#ECEEF0" offset="0%"/>
-            <stop stop-color="#B6BBC2" offset="100%"/>
-        </linearGradient>
-        <linearGradient x1="14.695%" y1="0%" x2="65.477%" y2="100%" id="linearGradient-169">
-            <stop stop-color="#00BFFF" offset="0%"/>
-            <stop stop-color="#8935FF" offset="100%"/>
-        </linearGradient>
-        <linearGradient x1="96.473%" y1="36.146%" x2="50%" y2="61.809%" id="linearGradient-170">
-            <stop stop-color="#318EFF" offset="0%"/>
-            <stop stop-color="#536CFF" offset="100%"/>
-        </linearGradient>
-    </defs>
-    <g id="header_icon0906" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g name="_r3_c7" id="makemydudio">
-            <g id="b-link" fill="url(#linearGradient-168)" fill-rule="nonzero">
-                <rect id="b" x="0" y="0" width="40" height="40" rx="8"/>
-            </g>
-            <g id="b-link" fill="url(#linearGradient-169)" fill-rule="nonzero">
-                <rect id="b" x="0" y="0" width="40" height="40" rx="8"/>
-            </g>
-            <polygon id="路径" fill="#BAADFF" fill-rule="nonzero" points="19 24 21 24 21 33 19 33"/>
-            <rect id="矩形" fill="#FBFCFE" fill-rule="nonzero" transform="translate(20.000000, 31.500000) rotate(90.000000) translate(-20.000000, -31.500000) " x="18.5" y="26.5" width="3" height="10" rx="1.5"/>
-            <path d="M20,6 C22.7614237,6 25,8.23857625 25,11 L25,12.999 L20.5,13 C20.2585077,12.9999195 20.0514686,13.1724521 20.008,13.41 L20,13.5 C20,13.7761424 20.2238576,14 20.5,14 L25,13.999 L25,15.999 L20.5,16 C20.2585077,15.9999195 20.0514686,16.1724521 20.008,16.41 L20,16.5 C20,16.7761424 20.2238576,17 20.5,17 L25,16.999 L25,22 C25,24.7614237 22.7614237,27 20,27 C17.2385763,27 15,24.7614237 15,22 L15,11 C15,8.23857625 17.2385763,6 20,6 Z" id="路径" fill="#FBFCFE" fill-rule="nonzero"/>
-            <path d="M32.202,27.616 L31.184,29.986 C31.1525823,30.0597507 31.0801638,30.1076163 31,30.1076163 C30.9198362,30.1076163 30.8474177,30.0597507 30.816,29.986 L29.798,27.616 L27.428,26.598 C27.3542493,26.5665823 27.3063837,26.4941638 27.3063837,26.414 C27.3063837,26.3338362 27.3542493,26.2614177 27.428,26.23 L29.798,25.212 L30.816,22.842 C30.8474177,22.7682493 30.9198362,22.7203837 31,22.7203837 C31.0801638,22.7203837 31.1525823,22.7682493 31.184,22.842 L32.202,25.212 L34.572,26.23 C34.6457507,26.2614177 34.6936163,26.3338362 34.6936163,26.414 C34.6936163,26.4941638 34.6457507,26.5665823 34.572,26.598 L32.202,27.616 Z M13.514,8.617 C10.898,9.263 8.972,10.689 8.391,12.717 C7.271,16.622 11.565,21.28 17.981,23.12 C24.397,24.96 30.507,23.285 31.627,19.38 C32.155,17.538 31.479,15.53 29.946,13.728 C30.684,14.959 30.948,16.248 30.603,17.45 C29.646,20.789 24.358,22.202 18.793,20.606 C13.228,19.01 9.493,15.01 10.45,11.671 C10.833,10.335 11.909,9.308 13.418,8.658 L13.514,8.617 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"/>
-            <path d="M26.2565077,15.3660474 C22.8195077,20.0160474 18.4425077,22.1250474 13.1265077,21.6920474" id="路径" stroke="url(#linearGradient-170)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.691508, 18.556706) scale(-1, 1) rotate(11.000000) translate(-19.691508, -18.556706) "/>
-        </g>
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-168">
+			<stop stop-color="#ECEEF0" offset="0%"/>
+			<stop stop-color="#B6BBC2" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="14.695%" y1="0%" x2="65.477%" y2="100%" id="linearGradient-169">
+			<stop stop-color="#00BFFF" offset="0%"/>
+			<stop stop-color="#8935FF" offset="100%"/>
+		</linearGradient>
+		<linearGradient x1="96.473%" y1="36.146%" x2="50%" y2="61.809%" id="linearGradient-170">
+			<stop stop-color="#318EFF" offset="0%"/>
+			<stop stop-color="#536CFF" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g id="header_icon0906" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g name="_r3_c7" id="makemydudio">
+			<g id="b-link" fill="url(#linearGradient-168)" fill-rule="nonzero">
+				<rect id="b" x="0" y="0" width="40" height="40" rx="8"/>
+			</g>
+			<g id="b-link" fill="url(#linearGradient-169)" fill-rule="nonzero">
+				<rect id="b" x="0" y="0" width="40" height="40" rx="8"/>
+			</g>
+			<polygon id="路径" fill="#BAADFF" fill-rule="nonzero" points="19 24 21 24 21 33 19 33"/>
+			<rect id="矩形" fill="#FBFCFE" fill-rule="nonzero" transform="translate(20.000000, 31.500000) rotate(90.000000) translate(-20.000000, -31.500000) " x="18.5" y="26.5" width="3" height="10" rx="1.5"/>
+			<path d="M20,6 C22.7614237,6 25,8.23857625 25,11 L25,12.999 L20.5,13 C20.2585077,12.9999195 20.0514686,13.1724521 20.008,13.41 L20,13.5 C20,13.7761424 20.2238576,14 20.5,14 L25,13.999 L25,15.999 L20.5,16 C20.2585077,15.9999195 20.0514686,16.1724521 20.008,16.41 L20,16.5 C20,16.7761424 20.2238576,17 20.5,17 L25,16.999 L25,22 C25,24.7614237 22.7614237,27 20,27 C17.2385763,27 15,24.7614237 15,22 L15,11 C15,8.23857625 17.2385763,6 20,6 Z" id="路径" fill="#FBFCFE" fill-rule="nonzero"/>
+			<path d="M32.202,27.616 L31.184,29.986 C31.1525823,30.0597507 31.0801638,30.1076163 31,30.1076163 C30.9198362,30.1076163 30.8474177,30.0597507 30.816,29.986 L29.798,27.616 L27.428,26.598 C27.3542493,26.5665823 27.3063837,26.4941638 27.3063837,26.414 C27.3063837,26.3338362 27.3542493,26.2614177 27.428,26.23 L29.798,25.212 L30.816,22.842 C30.8474177,22.7682493 30.9198362,22.7203837 31,22.7203837 C31.0801638,22.7203837 31.1525823,22.7682493 31.184,22.842 L32.202,25.212 L34.572,26.23 C34.6457507,26.2614177 34.6936163,26.3338362 34.6936163,26.414 C34.6936163,26.4941638 34.6457507,26.5665823 34.572,26.598 L32.202,27.616 Z M13.514,8.617 C10.898,9.263 8.972,10.689 8.391,12.717 C7.271,16.622 11.565,21.28 17.981,23.12 C24.397,24.96 30.507,23.285 31.627,19.38 C32.155,17.538 31.479,15.53 29.946,13.728 C30.684,14.959 30.948,16.248 30.603,17.45 C29.646,20.789 24.358,22.202 18.793,20.606 C13.228,19.01 9.493,15.01 10.45,11.671 C10.833,10.335 11.909,9.308 13.418,8.658 L13.514,8.617 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"/>
+			<path d="M26.2565077,15.3660474 C22.8195077,20.0160474 18.4425077,22.1250474 13.1265077,21.6920474" id="路径" stroke="url(#linearGradient-170)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.691508, 18.556706) scale(-1, 1) rotate(11.000000) translate(-19.691508, -18.556706) "/>
+		</g>
+	</g>
 </svg>

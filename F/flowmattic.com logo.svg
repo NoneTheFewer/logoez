@@ -1,1 +1,11 @@
-<svg viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg"><g transform="translate(5 8)" fill="none" fill-rule="evenodd"><rect fill="#0D6EFD" width="44" height="44" rx="8" /><circle fill="#FFF" cx="10" cy="33" r="3" /><path d="M34.092 8a2.908 2.908 0 0 1 0 5.816L13.8 13.815v5.369h8.693a2.908 2.908 0 0 1 0 5.816H10.9A2.9 2.9 0 0 1 8 22.1V10.9A2.9 2.9 0 0 1 10.9 8h23.192z" fill="#FFF" /><text font-family="OpenSans-SemiBold, Open Sans" font-size="29" font-weight="500" fill="#524933" ><tspan x="51" y="34">FlowMattic</tspan></text></g></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44">
+	<g transform="translate(5 8)" fill="none" fill-rule="evenodd">
+		<rect fill="#0D6EFD" width="44" height="44" rx="8"/>
+		<circle fill="#FFF" cx="10" cy="33" r="3"/>
+		<path d="M34.092 8a2.908 2.908 0 0 1 0 5.816L13.8 13.815v5.369h8.693a2.908 2.908 0 0 1 0 5.816H10.9A2.9 2.9 0 0 1 8 22.1V10.9A2.9 2.9 0 0 1 10.9 8h23.192z" fill="#FFF"/>
+		<text font-family="OpenSans-SemiBold, Open Sans" font-size="29" font-weight="500" fill="#524933">
+			<tspan x="51" y="34">FlowMattic</tspan>
+		</text>
+	</g>
+</svg>

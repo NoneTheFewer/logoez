@@ -1,6 +1,7 @@
-<svg preserveAspectRatio="xMidYMid meet" data-bbox="0 0 68.16 52.8" viewBox="0 0 68.16 52.8" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true">
-    <g>
-        <path fill="#73e6c4" d="M7.6 18.67 26.2 0h-7.59L0 18.67l26.52 26.58 3.8-3.8L7.59 18.67h.01z" data-color="1" ></path>
-        <path fill="#73e6c4" d="M68.16 18.68v-.01h-.01L53.05 3.52 49.56.01V0H33.79L15.18 18.67l.01.01-.01.01h.01l18.92 18.95 3.79-3.8-15.12-15.16 13.25-13.3h7.57L30.35 18.69h7.59L49.26 7.33l11.3 11.35-30.23 30.3 3.77 3.82 34.05-34.11h.01v-.01z" />
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" data-bbox="0 0 68.16 52.8" viewBox="0 0 68.16 52.8" data-type="color" role="presentation" aria-hidden="true">
+	<g>
+		<path fill="#73e6c4" d="M7.6 18.67 26.2 0h-7.59L0 18.67l26.52 26.58 3.8-3.8L7.59 18.67h.01z" data-color="1"/>
+		<path fill="#73e6c4" d="M68.16 18.68v-.01h-.01L53.05 3.52 49.56.01V0H33.79L15.18 18.67l.01.01-.01.01h.01l18.92 18.95 3.79-3.8-15.12-15.16 13.25-13.3h7.57L30.35 18.69h7.59L49.26 7.33l11.3 11.35-30.23 30.3 3.77 3.82 34.05-34.11h.01v-.01z"/>
+	</g>
 </svg>

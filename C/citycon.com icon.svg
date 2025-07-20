@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1304 1506">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h7844.35v1699.46h-7844.35z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m869.1 376.3v-250.9l-217.2-125.4-217.3 125.4v250.9l217.3 125.5z"/>
+			<path id="Layer" class="s0" d="m434.6 627.2v-250.9l-217.3-125.4-217.3 125.4v250.9l217.3 125.4z"/>
+			<path id="Layer" class="s0" d="m434.6 1129v-250.9l-217.3-125.5-217.3 125.5v250.9l217.3 125.4z"/>
+			<path id="Layer" class="s0" d="m869.1 1379.9v-250.9l-217.2-125.5-217.3 125.5v250.9l217.3 125.4z"/>
+			<path id="Layer" class="s0" d="m1303.7 1129v-250.9l-217.3-125.5-217.3 125.5v250.9l217.3 125.4z"/>
+		</g>
+	</g>
+</svg>

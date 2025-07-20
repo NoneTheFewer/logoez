@@ -1,63 +1,63 @@
 <?xml version="1.0" ?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.5 159.4652">
-    <rect fill="lightgrey" height="100%" width="100%" />
-    <defs id="defs48">
-        <path d="m 182,228 -32,32 44,44 32,-32 z" id="e7kXdzlVXT" />
-        <clipPath id="clipaQ02gIun">
-            <use xlink:href="#e7kXdzlVXT" opacity="1" id="use26" x="0" y="0" width="100%" height="100%" />
-        </clipPath>
-        <path d="m 238,268 -44,44 32,32 44,-44 z" id="dZqphRm8m" />
-        <clipPath id="clipe3WhnpITJ0">
-            <use xlink:href="#dZqphRm8m" opacity="1" id="use30" x="0" y="0" width="100%" height="100%" />
-        </clipPath>
-        <path d="m 186,312 -32,32 44,44 32,-32 z" id="biLbUXUPd" />
-        <clipPath id="clipg3FfzE9S2r">
-            <use xlink:href="#biLbUXUPd" opacity="1" id="use34" x="0" y="0" width="100%" height="100%" />
-        </clipPath>
-        <path d="m 154,272 -44,44 32,32 44,-44 z" id="bnS4ZDYY5" />
-        <clipPath id="clipcpvpwxB76">
-            <use xlink:href="#bnS4ZDYY5" opacity="1" id="use38" x="0" y="0" width="100%" height="100%" />
-        </clipPath>
-    </defs>
-    <g transform="translate(-110.00108 -228.00331)">
-        <g id="g88" transform="translate(0.0010753,-0.26499133)">
-            <g id="g56">
-                <use xlink:href="#e7kXdzlVXT" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use50" x="0" y="0" width="100%" height="100%" />
-                <g clip-path="url(#clipaQ02gIun)" id="g54">
-                    <use xlink:href="#e7kXdzlVXT" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use52" x="0" y="0" width="100%" height="100%" />
-                </g>
-            </g>
-            <g id="g64">
-                <use xlink:href="#dZqphRm8m" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use58" x="0" y="0" width="100%" height="100%" />
-                <g clip-path="url(#clipe3WhnpITJ0)" id="g62">
-                    <use xlink:href="#dZqphRm8m" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use60" x="0" y="0" width="100%" height="100%" />
-                </g>
-            </g>
-            <g id="g72">
-                <use xlink:href="#biLbUXUPd" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use66" x="0" y="0" width="100%" height="100%" />
-                <g clip-path="url(#clipg3FfzE9S2r)" id="g70">
-                    <use xlink:href="#biLbUXUPd" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use68" x="0" y="0" width="100%" height="100%" />
-                </g>
-            </g>
-            <g id="g80">
-                <use xlink:href="#bnS4ZDYY5" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use74" x="0" y="0" width="100%" height="100%" />
-                <g clip-path="url(#clipcpvpwxB76)" id="g78">
-                    <use xlink:href="#bnS4ZDYY5" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use76" x="0" y="0" width="100%" height="100%" />
-                </g>
-            </g>
-            <g id="b1zyvwckdh">
-                <use xlink:href="#g8hqMWCG" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use82" x="0" y="0" width="100%" height="100%" />
-            </g>
-            <g id="b1yu5sfPqL">
-                <use xlink:href="#aa1jxK5Er" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use85" x="0" y="0" width="100%" height="100%" />
-            </g>
-        </g>
-    </g>
-    <g transform="scale(.12) translate(1458 222)" fill="#2e6cc5">
-        <path d="M 258.5,657.5 Q 212.0,700.0 125.0,700.0 L 30.0,700.0 L 30.0,624.0 L 135.0,624.0 Q 172.0,624.0 195.0,602.0 Q 218.0,580.0 218.0,549.0 L 218.0,75.0 L 67.0,75.0 L 67.0,0.0 L 305.0,0.0 L 305.0,530.0 Q 305.0,615.0 258.5,657.5" transform="translate(0 -0.0)" name="J" />
-        <path d="M 75.0,90.0 L 75.0,0.0 L 170.0,0.0 L 170.0,90.0 L 75.0,90.0 M 80.0,700.0 L 80.0,200.0 L 165.0,200.0 L 165.0,700.0 L 80.0,700.0" transform="translate(370 -0.0)" name="i" />
-        <path d="M 80.0,0.0 L 160.0,0.0 L 160.0,24.0 Q 191.0,0.0 240.0,0.0 L 266.0,0.0 Q 347.0,0.0 386.5,38.0 Q 426.0,76.0 426.0,160.0 L 426.0,500.0 L 341.0,500.0 L 341.0,140.0 Q 341.0,110.0 323.5,92.5 Q 306.0,75.0 276.0,75.0 L 230.0,75.0 Q 197.0,75.0 181.0,92.5 Q 165.0,110.0 165.0,130.0 L 165.0,500.0 L 80.0,500.0 L 80.0,0.0" transform="translate(605 200)" name="n" />
-        <path d="M 411.5,664.0 Q 372.0,700.0 281.0,700.0 L 85.0,700.0 L 85.0,0.0 L 269.0,0.0 Q 359.0,0.0 405.0,36.5 Q 451.0,73.0 451.0,156.0 L 451.0,542.0 Q 451.0,628.0 411.5,664.0 M 344.0,94.5 Q 324.0,75.0 291.0,75.0 L 172.0,75.0 L 172.0,625.0 L 290.0,625.0 Q 328.0,625.0 346.0,607.5 Q 364.0,590.0 364.0,552.0 L 364.0,147.0 Q 364.0,114.0 344.0,94.5" transform="translate(1167 -0.0)" name="D" />
-        <path d="M 405.5,664.0 Q 366.0,700.0 275.0,700.0 L 85.0,700.0 L 85.0,0.0 L 263.0,0.0 Q 352.0,0.0 393.5,36.0 Q 435.0,72.0 435.0,156.0 L 435.0,213.0 Q 435.0,290.0 380.0,329.0 Q 445.0,365.0 445.0,452.0 L 445.0,542.0 Q 445.0,628.0 405.5,664.0 M 330.5,92.0 Q 313.0,75.0 275.0,75.0 L 172.0,75.0 L 172.0,296.0 L 275.0,296.0 Q 306.0,296.0 327.0,276.0 Q 348.0,256.0 348.0,223.0 L 348.0,147.0 Q 348.0,109.0 330.5,92.0 M 338.0,390.5 Q 318.0,371.0 285.0,371.0 L 172.0,371.0 L 172.0,625.0 L 284.0,625.0 Q 322.0,625.0 340.0,607.5 Q 358.0,590.0 358.0,552.0 L 358.0,443.0 Q 358.0,410.0 338.0,390.5" transform="translate(1643 -0.0)" name="B" />
-    </g>
+	<rect fill="lightgrey" height="100%" width="100%"/>
+	<defs id="defs48">
+		<path d="m 182,228 -32,32 44,44 32,-32 z" id="e7kXdzlVXT"/>
+		<clipPath id="clipaQ02gIun">
+			<use xlink:href="#e7kXdzlVXT" opacity="1" id="use26" x="0" y="0" width="100%" height="100%"/>
+		</clipPath>
+		<path d="m 238,268 -44,44 32,32 44,-44 z" id="dZqphRm8m"/>
+		<clipPath id="clipe3WhnpITJ0">
+			<use xlink:href="#dZqphRm8m" opacity="1" id="use30" x="0" y="0" width="100%" height="100%"/>
+		</clipPath>
+		<path d="m 186,312 -32,32 44,44 32,-32 z" id="biLbUXUPd"/>
+		<clipPath id="clipg3FfzE9S2r">
+			<use xlink:href="#biLbUXUPd" opacity="1" id="use34" x="0" y="0" width="100%" height="100%"/>
+		</clipPath>
+		<path d="m 154,272 -44,44 32,32 44,-44 z" id="bnS4ZDYY5"/>
+		<clipPath id="clipcpvpwxB76">
+			<use xlink:href="#bnS4ZDYY5" opacity="1" id="use38" x="0" y="0" width="100%" height="100%"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-110.00108 -228.00331)">
+		<g id="g88" transform="translate(0.0010753,-0.26499133)">
+			<g id="g56">
+				<use xlink:href="#e7kXdzlVXT" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use50" x="0" y="0" width="100%" height="100%"/>
+				<g clip-path="url(#clipaQ02gIun)" id="g54">
+					<use xlink:href="#e7kXdzlVXT" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use52" x="0" y="0" width="100%" height="100%"/>
+				</g>
+			</g>
+			<g id="g64">
+				<use xlink:href="#dZqphRm8m" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use58" x="0" y="0" width="100%" height="100%"/>
+				<g clip-path="url(#clipe3WhnpITJ0)" id="g62">
+					<use xlink:href="#dZqphRm8m" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use60" x="0" y="0" width="100%" height="100%"/>
+				</g>
+			</g>
+			<g id="g72">
+				<use xlink:href="#biLbUXUPd" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use66" x="0" y="0" width="100%" height="100%"/>
+				<g clip-path="url(#clipg3FfzE9S2r)" id="g70">
+					<use xlink:href="#biLbUXUPd" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use68" x="0" y="0" width="100%" height="100%"/>
+				</g>
+			</g>
+			<g id="g80">
+				<use xlink:href="#bnS4ZDYY5" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use74" x="0" y="0" width="100%" height="100%"/>
+				<g clip-path="url(#clipcpvpwxB76)" id="g78">
+					<use xlink:href="#bnS4ZDYY5" opacity="1" fill-opacity="0" stroke="#a9a9a9" stroke-width="0" stroke-opacity="1" id="use76" x="0" y="0" width="100%" height="100%"/>
+				</g>
+			</g>
+			<g id="b1zyvwckdh">
+				<use xlink:href="#g8hqMWCG" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use82" x="0" y="0" width="100%" height="100%"/>
+			</g>
+			<g id="b1yu5sfPqL">
+				<use xlink:href="#aa1jxK5Er" opacity="1" fill="#2e6cc5" fill-opacity="1" id="use85" x="0" y="0" width="100%" height="100%"/>
+			</g>
+		</g>
+	</g>
+	<g transform="scale(.12) translate(1458 222)" fill="#2e6cc5">
+		<path d="M 258.5,657.5 Q 212.0,700.0 125.0,700.0 L 30.0,700.0 L 30.0,624.0 L 135.0,624.0 Q 172.0,624.0 195.0,602.0 Q 218.0,580.0 218.0,549.0 L 218.0,75.0 L 67.0,75.0 L 67.0,0.0 L 305.0,0.0 L 305.0,530.0 Q 305.0,615.0 258.5,657.5" transform="translate(0 -0.0)" name="J"/>
+		<path d="M 75.0,90.0 L 75.0,0.0 L 170.0,0.0 L 170.0,90.0 L 75.0,90.0 M 80.0,700.0 L 80.0,200.0 L 165.0,200.0 L 165.0,700.0 L 80.0,700.0" transform="translate(370 -0.0)" name="i"/>
+		<path d="M 80.0,0.0 L 160.0,0.0 L 160.0,24.0 Q 191.0,0.0 240.0,0.0 L 266.0,0.0 Q 347.0,0.0 386.5,38.0 Q 426.0,76.0 426.0,160.0 L 426.0,500.0 L 341.0,500.0 L 341.0,140.0 Q 341.0,110.0 323.5,92.5 Q 306.0,75.0 276.0,75.0 L 230.0,75.0 Q 197.0,75.0 181.0,92.5 Q 165.0,110.0 165.0,130.0 L 165.0,500.0 L 80.0,500.0 L 80.0,0.0" transform="translate(605 200)" name="n"/>
+		<path d="M 411.5,664.0 Q 372.0,700.0 281.0,700.0 L 85.0,700.0 L 85.0,0.0 L 269.0,0.0 Q 359.0,0.0 405.0,36.5 Q 451.0,73.0 451.0,156.0 L 451.0,542.0 Q 451.0,628.0 411.5,664.0 M 344.0,94.5 Q 324.0,75.0 291.0,75.0 L 172.0,75.0 L 172.0,625.0 L 290.0,625.0 Q 328.0,625.0 346.0,607.5 Q 364.0,590.0 364.0,552.0 L 364.0,147.0 Q 364.0,114.0 344.0,94.5" transform="translate(1167 -0.0)" name="D"/>
+		<path d="M 405.5,664.0 Q 366.0,700.0 275.0,700.0 L 85.0,700.0 L 85.0,0.0 L 263.0,0.0 Q 352.0,0.0 393.5,36.0 Q 435.0,72.0 435.0,156.0 L 435.0,213.0 Q 435.0,290.0 380.0,329.0 Q 445.0,365.0 445.0,452.0 L 445.0,542.0 Q 445.0,628.0 405.5,664.0 M 330.5,92.0 Q 313.0,75.0 275.0,75.0 L 172.0,75.0 L 172.0,296.0 L 275.0,296.0 Q 306.0,296.0 327.0,276.0 Q 348.0,256.0 348.0,223.0 L 348.0,147.0 Q 348.0,109.0 330.5,92.0 M 338.0,390.5 Q 318.0,371.0 285.0,371.0 L 172.0,371.0 L 172.0,625.0 L 284.0,625.0 Q 322.0,625.0 340.0,607.5 Q 358.0,590.0 358.0,552.0 L 358.0,443.0 Q 358.0,410.0 338.0,390.5" transform="translate(1643 -0.0)" name="B"/>
+	</g>
 </svg>

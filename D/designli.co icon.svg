@@ -1,450 +1,443 @@
-<svg xmlns="http://www.w3.org/2000/svg"  version="1.0" viewBox="0 0 150 150">
-    <defs>
-        <clipPath id="T">
-            <path d="M15 52h28v42H15Zm0 0" />
-        </clipPath>
-        <clipPath id="U">
-            <path d="m42.664 93.664-26.7-19.828 27.009-21.54-.04 5.22L22.5 73.805l20.203 14.984Zm0 0" />
-        </clipPath>
-        <clipPath id="W">
-            <path d="M107 52h28v42h-28Zm0 0" />
-        </clipPath>
-        <clipPath id="X">
-            <path d="m107.54 93.664-.036-4.875 20.195-14.984-20.43-16.29-.039-5.218 27.008 21.531Zm0 0" />
-        </clipPath>
-        <clipPath id="ab">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="i">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="h">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="d">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="c">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="b">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="l">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="k">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="f">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="e">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="ad">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="Z">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="ag">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="t">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="s">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="o">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="n">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="m">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="w">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="v">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="q">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="p">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="ai">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="ae">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="al">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="E">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="D">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="z">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="y">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="x">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="H">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="G">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="B">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="A">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="an">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="aj">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="aq">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="P">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="O">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="K">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="J">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="I">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="S">
-            <path d="M0 0h150v150H0Zm0 0" />
-        </clipPath>
-        <clipPath id="R">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="M">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="L">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="as">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <clipPath id="ao">
-            <path d="M0 0h150v150H0z" />
-        </clipPath>
-        <mask id="aa">
-            
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+	<defs>
+		<clipPath id="T">
+			<path d="M15 52h28v42H15Zm0 0"/>
+		</clipPath>
+		<clipPath id="U">
+			<path d="m42.664 93.664-26.7-19.828 27.009-21.54-.04 5.22L22.5 73.805l20.203 14.984Zm0 0"/>
+		</clipPath>
+		<clipPath id="W">
+			<path d="M107 52h28v42h-28Zm0 0"/>
+		</clipPath>
+		<clipPath id="X">
+			<path d="m107.54 93.664-.036-4.875 20.195-14.984-20.43-16.29-.039-5.218 27.008 21.531Zm0 0"/>
+		</clipPath>
+		<clipPath id="ab">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="i">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="h">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="d">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="c">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="b">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="l">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="k">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="f">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="e">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="ad">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="Z">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="ag">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="t">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="s">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="o">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="n">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="m">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="w">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="v">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="q">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="p">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="ai">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="ae">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="al">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="E">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="D">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="z">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="y">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="x">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="H">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="G">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="B">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="A">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="an">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="aj">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="aq">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="P">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="O">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="K">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="J">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="I">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="S">
+			<path d="M0 0h150v150H0Zm0 0"/>
+		</clipPath>
+		<clipPath id="R">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="M">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="L">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="as">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<clipPath id="ao">
+			<path d="M0 0h150v150H0z"/>
+		</clipPath>
+		<mask id="aa">
         </mask>
-        <mask id="g">
-            
+		<mask id="g">
         </mask>
-        <mask id="j">
-            <g filter="url(#a)">
-                <g clip-path="url(#b)">
-                    <g clip-path="url(#c)">
-                        <g clip-path="url(#d)">
-                            <path d="M-148.949-148.949h447.898v447.898h-447.898z" />
-                        </g>
-                    </g>
-                </g>
-            </g>
+		<mask id="j">
+			<g filter="url(#a)">
+				<g clip-path="url(#b)">
+					<g clip-path="url(#c)">
+						<g clip-path="url(#d)">
+							<path d="M-148.949-148.949h447.898v447.898h-447.898z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="ac">
+			<g filter="url(#a)">
+				<g clip-path="url(#e)">
+					<g clip-path="url(#f)">
+						<g mask="url(#g)">
+							<g clip-path="url(#h)">
+								<g clip-path="url(#i)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+						<g mask="url(#j)">
+							<g clip-path="url(#k)">
+								<g clip-path="url(#l)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="af">
         </mask>
-        <mask id="ac">
-            <g filter="url(#a)">
-                <g clip-path="url(#e)">
-                    <g clip-path="url(#f)">
-                        <g mask="url(#g)">
-                            <g clip-path="url(#h)">
-                                <g clip-path="url(#i)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                        <g mask="url(#j)">
-                            <g clip-path="url(#k)">
-                                <g clip-path="url(#l)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
+		<mask id="r">
         </mask>
-        <mask id="af">
-            
+		<mask id="u">
+			<g filter="url(#a)">
+				<g clip-path="url(#m)">
+					<g clip-path="url(#n)">
+						<g clip-path="url(#o)">
+							<path d="M-148.949-148.949h447.898v447.898h-447.898z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="ah">
+			<g filter="url(#a)">
+				<g clip-path="url(#p)">
+					<g clip-path="url(#q)">
+						<g mask="url(#r)">
+							<g clip-path="url(#s)">
+								<g clip-path="url(#t)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+						<g mask="url(#u)">
+							<g clip-path="url(#v)">
+								<g clip-path="url(#w)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="ak">
         </mask>
-        <mask id="r">
-            
+		<mask id="C">
         </mask>
-        <mask id="u">
-            <g filter="url(#a)">
-                <g clip-path="url(#m)">
-                    <g clip-path="url(#n)">
-                        <g clip-path="url(#o)">
-                            <path d="M-148.949-148.949h447.898v447.898h-447.898z" />
-                        </g>
-                    </g>
-                </g>
-            </g>
+		<mask id="F">
+			<g filter="url(#a)">
+				<g clip-path="url(#x)">
+					<g clip-path="url(#y)">
+						<g clip-path="url(#z)">
+							<path d="M-148.949-148.949h447.898v447.898h-447.898z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="am">
+			<g filter="url(#a)">
+				<g clip-path="url(#A)">
+					<g clip-path="url(#B)">
+						<g mask="url(#C)">
+							<g clip-path="url(#D)">
+								<g clip-path="url(#E)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+						<g mask="url(#F)">
+							<g clip-path="url(#G)">
+								<g clip-path="url(#H)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="ap">
         </mask>
-        <mask id="ah">
-            <g filter="url(#a)">
-                <g clip-path="url(#p)">
-                    <g clip-path="url(#q)">
-                        <g mask="url(#r)">
-                            <g clip-path="url(#s)">
-                                <g clip-path="url(#t)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                        <g mask="url(#u)">
-                            <g clip-path="url(#v)">
-                                <g clip-path="url(#w)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
+		<mask id="N">
         </mask>
-        <mask id="ak">
-            
-        </mask>
-        <mask id="C">
-            
-        </mask>
-        <mask id="F">
-            <g filter="url(#a)">
-                <g clip-path="url(#x)">
-                    <g clip-path="url(#y)">
-                        <g clip-path="url(#z)">
-                            <path d="M-148.949-148.949h447.898v447.898h-447.898z" />
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </mask>
-        <mask id="am">
-            <g filter="url(#a)">
-                <g clip-path="url(#A)">
-                    <g clip-path="url(#B)">
-                        <g mask="url(#C)">
-                            <g clip-path="url(#D)">
-                                <g clip-path="url(#E)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                        <g mask="url(#F)">
-                            <g clip-path="url(#G)">
-                                <g clip-path="url(#H)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </mask>
-        <mask id="ap">
-            
-        </mask>
-        <mask id="N">
-            
-        </mask>
-        <mask id="Q">
-            <g filter="url(#a)">
-                <g clip-path="url(#I)">
-                    <g clip-path="url(#J)">
-                        <g clip-path="url(#K)">
-                            <path d="M-148.949-148.949h447.898v447.898h-447.898z" />
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </mask>
-        <mask id="ar">
-            <g filter="url(#a)">
-                <g clip-path="url(#L)">
-                    <g clip-path="url(#M)">
-                        <g mask="url(#N)">
-                            <g clip-path="url(#O)">
-                                <g clip-path="url(#P)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                        <g mask="url(#Q)">
-                            <g clip-path="url(#R)">
-                                <g clip-path="url(#S)">
-                                    <path d="M-111.624-111.624h373.248v373.248h-373.248z" />
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </mask>
-        <linearGradient id="V" x1=".165" x2=".917" y1="0" y2="0" gradientTransform="rotate(-11.694 396.811 13.548) scale(46.29597)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#EF6A5F" />
-            <stop offset=".031" stop-color="#EF6B60" />
-            <stop offset=".063" stop-color="#EF6C61" />
-            <stop offset=".094" stop-color="#F06C61" />
-            <stop offset=".125" stop-color="#F06D62" />
-            <stop offset=".156" stop-color="#F06E63" />
-            <stop offset=".188" stop-color="#F06F64" />
-            <stop offset=".219" stop-color="#F07064" />
-            <stop offset=".25" stop-color="#F07165" />
-            <stop offset=".281" stop-color="#F17266" />
-            <stop offset=".313" stop-color="#F17367" />
-            <stop offset=".344" stop-color="#F17468" />
-            <stop offset=".375" stop-color="#F17468" />
-            <stop offset=".406" stop-color="#F17569" />
-            <stop offset=".438" stop-color="#F1766A" />
-            <stop offset=".469" stop-color="#F2776B" />
-            <stop offset=".5" stop-color="#F2786B" />
-            <stop offset=".531" stop-color="#F2796C" />
-            <stop offset=".563" stop-color="#F27A6D" />
-            <stop offset=".594" stop-color="#F27B6E" />
-            <stop offset=".625" stop-color="#F27C6F" />
-            <stop offset=".656" stop-color="#F37D6F" />
-            <stop offset=".688" stop-color="#F37D70" />
-            <stop offset=".719" stop-color="#F37E71" />
-            <stop offset=".75" stop-color="#F37F72" />
-            <stop offset=".781" stop-color="#F38072" />
-            <stop offset=".813" stop-color="#F38173" />
-            <stop offset=".844" stop-color="#F48274" />
-            <stop offset=".875" stop-color="#F48375" />
-            <stop offset=".906" stop-color="#F48475" />
-            <stop offset=".938" stop-color="#F48576" />
-            <stop offset=".969" stop-color="#F48577" />
-            <stop offset="1" stop-color="#F48678" />
-        </linearGradient>
-        <linearGradient id="Y" x1=".165" x2=".917" y1="0" y2="0" gradientTransform="scale(-46.29597 46.29597) rotate(-11.694 6.949 16.134)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#EF6A5F" />
-            <stop offset=".031" stop-color="#EF6B60" />
-            <stop offset=".063" stop-color="#EF6C61" />
-            <stop offset=".094" stop-color="#F06C61" />
-            <stop offset=".125" stop-color="#F06D62" />
-            <stop offset=".156" stop-color="#F06E63" />
-            <stop offset=".188" stop-color="#F06F64" />
-            <stop offset=".219" stop-color="#F07064" />
-            <stop offset=".25" stop-color="#F07165" />
-            <stop offset=".281" stop-color="#F17266" />
-            <stop offset=".313" stop-color="#F17367" />
-            <stop offset=".344" stop-color="#F17468" />
-            <stop offset=".375" stop-color="#F17468" />
-            <stop offset=".406" stop-color="#F17569" />
-            <stop offset=".438" stop-color="#F1766A" />
-            <stop offset=".469" stop-color="#F2776B" />
-            <stop offset=".5" stop-color="#F2786B" />
-            <stop offset=".531" stop-color="#F2796C" />
-            <stop offset=".563" stop-color="#F27A6D" />
-            <stop offset=".594" stop-color="#F27B6E" />
-            <stop offset=".625" stop-color="#F27C6F" />
-            <stop offset=".656" stop-color="#F37D6F" />
-            <stop offset=".688" stop-color="#F37D70" />
-            <stop offset=".719" stop-color="#F37E71" />
-            <stop offset=".75" stop-color="#F37F72" />
-            <stop offset=".781" stop-color="#F38072" />
-            <stop offset=".813" stop-color="#F38173" />
-            <stop offset=".844" stop-color="#F48274" />
-            <stop offset=".875" stop-color="#F48375" />
-            <stop offset=".906" stop-color="#F48475" />
-            <stop offset=".938" stop-color="#F48576" />
-            <stop offset=".969" stop-color="#F48577" />
-            <stop offset="1" stop-color="#F48678" />
-        </linearGradient>
-        <filter id="a" width="100%" height="100%" x="0%" y="0%">
-            <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" />
-        </filter>
-    </defs>
-    <path fill="#fff" d="M-15-15h180v180H-15z" />
-    <path fill="#fff" d="M-15-15h180v180H-15z" />
-    <path fill="#643c89" d="M95.004-72.285-72.286 54.996l127.282 167.29 167.29-127.282Zm0 0" />
-    <g clip-path="url(#T)">
-        <g clip-path="url(#U)">
-            <path fill="url(#V)" d="m7.754 54 9.32 45.023 34.11-7.058-9.32-45.028Zm0 0" />
-        </g>
-    </g>
-    <g clip-path="url(#W)">
-        <g clip-path="url(#X)">
-            <path fill="url(#Y)" d="m142.45 54-9.321 45.023-34.106-7.058 9.317-45.028Zm0 0" />
-        </g>
-    </g>
-    <g clip-path="url(#Z)">
-        <g mask="url(#aa)">
-            <g clip-path="url(#ab)">
-                <path fill="#fff" d="m70.566 72.133 1.559 1.972-3.504 4.47-1.473-2.075C59.172 64.887 44.84 44.367 45.586 43.043c.996-1.004 16.363 18.398 24.988 29.09" />
-            </g>
-        </g>
-        <g mask="url(#ac)">
-            <g clip-path="url(#ad)">
-                <path fill="#fff" d="m70.566 72.133 1.559 1.972-3.504 4.47-1.473-2.075C59.172 64.887 44.84 44.367 45.586 43.043c.996-1.004 16.363 18.398 24.988 29.09" />
-            </g>
-        </g>
-    </g>
-    <g clip-path="url(#ae)">
-        <g mask="url(#af)">
-            <g clip-path="url(#ag)">
-                <path fill="#fff" d="M91.512 107.203c-1.098-2.394-1.922-3.133-4.922-4.621-2.57-1.258-2.84-4.914-2.871-5.965l-.239.332-2.925-3.933.039-.055s-2.375-1.727-4.98-4.566l-1.575-2.215 3.184-5.633 1.644 2.086c2.39 3.793 3.88 7.465 3.88 7.465l.038-.055 2.926 3.93-.309.414a8.457 8.457 0 0 1 4.836 3.59c1.028 1.558 1.328 6.386 1.266 9.234" />
-            </g>
-        </g>
-        <g mask="url(#ah)">
-            <g clip-path="url(#ai)">
-                <path fill="#fff" d="M91.512 107.203c-1.098-2.394-1.922-3.133-4.922-4.621-2.57-1.258-2.84-4.914-2.871-5.965l-.239.332-2.925-3.933.039-.055s-2.375-1.727-4.98-4.566l-1.575-2.215 3.184-5.633 1.644 2.086c2.39 3.793 3.88 7.465 3.88 7.465l.038-.055 2.926 3.93-.309.414a8.457 8.457 0 0 1 4.836 3.59c1.028 1.558 1.328 6.386 1.266 9.234" />
-            </g>
-        </g>
-    </g>
-    <g clip-path="url(#aj)">
-        <g mask="url(#ak)">
-            <g clip-path="url(#al)">
-                <path fill="#fff" d="m94.734 67.234-9.914-.14-20.511 36.258c-1.332-.192-4.004-.735-5.93-2.004-1.93-1.274-3.395-3.442-4.059-4.547l25.758-32.84-3.95-9.008 5.208-7.808 7.375.039v.03l-6.004 8.974 8.34 5.492 6.02-8.98 2.898 6.695h.023Zm3.618-17.75-1.45-.957-6.55 9.774-.028-.024-4.222-2.777 6.543-9.773-1.457-.965-11.165-.07-6.703 10.023 3.91 8.902-25.812 32.899.332.68c.094.163 1.977 4.003 5.254 6.179 3.277 2.176 7.707 2.508 7.883 2.508l.781.055 20.543-36.352 9.82.117 6.696-10.023Zm0 0" />
-            </g>
-        </g>
-        <g mask="url(#am)">
-            <g clip-path="url(#an)">
-                <path fill="#fff" d="m94.734 67.234-9.914-.14-20.511 36.258c-1.332-.192-4.004-.735-5.93-2.004-1.93-1.274-3.395-3.442-4.059-4.547l25.758-32.84-3.95-9.008 5.208-7.808 7.375.039v.03l-6.004 8.974 8.34 5.492 6.02-8.98 2.898 6.695h.023Zm3.618-17.75-1.45-.957-6.55 9.774-.028-.024-4.222-2.777 6.543-9.773-1.457-.965-11.165-.07-6.703 10.023 3.91 8.902-25.812 32.899.332.68c.094.163 1.977 4.003 5.254 6.179 3.277 2.176 7.707 2.508 7.883 2.508l.781.055 20.543-36.352 9.82.117 6.696-10.023Zm0 0" />
-            </g>
-        </g>
-    </g>
-    <g clip-path="url(#ao)">
-        <g mask="url(#ap)">
-            <g clip-path="url(#aq)">
-                <path fill="#fff" d="m59.32 100.105.008.008a2.78 2.78 0 0 0 3.856-.773v-.008a2.754 2.754 0 0 0-.778-3.824c-1.273-.844-3.004-.504-3.851.762v.007a2.766 2.766 0 0 0 .773 3.836Zm0 0" />
-            </g>
-        </g>
-        <g mask="url(#ar)">
-            <g clip-path="url(#as)">
-                <path fill="#fff" d="m59.32 100.105.008.008a2.78 2.78 0 0 0 3.856-.773v-.008a2.754 2.754 0 0 0-.778-3.824c-1.273-.844-3.004-.504-3.851.762v.007a2.766 2.766 0 0 0 .773 3.836Zm0 0" />
-            </g>
-        </g>
-    </g>
+		<mask id="Q">
+			<g filter="url(#a)">
+				<g clip-path="url(#I)">
+					<g clip-path="url(#J)">
+						<g clip-path="url(#K)">
+							<path d="M-148.949-148.949h447.898v447.898h-447.898z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<mask id="ar">
+			<g filter="url(#a)">
+				<g clip-path="url(#L)">
+					<g clip-path="url(#M)">
+						<g mask="url(#N)">
+							<g clip-path="url(#O)">
+								<g clip-path="url(#P)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+						<g mask="url(#Q)">
+							<g clip-path="url(#R)">
+								<g clip-path="url(#S)">
+									<path d="M-111.624-111.624h373.248v373.248h-373.248z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<linearGradient id="V" x1=".165" x2=".917" y1="0" y2="0" gradientTransform="rotate(-11.694 396.811 13.548) scale(46.29597)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#EF6A5F"/>
+			<stop offset=".031" stop-color="#EF6B60"/>
+			<stop offset=".063" stop-color="#EF6C61"/>
+			<stop offset=".094" stop-color="#F06C61"/>
+			<stop offset=".125" stop-color="#F06D62"/>
+			<stop offset=".156" stop-color="#F06E63"/>
+			<stop offset=".188" stop-color="#F06F64"/>
+			<stop offset=".219" stop-color="#F07064"/>
+			<stop offset=".25" stop-color="#F07165"/>
+			<stop offset=".281" stop-color="#F17266"/>
+			<stop offset=".313" stop-color="#F17367"/>
+			<stop offset=".344" stop-color="#F17468"/>
+			<stop offset=".375" stop-color="#F17468"/>
+			<stop offset=".406" stop-color="#F17569"/>
+			<stop offset=".438" stop-color="#F1766A"/>
+			<stop offset=".469" stop-color="#F2776B"/>
+			<stop offset=".5" stop-color="#F2786B"/>
+			<stop offset=".531" stop-color="#F2796C"/>
+			<stop offset=".563" stop-color="#F27A6D"/>
+			<stop offset=".594" stop-color="#F27B6E"/>
+			<stop offset=".625" stop-color="#F27C6F"/>
+			<stop offset=".656" stop-color="#F37D6F"/>
+			<stop offset=".688" stop-color="#F37D70"/>
+			<stop offset=".719" stop-color="#F37E71"/>
+			<stop offset=".75" stop-color="#F37F72"/>
+			<stop offset=".781" stop-color="#F38072"/>
+			<stop offset=".813" stop-color="#F38173"/>
+			<stop offset=".844" stop-color="#F48274"/>
+			<stop offset=".875" stop-color="#F48375"/>
+			<stop offset=".906" stop-color="#F48475"/>
+			<stop offset=".938" stop-color="#F48576"/>
+			<stop offset=".969" stop-color="#F48577"/>
+			<stop offset="1" stop-color="#F48678"/>
+		</linearGradient>
+		<linearGradient id="Y" x1=".165" x2=".917" y1="0" y2="0" gradientTransform="scale(-46.29597 46.29597) rotate(-11.694 6.949 16.134)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#EF6A5F"/>
+			<stop offset=".031" stop-color="#EF6B60"/>
+			<stop offset=".063" stop-color="#EF6C61"/>
+			<stop offset=".094" stop-color="#F06C61"/>
+			<stop offset=".125" stop-color="#F06D62"/>
+			<stop offset=".156" stop-color="#F06E63"/>
+			<stop offset=".188" stop-color="#F06F64"/>
+			<stop offset=".219" stop-color="#F07064"/>
+			<stop offset=".25" stop-color="#F07165"/>
+			<stop offset=".281" stop-color="#F17266"/>
+			<stop offset=".313" stop-color="#F17367"/>
+			<stop offset=".344" stop-color="#F17468"/>
+			<stop offset=".375" stop-color="#F17468"/>
+			<stop offset=".406" stop-color="#F17569"/>
+			<stop offset=".438" stop-color="#F1766A"/>
+			<stop offset=".469" stop-color="#F2776B"/>
+			<stop offset=".5" stop-color="#F2786B"/>
+			<stop offset=".531" stop-color="#F2796C"/>
+			<stop offset=".563" stop-color="#F27A6D"/>
+			<stop offset=".594" stop-color="#F27B6E"/>
+			<stop offset=".625" stop-color="#F27C6F"/>
+			<stop offset=".656" stop-color="#F37D6F"/>
+			<stop offset=".688" stop-color="#F37D70"/>
+			<stop offset=".719" stop-color="#F37E71"/>
+			<stop offset=".75" stop-color="#F37F72"/>
+			<stop offset=".781" stop-color="#F38072"/>
+			<stop offset=".813" stop-color="#F38173"/>
+			<stop offset=".844" stop-color="#F48274"/>
+			<stop offset=".875" stop-color="#F48375"/>
+			<stop offset=".906" stop-color="#F48475"/>
+			<stop offset=".938" stop-color="#F48576"/>
+			<stop offset=".969" stop-color="#F48577"/>
+			<stop offset="1" stop-color="#F48678"/>
+		</linearGradient>
+		<filter id="a" width="100%" height="100%" x="0%" y="0%">
+			<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<path fill="#fff" d="M-15-15h180v180H-15z"/>
+	<path fill="#fff" d="M-15-15h180v180H-15z"/>
+	<path fill="#643c89" d="M95.004-72.285-72.286 54.996l127.282 167.29 167.29-127.282Zm0 0"/>
+	<g clip-path="url(#T)">
+		<g clip-path="url(#U)">
+			<path fill="url(#V)" d="m7.754 54 9.32 45.023 34.11-7.058-9.32-45.028Zm0 0"/>
+		</g>
+	</g>
+	<g clip-path="url(#W)">
+		<g clip-path="url(#X)">
+			<path fill="url(#Y)" d="m142.45 54-9.321 45.023-34.106-7.058 9.317-45.028Zm0 0"/>
+		</g>
+	</g>
+	<g clip-path="url(#Z)">
+		<g mask="url(#aa)">
+			<g clip-path="url(#ab)">
+				<path fill="#fff" d="m70.566 72.133 1.559 1.972-3.504 4.47-1.473-2.075C59.172 64.887 44.84 44.367 45.586 43.043c.996-1.004 16.363 18.398 24.988 29.09"/>
+			</g>
+		</g>
+		<g mask="url(#ac)">
+			<g clip-path="url(#ad)">
+				<path fill="#fff" d="m70.566 72.133 1.559 1.972-3.504 4.47-1.473-2.075C59.172 64.887 44.84 44.367 45.586 43.043c.996-1.004 16.363 18.398 24.988 29.09"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#ae)">
+		<g mask="url(#af)">
+			<g clip-path="url(#ag)">
+				<path fill="#fff" d="M91.512 107.203c-1.098-2.394-1.922-3.133-4.922-4.621-2.57-1.258-2.84-4.914-2.871-5.965l-.239.332-2.925-3.933.039-.055s-2.375-1.727-4.98-4.566l-1.575-2.215 3.184-5.633 1.644 2.086c2.39 3.793 3.88 7.465 3.88 7.465l.038-.055 2.926 3.93-.309.414a8.457 8.457 0 0 1 4.836 3.59c1.028 1.558 1.328 6.386 1.266 9.234"/>
+			</g>
+		</g>
+		<g mask="url(#ah)">
+			<g clip-path="url(#ai)">
+				<path fill="#fff" d="M91.512 107.203c-1.098-2.394-1.922-3.133-4.922-4.621-2.57-1.258-2.84-4.914-2.871-5.965l-.239.332-2.925-3.933.039-.055s-2.375-1.727-4.98-4.566l-1.575-2.215 3.184-5.633 1.644 2.086c2.39 3.793 3.88 7.465 3.88 7.465l.038-.055 2.926 3.93-.309.414a8.457 8.457 0 0 1 4.836 3.59c1.028 1.558 1.328 6.386 1.266 9.234"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#aj)">
+		<g mask="url(#ak)">
+			<g clip-path="url(#al)">
+				<path fill="#fff" d="m94.734 67.234-9.914-.14-20.511 36.258c-1.332-.192-4.004-.735-5.93-2.004-1.93-1.274-3.395-3.442-4.059-4.547l25.758-32.84-3.95-9.008 5.208-7.808 7.375.039v.03l-6.004 8.974 8.34 5.492 6.02-8.98 2.898 6.695h.023Zm3.618-17.75-1.45-.957-6.55 9.774-.028-.024-4.222-2.777 6.543-9.773-1.457-.965-11.165-.07-6.703 10.023 3.91 8.902-25.812 32.899.332.68c.094.163 1.977 4.003 5.254 6.179 3.277 2.176 7.707 2.508 7.883 2.508l.781.055 20.543-36.352 9.82.117 6.696-10.023Zm0 0"/>
+			</g>
+		</g>
+		<g mask="url(#am)">
+			<g clip-path="url(#an)">
+				<path fill="#fff" d="m94.734 67.234-9.914-.14-20.511 36.258c-1.332-.192-4.004-.735-5.93-2.004-1.93-1.274-3.395-3.442-4.059-4.547l25.758-32.84-3.95-9.008 5.208-7.808 7.375.039v.03l-6.004 8.974 8.34 5.492 6.02-8.98 2.898 6.695h.023Zm3.618-17.75-1.45-.957-6.55 9.774-.028-.024-4.222-2.777 6.543-9.773-1.457-.965-11.165-.07-6.703 10.023 3.91 8.902-25.812 32.899.332.68c.094.163 1.977 4.003 5.254 6.179 3.277 2.176 7.707 2.508 7.883 2.508l.781.055 20.543-36.352 9.82.117 6.696-10.023Zm0 0"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#ao)">
+		<g mask="url(#ap)">
+			<g clip-path="url(#aq)">
+				<path fill="#fff" d="m59.32 100.105.008.008a2.78 2.78 0 0 0 3.856-.773v-.008a2.754 2.754 0 0 0-.778-3.824c-1.273-.844-3.004-.504-3.851.762v.007a2.766 2.766 0 0 0 .773 3.836Zm0 0"/>
+			</g>
+		</g>
+		<g mask="url(#ar)">
+			<g clip-path="url(#as)">
+				<path fill="#fff" d="m59.32 100.105.008.008a2.78 2.78 0 0 0 3.856-.773v-.008a2.754 2.754 0 0 0-.778-3.824c-1.273-.844-3.004-.504-3.851.762v.007a2.766 2.766 0 0 0 .773 3.836Zm0 0"/>
+			</g>
+		</g>
+	</g>
 </svg>

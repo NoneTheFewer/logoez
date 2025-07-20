@@ -1,31 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Product_Color" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
-<style type="text/css">
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" xml:space="preserve">
+	<style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 	.st1{opacity:0.45;fill:url(#SVGID_2_);}
 	.st2{fill:#FFFFFF;}
 </style>
-<g>
 	<g>
-		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-461.3637" y1="-912.3365" x2="-118.9893" y2="-571.4443" gradientTransform="matrix(0 -1 1 0 924.7137 -113.0121)">
-			<stop offset="0" style="stop-color:#D7248E"/>
-			<stop offset="1" style="stop-color:#F6921E"/>
-		</linearGradient>
-		<polygon class="st0" points="360,0 360,360 0,360 0,0   "/>
-		
-			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-461.3637" y1="-912.3365" x2="-118.9893" y2="-571.4443" gradientTransform="matrix(0 -1 1 0 924.7137 -113.0121)">
-			<stop offset="0" style="stop-color:#D7248E"/>
-			<stop offset="1" style="stop-color:#F6921E"/>
-		</linearGradient>
-		<polygon class="st1" points="360,0 360,360 0,360 0,0   "/>
-	</g>
-	<g id="Kotis_Logo_-_K_12_">
 		<g>
-			<path class="st2" d="M121.2,107.8c-19.2,40.3-13.3,120,14.7,162.7c-10.6-59.9-5.2-115.6,17.6-162.8     C142.9,107.7,131.4,107.8,121.2,107.8"/>
-			<path class="st2" d="M209.9,293.1c-25.9-10.8-65.9-55-61.4-105.4c4.5-50.5,60-99.8,114.1-119.9     c-129.5,98.6-66.9,186.1-39.6,213.5C219.1,285,214,289.5,209.9,293.1"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-461.3637" y1="-912.3365" x2="-118.9893" y2="-571.4443" gradientTransform="matrix(0 -1 1 0 924.7137 -113.0121)">
+				<stop offset="0" style="stop-color:#D7248E"/>
+				<stop offset="1" style="stop-color:#F6921E"/>
+			</linearGradient>
+			<polygon class="st0" points="360,0 360,360 0,360 0,0   "/>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-461.3637" y1="-912.3365" x2="-118.9893" y2="-571.4443" gradientTransform="matrix(0 -1 1 0 924.7137 -113.0121)">
+				<stop offset="0" style="stop-color:#D7248E"/>
+				<stop offset="1" style="stop-color:#F6921E"/>
+			</linearGradient>
+			<polygon class="st1" points="360,0 360,360 0,360 0,0   "/>
+		</g>
+		<g id="Kotis_Logo_-_K_12_">
+			<g>
+				<path class="st2" d="M121.2,107.8c-19.2,40.3-13.3,120,14.7,162.7c-10.6-59.9-5.2-115.6,17.6-162.8     C142.9,107.7,131.4,107.8,121.2,107.8"/>
+				<path class="st2" d="M209.9,293.1c-25.9-10.8-65.9-55-61.4-105.4c4.5-50.5,60-99.8,114.1-119.9     c-129.5,98.6-66.9,186.1-39.6,213.5C219.1,285,214,289.5,209.9,293.1"/>
+			</g>
 		</g>
 	</g>
-</g>
 </svg>

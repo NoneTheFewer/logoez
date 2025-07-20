@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1548 1416">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1107.14-358.41h4819.11v1773.89h-4819.11z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1127.64 193.62l-63.93 622.96-781.1 375.84z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="-1107.4" y1="1415.2" x2="-1095.6" y2="1415.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e00021"/>
+			<stop offset=".1" stop-color="#e00021"/>
+			<stop offset=".1" stop-color="#e00120"/>
+			<stop offset=".4" stop-color="#ed4812"/>
+			<stop offset=".7" stop-color="#f67d08"/>
+			<stop offset=".9" stop-color="#fc9d02"/>
+			<stop offset="1" stop-color="#ffaa00"/>
+			<stop offset="1" stop-color="#ffaa00"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<g id="Layer">
+					<path id="Layer" class="s0" d="m1548 1179l-479.1-272-1068.6 508.5 1185.7-1415.2z"/>
+				</g>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer">
+					<path id="Layer" class="s1" d="m282.6 193.6h845v998.8h-845z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

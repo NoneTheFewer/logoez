@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 43" fill="none">
+	<g id="Sign">
+		<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M0.299745 24.5167C1.33514e-05 25.1109 1.33514e-05 25.8888 1.33514e-05 27.4445L0 32V43C6.07513 43 11 38.0751 11 32L11 27.4445C11 25.8888 11 25.1109 10.7003 24.5167C10.4367 23.994 10.0159 23.5691 9.49851 23.3028C8.91025 23 8.14017 23 6.60001 23H4.40001C2.85987 23 2.08979 23 1.50154 23.3028C0.984097 23.5691 0.563397 23.994 0.299745 24.5167Z" fill="#111928"/>
+		<path id="Shape_2" d="M0 16.5C0 13.4624 2.46244 11 5.5 11C8.53757 11 11 13.4624 11 16.5C11 19.5376 8.53757 22 5.5 22C2.46244 22 0 19.5376 0 16.5Z" fill="#111928"/>
+		<path id="Shape_3" d="M11 22C11 15.9249 15.9249 11 22 11C28.0751 11 33 15.9249 33 22C33 28.0751 28.0751 33 22 33C15.9249 33 11 28.0751 11 22Z" fill="url(#paint0_radial_4715_10505)"/>
+		<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M22 11C22 4.92486 17.0751 0 11 0V11V22C11 28.0751 15.9249 33 22 33V22V11Z" fill="#FF1B60"/>
+	</g>
+	<defs>
+		<radialGradient id="paint0_radial_4715_10505" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22 20.0357) rotate(90) scale(9.03571 7.80659)">
+			<stop stop-color="#D61852"/>
+			<stop offset="1" stop-color="#FF1B60"/>
+		</radialGradient>
+	</defs>
+</svg>

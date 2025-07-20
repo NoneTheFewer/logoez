@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 923 1518">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-4200.74-433.83h9334.6v13187.93h-9334.6z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #1c5fa7;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7.8 } 
+		.s1 { fill: #abb8b7;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7.8 } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 8" class="s0" d="m918.8 998.5v146.5l-434.2 368.8v-164.4z"/>
+			<path id="Path 9" class="s0" d="m918.8 704.1v230.2l-434.2 350.1v-229.5z"/>
+			<path id="Path 10" class="s0" d="m918.8 382.2v257.6l-434.2 350.9v-257.7z"/>
+			<path id="Path 11" class="s0" d="m484.6 4.7v663.3l400.5-323.4z"/>
+			<path id="Path 12" class="s1" d="m4.9 998.5v146.5l434.2 368.8v-164.4z"/>
+			<path id="Path 13" class="s1" d="m4.9 704.1v230.2l434.2 350.1v-229.5z"/>
+			<path id="Path 14" class="s1" d="m4.9 382.2v257.6l434.2 350.9v-257.7z"/>
+			<path id="Path 15" class="s1" d="m439.1 4.7l-400.5 339.9 400.5 323.4z"/>
+		</g>
+	</g>
+</svg>

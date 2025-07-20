@@ -1,1 +1,10 @@
-<svg class="block" viewBox="0 0 226 170" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><rect fill="#4ECDF1" x="0" y="61" width="38" height="113" rx="19"></rect><rect fill="#4ECDF1" x="47" y="35" width="38" height="139" rx="19"></rect><rect fill="#4ECDF1" x="94" y="14" width="38" height="160" rx="19"></rect><rect fill="#4ECDF1" x="141" y="5" width="38" height="169" rx="19"></rect><rect fill="#4ECDF1" x="188" y="0" width="38" height="174" rx="19"></rect></g></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" class="block" viewBox="0 0 226 170">
+	<g fill="none" fill-rule="evenodd">
+		<rect fill="#4ECDF1" x="0" y="61" width="38" height="113" rx="19"/>
+		<rect fill="#4ECDF1" x="47" y="35" width="38" height="139" rx="19"/>
+		<rect fill="#4ECDF1" x="94" y="14" width="38" height="160" rx="19"/>
+		<rect fill="#4ECDF1" x="141" y="5" width="38" height="169" rx="19"/>
+		<rect fill="#4ECDF1" x="188" y="0" width="38" height="174" rx="19"/>
+	</g>
+</svg>

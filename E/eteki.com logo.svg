@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164.56799 111.42733">
+	<defs id="defs6">
+		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath18">
+			<path d="M 0,0 H 122.649 V 77.361 H 0 Z" id="path16"/>
+		</clipPath>
+	</defs>
+	<g id="g10" transform="matrix(1.3333333,0,0,-1.3333333,0,111.42733)">
+		<g id="g12">
+			<g id="g14" clip-path="url(#clipPath18)">
+				<g id="g20" transform="translate(61.3901,55.3831)">
+					<path d="m 0,0 c -2.844,0 -5.309,-1.495 -5.372,-5.759 l 9.67,0.997 C 4.298,-1.772 2.718,0 0,0 m 15.99,-10.023 -20.477,-2.271 c 0.948,-2.16 3.729,-3.157 7.141,-3.157 3.413,0 7.079,0.72 9.733,1.828 l 3.287,-7.919 c -3.287,-1.33 -8.659,-2.216 -14.031,-2.216 -12.387,0 -18.138,7.144 -18.138,15.673 0,9.137 6.193,15.616 16.811,15.616 10.492,0 15.8,-6.146 15.8,-14.453 0,-1.053 0,-2.049 -0.126,-3.101" id="path22" fill="#050200" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+				</g>
+				<g id="g24" transform="translate(108.247,62.1946)">
+					<path d="m 0,0 h -11.8 l -7.52,-12.46 h -0.127 v 22.705 h -12.134 v -40.094 h 12.134 v 14.731 h 0.127 l 8.595,-14.731 H 0 2.8 12.261 V 0 H 1.915 Z" id="path26" fill="#020100" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+				</g>
+				<g id="g28" transform="translate(101.2511,48.4055)">
+					<path d="M 0,0 6.996,10.826 V -11.47 Z" id="path30" fill="#44c8f5" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+				</g>
+				<g id="g32" transform="translate(45.7762,63.247)">
+					<path d="M 0,0 V -30.901 H -12.64 V 0 h -7.774 V 9.193 H 7.774 L 7.774,0 Z" id="path34" fill="#070605" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+				</g>
+				<g id="g36" transform="translate(17.7455,55.3831)">
+					<path d="m 0,0 c -2.844,0 -5.309,-1.495 -5.372,-5.759 l 9.669,0.997 C 4.297,-1.772 2.717,0 0,0 m 15.989,-10.023 -20.477,-2.271 c 0.949,-2.16 3.729,-3.157 7.142,-3.157 3.413,0 7.078,0.72 9.733,1.828 l 3.286,-7.919 c -3.286,-1.33 -8.658,-2.216 -14.03,-2.216 -12.388,0 -18.139,7.144 -18.139,15.673 0,9.137 6.194,15.616 16.811,15.616 10.492,0 15.801,-6.146 15.801,-14.453 0,-1.053 0,-2.049 -0.127,-3.101" id="path38" fill="#44c8f5" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+				</g>
+				<g id="g40" transform="translate(119.8846,68.3242)">
+					<path d="m 0,0 c 0,-2.273 -2.103,-4.116 -4.697,-4.116 -2.594,0 -4.697,1.843 -4.697,4.116 0,2.273 2.103,4.116 4.697,4.116 C -2.103,4.116 0,2.273 0,0" id="path42" fill="black" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

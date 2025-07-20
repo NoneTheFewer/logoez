@@ -1,12 +1,13 @@
-<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="31.9997" height="32" rx="2.66667" fill="#21D23F"/>
-<g opacity="0.2">
-<mask id="mask0_6314_5982" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
-<rect width="31.9997" height="32" rx="2.66667" fill="#21D23F"/>
-</mask>
-<g mask="url(#mask0_6314_5982)">
-<ellipse cx="0.666651" cy="0.99996" rx="28.333" ry="28.3333" fill="white"/>
-</g>
-</g>
-<path d="M20.4354 24.8334H24.5634L18.2274 7.81737H13.8354L7.42737 24.8334H11.4114L12.6354 21.3774H19.2114L20.4354 24.8334ZM15.9714 12.0414L18.0114 17.9214H13.8834L15.9714 12.0414Z" fill="white"/>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+	<rect width="31.9997" height="32" rx="2.66667" fill="#21D23F"/>
+	<g opacity="0.2">
+		<mask id="mask0_6314_5982" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
+			<rect width="31.9997" height="32" rx="2.66667" fill="#21D23F"/>
+		</mask>
+		<g mask="url(#mask0_6314_5982)">
+			<ellipse cx="0.666651" cy="0.99996" rx="28.333" ry="28.3333" fill="white"/>
+		</g>
+	</g>
+	<path d="M20.4354 24.8334H24.5634L18.2274 7.81737H13.8354L7.42737 24.8334H11.4114L12.6354 21.3774H19.2114L20.4354 24.8334ZM15.9714 12.0414L18.0114 17.9214H13.8834L15.9714 12.0414Z" fill="white"/>
 </svg>

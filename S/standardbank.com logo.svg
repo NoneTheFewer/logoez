@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 53" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 53">
 	<defs>
 		<filter id="shade" color-interpolation-filters="sRGB">
 			<feDropShadow dx="-2" dy="2" stdDeviation=".7" flood-opacity=".5"/>

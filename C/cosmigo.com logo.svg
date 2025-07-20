@@ -1,1 +1,11 @@
-<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 45.7 50.7" xml:space="preserve"><rect x="0" y="0" fill="#336699" width="45.7" height="50.7"/><path fill="#336699" d="M22.8 25.4"/><polygon fill-rule="evenodd" fill="#FFFFFF" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 47.8 40.2 42.6 40.2 31.7 27.7 31.7 "/><polygon fill-rule="evenodd" fill="#231F20" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 47.8 15.1 42.6 15.1 31.7 27.7 31.7 "/><rect x="15.1" y="18.4" fill-rule="evenodd" fill="#FFFFFF" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" width="12.6" height="13.3"/><polygon fill-rule="evenodd" fill="#231F20" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 15.1 18.4 4.7 19.6 4.7 30.2 15.1 31.7 "/><polygon fill-rule="evenodd" fill="#FFFFFF" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 2.2 40.2 7.5 40.2 18.4 27.7 18.4 "/><polygon fill-rule="evenodd" fill="#231F20" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 2.2 15.1 7.5 15.1 18.4 27.7 18.4 "/></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" viewBox="0 0 45.7 50.7" xml:space="preserve">
+	<rect x="0" y="0" fill="#336699" width="45.7" height="50.7"/>
+	<path fill="#336699" d="M22.8 25.4"/>
+	<polygon fill-rule="evenodd" fill="#FFFFFF" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 47.8 40.2 42.6 40.2 31.7 27.7 31.7 "/>
+	<polygon fill-rule="evenodd" fill="#231F20" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 47.8 15.1 42.6 15.1 31.7 27.7 31.7 "/>
+	<rect x="15.1" y="18.4" fill-rule="evenodd" fill="#FFFFFF" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" width="12.6" height="13.3"/>
+	<polygon fill-rule="evenodd" fill="#231F20" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 15.1 18.4 4.7 19.6 4.7 30.2 15.1 31.7 "/>
+	<polygon fill-rule="evenodd" fill="#FFFFFF" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 2.2 40.2 7.5 40.2 18.4 27.7 18.4 "/>
+	<polygon fill-rule="evenodd" fill="#231F20" stroke="#231F20" stroke-width="0.3" stroke-miterlimit="3.9" points=" 27.7 2.2 15.1 7.5 15.1 18.4 27.7 18.4 "/>
+</svg>

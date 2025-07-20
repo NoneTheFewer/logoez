@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" id="instructure-logo" viewBox="0 0 706.15 100.06">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 706.15 100.06">
 	<defs>
 		<style>
     #instructure-logo .inst-cls-0 {
@@ -23,8 +23,9 @@
     }
     </style>
 	</defs>
-	<g data-name="Layer 2">
-		<g data-name="Layer 1">
+	<title>Instructure Logo</title>
+	<g>
+		<g>
 			<polygon class="inst-cls-0" points="0 75.05 44.43 50.03 88.86 75.05 44.43 100.06 0 75.05"/>
 			<polygon class="inst-cls-2" points="22.21 12.51 0 25.01 22.22 37.52 44.43 25.01 22.21 12.51"/>
 			<polygon class="inst-cls-3" points="44.42 0 22.22 12.5 44.43 25.01 66.64 12.51 44.42 0"/>

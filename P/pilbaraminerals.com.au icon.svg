@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1434 1432">
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.643,818.622,-818.622,1101.643,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.643,818.622,-818.622,1101.643,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g5" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g7" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g8" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1101.35,818.404,-818.404,1101.35,215.929,286)">
+			<stop offset="0" stop-color="#7bc24e"/>
+			<stop offset=".05" stop-color="#7bc24e"/>
+			<stop offset="1" stop-color="#0383ad"/>
+		</radialGradient>
+		<radialGradient id="g10" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(363.983,256.42,-256.42,363.983,160.176,321.188)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".7"/>
+			<stop offset=".114" stop-color="#ffffff" stop-opacity=".7"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+		.s8 { fill: url(#g9) } 
+		.s9 { fill: url(#g10) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 2" class="s0" d="m752.1 325.2c107.7 87.7 213.6 189.9 310.4 305 63.9 76.7 122.3 155.2 175.2 233.7 80.4-120.5 135.1-248.3 160.7-370.7-53-157-157-290.3-292.1-378-118.7 49.3-237.3 120.5-354.2 210z"/>
+			<path id="Path 3" class="s1" d="m578.7 1419q67.6 12.8 138.8 12.8 52.9 0 105.8-7.3-62-20.1-124.1-47.5-60.2 25.6-120.5 42z"/>
+			<path id="Path 4" class="s2" d="m0 716c0 120.5 31 235.6 84 334.2q32.8-67.6 74.8-135.2c-69.3-105.9-118.6-219.1-146-332.3q-11 65.7-12.8 133.3z"/>
+			<path id="Path 5" class="s3" d="m366.9 91.5q1.9 0 3.7 0c113.2 47.5 228.2 116.9 339.5 202.7 113.2-87.7 228.2-158.9 341.4-211.8-100.4-53-213.6-82.2-334-82.2-127.8 0-246.5 32.9-350.6 91.3z"/>
+			<path id="Path 6" class="s4" d="m1266.9 911.4q43.9 71.2 80.4 144.2c54.7-102.2 85.8-217.3 85.8-339.6q0-62.1-11-120.5c-32.8 105.9-84 213.6-155.2 315.9z"/>
+			<path id="Path 7" class="s5" d="m1124.6 1084.9c-107.8 111.4-231.9 202.7-361.5 264.7q84 32.9 167.9 49.3c160.7-49.3 295.8-153.3 385.2-292.1q-36.5-74.9-82.1-149.8-49.3 65.8-109.5 127.9z"/>
+			<path id="Path 8" class="s6" d="m471 582.7c-96.8 105.9-182.6 217.3-251.9 330.5 52.9 74.9 115 146.1 186.2 211.8 93.1 82.2 193.5 149.8 295.7 197.3 138.8-60.3 272-153.4 387-274q65.8-65.7 118.7-138.7c-54.8-84-115-166.2-182.6-246.6-98.5-115-204.4-219.1-312.1-304.9q-126 101.3-241 224.6z"/>
+			<path id="Path 9" class="s7" d="m45.6 467.7q3.7 42 12.8 85.8c23.8 107.7 67.6 213.6 129.6 312.2 69.4-107.7 151.6-215.4 246.5-315.9 74.8-82.1 153.3-157 235.5-222.8-105.9-80.3-213.6-144.2-319.5-188q-18.2-7.3-36.5-14.6c-122.3 84-217.2 202.6-268.4 343.3z"/>
+			<path id="Path 10" class="s8" d="m115 1103.1c84 131.5 208.1 231.9 356 286.7q18.3-3.6 38.3-7.3 63.9-12.8 127.8-34.7c-93.1-47.5-182.5-109.5-266.5-186.2-67.6-62.1-127.8-129.7-180.7-200.9q-42 71.2-74.9 142.4z"/>
+			<g id="&lt;Group&gt;" opacity=" .7">
+				<path id="Path 12" class="s9" d="m45.6 467.7q3.7 42 12.8 85.8c23.8 107.7 67.6 213.6 129.6 312.2 69.4-107.7 151.6-215.4 246.5-315.9 74.8-82.1 153.3-157 235.5-222.8-105.9-80.3-213.6-144.2-319.5-188q-18.2-7.3-36.5-14.6c-122.3 84-217.2 202.6-268.4 343.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

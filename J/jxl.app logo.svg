@@ -1,42 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3400 1200" shape-rendering="geometricPrecision">
-	<style>
-            #jxl-logo-top-line {
-                transform-origin: 600px 295px;
-                animation: jxl-logo-top-line-kf 30s linear infinite normal forwards;
-            }
-            #jxl-logo-middle-line {
-                transform-origin: 600px 600px;
-                animation: jxl-logo-middle-line-kf 30s linear infinite normal forwards;
-            }
-            #jxl-logo-bottom-line {
-                transform-origin: 600px 905px;
-                animation: jxl-logo-bottom-line-kf 30s linear infinite normal forwards;
-            }
-            @keyframes jxl-logo-top-line-kf {
-                0% { transform: scale(1, 1) }
-                0.66% { transform: scale(1.6, 1.6) }
-                1.33% { transform: scale(1, 1) }
-                3.33% { transform: scale(1, 1) }
-                100% { transform: scale(1, 1) }
-            }
-            @keyframes jxl-logo-middle-line-kf {
-                0% { transform: scale(1, 1) }
-                0.33% { transform: scale(1, 1) }
-                1% { transform: scale(1.6, 1.6) }
-                1.66% { transform: scale(1, 1) }
-                3.33% { transform: scale(1, 1) }
-                100% { transform: scale(1, 1) }
-            }
-            @keyframes jxl-logo-bottom-line-kf {
-                0% { transform: scale(1, 1) }
-                0.66% { transform: scale(1, 1) }
-                1.33% { transform: scale(1.6, 1.6) }
-                2% { transform: scale(1, 1) }
-                3.33% { transform: scale(1, 1) }
-                100% { transform: scale(1, 1) }
-            }
-	</style>
 	<g fill="#161c2d">
 		<path d="M3319.49,950.15h-320.25v-839.49c0-12.43-10.08-22.51-22.51-22.51h-122.52c-12.43,0-22.51,10.08-22.51,22.51v972.84c0,12.43,10.08,22.51,22.51,22.51h465.27c12.43,0,22.51-10.08,22.51-22.51v-110.85c0-12.43-10.07-22.5-22.5-22.5Z"/>
 		<path d="M2430.41,587.67l304.1-464.68c4.53-6.92,4.9-15.76.97-23.03s-11.53-11.8-19.8-11.8h-142.94c-7.63,0-14.74,3.86-18.89,10.26L2333.6,438.2L2114.72,98.47c-4.14-6.43-11.27-10.32-18.92-10.32h-147.31c-8.28,0-15.88,4.54-19.81,11.82s-3.54,16.13,1,23.05l305.46,464.59L1918,1071.16c-4.54,6.92-4.91,15.76-.98,23.04s11.53,11.81,19.8,11.81h148.77c7.68,0,14.83-3.92,18.97-10.39L2333.6,737.24l230.42,358.43c4.14,6.44,11.27,10.34,18.93,10.34h141.48c8.25,0,15.83-4.51,19.77-11.75s3.6-16.06-.87-22.98L2430.41,587.67Z"/>

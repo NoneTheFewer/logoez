@@ -9,9 +9,9 @@
 		.purple {fill:#703fba;}
 	</style>
 	<g>
-		<circle cx="1005" cy="336" r="336" class="blue" />
-		<circle cx="1005" cy="1675.5" r="336" class="purple" />
-		<circle cx="336" cy="1005.75" r="336" class="red" />
+		<circle cx="1005" cy="336" r="336" class="blue"/>
+		<circle cx="1005" cy="1675.5" r="336" class="purple"/>
+		<circle cx="336" cy="1005.75" r="336" class="red"/>
 	</g>
 	<g name="text" transform="scale(1.28 -1.28) translate(1380 -1160)">
 		<path name="C" d="M41 358q0 155 104.5 259.5t260.5 104.5q48 0 93 -10t74.5 -24t52 -28.5t32.5 -24.5l10 -10l-62 -96q-9 8 -25.5 20.5t-67.5 33.5t-101 21q-109 0 -173.5 -70.5t-64.5 -173.5q0 -105 66 -179.5t173 -74.5q34 0 68 9.5t58 22.5t42.5 26t28.5 22l9 10l68 -93 q-4 -5 -11.5 -12.5t-34.5 -27.5t-57 -35t-77.5 -27.5t-98.5 -12.5q-161 0 -264 106t-103 264z"/>

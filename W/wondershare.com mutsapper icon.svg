@@ -1,20 +1,21 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-wutsapper-square">
-<rect width="120" height="120" rx="27.4" fill="url(#wutsapper-square-paint0_linear_8_44472)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M57.0857 40.1003C58.808 38.5311 61.4763 38.6552 63.0455 40.3775L71.5872 49.7525C72.7123 50.9874 73.0028 52.7701 72.3277 54.2983C71.6527 55.8266 70.1394 56.8125 68.4687 56.8125H42.2187C39.8888 56.8125 38 54.9237 38 52.5937C38 50.2638 39.8888 48.375 42.2187 48.375H58.9177L56.8085 46.06C55.2394 44.3378 55.3635 41.6695 57.0857 40.1003Z" fill="url(#wutsapper-square-paint1_linear_8_44472)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M62.9143 77.8997C61.192 79.4689 58.5237 79.3448 56.9545 77.6225L48.4129 68.2475C47.2877 67.0126 46.9973 65.2299 47.6723 63.7017C48.3473 62.1734 49.8606 61.1875 51.5313 61.1875L77.7813 61.1875C80.1112 61.1875 82 63.0763 82 65.4063C82 67.7362 80.1112 69.625 77.7813 69.625L61.0823 69.625L63.1915 71.94C64.7606 73.6622 64.6365 76.3305 62.9143 77.8997Z" fill="url(#wutsapper-square-paint2_linear_8_44472)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M29.4375 60.3749C29.4375 77.4612 43.2886 91.3123 60.3749 91.3123H91.3123V60.3749C91.3123 43.2886 77.4612 29.4375 60.3749 29.4375C43.2886 29.4375 29.4375 43.2886 29.4375 60.3749ZM99.7498 99.7498V60.3749C99.7498 38.6287 82.1211 21 60.3749 21C38.6287 21 21 38.6287 21 60.3749C21 82.1211 38.6287 99.7498 60.3749 99.7498H99.7498Z" fill="#7AFFE1"/>
-<defs>
-<linearGradient id="wutsapper-square-paint0_linear_8_44472" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
-<stop stop-color="#313131"/>
-<stop offset="1"/>
-</linearGradient>
-<linearGradient id="wutsapper-square-paint1_linear_8_44472" x1="38.8854" y1="52.8021" x2="75.0312" y2="52.8281" gradientUnits="userSpaceOnUse">
-<stop stop-color="#7AFFE1"/>
-<stop offset="1" stop-color="#68FA91"/>
-</linearGradient>
-<linearGradient id="wutsapper-square-paint2_linear_8_44472" x1="81.1146" y1="65.1979" x2="48.4063" y2="65.1979" gradientUnits="userSpaceOnUse">
-<stop offset="0.0104167" stop-color="#00AAFF"/>
-<stop offset="1" stop-color="#00DBFF"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-wutsapper-square">
+	<rect width="120" height="120" rx="27.4" fill="url(#wutsapper-square-paint0_linear_8_44472)"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M57.0857 40.1003C58.808 38.5311 61.4763 38.6552 63.0455 40.3775L71.5872 49.7525C72.7123 50.9874 73.0028 52.7701 72.3277 54.2983C71.6527 55.8266 70.1394 56.8125 68.4687 56.8125H42.2187C39.8888 56.8125 38 54.9237 38 52.5937C38 50.2638 39.8888 48.375 42.2187 48.375H58.9177L56.8085 46.06C55.2394 44.3378 55.3635 41.6695 57.0857 40.1003Z" fill="url(#wutsapper-square-paint1_linear_8_44472)"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M62.9143 77.8997C61.192 79.4689 58.5237 79.3448 56.9545 77.6225L48.4129 68.2475C47.2877 67.0126 46.9973 65.2299 47.6723 63.7017C48.3473 62.1734 49.8606 61.1875 51.5313 61.1875L77.7813 61.1875C80.1112 61.1875 82 63.0763 82 65.4063C82 67.7362 80.1112 69.625 77.7813 69.625L61.0823 69.625L63.1915 71.94C64.7606 73.6622 64.6365 76.3305 62.9143 77.8997Z" fill="url(#wutsapper-square-paint2_linear_8_44472)"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.4375 60.3749C29.4375 77.4612 43.2886 91.3123 60.3749 91.3123H91.3123V60.3749C91.3123 43.2886 77.4612 29.4375 60.3749 29.4375C43.2886 29.4375 29.4375 43.2886 29.4375 60.3749ZM99.7498 99.7498V60.3749C99.7498 38.6287 82.1211 21 60.3749 21C38.6287 21 21 38.6287 21 60.3749C21 82.1211 38.6287 99.7498 60.3749 99.7498H99.7498Z" fill="#7AFFE1"/>
+	<defs>
+		<linearGradient id="wutsapper-square-paint0_linear_8_44472" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#313131"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="wutsapper-square-paint1_linear_8_44472" x1="38.8854" y1="52.8021" x2="75.0312" y2="52.8281" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#7AFFE1"/>
+			<stop offset="1" stop-color="#68FA91"/>
+		</linearGradient>
+		<linearGradient id="wutsapper-square-paint2_linear_8_44472" x1="81.1146" y1="65.1979" x2="48.4063" y2="65.1979" gradientUnits="userSpaceOnUse">
+			<stop offset="0.0104167" stop-color="#00AAFF"/>
+			<stop offset="1" stop-color="#00DBFF"/>
+		</linearGradient>
+	</defs>
 </svg>

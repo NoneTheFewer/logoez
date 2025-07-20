@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 494.59 339.83"><defs><style>.cls-1{fill:#4b98d2;}.cls-2{fill:#fff;}</style></defs><rect class="cls-1" width="494.59" height="339.83" rx="90.76"></rect><path class="cls-2" d="M178,243.49V96.34a2.54,2.54,0,0,1,4.23-1.91L265.32,168a2.54,2.54,0,0,1,0,3.81L182.2,245.4A2.54,2.54,0,0,1,178,243.49Z"></path><rect class="cls-2" x="282.74" y="90.68" width="21.7" height="158.47" rx="2.54"></rect></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 494.59 339.83">
+	<defs>
+		<style>.cls-1{fill:#4b98d2;}.cls-2{fill:#fff;}</style>
+	</defs>
+	<rect class="cls-1" width="494.59" height="339.83" rx="90.76"/>
+	<path class="cls-2" d="M178,243.49V96.34a2.54,2.54,0,0,1,4.23-1.91L265.32,168a2.54,2.54,0,0,1,0,3.81L182.2,245.4A2.54,2.54,0,0,1,178,243.49Z"/>
+	<rect class="cls-2" x="282.74" y="90.68" width="21.7" height="158.47" rx="2.54"/>
+</svg>

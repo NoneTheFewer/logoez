@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 127 34" version="1.1">
-	<title>Group 2</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 127 34">
 	<defs>
 		<filter x="-27.3%" y="-300.0%" width="154.5%" height="700.0%" filterUnits="objectBoundingBox" id="filter-1">
 			<feGaussianBlur stdDeviation="1" in="SourceGraphic"/>

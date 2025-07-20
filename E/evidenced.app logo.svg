@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188 36">
+	<g>
+		<defs>
+			<path d="M 28.515 6.207 C 27.057 4.117 25.074 2.449 22.766 1.369 L 20.657 6.914 C 22.04 7.655 23.196 8.756 24.004 10.099 C 24.812 11.443 25.243 12.98 25.249 14.548 C 25.249 17.586 23.244 20.094 20.419 20.92 C 19.816 21.104 19.288 21.478 18.914 21.986 C 18.54 22.494 18.34 23.11 18.344 23.741 C 18.344 24.202 18.452 24.656 18.659 25.068 C 18.866 25.48 19.167 25.837 19.538 26.111 C 19.908 26.386 20.338 26.57 20.792 26.648 C 21.246 26.726 21.713 26.697 22.154 26.563 C 24.109 25.98 25.896 24.935 27.363 23.516 C 28.568 22.356 29.524 20.962 30.175 19.421 C 30.826 17.88 31.157 16.222 31.149 14.549 C 31.154 11.563 30.234 8.649 28.515 6.207 Z" id="a1084z"/>
+			<filter id="a1086z" x="-48.8%" y="-28.7%" width="196.9%" height="157.0%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1088z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1088z" result="a1089z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1089z" result="a1090z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1086z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1084z" clip-path="url(#a1085z)"/>
+		</g>
+		<use href="#a1084z" fill="rgb(242,177,107)" clip-path="url(#a1085z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 20.681 0.59 C 19.352 0.199 17.974 0 16.589 0 C 7.441 0 0 7.441 0 16.589 C -0.009 20.36 1.112 24.047 3.22 27.173 L 7.821 23.431 C 6.557 21.373 5.892 19.004 5.899 16.589 C 5.902 13.755 7.03 11.038 9.034 9.034 C 11.038 7.03 13.755 5.902 16.589 5.899 C 17.256 5.899 17.921 5.975 18.571 6.127 Z" id="a1091z"/>
+			<filter id="a1093z" x="-30.3%" y="-26.8%" width="160.2%" height="153.2%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1095z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1095z" result="a1096z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1096z" result="a1097z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1093z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1091z" clip-path="url(#a1092z)"/>
+		</g>
+		<use href="#a1091z" fill="rgb(255,120,110)" clip-path="url(#a1092z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 36.816 13.731 C 36.109 13.728 35.425 13.981 34.889 14.442 C 34.353 14.903 34.002 15.543 33.899 16.242 C 33.427 19.61 31.995 22.677 29.757 25.06 C 26.97 28.025 23.14 29.661 18.972 29.661 C 17.115 29.657 15.279 29.26 13.587 28.496 C 11.894 27.732 10.383 26.618 9.152 25.227 L 4.57 28.947 C 6.357 31.016 8.568 32.677 11.053 33.817 C 13.537 34.957 16.238 35.549 18.972 35.554 C 24.786 35.554 30.143 33.261 34.056 29.095 C 37.132 25.822 39.094 21.639 39.739 17.075 C 39.795 16.659 39.761 16.234 39.64 15.832 C 39.519 15.429 39.314 15.056 39.037 14.739 C 38.76 14.423 38.419 14.169 38.036 13.995 C 37.653 13.821 37.237 13.731 36.816 13.731 Z" id="a1098z"/>
+			<filter id="a1100z" x="-17.8%" y="-33.3%" width="135.4%" height="166.1%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1102z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1102z" result="a1103z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1103z" result="a1104z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1100z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1098z" clip-path="url(#a1099z)"/>
+		</g>
+		<use href="#a1098z" fill="rgb(46,182,125)" clip-path="url(#a1099z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 45.121 18.822 C 45.121 14.262 48.672 10.584 53.328 10.584 C 57.637 10.584 61.026 14.258 61.026 18.756 C 61.022 19.264 60.99 19.771 60.931 20.275 L 49.432 20.275 C 49.94 22.462 51.745 23.507 53.836 23.507 C 55.356 23.507 56.94 23.063 58.111 22.272 L 59.696 25.312 C 57.945 26.458 55.896 27.064 53.804 27.055 C 49.18 27.058 45.121 24.049 45.121 18.822 Z M 57.038 17.46 C 56.722 15.465 55.138 14.134 53.206 14.134 C 51.369 14.134 49.784 15.465 49.373 17.46 Z" id="a1105z"/>
+			<filter id="a1107z" x="-39.4%" y="-44.1%" width="178.1%" height="187.5%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1109z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1109z" result="a1110z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1110z" result="a1111z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1107z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1105z" clip-path="url(#a1106z)"/>
+		</g>
+		<use href="#a1105z" fill="#000" clip-path="url(#a1106z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 60.645 10.904 L 64.892 10.904 L 67.842 19.045 C 68.445 20.697 68.951 22.34 69.014 22.561 C 69.046 22.34 69.584 20.63 70.154 19.077 L 73.104 10.905 L 77.306 10.905 L 71.066 26.775 L 66.885 26.775 Z" id="a1112z"/>
+			<filter id="a1114z" x="-37.6%" y="-45.7%" width="174.6%" height="190.8%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1116z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1116z" result="a1117z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1117z" result="a1118z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1114z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1112z" clip-path="url(#a1113z)"/>
+		</g>
+		<use href="#a1112z" fill="#000" clip-path="url(#a1113z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 78.492 6.469 C 78.489 5.969 78.634 5.48 78.91 5.063 C 79.185 4.647 79.579 4.321 80.04 4.129 C 80.501 3.936 81.008 3.885 81.499 3.981 C 81.989 4.078 82.439 4.318 82.792 4.671 C 83.146 5.025 83.386 5.475 83.483 5.965 C 83.579 6.455 83.528 6.963 83.335 7.424 C 83.143 7.885 82.817 8.278 82.4 8.554 C 81.984 8.829 81.494 8.975 80.995 8.972 C 80.334 8.963 79.702 8.697 79.234 8.229 C 78.767 7.762 78.501 7.13 78.492 6.469 Z M 78.904 10.904 L 83.151 10.904 L 83.151 26.742 L 78.904 26.742 Z" id="a1119z"/>
+			<filter id="a1121z" x="-122.6%" y="-31.9%" width="343.3%" height="163.3%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1123z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1123z" result="a1124z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1124z" result="a1125z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1121z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1119z" clip-path="url(#a1120z)"/>
+		</g>
+		<use href="#a1119z" fill="#000" clip-path="url(#a1120z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 85.32 18.823 C 85.32 14.262 88.171 10.588 92.542 10.588 C 94.379 10.588 96.184 11.316 97.325 12.678 L 97.325 4.012 L 101.573 4.012 L 101.573 26.742 L 97.547 26.742 L 97.547 24.841 C 96.406 26.362 94.379 27.059 92.474 27.059 C 88.107 27.059 85.32 23.384 85.32 18.823 Z M 97.325 18.822 C 97.325 16.353 95.741 14.515 93.55 14.515 C 91.269 14.515 89.622 16.353 89.622 18.822 C 89.622 21.325 91.274 23.131 93.55 23.131 C 95.74 23.131 97.325 21.357 97.325 18.822 Z" id="a1126z"/>
+			<filter id="a1128z" x="-38.5%" y="-31.5%" width="176.4%" height="162.6%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1130z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1130z" result="a1131z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1131z" result="a1132z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1128z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1126z" clip-path="url(#a1127z)"/>
+		</g>
+		<use href="#a1126z" fill="#000" clip-path="url(#a1127z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 103.613 18.822 C 103.613 14.262 107.161 10.588 111.817 10.588 C 116.126 10.588 119.514 14.262 119.514 18.76 C 119.51 19.267 119.479 19.775 119.42 20.279 L 107.921 20.279 C 108.428 22.466 110.233 23.511 112.324 23.511 C 113.845 23.511 115.428 23.067 116.6 22.276 L 118.183 25.316 C 116.433 26.462 114.384 27.068 112.292 27.059 C 107.668 27.059 103.613 24.049 103.613 18.822 Z M 115.523 17.461 C 115.207 15.465 113.623 14.135 111.691 14.135 C 109.854 14.135 108.269 15.465 107.858 17.461 Z" id="a1133z"/>
+			<filter id="a1135z" x="-39.4%" y="-44.1%" width="178.1%" height="187.5%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1137z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1137z" result="a1138z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1138z" result="a1139z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1135z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1133z" clip-path="url(#a1134z)"/>
+		</g>
+		<use href="#a1133z" fill="#000" clip-path="url(#a1134z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 121.713 10.905 L 125.863 10.905 L 125.863 13.029 C 127.13 11.286 128.93 10.59 130.867 10.59 C 135.049 10.59 136.505 13.281 136.505 17.621 L 136.505 26.743 L 132.257 26.743 L 132.257 18.159 C 132.257 15.846 131.656 14.611 129.501 14.611 C 127.377 14.611 125.955 16.322 125.955 18.728 L 125.955 26.742 L 121.707 26.742 Z" id="a1140z"/>
+			<filter id="a1142z" x="-42.3%" y="-44.9%" width="183.9%" height="189.2%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1144z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1144z" result="a1145z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1145z" result="a1146z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1142z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1140z" clip-path="url(#a1141z)"/>
+		</g>
+		<use href="#a1140z" fill="#000" clip-path="url(#a1141z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 138.449 18.822 C 138.449 14.23 142.187 10.588 146.906 10.588 C 148.975 10.572 150.981 11.291 152.57 12.615 L 150.012 15.592 C 149.283 14.927 148.269 14.515 147.002 14.515 C 144.531 14.515 142.755 16.321 142.755 18.822 C 142.755 21.3 144.433 23.131 147.12 23.131 C 148.45 23.131 149.749 22.624 150.572 21.833 L 152.821 25.001 C 151.3 26.299 149.179 27.06 146.898 27.06 C 142.187 27.059 138.449 23.416 138.449 18.822 Z" id="a1147z"/>
+			<filter id="a1149z" x="-43.5%" y="-44.0%" width="186.4%" height="187.5%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1151z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1151z" result="a1152z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1152z" result="a1153z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1149z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1147z" clip-path="url(#a1148z)"/>
+		</g>
+		<use href="#a1147z" fill="#000" clip-path="url(#a1148z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 153.797 18.822 C 153.797 14.262 157.345 10.588 162 10.588 C 166.308 10.588 169.698 14.262 169.698 18.76 C 169.694 19.267 169.662 19.775 169.602 20.279 L 158.105 20.279 C 158.612 22.466 160.417 23.511 162.508 23.511 C 164.027 23.511 165.612 23.067 166.784 22.276 L 168.367 25.316 C 166.617 26.462 164.568 27.068 162.476 27.059 C 157.851 27.059 153.797 24.049 153.797 18.822 Z M 165.704 17.461 C 165.388 15.465 163.804 14.135 161.872 14.135 C 160.035 14.135 158.45 15.465 158.04 17.461 Z" id="a1154z"/>
+			<filter id="a1156z" x="-39.4%" y="-44.1%" width="178.1%" height="187.5%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1158z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1158z" result="a1159z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1159z" result="a1160z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1156z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1154z" clip-path="url(#a1155z)"/>
+		</g>
+		<use href="#a1154z" fill="#000" clip-path="url(#a1155z)"/>
+	</g>
+	<g>
+		<defs>
+			<path d="M 171.18 18.823 C 171.18 14.262 174.031 10.588 178.402 10.588 C 180.24 10.588 182.045 11.316 183.185 12.678 L 183.185 4.012 L 187.432 4.012 L 187.432 26.742 L 183.409 26.742 L 183.409 24.841 C 182.269 26.362 180.242 27.059 178.336 27.059 C 173.968 27.059 171.18 23.384 171.18 18.823 Z M 183.185 18.822 C 183.185 16.353 181.601 14.515 179.409 14.515 C 177.13 14.515 175.483 16.353 175.483 18.822 C 175.483 21.325 177.134 23.131 179.409 23.131 C 181.601 23.131 183.185 21.357 183.185 18.822 Z" id="a1161z"/>
+			<filter id="a1163z" x="-38.5%" y="-31.5%" width="176.4%" height="162.6%" filterUnits="objectBoundingBox">
+				<feOffset dx="0" dy="1" in="SourceAlpha" result="a1165z"/>
+				<feGaussianBlur stdDeviation="1.5" in="a1165z" result="a1166z"/>
+				<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="a1166z" result="a1167z"/>
+			</filter>
+		</defs>
+		<g filter="url(#a1163z)">
+			<use fill="black" fill-opacity="1" stroke="black" stroke-opacity="0" stroke-width="0" href="#a1161z" clip-path="url(#a1162z)"/>
+		</g>
+		<use href="#a1161z" fill="#000" clip-path="url(#a1162z)"/>
+	</g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1287 1503">
+	<defs>
+		<radialGradient id="g1" cx="170.7" cy="948.4" r="744.6" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#5db754"/>
+			<stop offset="1" stop-color="#1c727d"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="247.6" cy="840" r="706" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#5db754"/>
+			<stop offset="1" stop-color="#1c727d"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="189.9" cy="955" r="652.6" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#5db754"/>
+			<stop offset="1" stop-color="#1c727d"/>
+		</radialGradient>
+		<radialGradient id="g4" cx="321.4" cy="880.2" r="614.7" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#5db754"/>
+			<stop offset="1" stop-color="#1c727d"/>
+		</radialGradient>
+		<radialGradient id="g5" cx="376.5" cy="824.6" r="752.7" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#039bc6"/>
+			<stop offset="1" stop-color="#463785"/>
+		</radialGradient>
+		<radialGradient id="g6" cx="356.6" cy="752.6" r="709.2" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#039bc6"/>
+			<stop offset="1" stop-color="#463785"/>
+		</radialGradient>
+		<radialGradient id="g7" cx="474.5" cy="795.8" r="656.2" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#039bc6"/>
+			<stop offset="1" stop-color="#463785"/>
+		</radialGradient>
+		<radialGradient id="g8" cx="610.8" cy="737.9" r="616.2" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#039bc6"/>
+			<stop offset="1" stop-color="#463785"/>
+		</radialGradient>
+		<radialGradient id="g9" cx="-68.3" cy="1088" r="744.6" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#e42657"/>
+			<stop offset="1" stop-color="#982b86"/>
+		</radialGradient>
+		<radialGradient id="g10" cx=".4" cy="989.1" r="706" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#e42657"/>
+			<stop offset="1" stop-color="#982b86"/>
+		</radialGradient>
+		<radialGradient id="g11" cx="-51.9" cy="1092.4" r="652.6" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#e42657"/>
+			<stop offset="1" stop-color="#982b86"/>
+		</radialGradient>
+		<radialGradient id="g12" cx="74.2" cy="1022.1" r="614.7" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" stop-color="#e42657"/>
+			<stop offset="1" stop-color="#982b86"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+		.s6 { fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+		.s8 { fill: #5cb650 } 
+		.s9 { fill: #009ac6 } 
+		.s10 { fill: url(#g9) } 
+		.s11 { fill: url(#g10) } 
+		.s12 { fill: url(#g11) } 
+		.s13 { fill: url(#g12) } 
+		.s14 { fill: #e42657 } 
+	</style>
+	<path id="Layer" class="s0" d="m245 224.9l20.3-11.8v757.2l654 378.5-20.3 11.8-654-378.8z"/>
+	<path id="Layer" class="s1" d="m286 201l20.3-11.8v757.2l654 378.5-20.3 11.7-654-378.4z"/>
+	<path id="Layer" class="s2" d="m326.6 177.4l20.4-11.7v756.8l653.9 378.4-20.3 11.8-654-378.4z"/>
+	<path id="Layer" class="s3" d="m367.6 153.9l20.4-11.8v757.2l654 378.4-20.4 11.8-654-378.8z"/>
+	<path id="Layer" class="s4" d="m490 82.8l20.3-11.8v757.3l654 378.4-20.4 11.8-653.9-378.5z"/>
+	<path id="Layer" class="s5" d="m530.6 59.3l20.3-11.8v757.2l654 378.4-20.3 11.8-654-378.4z"/>
+	<path id="Layer" class="s6" d="m571.6 35.3l20.3-11.7v757.2l654 378.4-20.3 11.8-654-378.4z"/>
+	<path id="Layer" class="s7" d="m612.6 11.8l20.3-11.8v757.2l654 378.4-20.3 11.8-654-378.4z"/>
+	<path id="Layer" class="s8" d="m245 224.9l654 378.4v757.3l143-82.9v-757.2l-654-378.4z"/>
+	<path id="Layer" class="s9" d="m490 82.8l653.9 378.5v757.2l143-82.9v-757.2l-654-378.4z"/>
+	<path id="Layer" class="s10" d="m0 366.6l20.3-11.7v757.2l654 378.4-20.3 11.8-654-378.4z"/>
+	<path id="Layer" class="s11" d="m41 343.1l20.3-11.8v757.2l654 378.4-20.3 11.8-654-378.4z"/>
+	<path id="Layer" class="s12" d="m82 319.5l20.3-11.8v757.3l654 378.4-20.3 11.8-654-378.5z"/>
+	<path id="Layer" class="s13" d="m122.7 295.6l20.3-11.8v757.2l654 378.5-20.3 11.7-654-378.4z"/>
+	<path id="Layer" class="s14" d="m0 366.6l654 378.5v757.2l143-82.8v-756.9l-654-378.8z"/>
+</svg>

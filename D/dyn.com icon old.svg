@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<style>
+		.cls0 { fill: url(#a); }
+		.cls1 { fill: url(#b); }
+		.cls2 { fill: url(#c); }
+	</style>
+	<defs>
+		<linearGradient id="a" x1="-243.154" y1="115.916" x2="-242.505" y2="115.497" gradientTransform="matrix(134.6 0 0 -179.664 32732.001 20873.142)" gradientUnits="userSpaceOnUse">
+			<stop offset="0"/>
+			<stop offset="1" stop-color="#e6e7e8"/>
+		</linearGradient>
+		<linearGradient id="b" x1="-243.789" y1="115.9" x2="-243.318" y2="115.619" gradientTransform="matrix(202.7 0 0 -137.8 49435.499 15976.8)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#939598"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="c" x1="-243.796" y1="115.794" x2="-243.581" y2="115.595" gradientTransform="matrix(237 0 0 -236.7 57839.1 27468.2)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fefad8"/>
+			<stop offset="1" stop-color="#fcee21"/>
+		</linearGradient>
+	</defs>
+	<path d="M 44.783,109.907 A 63.529,63.529 0.0 0,0 67.274,104.759 A 64.0,64.0 0.0 0,1 25.09,20.142 C 18.943,22.091 13.445,25.29 9.646,30.188 A 64.016,64.016 0.0 0,0 9.546,97.612 C 14.946,105.012 33.337,110.412 44.783,109.912 L 44.783,109.907" class="cls0"/>
+	<path d="M 105.109,68.973 A 57.864,57.864 0.0 0,0 110.809,43.933 C 110.809,31.588 105.561,16.244 97.464,9.646 A 63.889,63.889 0.0 0,0 9.5,30.438 A 63.909,63.909 0.0 0,1 105.113,68.973 L 105.109,68.973" class="cls1"/>
+	<path d="M 97.462,9.6 C 103.962,18.947 107.208,30.742 107.208,43.087 A 64.024,64.024 0.0 0,1 43.183,107.112 A 63.186,63.186 0.0 0,1 9.546,97.562 A 64.014,64.014 0.0 0,0 128.0,63.875 C 127.95,40.884 115.655,19.892 97.462,9.6 L 97.462,9.6" class="cls2"/>
+</svg>

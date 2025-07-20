@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
 	<defs>
 		<path id="swoop" d="M 168.5,273.5 C 258.833,273.5 349.167,273.5 439.5,273.5C 435.781,325.046 409.114,357.879 359.5,372C 354.833,372.667 350.167,373.333 345.5,374C 257.501,374.5 169.501,374.667 81.5,374.5C 86.0649,319.663 115.065,285.997 168.5,273.5 Z"/>
 		<clipPath id="clap1">

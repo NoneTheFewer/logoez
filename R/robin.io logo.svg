@@ -51,7 +51,10 @@
 				<tspan x="0" y="0">A</tspan>
 			</text>
 			<text id="Company" transform="translate(108.261 33.16)" font-size="6.959" font-family="RakutenSansUI, Rakuten Sans">
-				<tspan x="0" y="0" letter-spacing="-0.004em">C</tspan><tspan y="0">ompa</tspan><tspan y="0" letter-spacing="-0.009em">n</tspan><tspan y="0">y</tspan>
+				<tspan x="0" y="0" letter-spacing="-0.004em">C</tspan>
+				<tspan y="0">ompa</tspan>
+				<tspan y="0" letter-spacing="-0.009em">n</tspan>
+				<tspan y="0">y</tspan>
 			</text>
 		</g>
 	</g>

@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 50"><rect width="100%" height="100%" fill="none" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 50">
+	<rect width="100%" height="100%" fill="none"/>
 	<defs>
 		<radialGradient gradientTransform="matrix(0.12528125,0,0,0.07105063,11.859111,19.201542)" r="57.442" cy="348.624" cx="91.743" id="A" xlink:href="#O">
 			<stop offset="0" stop-color="#040505" stop-opacity=".57"/>

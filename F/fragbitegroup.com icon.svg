@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1345 1495">
+	<defs>
+		<linearGradient id="g1" x1="-0.6" y1="747.3" x2="11191.8" y2="747.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fab400"/>
+			<stop offset=".3" stop-color="#f8a90d"/>
+			<stop offset=".5" stop-color="#f59d15"/>
+			<stop offset=".8" stop-color="#f3921b"/>
+			<stop offset="1" stop-color="#f1861f"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 7" fill-rule="evenodd" class="s0" d="m1344.1 0.1v402.8h-894.5v225.2h624.1v403.6h-624.1v462.7h-449.5v-1494.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

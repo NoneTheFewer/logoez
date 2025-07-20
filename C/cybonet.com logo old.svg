@@ -1,12 +1,10 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 150 40" version="1.1">
-	
-	<desc/>
-	<g id="brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"  >
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40">
+	<g id="brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 		<g id="Group-2" transform="translate(8.000000, 6.000000)">
 			<g id="Group-3-Copy">
 				<g id="Group-5">
-					<text id="CYBONET" font-family="Aileron" font-size="20" font-weight="700" fill="#2C2E30"  >
+					<text id="CYBONET" font-family="Aileron" font-size="20" font-weight="700" fill="#2C2E30">
 						<tspan x="37.35" y="22.2">CYBO</tspan>
 						<tspan x="94.67" y="22.2" font-family="Aileron" font-weight="600">NET</tspan>
 					</text>

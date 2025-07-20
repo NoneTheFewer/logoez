@@ -1,11 +1,12 @@
-<svg viewBox="0 0 25.1 25.1" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient x1="76.689%" y1="13.736%" x2="5.669%" y2="32.221%" id="a">
-            <stop stop-color="#FF8F00" offset="0%" />
-            <stop stop-color="#FE00FF" offset="100%" />
-        </linearGradient>
-    </defs>
-    <g fill="none" fill-rule="evenodd" transform="translate(-1.4 -43)">
-        <path fill="url(#a)" transform="rotate(-105 12.663 58.018)" d="M24.225 68.03h-6.227l-5.335-9.242-5.34 9.242H1.102l11.563-20.024z" />
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.1 25.1">
+	<defs>
+		<linearGradient x1="76.689%" y1="13.736%" x2="5.669%" y2="32.221%" id="a">
+			<stop stop-color="#FF8F00" offset="0%"/>
+			<stop stop-color="#FE00FF" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="evenodd" transform="translate(-1.4 -43)">
+		<path fill="url(#a)" transform="rotate(-105 12.663 58.018)" d="M24.225 68.03h-6.227l-5.335-9.242-5.34 9.242H1.102l11.563-20.024z"/>
+	</g>
 </svg>

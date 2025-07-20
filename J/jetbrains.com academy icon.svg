@@ -1,22 +1,23 @@
-<svg viewBox='0 0 64 64' xmlns="http://www.w3.org/2000/svg" class="jb-product-card__logo" data-test="svg-sprite-image" data-test-sprite-id="jetbrains-academy-square-64">
-    <defs>
-        <linearGradient id="jetbrains-academy_jetbrains-academy_svg__a" x1="41.286" x2="13.839" y1="41.286" y2="13.839" gradientUnits="userSpaceOnUse">
-            <stop offset=".233" stop-color="#21d789" />
-            <stop offset=".89" stop-color="#af1df5" />
-        </linearGradient>
-        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70" id="jetbrains-academy">
-            <path d="M56 14v42H14z" />
-            <path fill="#fff" d="M50.765 50.75H40.252v-2.316h10.513Z" />
-            <path fill="url(#jetbrains-academy_jetbrains-academy_svg__a)" d="M14 56V14h42z" />
-        </symbol>
-        <linearGradient id="jetbrains-academy-square-64_jetbrains-academy-square-64_svg__b" x1="41.578" x2="-.245" y1="41.579" y2="-.245" gradientUnits="userSpaceOnUse">
-            <stop offset=".233" stop-color="#21D789" />
-            <stop offset=".89" stop-color="#AF1DF5" />
-        </linearGradient>
-    </defs>
-    <g>
-        <path fill="#000" d="M64 0v64H0L64 0Z" />
-        <path fill="#fff" d="M40 56h16v-4H40v4Z" />
-        <path fill="url(#jetbrains-academy-square-64_jetbrains-academy-square-64_svg__b)" d="M0 64V0h64L0 64Z"/>
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" class="jb-product-card__logo" data-test="svg-sprite-image" data-test-sprite-id="jetbrains-academy-square-64">
+	<defs>
+		<linearGradient id="jetbrains-academy_jetbrains-academy_svg__a" x1="41.286" x2="13.839" y1="41.286" y2="13.839" gradientUnits="userSpaceOnUse">
+			<stop offset=".233" stop-color="#21d789"/>
+			<stop offset=".89" stop-color="#af1df5"/>
+		</linearGradient>
+		<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70" id="jetbrains-academy">
+			<path d="M56 14v42H14z"/>
+			<path fill="#fff" d="M50.765 50.75H40.252v-2.316h10.513Z"/>
+			<path fill="url(#jetbrains-academy_jetbrains-academy_svg__a)" d="M14 56V14h42z"/>
+		</symbol>
+		<linearGradient id="jetbrains-academy-square-64_jetbrains-academy-square-64_svg__b" x1="41.578" x2="-.245" y1="41.579" y2="-.245" gradientUnits="userSpaceOnUse">
+			<stop offset=".233" stop-color="#21D789"/>
+			<stop offset=".89" stop-color="#AF1DF5"/>
+		</linearGradient>
+	</defs>
+	<g>
+		<path fill="#000" d="M64 0v64H0L64 0Z"/>
+		<path fill="#fff" d="M40 56h16v-4H40v4Z"/>
+		<path fill="url(#jetbrains-academy-square-64_jetbrains-academy-square-64_svg__b)" d="M0 64V0h64L0 64Z"/>
+	</g>
 </svg>

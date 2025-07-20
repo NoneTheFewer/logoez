@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" viewBox="0 0 54 34" enable-background="new 0 0 54 34" xml:space="preserve">
-<path fill="#333333" d="M10,2v7H2v17h13V2H10z M10,22H7v-9h3V22z"/>
-<rect x="17" y="9" fill="#333333" width="5" height="17"/>
-<rect x="17" y="2" fill="#333333" width="5" height="5"/>
-<path fill="#333333" d="M24,9v17h8v2h-8v4h13V9H24z M32,22h-3v-9h3V22z"/>
-<path fill="#333333" d="M39,9v17h8v2h-8v4h13V9H39z M47,22h-3v-9h3V22z"/>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 34" enable-background="new 0 0 54 34" xml:space="preserve">
+	<path fill="#333333" d="M10,2v7H2v17h13V2H10z M10,22H7v-9h3V22z"/>
+	<rect x="17" y="9" fill="#333333" width="5" height="17"/>
+	<rect x="17" y="2" fill="#333333" width="5" height="5"/>
+	<path fill="#333333" d="M24,9v17h8v2h-8v4h13V9H24z M32,22h-3v-9h3V22z"/>
+	<path fill="#333333" d="M39,9v17h8v2h-8v4h13V9H39z M47,22h-3v-9h3V22z"/>
 </svg>

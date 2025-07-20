@@ -1,1 +1,21 @@
-<svg viewBox="0 0 14 15" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges"><g fill="#6d6a7680"><path d="M1 0h12v15H1z"/><path d="M0 1h14v13H0z"/></g><g fill="#655561"><path d="M2 0h10v15H2z"/><path d="M1 1h12v13H1z"/><path d="M0 2h14v11H0z"/></g><g fill="#7d929e"><path d="M2 1h10v13H2z"/><path d="M1 2h12v11H1z"/></g><g fill="#fff"><path d="M2 1h10v11H2z"/><path d="M1 2h12v9H1z"/></g><path fill="#655561" d="M4 4h1v4H4zm5 0h1v4H9z"/></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 15" shape-rendering="crispEdges">
+	<g fill="#6d6a7680">
+		<path d="M1 0h12v15H1z"/>
+		<path d="M0 1h14v13H0z"/>
+	</g>
+	<g fill="#655561">
+		<path d="M2 0h10v15H2z"/>
+		<path d="M1 1h12v13H1z"/>
+		<path d="M0 2h14v11H0z"/>
+	</g>
+	<g fill="#7d929e">
+		<path d="M2 1h10v13H2z"/>
+		<path d="M1 2h12v11H1z"/>
+	</g>
+	<g fill="#fff">
+		<path d="M2 1h10v11H2z"/>
+		<path d="M1 2h12v9H1z"/>
+	</g>
+	<path fill="#655561" d="M4 4h1v4H4zm5 0h1v4H9z"/>
+</svg>

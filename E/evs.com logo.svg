@@ -1,21 +1,20 @@
+<?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 391.3 100.8">
-            <polygon fill="#FFFFFF" points="241.4,0 195.6,79.4 149.8,0 125.1,0 183.2,100.8 208,100.8 266.1,0 " ></polygon>
-            <polygon fill="#FFFFFF" points="391.3,20.2 391.3,0 304.6,0 284.4,0 284.4,20.2 284.4,40.3 284.4,60.5 304.6,60.5 371.1,60.5
-	371.1,80.7 284.4,80.7 284.4,100.8 371.1,100.8 391.3,100.8 391.3,80.7 391.3,80.7 391.3,60.5 391.3,40.3 371.1,40.3 304.6,40.3
-	304.6,20.2 " ></polygon>
-            <rect fill="#8CC63F" width="106.9" height="20.2" ></rect>
-            <rect y="40.3" fill="#F0942B" width="106.9" height="20.2" ></rect>
-            <rect y="80.7" fill="#006AB1" width="106.9" height="20.2" ></rect>
-            <rect x="284.4" y="20.2" fill="#ED1C32" width="20.2" height="20.2" ></rect>
-            <rect x="284.4" y="40.3" fill="#D3002D" width="20.2" height="20.2" ></rect>
-            <rect x="304.5" y="40.3" fill="#E06CA1" width="66.6" height="20.2" ></rect>
-            <rect x="284.4" fill="#DA001B" width="20.2" height="20.2" ></rect>
-            <rect x="304.5" fill="#F0942B" width="86.7" height="20.2" ></rect>
-            <rect x="371.1" y="40.3" fill="#7D5B9D" width="20.2" height="20.2" ></rect>
-            <rect x="371.1" y="60.5" fill="#5FC0EE" width="20.2" height="20.2" ></rect>
-            <rect x="371.1" y="80.7" fill="#572380" width="20.2" height="20.2" ></rect>
-            <rect x="284.4" y="80.7" fill="#921E8F" width="86.7" height="20.2" ></rect>
-            <polygon fill="#5460A3" points="183.2 100.8 208 100.8 195.6 79.4 " ></polygon>
-            <polygon fill="#5FC0EE" points="149.8 0 125 0 183.2 100.8 195.6 79.4 " ></polygon>
-            <polygon fill="#9778AF" points="241.4 0 195.6 79.4 208 100.8 266.1 0 " ></polygon>
-          </svg>
+	<polygon fill="#FFFFFF" points="241.4,0 195.6,79.4 149.8,0 125.1,0 183.2,100.8 208,100.8 266.1,0 "/>
+	<polygon fill="#FFFFFF" points="391.3,20.2 391.3,0 304.6,0 284.4,0 284.4,20.2 284.4,40.3 284.4,60.5 304.6,60.5 371.1,60.5  371.1,80.7 284.4,80.7 284.4,100.8 371.1,100.8 391.3,100.8 391.3,80.7 391.3,80.7 391.3,60.5 391.3,40.3 371.1,40.3 304.6,40.3  304.6,20.2 "/>
+	<rect fill="#8CC63F" width="106.9" height="20.2"/>
+	<rect y="40.3" fill="#F0942B" width="106.9" height="20.2"/>
+	<rect y="80.7" fill="#006AB1" width="106.9" height="20.2"/>
+	<rect x="284.4" y="20.2" fill="#ED1C32" width="20.2" height="20.2"/>
+	<rect x="284.4" y="40.3" fill="#D3002D" width="20.2" height="20.2"/>
+	<rect x="304.5" y="40.3" fill="#E06CA1" width="66.6" height="20.2"/>
+	<rect x="284.4" fill="#DA001B" width="20.2" height="20.2"/>
+	<rect x="304.5" fill="#F0942B" width="86.7" height="20.2"/>
+	<rect x="371.1" y="40.3" fill="#7D5B9D" width="20.2" height="20.2"/>
+	<rect x="371.1" y="60.5" fill="#5FC0EE" width="20.2" height="20.2"/>
+	<rect x="371.1" y="80.7" fill="#572380" width="20.2" height="20.2"/>
+	<rect x="284.4" y="80.7" fill="#921E8F" width="86.7" height="20.2"/>
+	<polygon fill="#5460A3" points="183.2 100.8 208 100.8 195.6 79.4 "/>
+	<polygon fill="#5FC0EE" points="149.8 0 125 0 183.2 100.8 195.6 79.4 "/>
+	<polygon fill="#9778AF" points="241.4 0 195.6 79.4 208 100.8 266.1 0 "/>
+</svg>

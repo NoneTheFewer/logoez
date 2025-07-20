@@ -1,19 +1,20 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-pdfelement-reader-square">
-<g filter="url(#pdfelement-reader-square-filter0_i_8_44200)">
-<rect width="120" height="120" rx="27.375" fill="#4864FF"/>
-<path d="M59.9018 92.2143H30V62.2249L64.2858 62.2143V62.3759C61.7728 62.9776 59.905 65.2441 59.905 67.9506L59.9018 92.2143Z" fill="white"/>
-<path d="M30 59H90.0002V29H30V59Z" fill="white"/>
-</g>
-<defs>
-<filter id="pdfelement-reader-square-filter0_i_8_44200" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.468749"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44200"/>
-</filter>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-pdfelement-reader-square">
+	<g filter="url(#pdfelement-reader-square-filter0_i_8_44200)">
+		<rect width="120" height="120" rx="27.375" fill="#4864FF"/>
+		<path d="M59.9018 92.2143H30V62.2249L64.2858 62.2143V62.3759C61.7728 62.9776 59.905 65.2441 59.905 67.9506L59.9018 92.2143Z" fill="white"/>
+		<path d="M30 59H90.0002V29H30V59Z" fill="white"/>
+	</g>
+	<defs>
+		<filter id="pdfelement-reader-square-filter0_i_8_44200" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="0.468749"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+			<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44200"/>
+		</filter>
+	</defs>
 </svg>

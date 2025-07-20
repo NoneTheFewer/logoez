@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Ebene 1" viewBox="0 0 200 200">
+	<defs>
+		<clipPath id="clip-path">
+			<path d="M67.41,53.57,141,88.9c8.68,4.16,8.68,18,0,22.2L67.41,146.43c-7,3.39-14.88-2.46-14.88-11.11V64.68C52.53,56,60.36,50.18,67.41,53.57Z" fill="none"/>
+		</clipPath>
+		<linearGradient id="linear-gradient" x1="1794.45" y1="-4123.42" x2="1694.23" y2="-4225.46" gradientTransform="matrix(0, 1, 1, 0, 4293, -1604.76)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#004b6d"/>
+			<stop offset="1" stop-color="#00ee9d"/>
+		</linearGradient>
+	</defs>
+	<title>Artboard 1 copy</title>
+	<path d="M67.41,53.57,141,88.9c8.68,4.16,8.68,18,0,22.2L67.41,146.43c-7,3.39-14.88-2.46-14.88-11.11V64.68C52.53,56,60.36,50.18,67.41,53.57Z" fill="#00ee9d"/>
+	<g clip-path="url(#clip-path)">
+		<path d="M91.64,100h52.85a4.46,4.46,0,0,1,1.93,8.48l-83.35,40a3.72,3.72,0,0,1-4.87-5.15l19.52-35.17A15.94,15.94,0,0,1,91.64,100Z" fill="url(#linear-gradient)"/>
+	</g>
+</svg>

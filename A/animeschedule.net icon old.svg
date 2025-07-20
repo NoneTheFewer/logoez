@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.2" baseProfile="tiny" viewBox="0 0 124 124" xmlns="http://www.w3.org/2000/svg">
-<g>
-<rect x="-1" y="-1" width="126" height="126" fill="#624cb2"/>
-</g>
-<g>
-<text transform="matrix(3.2456 0 0 1.4779 -113.4 -21.281)" x="50.5" y="66.453125" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="24" stroke="#000" stroke-width="0" xml:space="preserve"/>
-<text transform="rotate(-.29483 39.434 49.57) matrix(2.8339 0 0 3.2831 -48.108 -47.845)" x="19.396506" y="40.760334" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" stroke="#000" stroke-opacity="null" stroke-width="0" xml:space="preserve">A</text>
-<text transform="rotate(3.5076 89.242 75.342) matrix(4.2923 0 0 4.6043 -260.95 -64.612)" x="73.579721" y="38.708818" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" stroke="#ffffff" stroke-width="0" xml:space="preserve">S</text>
-</g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" viewBox="0 0 124 124">
+	<g>
+		<rect x="-1" y="-1" width="126" height="126" fill="#624cb2"/>
+	</g>
+	<g>
+		<text transform="matrix(3.2456 0 0 1.4779 -113.4 -21.281)" x="50.5" y="66.453125" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="24" stroke="#000" stroke-width="0" xml:space="preserve"/>
+		<text transform="rotate(-.29483 39.434 49.57) matrix(2.8339 0 0 3.2831 -48.108 -47.845)" x="19.396506" y="40.760334" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" stroke="#000" stroke-opacity="null" stroke-width="0" xml:space="preserve">A</text>
+		<text transform="rotate(3.5076 89.242 75.342) matrix(4.2923 0 0 4.6043 -260.95 -64.612)" x="73.579721" y="38.708818" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" stroke="#ffffff" stroke-width="0" xml:space="preserve">S</text>
+	</g>
 </svg>

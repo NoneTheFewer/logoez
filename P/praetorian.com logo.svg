@@ -27,7 +27,6 @@
 						<mask id="logo-mask-2" fill="white">
 							<use xlink:href="#logo-path-1"/>
 						</mask>
-						
 						<g mask="url(#logo-mask-2)" class="cls1">
 							<g>
 								<rect x="0" y="0" width="40.6048632" height="44"/>

@@ -1,21 +1,21 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.60001 74.500008">
-    <defs id="defs873">
-        <filter style="color-interpolation-filters:sRGB;" id="filter1037">
-            <feFlood flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" id="feFlood1027" />
-            <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite1029" />
-            <feGaussianBlur in="composite1" stdDeviation="1" result="blur" id="feGaussianBlur1031" />
-            <feOffset dx="2" dy="2" result="offset" id="feOffset1033" />
-            <feComposite in="SourceGraphic" in2="offset" operator="over" result="fbSourceGraphic" id="feComposite1035" />
-            <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix8705" />
-            <feFlood id="feFlood8707" flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" in="fbSourceGraphic" />
-            <feComposite in2="fbSourceGraphic" id="feComposite8709" in="flood" operator="in" result="composite1" />
-            <feGaussianBlur id="feGaussianBlur8711" in="composite1" stdDeviation="1" result="blur" />
-            <feOffset id="feOffset8713" dx="2" dy="2" result="offset" />
-            <feComposite in2="offset" id="feComposite8715" in="fbSourceGraphic" operator="over" result="composite2" />
-        </filter>
-    </defs>
-    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#fefe32;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1037)" x="28.758333" y="67.291672" id="text881">
-        <tspan id="tspan879" x="28.758333" y="67.291672" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-4px;fill:#fefe32;fill-opacity:1">RubatoDB</tspan>
-    </text>
+	<defs id="defs873">
+		<filter style="color-interpolation-filters:sRGB;" id="filter1037">
+			<feFlood flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" id="feFlood1027"/>
+			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite1029"/>
+			<feGaussianBlur in="composite1" stdDeviation="1" result="blur" id="feGaussianBlur1031"/>
+			<feOffset dx="2" dy="2" result="offset" id="feOffset1033"/>
+			<feComposite in="SourceGraphic" in2="offset" operator="over" result="fbSourceGraphic" id="feComposite1035"/>
+			<feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix8705"/>
+			<feFlood id="feFlood8707" flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" in="fbSourceGraphic"/>
+			<feComposite in2="fbSourceGraphic" id="feComposite8709" in="flood" operator="in" result="composite1"/>
+			<feGaussianBlur id="feGaussianBlur8711" in="composite1" stdDeviation="1" result="blur"/>
+			<feOffset id="feOffset8713" dx="2" dy="2" result="offset"/>
+			<feComposite in2="offset" id="feComposite8715" in="fbSourceGraphic" operator="over" result="composite2"/>
+		</filter>
+	</defs>
+	<text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#fefe32;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1037)" x="28.758333" y="67.291672" id="text881">
+		<tspan id="tspan879" x="28.758333" y="67.291672" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-4px;fill:#fefe32;fill-opacity:1">RubatoDB</tspan>
+	</text>
 </svg>

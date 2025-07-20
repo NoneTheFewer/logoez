@@ -1,26 +1,27 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-hipdf-square">
-<g filter="url(#hipdf-square-filter0_i_8_44158)">
-<rect width="120" height="120" rx="27.375" fill="url(#hipdf-square-paint0_linear_8_44158)"/>
-<path d="M47.7053 33L34.4945 46.1276L47.7053 59.2551L60.9161 46.1276L47.7053 33Z" fill="white"/>
-<path d="M47.7046 64.505L37.136 75.0071L47.7046 85.5091L58.2732 75.0071L47.7046 64.505Z" fill="white"/>
-<path d="M23.9213 61.8777L34.4899 51.3757L45.0585 61.8777L34.4899 72.3798L23.9213 61.8777Z" fill="white"/>
-<path d="M21.2843 64.5062L16 69.7572L21.2843 75.0082L26.5686 69.7572L21.2843 64.5062Z" fill="white"/>
-<path d="M50.3449 61.877L76.7664 35.6219L103.188 61.877L76.7664 88.1322L50.3449 61.877Z" fill="white"/>
-</g>
-<defs>
-<filter id="hipdf-square-filter0_i_8_44158" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.468749"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44158"/>
-</filter>
-<linearGradient id="hipdf-square-paint0_linear_8_44158" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
-<stop stop-color="#566CFD"/>
-<stop offset="1" stop-color="#4D64FD"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-hipdf-square">
+	<g filter="url(#hipdf-square-filter0_i_8_44158)">
+		<rect width="120" height="120" rx="27.375" fill="url(#hipdf-square-paint0_linear_8_44158)"/>
+		<path d="M47.7053 33L34.4945 46.1276L47.7053 59.2551L60.9161 46.1276L47.7053 33Z" fill="white"/>
+		<path d="M47.7046 64.505L37.136 75.0071L47.7046 85.5091L58.2732 75.0071L47.7046 64.505Z" fill="white"/>
+		<path d="M23.9213 61.8777L34.4899 51.3757L45.0585 61.8777L34.4899 72.3798L23.9213 61.8777Z" fill="white"/>
+		<path d="M21.2843 64.5062L16 69.7572L21.2843 75.0082L26.5686 69.7572L21.2843 64.5062Z" fill="white"/>
+		<path d="M50.3449 61.877L76.7664 35.6219L103.188 61.877L76.7664 88.1322L50.3449 61.877Z" fill="white"/>
+	</g>
+	<defs>
+		<filter id="hipdf-square-filter0_i_8_44158" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="0.468749"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+			<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44158"/>
+		</filter>
+		<linearGradient id="hipdf-square-paint0_linear_8_44158" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#566CFD"/>
+			<stop offset="1" stop-color="#4D64FD"/>
+		</linearGradient>
+	</defs>
 </svg>

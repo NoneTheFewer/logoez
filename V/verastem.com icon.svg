@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39.277638 46.843334">
+	<defs id="defs221">
+		<linearGradient x1="31.942326" y1="16.048904" x2="35.639584" y2="1.8181102" id="linearGradient-1" gradientTransform="scale(0.75905029,1.3174358)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F9423A" offset="0%" id="stop193"/>
+			<stop stop-color="#FA562D" offset="12.64%" id="stop195"/>
+			<stop stop-color="#FC7319" offset="34.92%" id="stop197"/>
+			<stop stop-color="#FE870B" offset="57.1%" id="stop199"/>
+			<stop stop-color="#FF9403" offset="78.93%" id="stop201"/>
+			<stop stop-color="#FF9800" offset="100%" id="stop203"/>
+		</linearGradient>
+		<linearGradient x1="19.450983" y1="1.7614608" x2="24.48315" y2="23.08493" id="linearGradient-2" gradientTransform="scale(0.72342674,1.38231)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3CDBC0" offset="0%" id="stop206"/>
+			<stop stop-color="#3AD7C0" offset="16.9%" id="stop208"/>
+			<stop stop-color="#34CABF" offset="34.42%" id="stop210"/>
+			<stop stop-color="#2BB6BD" offset="52.22%" id="stop212"/>
+			<stop stop-color="#1E99BB" offset="70.22%" id="stop214"/>
+			<stop stop-color="#0D74B9" offset="88.2%" id="stop216"/>
+			<stop stop-color="#0057B7" offset="100%" id="stop218"/>
+		</linearGradient>
+	</defs>
+	<g id="Logo---Color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.00154123)">
+		<g id="Verastem_tm_rgb" fill-rule="nonzero">
+			<g id="Group">
+				<g transform="translate(44.072727,2.848485)" fill="#0057b7" id="g237"/>
+				<g transform="translate(47.745455,29.434343)" fill="#3cdbc0" id="g255"/>
+				<g id="g266">
+					<ellipse id="Oval" fill="#0057b7" cx="19.63991" cy="2.9956565" rx="2.8968637" ry="2.9956565"/>
+					<path d="M 20.388227,15.320101 23.514636,22.450808 31.411,4.5433333 C 31.5625,4.2015151 31.553318,3.850202 31.383454,3.5748485 31.209,3.2947475 30.896818,3.1333333 30.515773,3.1333333 H 26.26 c -0.4545,0 -0.780455,0.3085859 -0.890636,0.5934344 z" id="path258" fill="url(#linearGradient-1)"/>
+					<path d="M 22.619409,42.053131 6.1472273,3.7267677 C 6.0508182,3.4751515 5.6881364,3.1285859 5.2565909,3.1285859 H 1.0008182 C 0.62436364,3.1285859 0.30759091,3.29 0.13313636,3.5653535 -0.03672727,3.8407071 -0.04590909,4.1920202 0.10559091,4.5338384 L 18.382,46.245151 c 0.165273,0.337071 0.546318,0.598182 0.890636,0.598182 h 0.601409 c 0.376455,0 0.711591,-0.223131 0.895228,-0.602929 z" id="path260" fill="#ff9800"/>
+					<path d="M 13.901273,3.7267677 C 13.804864,3.4751515 13.442182,3.1285859 13.010636,3.1285859 H 8.7548636 C 8.3784091,3.1285859 8.0616364,3.29 7.8871818,3.5653535 7.7173182,3.8407071 7.7081364,4.1920202 7.8596364,4.5338384 l 12.5744996,28.7127276 3.0805,-7.16394 z" id="path262" fill="url(#linearGradient-2)"/>
+					<path d="M 39.142091,3.570101 C 38.967636,3.29 38.655454,3.1285859 38.274409,3.1285859 h -4.255773 c -0.4545,0 -0.780454,0.3085858 -0.890636,0.5934343 L 20.434136,33.251313 23.454954,40.154141 39.165045,4.5385859 C 39.321136,4.2015151 39.311954,3.8454546 39.142091,3.570101 Z" id="path264" fill="#3cdbc0"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

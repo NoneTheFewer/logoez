@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1548 1277">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-5418-5.45h7112.79v2063.84h-7112.79z"/>
+		</clipPath>
+		<radialGradient id="g1" cx="1167.9" cy="368.6" r="428.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".11" stop-color="#fefaed"/>
+			<stop offset=".33" stop-color="#fdedc0"/>
+			<stop offset=".64" stop-color="#fad976"/>
+			<stop offset="1" stop-color="#f7be16"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="-25366.3" cy="12726.3" r="7916.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".11" stop-color="#fefaed"/>
+			<stop offset=".33" stop-color="#fdedc0"/>
+			<stop offset=".64" stop-color="#fad976"/>
+			<stop offset="1" stop-color="#f7be16"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="1016.7" cy="283.2" r="537.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".2" stop-color="#cae0ee"/>
+			<stop offset=".76" stop-color="#3a8dc0"/>
+			<stop offset="1" stop-color="#006cad"/>
+		</radialGradient>
+		<radialGradient id="g4" cx="1068.2" cy="431" r="462.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".2" stop-color="#c6deed"/>
+			<stop offset=".6" stop-color="#5ca1cb"/>
+			<stop offset=".87" stop-color="#1a7bb5"/>
+			<stop offset="1" stop-color="#006cad"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: url(#g4) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 1" class="s0" d="m0.1 236c0-115.5 93.5-209 209-209h1129.5c115.5 0 209 93.5 209 209v831.3c0 115.5-93.5 209-209 209h-1129.5c-115.5 0-209-93.5-209-209z"/>
+			<path id="Path 5" class="s1" d="m1226.4 323.5c140.8 102 250 242 314.9 403.3v-520.3c0-86.2-53-162.9-132.9-193v1.6c-93.4 73.6-146.4 182.7-182 308.4z"/>
+			<path id="Path 6" class="s2" d="m1037.3 220.7c42.7-90.9 109.2-166.8 193.9-220.6h-1016.7c-113.2 0-204.1 92.5-204.1 206.4v207.1c303.8-246.7 693.8-325.7 1026.9-192.9z"/>
+			<path id="Path 7" class="s3" d="m994.6 332.2c-328.4-124.1-695.5-79.1-984.2 119.4v579.6c0 113.9 90.9 206.4 204.1 206.4h174c516.7-245.9 511.1-611.2 606.1-905.4z"/>
+			<path id="Path 8" class="s4" d="m1198.7 435.8c-57.7 279.1-69.6 604.9-231.8 801.8h370.3c54.6 0 106-22.1 144.8-60.9 37.9-37.9 59.3-90.9 59.3-145.5v-238c-85.4-143.9-202.5-265.7-342.6-357.4z"/>
+			<path id="Path 9" class="s0" d="m1082.4 206.5c-356-130.5-788.8-28.5-1072.8 227.7v58.5c277.7-225.3 668.5-300.5 1010.3-159.7 238.9 100.4 427.3 294.9 521.4 538.5v-203.2c-94.1-210.4-248.4-384.3-458.9-461.8zm0 0c-356-130.5-792-28.5-1076 227.7v58.5c278.5-225.3 671.7-300.5 1013.5-159.7 238.9 99.6 427.3 293.4 522.2 536.9v-202.4c-94.9-210.4-249.2-383.5-459.7-461z"/>
+		</g>
+	</g>
+</svg>

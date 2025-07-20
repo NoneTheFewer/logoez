@@ -1,32 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 573.97 196.37">
-    <defs>
-        <style>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 573.97 196.37">
+	<defs>
+		<style>
 		.logo-cls-1{fill:#a0005a;}
 		.logo-cls-2{fill:#eb6e0f;}
 		.desktop-logo-cls-3{fill:url(#desktop-logo-linear-gradient);}
 		.desktop-logo-cls-4{fill:url(#desktop-logo-linear-gradient-2);}
 	</style>
-        <linearGradient id="desktop-logo-linear-gradient" x1="322.75" y1="62.95" x2="375.92" y2="62.95" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#eb6e0f"/>
-            <stop offset="0.7" stop-color="#d70264"/>
-        </linearGradient>
-        <linearGradient id="desktop-logo-linear-gradient-2" x1="115.8" y1="254.62" x2="176.85" y2="254.62" gradientTransform="matrix(1, -0.02, 0.02, 1, 201.09, -216.03)" gradientUnits="userSpaceOnUse">
-            <stop offset="0.3" stop-color="#d70264"/>
-            <stop offset="1" stop-color="#a0005a"/>
-        </linearGradient>
-    </defs>
-    <g>
-        <g>
-            <rect class="logo-cls-1" y="47.81" width="36.38" height="146.8"/>
-            <path class="logo-cls-1" d="M132.68,44.81c42.8,0,74.9,32.1,74.9,74.9s-32.1,74.9-74.9,74.9-74.9-32.1-74.9-74.9,32.1-74.9,74.9-74.9m0,36.38C110,81.19,94.16,97,94.16,119.71s15.83,38.52,38.52,38.52,38.52-15.84,38.52-38.52-15.84-38.52-38.52-38.52"/>
-            <polygon class="logo-cls-1" points="322.52 125.41 261.93 48.17 261.69 47.85 261.68 47.85 261.66 47.83 261.64 47.85 228.98 47.85 228.98 194.61 265.36 194.61 265.36 111.48 330.47 194.61 360.65 194.61 360.65 91.19 322.52 125.41"/>
-            <rect class="logo-cls-1" x="390.6" y="47.8" width="36.38" height="146.8"/>
-            <path class="logo-cls-1" d="M445.59,172l22.7-27.1C483,156.45,499,162.55,516,162.55c11.13,0,18-3.79,18-10.09V152c0-6.3-5.84-9.45-26-14.28-31.3-7.15-55.46-16-55.46-46v-.42c0-27.31,21.64-47.06,56.93-47.06,25,0,44.55,6.72,60.51,19.54L549.59,92.58c-13.44-9.66-28.15-14.49-41.18-14.49-9.87,0-15.7,4-15.7,9.45V88c0,6.72,6.05,9.61,26.63,14.29,33.22,7.55,54.63,19.93,54.63,45.8v.42c0,30-23.75,47.9-59.46,47.9C488.46,196.37,463.87,188.18,445.59,172Z"/>
-            <g id="graphic">
-                <path class="logo-cls-2" d="M322.75,119.21l32.3-29.59c8.53-7.5,13.42-17.3,13.42-28.66v-.14L322.75,102Z"/>
-                <path class="desktop-logo-cls-3" d="M322.75,95.81,362.37,60a39.67,39.67,0,0,0,13.55-29.86L322.75,77.57Z"/>
-                <path class="desktop-logo-cls-4" d="M382.38,0,322.75,52.86V71.11l46.05-41.3A39.48,39.48,0,0,0,382.38,0Z"/>
-            </g>
-        </g>
-    </g>
+		<linearGradient id="desktop-logo-linear-gradient" x1="322.75" y1="62.95" x2="375.92" y2="62.95" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#eb6e0f"/>
+			<stop offset="0.7" stop-color="#d70264"/>
+		</linearGradient>
+		<linearGradient id="desktop-logo-linear-gradient-2" x1="115.8" y1="254.62" x2="176.85" y2="254.62" gradientTransform="matrix(1, -0.02, 0.02, 1, 201.09, -216.03)" gradientUnits="userSpaceOnUse">
+			<stop offset="0.3" stop-color="#d70264"/>
+			<stop offset="1" stop-color="#a0005a"/>
+		</linearGradient>
+	</defs>
+	<g>
+		<g>
+			<rect class="logo-cls-1" y="47.81" width="36.38" height="146.8"/>
+			<path class="logo-cls-1" d="M132.68,44.81c42.8,0,74.9,32.1,74.9,74.9s-32.1,74.9-74.9,74.9-74.9-32.1-74.9-74.9,32.1-74.9,74.9-74.9m0,36.38C110,81.19,94.16,97,94.16,119.71s15.83,38.52,38.52,38.52,38.52-15.84,38.52-38.52-15.84-38.52-38.52-38.52"/>
+			<polygon class="logo-cls-1" points="322.52 125.41 261.93 48.17 261.69 47.85 261.68 47.85 261.66 47.83 261.64 47.85 228.98 47.85 228.98 194.61 265.36 194.61 265.36 111.48 330.47 194.61 360.65 194.61 360.65 91.19 322.52 125.41"/>
+			<rect class="logo-cls-1" x="390.6" y="47.8" width="36.38" height="146.8"/>
+			<path class="logo-cls-1" d="M445.59,172l22.7-27.1C483,156.45,499,162.55,516,162.55c11.13,0,18-3.79,18-10.09V152c0-6.3-5.84-9.45-26-14.28-31.3-7.15-55.46-16-55.46-46v-.42c0-27.31,21.64-47.06,56.93-47.06,25,0,44.55,6.72,60.51,19.54L549.59,92.58c-13.44-9.66-28.15-14.49-41.18-14.49-9.87,0-15.7,4-15.7,9.45V88c0,6.72,6.05,9.61,26.63,14.29,33.22,7.55,54.63,19.93,54.63,45.8v.42c0,30-23.75,47.9-59.46,47.9C488.46,196.37,463.87,188.18,445.59,172Z"/>
+			<g id="graphic">
+				<path class="logo-cls-2" d="M322.75,119.21l32.3-29.59c8.53-7.5,13.42-17.3,13.42-28.66v-.14L322.75,102Z"/>
+				<path class="desktop-logo-cls-3" d="M322.75,95.81,362.37,60a39.67,39.67,0,0,0,13.55-29.86L322.75,77.57Z"/>
+				<path class="desktop-logo-cls-4" d="M382.38,0,322.75,52.86V71.11l46.05-41.3A39.48,39.48,0,0,0,382.38,0Z"/>
+			</g>
+		</g>
+	</g>
 </svg>

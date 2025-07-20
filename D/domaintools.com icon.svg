@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 196.59 196.59">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196.59 196.59">
 	<style>
 		.cls0 { fill: url(#A); }
 		.cls1 { fill: url(#B); }
@@ -8,22 +8,22 @@
 	</style>
 	<defs>
 		<linearGradient id="A" x1="71.485" y1="117.001" x2="157.861" y2="56.975" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#181c27" />
-			<stop offset=".19" stop-color="#313745" />
-			<stop offset=".55" stop-color="#586071" />
-			<stop offset=".83" stop-color="#77839b" />
-			<stop offset="1" stop-color="#77839b" />
+			<stop offset="0" stop-color="#181c27"/>
+			<stop offset=".19" stop-color="#313745"/>
+			<stop offset=".55" stop-color="#586071"/>
+			<stop offset=".83" stop-color="#77839b"/>
+			<stop offset="1" stop-color="#77839b"/>
 		</linearGradient>
 		<linearGradient id="B" x1="103.172" y1="79.193" x2="97.069" y2="166.257" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#181c27" />
-			<stop offset=".21" stop-color="#313745" />
-			<stop offset=".56" stop-color="#586071" />
-			<stop offset=".83" stop-color="#77839b" />
-			<stop offset="1" stop-color="#77839b" />
+			<stop offset="0" stop-color="#181c27"/>
+			<stop offset=".21" stop-color="#313745"/>
+			<stop offset=".56" stop-color="#586071"/>
+			<stop offset=".83" stop-color="#77839b"/>
+			<stop offset="1" stop-color="#77839b"/>
 		</linearGradient>
 		<linearGradient id="C" x1="125.523" y1="105.551" x2="32.017" y2="72.413" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#181c27" />
-			<stop offset="1" stop-color="#77839b" />
+			<stop offset="0" stop-color="#181c27"/>
+			<stop offset="1" stop-color="#77839b"/>
 		</linearGradient>
 	</defs>
 	<g>

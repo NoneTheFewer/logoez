@@ -1,3 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
-<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 400 150" style="enable-background:new 0 0 400 150;" xml:space="preserve"> <style type="text/css"> .st0{fill:#301061;} .st1{fill:#6B00D8;} .st2{fill:#FF2968;} .st3{fill:#64184D;} .st4{fill:#330064;} </style> <g> <path class="st0" d="M177.43,43.75l-24.06,55h-3.68l-24.14-55h12.52l13.5,32.74l13.42-32.74H177.43z"/> <path class="st0" d="M186.43,43.75h36.34v9.98h-25.29V64.7h18.58v9.41h-18.58v13.67h26.27v9.99h-37.32V43.75z"/> <path class="st0" d="M270.95,97.77l-14-19.07h-8.1v19.07H237.8V43.75h20.3c11.29,0,19.48,7.04,19.48,17.43 c0,6.87-3.6,12.44-9.49,15.39l15.3,21.2H270.95z M248.85,68.96h9.25c5.16,0,8.18-3.11,8.18-7.78c0-4.58-3.19-7.69-8.18-7.69h-9.25 V68.96z"/> <path class="st0" d="M293.46,43.75h11.05v54.02h-11.05V43.75z"/> <path class="st0" d="M332.33,53.74h-17.27v-9.98h45.67v9.98h-17.35v44.03h-11.05V53.74z"/> <path class="st0" d="M371.28,43.75h11.05v54.02h-11.05V43.75z"/> </g> <g> <polygon class="st1" points="97.68,104.59 59.78,81.29 64.37,28.86 "/> <polygon class="st2" points="64.37,28.86 59.78,81.29 18.4,97.64 "/> <polygon class="st3" points="59.78,81.29 56.3,120.94 18.4,97.64 "/> <polygon class="st4" points="97.68,104.59 56.3,120.94 59.78,81.29 "/> </g> </svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" xml:space="preserve">
+	<style type="text/css"> .st0{fill:#301061;} .st1{fill:#6B00D8;} .st2{fill:#FF2968;} .st3{fill:#64184D;} .st4{fill:#330064;} </style>
+	<g>
+		<path class="st0" d="M177.43,43.75l-24.06,55h-3.68l-24.14-55h12.52l13.5,32.74l13.42-32.74H177.43z"/>
+		<path class="st0" d="M186.43,43.75h36.34v9.98h-25.29V64.7h18.58v9.41h-18.58v13.67h26.27v9.99h-37.32V43.75z"/>
+		<path class="st0" d="M270.95,97.77l-14-19.07h-8.1v19.07H237.8V43.75h20.3c11.29,0,19.48,7.04,19.48,17.43 c0,6.87-3.6,12.44-9.49,15.39l15.3,21.2H270.95z M248.85,68.96h9.25c5.16,0,8.18-3.11,8.18-7.78c0-4.58-3.19-7.69-8.18-7.69h-9.25 V68.96z"/>
+		<path class="st0" d="M293.46,43.75h11.05v54.02h-11.05V43.75z"/>
+		<path class="st0" d="M332.33,53.74h-17.27v-9.98h45.67v9.98h-17.35v44.03h-11.05V53.74z"/>
+		<path class="st0" d="M371.28,43.75h11.05v54.02h-11.05V43.75z"/>
+	</g>
+	<g>
+		<polygon class="st1" points="97.68,104.59 59.78,81.29 64.37,28.86 "/>
+		<polygon class="st2" points="64.37,28.86 59.78,81.29 18.4,97.64 "/>
+		<polygon class="st3" points="59.78,81.29 56.3,120.94 18.4,97.64 "/>
+		<polygon class="st4" points="97.68,104.59 56.3,120.94 59.78,81.29 "/>
+	</g>
+</svg>

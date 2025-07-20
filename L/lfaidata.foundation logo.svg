@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0) --> <svg xmlns="http://www.w3.org/2000/svg"  id="Layer_1" x="0px" y="0px" viewBox="0 0 400 245" style="enable-background:new 0 0 400 245;" xml:space="preserve"> <style type="text/css"> .st0{fill:#009ADE;} .st1{fill:#003764;} </style> <g> <g> <polygon class="st0" points="20.36,150.56 20.36,113.1 1.59,113.1 1.59,169.29 57.78,169.29 57.78,150.56 "></polygon> <polygon class="st1" points="95.2,75.64 1.59,75.64 1.59,103.73 20.32,103.73 20.32,94.44 76.51,94.44 76.51,150.56 67.14,150.56 67.14,169.29 95.2,169.29 "></polygon> </g> <g> <path class="st1" d="M119.96,75.64h28.85v69.64h41.43v24.01h-70.28V75.64z"></path> <path class="st1" d="M202.58,75.64H275v24.01h-43.57v11.67h37.38v22.3h-37.38v35.67h-28.85V75.64z"></path> </g> <path class="st0" d="M330.71,76.03h9.92l36.59,93.33h-9.52l-11.39-29.05h-42.46l-11.23,29.01h-9.52L330.71,76.03z M316.59,132.74 h36.71l-18.02-47.82L316.59,132.74z"></path> <path class="st0" d="M389.52,76.03h8.89v93.33h-8.89V76.03z"></path> </g> </svg> 
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 245" xml:space="preserve">
+	<style type="text/css"> .st0{fill:#009ADE;} .st1{fill:#003764;} </style>
+	<g>
+		<g>
+			<polygon class="st0" points="20.36,150.56 20.36,113.1 1.59,113.1 1.59,169.29 57.78,169.29 57.78,150.56 "/>
+			<polygon class="st1" points="95.2,75.64 1.59,75.64 1.59,103.73 20.32,103.73 20.32,94.44 76.51,94.44 76.51,150.56 67.14,150.56 67.14,169.29 95.2,169.29 "/>
+		</g>
+		<g>
+			<path class="st1" d="M119.96,75.64h28.85v69.64h41.43v24.01h-70.28V75.64z"/>
+			<path class="st1" d="M202.58,75.64H275v24.01h-43.57v11.67h37.38v22.3h-37.38v35.67h-28.85V75.64z"/>
+		</g>
+		<path class="st0" d="M330.71,76.03h9.92l36.59,93.33h-9.52l-11.39-29.05h-42.46l-11.23,29.01h-9.52L330.71,76.03z M316.59,132.74 h36.71l-18.02-47.82L316.59,132.74z"/>
+		<path class="st0" d="M389.52,76.03h8.89v93.33h-8.89V76.03z"/>
+	</g>
+</svg>

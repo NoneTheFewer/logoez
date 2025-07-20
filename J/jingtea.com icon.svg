@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 20 20" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 20 20" xml:space="preserve">
 	<g>
 		<circle fill="#99835B" cx="10" cy="10" r="10"/>
 		<g>
-			<path fill="#FFFFFF" d="M15.3,3.7v7.4c0,3.8-2.2,6.2-5.9,6.2c-3.4,0-5.8-2.4-6.1-5.9v-0.3h1.4v0.2c0.2,3.2,2.1,5.2,4.8,5.2
-			c2.8,0,4.6-2,4.6-5.2V3.7H15.3z"/>
+			<path fill="#FFFFFF" d="M15.3,3.7v7.4c0,3.8-2.2,6.2-5.9,6.2c-3.4,0-5.8-2.4-6.1-5.9v-0.3h1.4v0.2c0.2,3.2,2.1,5.2,4.8,5.2    c2.8,0,4.6-2,4.6-5.2V3.7H15.3z"/>
 		</g>
 	</g>
 </svg>

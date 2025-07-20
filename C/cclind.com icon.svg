@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1588 1588">
+	<style>
+    .s0 {
+        fill: #2c2e35
+    }
+    .s1 {
+        fill: #0070be
+    }
+    </style>
+	<rect x="410" y="584" width="600" height="584" fill="#fcdc00"/>
+	<path id="Path 4" class="s0" d="m1004.7 1167.9v419.6h-1003.8v-1003.5h419.6c0 321.9 262 583.9 584.2 583.9z"/>
+	<path id="Path 5" class="s1" d="m1587.5 584c0 321.9-260.6 583.9-582.8 583.9v-583.9h-584.2c0-322.3 262-584 584.2-584 322.2 0 582.8 261.7 582.8 584z"/>
+</svg>

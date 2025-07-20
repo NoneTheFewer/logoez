@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250" version="1.2" baseProfile="tiny-ps" id="design">
-	<desc>Adtraction logotype</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250" baseProfile="tiny-ps">
 	<rect id="BG" fill="#FFFFFF" width="250" height="250"/>
 	<defs>
 		<linearGradient id="logoGradient" gradientUnits="userSpaceOnUse" x1="250" y1="250" x2="3.266242e-07" y2="-7.123956e-06">

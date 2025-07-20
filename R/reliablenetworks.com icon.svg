@@ -1,26 +1,24 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 522 522">
-    <defs>
-        <style>
+	<defs>
+		<style>
         .orange {
             fill: #F26F26;
         }
-
         .gray {
             fill: #7A7E8A;
         }
-
         .grey {
             fill: #506674;
         }
         </style>
-    </defs>
-    <g transform="translate(3 0)">
-        <circle cx="257.5" cy="104.5" r="80" class="orange" />
-        <circle cx="166.7" cy="254.5" r="80" class="grey" />
-        <circle cx="348" cy="254.5" r="80" class="orange" />
-        <circle cx="77" cy="402.5" r="80" class="gray" />
-        <circle cx="257.5" cy="402.5" r="80" class="grey" />
-        <circle cx="438.3" cy="402.5" r="80" class="orange" />
-    </g>
+	</defs>
+	<g transform="translate(3 0)">
+		<circle cx="257.5" cy="104.5" r="80" class="orange"/>
+		<circle cx="166.7" cy="254.5" r="80" class="grey"/>
+		<circle cx="348" cy="254.5" r="80" class="orange"/>
+		<circle cx="77" cy="402.5" r="80" class="gray"/>
+		<circle cx="257.5" cy="402.5" r="80" class="grey"/>
+		<circle cx="438.3" cy="402.5" r="80" class="orange"/>
+	</g>
 </svg>

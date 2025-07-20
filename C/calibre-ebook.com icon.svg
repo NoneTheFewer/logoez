@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 512 512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512">
 	<filter id="h" width="1.222" height="1.077" x="-.08" y="-.026" color-interpolation-filters="sRGB">
 		<feFlood flood-opacity=".498" result="flood"/>
 		<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>

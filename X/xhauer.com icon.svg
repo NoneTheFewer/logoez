@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" fill="none" viewBox="0 0 1500 1500">
-	<desc>XHAUER</desc>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" fill="none" viewBox="0 0 1500 1500">
 	<path fill="#000" d="M0 0h1500v1500H0z"/>
 	<path d="M325.28 1180l361.2-498v141.6L340.88 340h220.8l238.8 337.2-92.4 1.2L943.28 340h211.2l-343.2 475.2V676l363.6 504h-224.4l-247.2-356.4h88.8L548.48 1180h-223.2z" fill="#fff"/>
 	<defs>

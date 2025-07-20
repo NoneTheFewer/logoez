@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 129.25 30.5">
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 129.25 30.5">
     <defs>
         <style>
         .cro {
@@ -10033,11 +10033,6 @@
         .gjx,
         .gjy {
             fill-rule: evenodd;
-        }
-
-        .gjz {
-            isolation: isolate;
-            opacity: 1;
         }
         </style>
         <filter id="gaussian-blur">

@@ -1,34 +1,35 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-ani3d-square">
-<rect width="120" height="120" rx="27.375" fill="url(#ani3d-square-paint0_linear_8_43040)"/>
-<path d="M27 22H59.8126C80.5233 22 97.3127 38.7893 97.3127 59.5C97.3127 80.2107 80.5233 97 59.8126 97H27V22Z" fill="url(#ani3d-square-paint1_angular_8_43040)"/>
-<path d="M46.6876 70.0939C31.1163 70.0939 27 81.0322 27 97.7502H59.8126C80.5233 97.7502 97.3127 80.9609 97.3127 60.2502C97.3127 51.468 94.2938 43.3908 89.237 37C90.8181 39.7685 91.6877 42.7899 91.6877 45.9533C91.6877 59.2858 76.2415 70.0939 57.1876 70.0939H46.6876Z" fill="url(#ani3d-square-paint2_linear_8_43040)"/>
-<path d="M49.875 71.8619C33.5911 71.8619 33 83.2543 33 97.1744H59.7188C80.4296 97.1744 97.2189 80.3851 97.2189 59.6744C97.2189 51.5992 94.6665 44.1201 90.3244 38C91.7513 40.7336 92.5314 43.6934 92.5314 46.7838C92.5314 60.6341 76.8614 71.8619 57.5313 71.8619H49.875Z" fill="url(#ani3d-square-paint3_linear_8_43040)"/>
-<path d="M90.3245 38C90.4008 38.1463 90.4754 38.2933 90.548 38.4409C93.3084 42.8066 94.8752 47.8031 94.8752 53.1119C94.8752 70.1982 78.6455 84.0494 58.6251 84.0494H33.8281C33.0702 87.8826 33 92.3785 33 97.1744L59.7188 97.1744C80.4296 97.1744 97.2189 80.3851 97.2189 59.6744C97.2189 52.1034 94.9753 45.0564 91.1166 39.162C90.8597 38.7695 90.5956 38.3821 90.3245 38Z" fill="url(#ani3d-square-paint4_linear_8_43040)"/>
-<defs>
-<linearGradient id="ani3d-square-paint0_linear_8_43040" x1="68.4375" y1="2.79624e-06" x2="107.578" y2="120" gradientUnits="userSpaceOnUse">
-<stop stop-color="#371B76"/>
-<stop offset="1" stop-color="#330E47"/>
-</linearGradient>
-<radialGradient id="ani3d-square-paint1_angular_8_43040" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(68.3994 71.9734) rotate(6.32232) scale(65.7557 64.9668)">
-<stop offset="0.427069" stop-color="#2617D2"/>
-<stop offset="0.604959" stop-color="#7635FF"/>
-<stop offset="0.935856" stop-color="#E339FF"/>
-</radialGradient>
-<linearGradient id="ani3d-square-paint2_linear_8_43040" x1="97.3127" y1="54.2244" x2="22.7118" y2="107.707" gradientUnits="userSpaceOnUse">
-<stop stop-color="#CB57FF"/>
-<stop offset="0.100114" stop-color="#D359FF"/>
-<stop offset="0.749924" stop-color="#F4AFFF"/>
-<stop offset="1" stop-color="#FFE29A"/>
-</linearGradient>
-<linearGradient id="ani3d-square-paint3_linear_8_43040" x1="97.2189" y1="54.7776" x2="39.1828" y2="103.658" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF7C39"/>
-<stop offset="0.100114" stop-color="#FF5E18"/>
-<stop offset="1" stop-color="#FFBA48"/>
-</linearGradient>
-<linearGradient id="ani3d-square-paint4_linear_8_43040" x1="98.8523" y1="50.0746" x2="24.5335" y2="94.098" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9A5F"/>
-<stop offset="0.151777" stop-color="#FF7F33"/>
-<stop offset="1" stop-color="#FFE39B"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-ani3d-square">
+	<rect width="120" height="120" rx="27.375" fill="url(#ani3d-square-paint0_linear_8_43040)"/>
+	<path d="M27 22H59.8126C80.5233 22 97.3127 38.7893 97.3127 59.5C97.3127 80.2107 80.5233 97 59.8126 97H27V22Z" fill="url(#ani3d-square-paint1_angular_8_43040)"/>
+	<path d="M46.6876 70.0939C31.1163 70.0939 27 81.0322 27 97.7502H59.8126C80.5233 97.7502 97.3127 80.9609 97.3127 60.2502C97.3127 51.468 94.2938 43.3908 89.237 37C90.8181 39.7685 91.6877 42.7899 91.6877 45.9533C91.6877 59.2858 76.2415 70.0939 57.1876 70.0939H46.6876Z" fill="url(#ani3d-square-paint2_linear_8_43040)"/>
+	<path d="M49.875 71.8619C33.5911 71.8619 33 83.2543 33 97.1744H59.7188C80.4296 97.1744 97.2189 80.3851 97.2189 59.6744C97.2189 51.5992 94.6665 44.1201 90.3244 38C91.7513 40.7336 92.5314 43.6934 92.5314 46.7838C92.5314 60.6341 76.8614 71.8619 57.5313 71.8619H49.875Z" fill="url(#ani3d-square-paint3_linear_8_43040)"/>
+	<path d="M90.3245 38C90.4008 38.1463 90.4754 38.2933 90.548 38.4409C93.3084 42.8066 94.8752 47.8031 94.8752 53.1119C94.8752 70.1982 78.6455 84.0494 58.6251 84.0494H33.8281C33.0702 87.8826 33 92.3785 33 97.1744L59.7188 97.1744C80.4296 97.1744 97.2189 80.3851 97.2189 59.6744C97.2189 52.1034 94.9753 45.0564 91.1166 39.162C90.8597 38.7695 90.5956 38.3821 90.3245 38Z" fill="url(#ani3d-square-paint4_linear_8_43040)"/>
+	<defs>
+		<linearGradient id="ani3d-square-paint0_linear_8_43040" x1="68.4375" y1="2.79624e-06" x2="107.578" y2="120" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#371B76"/>
+			<stop offset="1" stop-color="#330E47"/>
+		</linearGradient>
+		<radialGradient id="ani3d-square-paint1_angular_8_43040" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(68.3994 71.9734) rotate(6.32232) scale(65.7557 64.9668)">
+			<stop offset="0.427069" stop-color="#2617D2"/>
+			<stop offset="0.604959" stop-color="#7635FF"/>
+			<stop offset="0.935856" stop-color="#E339FF"/>
+		</radialGradient>
+		<linearGradient id="ani3d-square-paint2_linear_8_43040" x1="97.3127" y1="54.2244" x2="22.7118" y2="107.707" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#CB57FF"/>
+			<stop offset="0.100114" stop-color="#D359FF"/>
+			<stop offset="0.749924" stop-color="#F4AFFF"/>
+			<stop offset="1" stop-color="#FFE29A"/>
+		</linearGradient>
+		<linearGradient id="ani3d-square-paint3_linear_8_43040" x1="97.2189" y1="54.7776" x2="39.1828" y2="103.658" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF7C39"/>
+			<stop offset="0.100114" stop-color="#FF5E18"/>
+			<stop offset="1" stop-color="#FFBA48"/>
+		</linearGradient>
+		<linearGradient id="ani3d-square-paint4_linear_8_43040" x1="98.8523" y1="50.0746" x2="24.5335" y2="94.098" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF9A5F"/>
+			<stop offset="0.151777" stop-color="#FF7F33"/>
+			<stop offset="1" stop-color="#FFE39B"/>
+		</linearGradient>
+	</defs>
 </svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1598 994">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-73.57h12751.72v1127.47h-12751.72z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #105469 } 
+		.s1 { fill: #231f20 } 
+	</style>
+	<g id="Symbols">
+		<g id="Panels/Menu/Show">
+			<g id="Group">
+				<g id="Logos/Remark-Holdings">
+					<g id="Group-27">
+						<path id="Fill-1" fill-rule="evenodd" class="s0" d="m336.6 570.5l307.7 422.9h-183.5l-283.8-406.2h-27v406.2h-150v-992.4h175.7q197 0 284.5 73.9c64.3 54.9 96.5 127.3 96.5 217.3q0 105.4-60.5 181.2c-40.3 50.6-93.5 83-159.6 97.1zm-186.6-113.8h47.6q213 0 213-162.6 0-152.3-207.2-152.3h-53.4z"/>
+						<path id="Fill-14" class="s1" d="m1018.4 389.3h428.6v-388.3h150v992.5h-150v-463.5h-428.6v463.5h-150v-992.5h150z"/>
+						<g id="Clip-Path: Fill-26" clip-path="url(#cp1)">
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
 	<defs>
 		<linearGradient x1="100%" y1="100%" x2="0%" y2="6.123234e-15%" id="linearGradient-451">
 			<stop stop-color="#3450FF" offset="0%"/>
@@ -21,7 +21,6 @@
 				<mask id="mask-454" fill="white">
 					<use xlink:href="#path-453"/>
 				</mask>
-				
 				<g id="编组-2" mask="url(#mask-454)">
 					<g transform="translate(0.000000, -0.000000)" id="编组">
 						<g transform="translate(0.000000, -0.000000)">
@@ -33,14 +32,12 @@
 									<mask id="mask-456" fill="white">
 										<use xlink:href="#path-455"/>
 									</mask>
-									
 									<ellipse id="椭圆形" fill="#5D9EE4" fill-rule="nonzero" mask="url(#mask-456)" cx="19.487831" cy="31.3212783" rx="11.2015276" ry="10.9319595"/>
 								</g>
 								<g id="椭圆形备份-10-Clipped">
 									<mask id="mask-458" fill="white">
 										<use xlink:href="#path-457"/>
 									</mask>
-									
 									<ellipse id="椭圆形备份-10" fill="#958FFC" fill-rule="nonzero" mask="url(#mask-458)" cx="21.9823882" cy="0.541742983" rx="9.7952818" ry="9.55955539"/>
 								</g>
 							</g>

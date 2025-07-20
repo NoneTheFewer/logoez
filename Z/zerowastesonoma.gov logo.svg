@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 416 192">
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 416 192">
 	<defs>
 		<style>.cls-1,.cls-3{fill:#06beda;}.cls-1{stroke:#fff;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#fff;}.cls-4{fill:#165070;}.cls-5{fill:url(#linear-gradient);}</style>
 		<linearGradient id="linear-gradient" x1="840.75" y1="999.45" x2="909.28" y2="999.45" gradientUnits="userSpaceOnUse">
@@ -7,7 +7,6 @@
 			<stop offset="0.96" stop-color="#165070"/>
 		</linearGradient>
 	</defs>
-	<title>ZWS_Logo_Blue_Border</title>
 	<rect class="cls-1" x="1.5" y="1.5" width="413" height="189" rx="7.21" ry="7.21"/>
 	<rect class="cls-2" x="168.5" y="10.5" width="237" height="171" rx="3.8" ry="3.8"/>
 	<path class="cls-3" d="M1031,1024.66h-7.19l-5.78-17.64-5.78,17.64h-7.13l-9.86-35.79h9.2l4.68,18.9,5.78-18.9h6.23l5.78,18.9,4.67-18.9h9.2Z" transform="translate(-792.5 -903.5)"/>

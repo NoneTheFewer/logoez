@@ -1,48 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg   viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    
-    <defs>
-        <polygon id="path-1" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
-        <polygon id="path-3" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
-    </defs>
-    <g id="pluginIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mpaas" transform="translate(4.000000, 4.000000)">
-            <g id="编组备份">
-                <g id="编组" transform="translate(1.920000, 21.479371)">
-                    <g id="Fill-1-Clipped">
-                        <mask id="mask-2" fill="white">
-                            <use xlink:href="#path-1"></use>
-                        </mask>
-                        
-                        <polygon id="Fill-1" mask="url(#mask-2)" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
-                    </g>
-                </g>
-                <polygon id="Fill-3" fill="#6ACAED" fill-rule="nonzero" points="15.9872256 12.7586516 5.2800256 6.34585159 2.56e-05 9.5629771 15.9872256 19.0767757 31.9645696 9.49915366 26.6250496 6.31009986"/>
-                <polygon id="Fill-4" fill="#017AAE" fill-rule="nonzero" points="5.3847936 31.8076469 10.6257536 28.6083972 10.6257536 17.0203366 5.3847936 14.1150455"/>
-                <polygon id="Fill-5" fill="#06B9E3" fill-rule="nonzero" points="21.3513984 17.0203763 21.3513984 28.6435266 26.6507264 31.8076866 26.6507264 14.1150852"/>
-                <polygon id="Fill-6" fill="#02BCE2" fill-rule="nonzero" points="0 28.6115619 5.374976 31.8076337 5.374976 18.9919647 15.9872 25.4900392 15.9872 19.0768419 0 9.55840883"/>
-                <polygon id="Fill-7" fill="#017FB1" fill-rule="nonzero" points="15.982272 19.0807481 15.982272 25.4429661 26.631104 18.9693881 26.631104 31.7968419 32.000064 28.6116281 31.96448 9.49915366"/>
-                <polygon id="Fill-8" fill="#6ACAED" fill-rule="nonzero" points="16.0304512 5.29655172e-05 10.6942592 3.14077572 16.0307072 6.38080883 21.3538432 3.20022952 16.0308352 5.29655172e-05"/>
-                <polygon id="Fill-9" fill="#02BCE2" fill-rule="nonzero" points="16.0240512 9.49666428 16.0240512 6.35700083 10.6942592 3.11948359 10.6942592 6.37143393"/>
-                <polygon id="Fill-10" fill="#017FB1" fill-rule="nonzero" points="16.0240512 9.49841214 16.0240512 6.35874869 21.3538432 3.12123145 21.3538432 6.37318179"/>
-                <g id="编组" transform="translate(1.920000, 21.479371)">
-                    <g id="Fill-11-Clipped">
-                        <mask id="mask-4" fill="white">
-                            <use xlink:href="#path-3"></use>
-                        </mask>
-                        
-                        <polygon id="Fill-11" mask="url(#mask-4)" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
-                    </g>
-                </g>
-                <polygon id="Fill-13" fill="#92C9FF" fill-rule="nonzero" points="15.9872256 12.7586516 5.2800256 6.34585159 2.56e-05 9.5629771 15.9872256 19.0767757 31.9645696 9.49915366 26.6250496 6.31009986"/>
-                <polygon id="Fill-14" fill="#0074FF" fill-rule="nonzero" points="5.3847936 31.8076469 10.6257536 28.6083972 10.6257536 17.0203366 5.3847936 14.1150455"/>
-                <polygon id="Fill-15" fill="#43AAFF" fill-rule="nonzero" points="21.3513984 17.0203763 21.3513984 28.6435266 26.6507264 31.8076866 26.6507264 14.1150852"/>
-                <polygon id="Fill-16" fill="#43AAFF" fill-rule="nonzero" points="0 28.6115619 5.374976 31.8076337 5.374976 18.9919647 15.9872 25.4900392 15.9872 19.0768419 0 9.55840883"/>
-                <polygon id="Fill-17" fill="#0074FF" fill-rule="nonzero" points="15.982272 19.0807481 15.982272 25.4429661 26.631104 18.9693881 26.631104 31.7968419 32.000064 28.6116281 31.96448 9.49915366"/>
-                <polygon id="Fill-18" fill="#92C9FF" fill-rule="nonzero" points="16.0304512 5.29655172e-05 10.6942592 3.14077572 16.0307072 6.38080883 21.3538432 3.20022952 16.0308352 5.29655172e-05"/>
-                <polygon id="Fill-19" fill="#43AAFF" fill-rule="nonzero" points="16.0240512 9.49666428 16.0240512 6.35700083 10.6942592 3.11948359 10.6942592 6.37143393"/>
-                <polygon id="Fill-20" fill="#0074FF" fill-rule="nonzero" points="16.0240512 9.49841214 16.0240512 6.35874869 21.3538432 3.12123145 21.3538432 6.37318179"/>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+	<defs>
+		<polygon id="path-1" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
+		<polygon id="path-3" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
+	</defs>
+	<g id="pluginIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="mpaas" transform="translate(4.000000, 4.000000)">
+			<g id="编组备份">
+				<g id="编组" transform="translate(1.920000, 21.479371)">
+					<g id="Fill-1-Clipped">
+						<mask id="mask-2" fill="white">
+							<use xlink:href="#path-1"/>
+						</mask>
+						<polygon id="Fill-1" mask="url(#mask-2)" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
+					</g>
+				</g>
+				<polygon id="Fill-3" fill="#6ACAED" fill-rule="nonzero" points="15.9872256 12.7586516 5.2800256 6.34585159 2.56e-05 9.5629771 15.9872256 19.0767757 31.9645696 9.49915366 26.6250496 6.31009986"/>
+				<polygon id="Fill-4" fill="#017AAE" fill-rule="nonzero" points="5.3847936 31.8076469 10.6257536 28.6083972 10.6257536 17.0203366 5.3847936 14.1150455"/>
+				<polygon id="Fill-5" fill="#06B9E3" fill-rule="nonzero" points="21.3513984 17.0203763 21.3513984 28.6435266 26.6507264 31.8076866 26.6507264 14.1150852"/>
+				<polygon id="Fill-6" fill="#02BCE2" fill-rule="nonzero" points="0 28.6115619 5.374976 31.8076337 5.374976 18.9919647 15.9872 25.4900392 15.9872 19.0768419 0 9.55840883"/>
+				<polygon id="Fill-7" fill="#017FB1" fill-rule="nonzero" points="15.982272 19.0807481 15.982272 25.4429661 26.631104 18.9693881 26.631104 31.7968419 32.000064 28.6116281 31.96448 9.49915366"/>
+				<polygon id="Fill-8" fill="#6ACAED" fill-rule="nonzero" points="16.0304512 5.29655172e-05 10.6942592 3.14077572 16.0307072 6.38080883 21.3538432 3.20022952 16.0308352 5.29655172e-05"/>
+				<polygon id="Fill-9" fill="#02BCE2" fill-rule="nonzero" points="16.0240512 9.49666428 16.0240512 6.35700083 10.6942592 3.11948359 10.6942592 6.37143393"/>
+				<polygon id="Fill-10" fill="#017FB1" fill-rule="nonzero" points="16.0240512 9.49841214 16.0240512 6.35874869 21.3538432 3.12123145 21.3538432 6.37318179"/>
+				<g id="编组" transform="translate(1.920000, 21.479371)">
+					<g id="Fill-11-Clipped">
+						<mask id="mask-4" fill="white">
+							<use xlink:href="#path-3"/>
+						</mask>
+						<polygon id="Fill-11" mask="url(#mask-4)" points="1.12018286 1.27668966 1.18272 1.3142069 1.24854857 1.27668966"/>
+					</g>
+				</g>
+				<polygon id="Fill-13" fill="#92C9FF" fill-rule="nonzero" points="15.9872256 12.7586516 5.2800256 6.34585159 2.56e-05 9.5629771 15.9872256 19.0767757 31.9645696 9.49915366 26.6250496 6.31009986"/>
+				<polygon id="Fill-14" fill="#0074FF" fill-rule="nonzero" points="5.3847936 31.8076469 10.6257536 28.6083972 10.6257536 17.0203366 5.3847936 14.1150455"/>
+				<polygon id="Fill-15" fill="#43AAFF" fill-rule="nonzero" points="21.3513984 17.0203763 21.3513984 28.6435266 26.6507264 31.8076866 26.6507264 14.1150852"/>
+				<polygon id="Fill-16" fill="#43AAFF" fill-rule="nonzero" points="0 28.6115619 5.374976 31.8076337 5.374976 18.9919647 15.9872 25.4900392 15.9872 19.0768419 0 9.55840883"/>
+				<polygon id="Fill-17" fill="#0074FF" fill-rule="nonzero" points="15.982272 19.0807481 15.982272 25.4429661 26.631104 18.9693881 26.631104 31.7968419 32.000064 28.6116281 31.96448 9.49915366"/>
+				<polygon id="Fill-18" fill="#92C9FF" fill-rule="nonzero" points="16.0304512 5.29655172e-05 10.6942592 3.14077572 16.0307072 6.38080883 21.3538432 3.20022952 16.0308352 5.29655172e-05"/>
+				<polygon id="Fill-19" fill="#43AAFF" fill-rule="nonzero" points="16.0240512 9.49666428 16.0240512 6.35700083 10.6942592 3.11948359 10.6942592 6.37143393"/>
+				<polygon id="Fill-20" fill="#0074FF" fill-rule="nonzero" points="16.0240512 9.49841214 16.0240512 6.35874869 21.3538432 3.12123145 21.3538432 6.37318179"/>
+			</g>
+		</g>
+	</g>
 </svg>

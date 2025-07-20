@@ -1,35 +1,36 @@
-<svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" >
-    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="12" x2="28" y1="72" y2="72">
-        <stop offset="0" stop-color="#c64600"/>
-        <stop offset="0.5" stop-color="#ff7800"/>
-        <stop offset="1" stop-color="#e66100"/>
-    </linearGradient>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="108" x2="116" y1="106" y2="106">
-        <stop offset="0" stop-color="#facb70"/>
-        <stop offset="0.323" stop-color="#ffd88c"/>
-        <stop offset="1" stop-color="#facb70"/>
-    </linearGradient>
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="27.164" x2="18.627" y1="120.007" y2="113.147">
-        <stop offset="0" stop-color="#c64600"/>
-        <stop offset="0.4" stop-color="#c54600"/>
-        <stop offset="1" stop-color="#983600"/>
-    </linearGradient>
-    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="18.506" x2="21.92" y1="112.681" y2="118.595">
-        <stop offset="0" stop-color="#c64600"/>
-        <stop offset="1" stop-color="#e66100"/>
-    </linearGradient>
-    <path d="m 80 108 h -60 a 8 8 0 0 0 0 16 h 60 a 8 8 0 0 0 0 -16 z" fill="#c64600"/>
-    <path d="m 20 12 c 4.432 0 8 3.568 8 8 v 96 h -16 v -96 c 0 -4.432 3.568 -8 8 -8 z" fill="url(#a)"/>
-    <g fill="#ffeac1">
-        <path d="m 46 40 h -18 v 76 h 18 z"/>
-        <path d="m 108 92 h -72 a 8 8 0 1 0 0 16 h 72 a 8 8 0 0 0 0 -16 z"/>
-        <path d="m 116 20 h -88 v 80 h 88 z"/>
-        <path d="m 108 12 h -72 a 8 8 0 1 0 0 16 h 72 a 8 8 0 0 0 0 -16 z m 0 80 h -72 a 8 8 0 1 0 0 16 h 72 a 8 8 0 0 0 0 -16 z"/>
-    </g>
-    <path d="m 116 100 c 0 4.432 -3.568 8 -8 8 h -72 a 8 8 0 0 0 -8 8 h 80 a 8 8 0 0 0 8 -8 z" fill="url(#b)"/>
-    <path d="m 28 116 a 8 8 0 1 0 -16 0 a 8 8 0 0 0 16 0 z" fill="url(#c)"/>
-    <path d="m 20 107.875 c -4.532 0 -8 3.488 -8 8.125 c 0 4 3 8 8 8 v -2 c -3.523 0 -6 -2.616 -6 -6 c 0 -3.654 2.414 -6.095 6.01 -6.17 c 3.384 0.002 5.99 2.661 5.99 6.045 h 2 c 0 -5 -3.986 -8 -8 -8 z" fill="url(#d)"/>
-    <path d="m 19.684 122 h 60.316 c 3.895 0 8 -2.178 8 -6 c 0 4.187 -3.259 8 -8 8 h -60.316 z" fill="#e66100"/>
-    <path d="m 67 94 h 4 m -4 0 v -7 m -13 -62 h 7 m 5 0 h 7 m 3 69 h 7 m -41 -69 h 7 m -7 69 h 7 m 49 -7 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -2.5 -21 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -46.5 7 v 7 l 3.5 -3.5 l 3.5 3.5 v -7 m 27.5 5 s 0 2 1.5 2 c 2 0 2 -2 2 -2 v -5 m -38 -56 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <path d="m 67 95 h 4 m -4 0 v -7 m -13 -62 h 7 m 5 0 h 7 m 3 69 h 7 m -41 -69 h 7 m -7 69 h 7 m 49 -7 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -2.5 -21 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -46.5 7 v 7 l 3.5 -3.5 l 3.5 3.5 v -7 m 27.5 5 s 0 2 1.5 2 c 2 0 2 -2 2 -2 v -5 m -38 -56 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7" stroke="#3d3846" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+	<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="12" x2="28" y1="72" y2="72">
+		<stop offset="0" stop-color="#c64600"/>
+		<stop offset="0.5" stop-color="#ff7800"/>
+		<stop offset="1" stop-color="#e66100"/>
+	</linearGradient>
+	<linearGradient id="b" gradientUnits="userSpaceOnUse" x1="108" x2="116" y1="106" y2="106">
+		<stop offset="0" stop-color="#facb70"/>
+		<stop offset="0.323" stop-color="#ffd88c"/>
+		<stop offset="1" stop-color="#facb70"/>
+	</linearGradient>
+	<linearGradient id="c" gradientUnits="userSpaceOnUse" x1="27.164" x2="18.627" y1="120.007" y2="113.147">
+		<stop offset="0" stop-color="#c64600"/>
+		<stop offset="0.4" stop-color="#c54600"/>
+		<stop offset="1" stop-color="#983600"/>
+	</linearGradient>
+	<linearGradient id="d" gradientUnits="userSpaceOnUse" x1="18.506" x2="21.92" y1="112.681" y2="118.595">
+		<stop offset="0" stop-color="#c64600"/>
+		<stop offset="1" stop-color="#e66100"/>
+	</linearGradient>
+	<path d="m 80 108 h -60 a 8 8 0 0 0 0 16 h 60 a 8 8 0 0 0 0 -16 z" fill="#c64600"/>
+	<path d="m 20 12 c 4.432 0 8 3.568 8 8 v 96 h -16 v -96 c 0 -4.432 3.568 -8 8 -8 z" fill="url(#a)"/>
+	<g fill="#ffeac1">
+		<path d="m 46 40 h -18 v 76 h 18 z"/>
+		<path d="m 108 92 h -72 a 8 8 0 1 0 0 16 h 72 a 8 8 0 0 0 0 -16 z"/>
+		<path d="m 116 20 h -88 v 80 h 88 z"/>
+		<path d="m 108 12 h -72 a 8 8 0 1 0 0 16 h 72 a 8 8 0 0 0 0 -16 z m 0 80 h -72 a 8 8 0 1 0 0 16 h 72 a 8 8 0 0 0 0 -16 z"/>
+	</g>
+	<path d="m 116 100 c 0 4.432 -3.568 8 -8 8 h -72 a 8 8 0 0 0 -8 8 h 80 a 8 8 0 0 0 8 -8 z" fill="url(#b)"/>
+	<path d="m 28 116 a 8 8 0 1 0 -16 0 a 8 8 0 0 0 16 0 z" fill="url(#c)"/>
+	<path d="m 20 107.875 c -4.532 0 -8 3.488 -8 8.125 c 0 4 3 8 8 8 v -2 c -3.523 0 -6 -2.616 -6 -6 c 0 -3.654 2.414 -6.095 6.01 -6.17 c 3.384 0.002 5.99 2.661 5.99 6.045 h 2 c 0 -5 -3.986 -8 -8 -8 z" fill="url(#d)"/>
+	<path d="m 19.684 122 h 60.316 c 3.895 0 8 -2.178 8 -6 c 0 4.187 -3.259 8 -8 8 h -60.316 z" fill="#e66100"/>
+	<path d="m 67 94 h 4 m -4 0 v -7 m -13 -62 h 7 m 5 0 h 7 m 3 69 h 7 m -41 -69 h 7 m -7 69 h 7 m 49 -7 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -2.5 -21 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -46.5 7 v 7 l 3.5 -3.5 l 3.5 3.5 v -7 m 27.5 5 s 0 2 1.5 2 c 2 0 2 -2 2 -2 v -5 m -38 -56 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+	<path d="m 67 95 h 4 m -4 0 v -7 m -13 -62 h 7 m 5 0 h 7 m 3 69 h 7 m -41 -69 h 7 m -7 69 h 7 m 49 -7 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -2.5 -21 h 5 m -5 7 h 5 m -2.5 -7 v 7 m -46.5 7 v 7 l 3.5 -3.5 l 3.5 3.5 v -7 m 27.5 5 s 0 2 1.5 2 c 2 0 2 -2 2 -2 v -5 m -38 -56 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7 m -7 10 v 8 m 7 0 v -8 m -7 4 h 7" stroke="#3d3846" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
 </svg>

@@ -1,17 +1,18 @@
+<?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 551">
-    <linearGradient id="a" x1="109.63" x2="334.279" y1="402.782" y2="134.114" gradientUnits="userSpaceOnUse">
-        <stop offset="0" style="stop-color:#3f96d2" />
-        <stop offset="1" style="stop-color:#0f5785" />
-    </linearGradient>
-    <path d="M385.55 412.87c-114.6 50.85-269.43-25.81-251.21-180.63 10.8-91.77 92.48-145.51 131.46-122.67 10.09 5.91 25.64 27.05-3.96 47.54C393.9 208.34 400.73 86.53 394.34 26.9 358.36 9.66 318.06 0 275.5 0 184.99 0 104.68 43.65 54.46 111.04c-133.01 210 57.89 352.39 137.94 369.38 126.77 26.9 252.08-93.69 193.15-67.55z" style="fill:url(#a)" />
-    <radialGradient id="b" cx="-59.697" cy="102.114" r="436.375" gradientTransform="translate(552.175 -57.194) scale(.9986)" gradientUnits="userSpaceOnUse">
-        <stop offset="0" style="stop-color:#2ba7df" />
-        <stop offset="1" style="stop-color:#1d76bb" />
-    </radialGradient>
-    <path d="M394.34 26.89C358.31 9.76 318.06 0 275.5 0c-14.06 0-27.87 1.06-41.36 3.09 46.58-4.1 84.89 7.04 96 37.33 12.52 34.15-8.16 80.83-53.89 107.58-96.2 56.29-74.7 142.25-38.33 182.15 35.29 38.71 120.29 62.61 186.32-13.66 81.88-94.58 82.74-236.04-29.9-289.6z" style="fill:url(#b)" />
-    <linearGradient id="c" x1="10.351" x2="559.076" y1="77.311" y2="514.469" gradientUnits="userSpaceOnUse">
-        <stop offset="0" style="stop-color:#1d76bb" />
-        <stop offset="1" style="stop-color:#2ba7df" />
-    </linearGradient>
-    <path d="M509.03 147.3c13.26 64.77-.25 170.9-77.18 232.94-113.54 91.57-248.93 95.63-346.08 9.11C.74 313.62 1.14 191.26 54.46 111.04 20.25 156.94 0 213.86 0 275.5 0 427.65 123.35 551 275.5 551S551 427.65 551 275.5c0-46.02-11.29-89.41-31.24-127.54-6.78-12.94-13.7-15.13-10.73-.66z" style="fill:url(#c)" />
+	<linearGradient id="a" x1="109.63" x2="334.279" y1="402.782" y2="134.114" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#3f96d2"/>
+		<stop offset="1" style="stop-color:#0f5785"/>
+	</linearGradient>
+	<path d="M385.55 412.87c-114.6 50.85-269.43-25.81-251.21-180.63 10.8-91.77 92.48-145.51 131.46-122.67 10.09 5.91 25.64 27.05-3.96 47.54C393.9 208.34 400.73 86.53 394.34 26.9 358.36 9.66 318.06 0 275.5 0 184.99 0 104.68 43.65 54.46 111.04c-133.01 210 57.89 352.39 137.94 369.38 126.77 26.9 252.08-93.69 193.15-67.55z" style="fill:url(#a)"/>
+	<radialGradient id="b" cx="-59.697" cy="102.114" r="436.375" gradientTransform="translate(552.175 -57.194) scale(.9986)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#2ba7df"/>
+		<stop offset="1" style="stop-color:#1d76bb"/>
+	</radialGradient>
+	<path d="M394.34 26.89C358.31 9.76 318.06 0 275.5 0c-14.06 0-27.87 1.06-41.36 3.09 46.58-4.1 84.89 7.04 96 37.33 12.52 34.15-8.16 80.83-53.89 107.58-96.2 56.29-74.7 142.25-38.33 182.15 35.29 38.71 120.29 62.61 186.32-13.66 81.88-94.58 82.74-236.04-29.9-289.6z" style="fill:url(#b)"/>
+	<linearGradient id="c" x1="10.351" x2="559.076" y1="77.311" y2="514.469" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#1d76bb"/>
+		<stop offset="1" style="stop-color:#2ba7df"/>
+	</linearGradient>
+	<path d="M509.03 147.3c13.26 64.77-.25 170.9-77.18 232.94-113.54 91.57-248.93 95.63-346.08 9.11C.74 313.62 1.14 191.26 54.46 111.04 20.25 156.94 0 213.86 0 275.5 0 427.65 123.35 551 275.5 551S551 427.65 551 275.5c0-46.02-11.29-89.41-31.24-127.54-6.78-12.94-13.7-15.13-10.73-.66z" style="fill:url(#c)"/>
 </svg>

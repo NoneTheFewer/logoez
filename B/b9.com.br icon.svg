@@ -1,16 +1,17 @@
-<svg viewBox="0 0 587.03314 381" version="1.1" id="svg557" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-    <defs id="defs554">
-        <clipPath clipPathUnits="userSpaceOnUse" id="clipPath516">
-            <path d="M 0,1556 H 2048 V 0 H 0 Z" id="path514"></path>
-        </clipPath>
-    </defs>
-    <g id="layer1" transform="translate(120.83383,-48.81967)">
-        <g id="g510" transform="matrix(0.35277777,0,0,-0.35277777,-188.56176,513.7807)">
-            <g id="g512" clip-path="url(#clipPath516)">
-                <g id="g518" transform="translate(191.9847,238.0298)">
-                    <path d="m 0,0 h 489.347 c 214.672,0 350.676,140.004 350.676,309.342 0,100.195 -51.824,203.116 -180.998,251.681 94.121,42.801 154.33,136.685 154.33,245.621 0,130.67 -109.336,260.007 -285.341,260.007 H 258.674 L 72.209,562.637 h 135.989 z m 897.357,697.826 c 0,-213.443 169.635,-349.861 354.336,-367.832 L 1129.349,-0.03 h 326.676 l 208.006,562.682 h -136.005 l 134.434,363.27 c -71.617,84.372 -221.102,154.048 -367.743,154.048 -232.896,0 -397.345,-172.005 -397.345,-382.144 z" style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none;" id="path520" />
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 587.03314 381">
+	<defs id="defs554">
+		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath516">
+			<path d="M 0,1556 H 2048 V 0 H 0 Z" id="path514"/>
+		</clipPath>
+	</defs>
+	<g id="layer1" transform="translate(120.83383,-48.81967)">
+		<g id="g510" transform="matrix(0.35277777,0,0,-0.35277777,-188.56176,513.7807)">
+			<g id="g512" clip-path="url(#clipPath516)">
+				<g id="g518" transform="translate(191.9847,238.0298)">
+					<path d="m 0,0 h 489.347 c 214.672,0 350.676,140.004 350.676,309.342 0,100.195 -51.824,203.116 -180.998,251.681 94.121,42.801 154.33,136.685 154.33,245.621 0,130.67 -109.336,260.007 -285.341,260.007 H 258.674 L 72.209,562.637 h 135.989 z m 897.357,697.826 c 0,-213.443 169.635,-349.861 354.336,-367.832 L 1129.349,-0.03 h 326.676 l 208.006,562.682 h -136.005 l 134.434,363.27 c -71.617,84.372 -221.102,154.048 -367.743,154.048 -232.896,0 -397.345,-172.005 -397.345,-382.144 z" style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none;" id="path520"/>
+				</g>
+			</g>
+		</g>
+	</g>
 </svg>

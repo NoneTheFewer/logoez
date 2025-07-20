@@ -1,23 +1,24 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-edraw-project-square">
-<g filter="url(#edraw-project-square-filter0_i_8_44104)">
-<rect width="120" height="120" rx="27.375" fill="url(#edraw-project-square-paint0_linear_8_44104)"/>
-<path opacity="0.6" d="M63 90.0937C63 86.7283 65.7283 84 69.0938 84H81.2813C84.6468 84 87.375 86.7283 87.375 90.0937C87.375 93.4592 84.6468 96.1875 81.2813 96.1875H69.0938C65.7283 96.1875 63 93.4592 63 90.0937Z" fill="white"/>
-<path d="M27 29.0937C27 25.7283 29.7283 23 33.0938 23H69.6563C83.1183 23 94.0313 33.913 94.0313 47.3749C94.0313 60.8369 83.1182 71.7499 69.6563 71.7499H45.2813C41.9158 71.7499 39.1875 74.4781 39.1875 77.8436C39.1875 81.2091 41.9158 83.9374 45.2813 83.9374H51.375C54.7405 83.9374 57.4688 86.6656 57.4688 90.0311C57.4688 93.3966 54.7405 96.1248 51.375 96.1248H45.2813C35.1848 96.1248 27 87.9401 27 77.8436C27 67.7472 35.1848 59.5624 45.2813 59.5624H69.6563C76.3873 59.5624 81.8438 54.1059 81.8438 47.3749C81.8438 40.644 76.3873 35.1875 69.6563 35.1875H33.0938C29.7283 35.1875 27 32.4592 27 29.0937Z" fill="white"/>
-</g>
-<defs>
-<filter id="edraw-project-square-filter0_i_8_44104" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.468749"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44104"/>
-</filter>
-<linearGradient id="edraw-project-square-paint0_linear_8_44104" x1="125.455" y1="140" x2="-5.68231" y2="-19.813" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9900"/>
-<stop offset="1" stop-color="#FFE000"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-edraw-project-square">
+	<g filter="url(#edraw-project-square-filter0_i_8_44104)">
+		<rect width="120" height="120" rx="27.375" fill="url(#edraw-project-square-paint0_linear_8_44104)"/>
+		<path opacity="0.6" d="M63 90.0937C63 86.7283 65.7283 84 69.0938 84H81.2813C84.6468 84 87.375 86.7283 87.375 90.0937C87.375 93.4592 84.6468 96.1875 81.2813 96.1875H69.0938C65.7283 96.1875 63 93.4592 63 90.0937Z" fill="white"/>
+		<path d="M27 29.0937C27 25.7283 29.7283 23 33.0938 23H69.6563C83.1183 23 94.0313 33.913 94.0313 47.3749C94.0313 60.8369 83.1182 71.7499 69.6563 71.7499H45.2813C41.9158 71.7499 39.1875 74.4781 39.1875 77.8436C39.1875 81.2091 41.9158 83.9374 45.2813 83.9374H51.375C54.7405 83.9374 57.4688 86.6656 57.4688 90.0311C57.4688 93.3966 54.7405 96.1248 51.375 96.1248H45.2813C35.1848 96.1248 27 87.9401 27 77.8436C27 67.7472 35.1848 59.5624 45.2813 59.5624H69.6563C76.3873 59.5624 81.8438 54.1059 81.8438 47.3749C81.8438 40.644 76.3873 35.1875 69.6563 35.1875H33.0938C29.7283 35.1875 27 32.4592 27 29.0937Z" fill="white"/>
+	</g>
+	<defs>
+		<filter id="edraw-project-square-filter0_i_8_44104" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="0.468749"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+			<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44104"/>
+		</filter>
+		<linearGradient id="edraw-project-square-paint0_linear_8_44104" x1="125.455" y1="140" x2="-5.68231" y2="-19.813" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF9900"/>
+			<stop offset="1" stop-color="#FFE000"/>
+		</linearGradient>
+	</defs>
 </svg>

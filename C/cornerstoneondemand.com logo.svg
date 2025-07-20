@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg viewBox="0 0 179.7 28" xmlns="http://www.w3.org/2000/svg" >
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179.7 28">
 	<style>
 		.cls0 { fill: #FA4616; }
 		.cls1 { fill: black; }
@@ -20,7 +20,7 @@
 	</g>
 	<defs>
 		<clipPath id="clip0">
-			<rect width="179.486" height="28" fill="white"  />
+			<rect width="179.486" height="28" fill="white"/>
 		</clipPath>
 	</defs>
 </svg>

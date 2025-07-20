@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg   viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" >
-    
-    <g id="mesmer-logo-40-40-intellij" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-13" transform="translate(2.000000, 5.000000)">
-            <polygon id="Fill-1" fill="#D91AF2" points="8.99430502 -4.83428571e-05 -3.61204013e-05 7.52355051 8.99430502 15.0471494"/>
-            <polygon id="Fill-2" fill="#ADE4EB" points="0 22.5707845 8.99434114 30.0943833 8.99434114 15.0471856"/>
-            <polygon id="Fill-3" fill="#9A74E4" points="0 22.5707845 8.99434114 15.0471856 0 7.52358677"/>
-            <polygon id="Fill-4" fill="#FF5DDB" points="8.99430502 -4.83428571e-05 8.99430502 15.0471494 17.9885258 7.52355051"/>
-            <polygon id="Fill-5" fill="#515D7F" points="8.99430502 30.0943954 17.9885258 22.5707966 8.99430502 15.0471977"/>
-            <polygon id="Fill-6" fill="#393766" points="8.99428094 15.0471735 17.9885017 22.5707724 17.9885017 7.52357469"/>
-            <polygon id="Fill-7" fill="#D91AF2" points="26.9828067 -4.83428571e-05 17.9884656 7.52355051 26.9828067 15.0471494"/>
-            <polygon id="Fill-8" fill="#ADE4EB" points="17.9885017 22.5707845 26.9828428 30.0943833 26.9828428 15.0471856"/>
-            <polygon id="Fill-9" fill="#9A74E4" points="17.9885258 7.52361094 17.9885258 22.5708087 26.9827465 15.0472098"/>
-            <polygon id="Fill-10" fill="#FF5DDB" points="26.9828067 -4.83428571e-05 26.9828067 15.0471494 35.9771478 7.52355051"/>
-            <polygon id="Fill-11" fill="#515D7F" points="26.9828067 30.0943954 35.9771478 22.5707966 26.9828067 15.0471977"/>
-            <polygon id="Fill-12" fill="#393766" points="26.9828067 15.0471735 35.9771478 22.5707724 35.9771478 7.52357469"/>
-        </g>
-    </g>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<g id="mesmer-logo-40-40-intellij" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Group-13" transform="translate(2.000000, 5.000000)">
+			<polygon id="Fill-1" fill="#D91AF2" points="8.99430502 -4.83428571e-05 -3.61204013e-05 7.52355051 8.99430502 15.0471494"/>
+			<polygon id="Fill-2" fill="#ADE4EB" points="0 22.5707845 8.99434114 30.0943833 8.99434114 15.0471856"/>
+			<polygon id="Fill-3" fill="#9A74E4" points="0 22.5707845 8.99434114 15.0471856 0 7.52358677"/>
+			<polygon id="Fill-4" fill="#FF5DDB" points="8.99430502 -4.83428571e-05 8.99430502 15.0471494 17.9885258 7.52355051"/>
+			<polygon id="Fill-5" fill="#515D7F" points="8.99430502 30.0943954 17.9885258 22.5707966 8.99430502 15.0471977"/>
+			<polygon id="Fill-6" fill="#393766" points="8.99428094 15.0471735 17.9885017 22.5707724 17.9885017 7.52357469"/>
+			<polygon id="Fill-7" fill="#D91AF2" points="26.9828067 -4.83428571e-05 17.9884656 7.52355051 26.9828067 15.0471494"/>
+			<polygon id="Fill-8" fill="#ADE4EB" points="17.9885017 22.5707845 26.9828428 30.0943833 26.9828428 15.0471856"/>
+			<polygon id="Fill-9" fill="#9A74E4" points="17.9885258 7.52361094 17.9885258 22.5708087 26.9827465 15.0472098"/>
+			<polygon id="Fill-10" fill="#FF5DDB" points="26.9828067 -4.83428571e-05 26.9828067 15.0471494 35.9771478 7.52355051"/>
+			<polygon id="Fill-11" fill="#515D7F" points="26.9828067 30.0943954 35.9771478 22.5707966 26.9828067 15.0471977"/>
+			<polygon id="Fill-12" fill="#393766" points="26.9828067 15.0471735 35.9771478 22.5707724 35.9771478 7.52357469"/>
+		</g>
+	</g>
 </svg>

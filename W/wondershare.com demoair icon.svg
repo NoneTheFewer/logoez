@@ -1,55 +1,56 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-demoair-square">
-<g filter="url(#demoair-square-filter0_i_8_43072)">
-<rect width="120" height="120" rx="27.375" fill="url(#demoair-square-paint0_linear_8_43072)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M60.0001 20.5022C38.1861 20.5022 20.5023 38.1859 20.5023 59.9999C20.5023 81.8138 38.1861 99.4976 60.0001 99.4976C81.8142 99.4976 99.4979 81.8138 99.4979 59.9999C99.4979 38.1859 81.8142 20.5022 60.0001 20.5022ZM15 59.9999C15 35.1471 35.1472 14.9999 60.0001 14.9999C84.853 14.9999 105 35.1471 105 59.9999C105 84.8527 84.853 105 60.0001 105C35.1472 105 15 84.8527 15 59.9999Z" fill="url(#demoair-square-paint1_linear_8_43072)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M60.0001 20.5022C38.1861 20.5022 20.5023 38.1859 20.5023 59.9999C20.5023 81.8138 38.1861 99.4976 60.0001 99.4976C81.8142 99.4976 99.4979 81.8138 99.4979 59.9999C99.4979 38.1859 81.8142 20.5022 60.0001 20.5022ZM15 59.9999C15 35.1471 35.1472 14.9999 60.0001 14.9999C84.853 14.9999 105 35.1471 105 59.9999C105 84.8527 84.853 105 60.0001 105C35.1472 105 15 84.8527 15 59.9999Z" fill="url(#demoair-square-paint2_linear_8_43072)" fill-opacity="0.6"/>
-<path d="M59 29C63.2211 29 67.4008 29.8017 71.3006 31.3593C75.2003 32.917 78.7438 35.2001 81.7285 38.0782C84.7133 40.9563 87.0809 44.3732 88.6962 48.1337C90.3116 51.8941 91.143 55.9246 91.143 59.9949C91.143 64.0652 90.3116 68.0957 88.6962 71.8561C87.0809 75.6166 84.7133 79.0335 81.7285 81.9116C78.7438 84.7897 75.2003 87.0728 71.3006 88.6304C67.4008 90.1881 63.2211 90.9898 59 90.9898L59 29Z" fill="url(#demoair-square-paint3_radial_8_43072)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M59 90.9898C74.9769 90.9898 87.9287 77.1129 87.9287 59.9949C87.9287 42.8769 74.9769 29 59 29L59 90.9898Z" fill="url(#demoair-square-paint4_radial_8_43072)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M59 90.9898C71.9336 90.9898 82.4184 77.1129 82.4184 59.9949C82.4184 42.8769 71.9336 29 59 29L59 90.9898Z" fill="url(#demoair-square-paint5_radial_8_43072)"/>
-<path d="M60.4559 90.9898C71.0566 90.9898 76.7553 77.1129 76.7553 59.9949C76.7553 42.8769 71.0566 29 60.4559 29C52.1132 29 44.1123 32.2655 38.2132 38.0782C32.3141 43.8909 29 51.7745 29 59.9949C29 68.2152 32.3141 76.0989 38.2132 81.9116C44.1123 87.7243 52.1132 90.9898 60.4559 90.9898Z" fill="url(#demoair-square-paint6_linear_8_43072)"/>
-</g>
-<defs>
-<filter id="demoair-square-filter0_i_8_43072" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.468749"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_43072"/>
-</filter>
-<linearGradient id="demoair-square-paint0_linear_8_43072" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
-<stop stop-color="#381B71"/>
-<stop offset="1" stop-color="#320E4C"/>
-</linearGradient>
-<linearGradient id="demoair-square-paint1_linear_8_43072" x1="90.419" y1="21.1749" x2="62.2819" y2="120.122" gradientUnits="userSpaceOnUse">
-<stop stop-color="#A661FF"/>
-<stop offset="1" stop-color="#AD00FF"/>
-</linearGradient>
-<linearGradient id="demoair-square-paint2_linear_8_43072" x1="27.9877" y1="89.7788" x2="91.8263" y2="29.2902" gradientUnits="userSpaceOnUse">
-<stop stop-color="#BD7DFF"/>
-<stop offset="0.895166" stop-color="#FF75B7"/>
-</linearGradient>
-<radialGradient id="demoair-square-paint3_radial_8_43072" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(59 60.1268) scale(32.1742 30.863)">
-<stop stop-color="#D21FEF"/>
-<stop offset="0.905921" stop-color="#8604BA"/>
-<stop offset="0.979216" stop-color="#8B0BBE"/>
-</radialGradient>
-<radialGradient id="demoair-square-paint4_radial_8_43072" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(59 60.1268) scale(28.9568 30.863)">
-<stop stop-color="#D21FEF"/>
-<stop offset="0.776304" stop-color="#A900DB"/>
-<stop offset="0.913156" stop-color="#BB04ED"/>
-</radialGradient>
-<radialGradient id="demoair-square-paint5_radial_8_43072" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(59 60.1268) scale(23.4412 30.863)">
-<stop stop-color="#D21FEF"/>
-<stop offset="0.747101" stop-color="#C111E1"/>
-<stop offset="0.913156" stop-color="#D31FF0"/>
-</radialGradient>
-<linearGradient id="demoair-square-paint6_linear_8_43072" x1="76.3336" y1="59.8075" x2="29" y2="59.8164" gradientUnits="userSpaceOnUse">
-<stop offset="0.0060006" stop-color="#FF83FA"/>
-<stop offset="0.272854" stop-color="#F045CF"/>
-<stop offset="1" stop-color="#F045CF"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-demoair-square">
+	<g filter="url(#demoair-square-filter0_i_8_43072)">
+		<rect width="120" height="120" rx="27.375" fill="url(#demoair-square-paint0_linear_8_43072)"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M60.0001 20.5022C38.1861 20.5022 20.5023 38.1859 20.5023 59.9999C20.5023 81.8138 38.1861 99.4976 60.0001 99.4976C81.8142 99.4976 99.4979 81.8138 99.4979 59.9999C99.4979 38.1859 81.8142 20.5022 60.0001 20.5022ZM15 59.9999C15 35.1471 35.1472 14.9999 60.0001 14.9999C84.853 14.9999 105 35.1471 105 59.9999C105 84.8527 84.853 105 60.0001 105C35.1472 105 15 84.8527 15 59.9999Z" fill="url(#demoair-square-paint1_linear_8_43072)"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M60.0001 20.5022C38.1861 20.5022 20.5023 38.1859 20.5023 59.9999C20.5023 81.8138 38.1861 99.4976 60.0001 99.4976C81.8142 99.4976 99.4979 81.8138 99.4979 59.9999C99.4979 38.1859 81.8142 20.5022 60.0001 20.5022ZM15 59.9999C15 35.1471 35.1472 14.9999 60.0001 14.9999C84.853 14.9999 105 35.1471 105 59.9999C105 84.8527 84.853 105 60.0001 105C35.1472 105 15 84.8527 15 59.9999Z" fill="url(#demoair-square-paint2_linear_8_43072)" fill-opacity="0.6"/>
+		<path d="M59 29C63.2211 29 67.4008 29.8017 71.3006 31.3593C75.2003 32.917 78.7438 35.2001 81.7285 38.0782C84.7133 40.9563 87.0809 44.3732 88.6962 48.1337C90.3116 51.8941 91.143 55.9246 91.143 59.9949C91.143 64.0652 90.3116 68.0957 88.6962 71.8561C87.0809 75.6166 84.7133 79.0335 81.7285 81.9116C78.7438 84.7897 75.2003 87.0728 71.3006 88.6304C67.4008 90.1881 63.2211 90.9898 59 90.9898L59 29Z" fill="url(#demoair-square-paint3_radial_8_43072)"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M59 90.9898C74.9769 90.9898 87.9287 77.1129 87.9287 59.9949C87.9287 42.8769 74.9769 29 59 29L59 90.9898Z" fill="url(#demoair-square-paint4_radial_8_43072)"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M59 90.9898C71.9336 90.9898 82.4184 77.1129 82.4184 59.9949C82.4184 42.8769 71.9336 29 59 29L59 90.9898Z" fill="url(#demoair-square-paint5_radial_8_43072)"/>
+		<path d="M60.4559 90.9898C71.0566 90.9898 76.7553 77.1129 76.7553 59.9949C76.7553 42.8769 71.0566 29 60.4559 29C52.1132 29 44.1123 32.2655 38.2132 38.0782C32.3141 43.8909 29 51.7745 29 59.9949C29 68.2152 32.3141 76.0989 38.2132 81.9116C44.1123 87.7243 52.1132 90.9898 60.4559 90.9898Z" fill="url(#demoair-square-paint6_linear_8_43072)"/>
+	</g>
+	<defs>
+		<filter id="demoair-square-filter0_i_8_43072" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="0.468749"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+			<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_43072"/>
+		</filter>
+		<linearGradient id="demoair-square-paint0_linear_8_43072" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#381B71"/>
+			<stop offset="1" stop-color="#320E4C"/>
+		</linearGradient>
+		<linearGradient id="demoair-square-paint1_linear_8_43072" x1="90.419" y1="21.1749" x2="62.2819" y2="120.122" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#A661FF"/>
+			<stop offset="1" stop-color="#AD00FF"/>
+		</linearGradient>
+		<linearGradient id="demoair-square-paint2_linear_8_43072" x1="27.9877" y1="89.7788" x2="91.8263" y2="29.2902" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#BD7DFF"/>
+			<stop offset="0.895166" stop-color="#FF75B7"/>
+		</linearGradient>
+		<radialGradient id="demoair-square-paint3_radial_8_43072" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(59 60.1268) scale(32.1742 30.863)">
+			<stop stop-color="#D21FEF"/>
+			<stop offset="0.905921" stop-color="#8604BA"/>
+			<stop offset="0.979216" stop-color="#8B0BBE"/>
+		</radialGradient>
+		<radialGradient id="demoair-square-paint4_radial_8_43072" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(59 60.1268) scale(28.9568 30.863)">
+			<stop stop-color="#D21FEF"/>
+			<stop offset="0.776304" stop-color="#A900DB"/>
+			<stop offset="0.913156" stop-color="#BB04ED"/>
+		</radialGradient>
+		<radialGradient id="demoair-square-paint5_radial_8_43072" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(59 60.1268) scale(23.4412 30.863)">
+			<stop stop-color="#D21FEF"/>
+			<stop offset="0.747101" stop-color="#C111E1"/>
+			<stop offset="0.913156" stop-color="#D31FF0"/>
+		</radialGradient>
+		<linearGradient id="demoair-square-paint6_linear_8_43072" x1="76.3336" y1="59.8075" x2="29" y2="59.8164" gradientUnits="userSpaceOnUse">
+			<stop offset="0.0060006" stop-color="#FF83FA"/>
+			<stop offset="0.272854" stop-color="#F045CF"/>
+			<stop offset="1" stop-color="#F045CF"/>
+		</linearGradient>
+	</defs>
 </svg>

@@ -1,19 +1,20 @@
-<svg viewBox="0 0 175 138" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <radialGradient id="tealgrad" cx="50%" cy="50%">
-            <stop offset="0%" stop-color="#5eead4" />
-            <stop offset="100%" stop-color="#12ae9d" />
-        </radialGradient>
-        <radialGradient id="ambergrad" cx="50%" cy="50%">
-            <stop offset="0%" stop-color="#fbbf24" />
-            <stop offset="100%" stop-color="#fde68a" />
-        </radialGradient>
-        <clipPath id="slice">
-            <circle cx="66.5" cy="74.25" r="36.3" />
-        </clipPath>
-    </defs>
-    <circle cx="41.4" cy="93" r="36.3" stroke="#0f9a88" stroke-width="3" fill="url(#tealgrad)" />
-    <circle clip-path="url(#slice)" id="gold" cx="41.4" cy="93" r="36.3" stroke="#fce173" stroke-width="3" fill="url(#ambergrad)" />
-    <circle cx="66.5" cy="74.25" r="32.2" stroke="#f472b6" stroke-width="10.8" fill="none" />
-    <circle cx="66.5" cy="74.25" r="36.3" stroke="#ef5da7" stroke-width="2.8" fill="none" />
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175 138">
+	<defs>
+		<radialGradient id="tealgrad" cx="50%" cy="50%">
+			<stop offset="0%" stop-color="#5eead4"/>
+			<stop offset="100%" stop-color="#12ae9d"/>
+		</radialGradient>
+		<radialGradient id="ambergrad" cx="50%" cy="50%">
+			<stop offset="0%" stop-color="#fbbf24"/>
+			<stop offset="100%" stop-color="#fde68a"/>
+		</radialGradient>
+		<clipPath id="slice">
+			<circle cx="66.5" cy="74.25" r="36.3"/>
+		</clipPath>
+	</defs>
+	<circle cx="41.4" cy="93" r="36.3" stroke="#0f9a88" stroke-width="3" fill="url(#tealgrad)"/>
+	<circle clip-path="url(#slice)" id="gold" cx="41.4" cy="93" r="36.3" stroke="#fce173" stroke-width="3" fill="url(#ambergrad)"/>
+	<circle cx="66.5" cy="74.25" r="32.2" stroke="#f472b6" stroke-width="10.8" fill="none"/>
+	<circle cx="66.5" cy="74.25" r="36.3" stroke="#ef5da7" stroke-width="2.8" fill="none"/>
 </svg>

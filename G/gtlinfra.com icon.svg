@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 1138">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-5471.38-14909.69h12462.76l-0.01 17622.93h-12462.75z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #0090d3 } 
+		.s2 { fill: #ff9c3e } 
+		.s3 { fill: #ff2e17 } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 39" class="s0" d="m0.8 0.6h1518.4v1091.2h-1518.4z"/>
+			<path id="Path 40" class="s1" d="m0.8 1046.5h1518.4v90.7h-1518.4zm0-1045.9h456v970.7h-456z"/>
+			<path id="Path 41" class="s2" d="m532 0.6h456v970.6h-456z"/>
+			<path id="Path 42" class="s3" d="m1063.2 0.6h456v970.6h-456z"/>
+			<path id="Path 43" class="s0" d="m1317.5 439.9v370.2h122.9v84.7h-245.9v-454.9zm-407 0v82.4h-90.8v373.7h-122.9v-373.7h-86v-82.4zm-644.6 133.8c0-29.9-2.4-56.2-37-55-33.4 1.2-35.8 10.8-35.8 43v216.1c0 32.3 3.6 47.8 37 47.8 33.4 0 35.8-21.5 35.8-51.4v-69.2h-37v-81.2h151.6v269.8h-82.4l-11.9-32.2q-13.1 21.5-33.4 32.2c-13.2 7.2-28.7 9.6-47.8 9.6-143.2 6-127.7-69.3-127.7-163.6v-133.7c0-103.9-13.1-170.7 148-167.2 161.2 3.6 151.6 38.2 154 135z"/>
+		</g>
+	</g>
+</svg>

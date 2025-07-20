@@ -2,96 +2,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 415 100">
 	<defs>
 		<style>
-      #logo { fill: #27c469; }
-      .gradient { fill: url(#gradient); }
-			<!-- ORIGIN -->
-      .X, .X1, .X2 { transform-origin: 51.01px 49.97px; }
-      .E1 { transform-origin: 119.02px 13.59px; }
-      .E2 { transform-origin: 119.02px 49.97px; }
-      .E3 { transform-origin: 119.02px 86.5px; }
-      .N1 { transform-origin: 220.44px 12px; }
-      .N2 { transform-origin: 258.4px 49.97px; }
-      .N3 { transform-origin: 296.37px 87.93px; }
-      .O, .O1, .O2 { transform-origin: 363.79px 49.97px; }
-		</style>
-		<style>
-      #logo .X { animation: logo_xeno_anim1_x 50s 0s ease infinite; }
-      #logo .E1 { animation: logo_xeno_anim1_e1 50s 0s ease infinite; }
-      #logo .E2 { animation: logo_xeno_anim1_e2 50s 0s ease infinite; }
-      #logo .E3 { animation: logo_xeno_anim1_e3 50s 0s ease infinite; }
-      #logo .N1 { animation: logo_xeno_anim1_n1 50s 0s ease infinite; }
-      #logo .N2 { animation: logo_xeno_anim1_n2 50s 0s ease infinite; }
-      #logo .N3 { animation: logo_xeno_anim1_n3 50s 0s ease infinite; }
-      #logo .O { animation: logo_xeno_anim1_o 50s 0s ease infinite; }
-      /* X */
-      @keyframes logo_xeno_anim1_x {
-        0%  { transform: scale(0) rotate(-720deg); }
-        4% { transform: scale(1) rotate(0deg); }
-        100% { transform: scale(1) rotate(0deg); }
-      }
-      /* E */
-      @keyframes logo_xeno_anim1_e {
-        0%  { transform: scale(0); }
-        3% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_e1 {
-        0%  { transform: scale(0); }
-        3% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_e2 {
-        3%  { transform: scale(0); }
-        3.3% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_e3 {
-        .6%  { transform: scale(0); }
-        3.6% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      /* N */
-      @keyframes logo_xeno_anim1_n {
-        1.5%  { transform: scale(0); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_n1 {
-        1.5%  { transform: scale(0); }
-        4.5% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_n2 {
-        0%  { transform: scale(0); }
-        5% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_n3 {
-        2.5%  { transform: scale(0); }
-        5.5% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-			<!-- @keyframes logo_xeno_anim1_n1 {
-        1.5%  { transform: scale(0); transform-origin: 195.15px 37.67px; }
-        4.5% { transform: scale(1); transform-origin: 166.9px 9.42px; }
-        100% { transform: scale(1); transform-origin: 166.9px 9.42px; }
-      }
-      @keyframes logo_xeno_anim1_n2 {
-        0%  { transform: scale(0); }
-        5% { transform: scale(1); }
-        100% { transform: scale(1); }
-      }
-      @keyframes logo_xeno_anim1_n3 {
-        2.5%  { transform: scale(0); transform-origin: 195.15px 37.67px; }
-        5.5% { transform: scale(1); transform-origin: 223.5px 65.84px; }
-        100% { transform: scale(1); transform-origin: 223.5px 65.84px; }
-      } -->
-      /* O */
-      @keyframes logo_xeno_anim1_o {
-        0%  { transform: scale(0) rotate(-320deg); }
-        5% { transform: scale(1) rotate(0deg); }
-        100% { transform: scale(1) rotate(0deg); }
-      }
-		</style>
+        #logo {
+            fill: #27c469;
+        }
+        .gradient {
+            fill: url(#gradient);
+        }
+        </style>
 		<linearGradient id="gradient" x1="327" y1="74" x2="412" y2="74" gradientUnits="userSpaceOnUse">
 			<stop offset="0.2" stop-color="#27c469"/>
 			<stop offset="0.75" stop-color="#27c469" stop-opacity="0.5"/>

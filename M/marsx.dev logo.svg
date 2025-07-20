@@ -1,18 +1,19 @@
-<svg data-content-block-id="obj1658443557170" viewBox="0 0 374 78" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g data-content-block-id="obj1658443557170" clip-path="url(#clip0_37911_3901)">
-<path data-content-block-id="obj1658443557170" d="M14.0162 0H0V77.5727H14.0162V0Z" fill="black"></path>
-<path d="M45.7946 0H31.7783V45.7944H45.7946V0Z" fill="black"></path>
-<path d="M77.5729 0H63.5566V77.5727H77.5729V0Z" fill="black"></path>
-<path d="M112.553 31.7781H98.5371V45.7941V77.5731H112.553V45.7941H162.093V77.5731H176.109V45.7941V31.7781H162.093H112.553Z" fill="black"></path>
-<path d="M176.109 0H98.5366V14.0161H176.109V0Z" fill="black"></path>
-<path d="M274.646 0H197.073V14.0161H274.646V0Z" fill="black"></path>
-<path d="M211.09 31.7783H197.073V77.5727H211.09V31.7783Z" fill="black"></path>
-<path d="M295.61 31.7781V45.7941H359.166V63.5571H295.61V77.5731H359.166H373.182V63.5571V45.7941V31.7781H359.166H295.61Z" fill="black"></path>
-<path d="M373.182 0H295.61V14.0161H373.182V0Z" fill="black"></path>
-</g>
-<defs data-content-block-id="obj1658443557170">
-<clipPath data-content-block-id="obj1658443557170" id="clip0_37911_3901">
-<rect data-content-block-id="obj1658443557170" width="373.182" height="77.5727" fill="black"></rect>
-</clipPath>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-content-block-id="obj1658443557170" viewBox="0 0 374 78" fill="none">
+	<g data-content-block-id="obj1658443557170" clip-path="url(#clip0_37911_3901)">
+		<path data-content-block-id="obj1658443557170" d="M14.0162 0H0V77.5727H14.0162V0Z" fill="black"/>
+		<path d="M45.7946 0H31.7783V45.7944H45.7946V0Z" fill="black"/>
+		<path d="M77.5729 0H63.5566V77.5727H77.5729V0Z" fill="black"/>
+		<path d="M112.553 31.7781H98.5371V45.7941V77.5731H112.553V45.7941H162.093V77.5731H176.109V45.7941V31.7781H162.093H112.553Z" fill="black"/>
+		<path d="M176.109 0H98.5366V14.0161H176.109V0Z" fill="black"/>
+		<path d="M274.646 0H197.073V14.0161H274.646V0Z" fill="black"/>
+		<path d="M211.09 31.7783H197.073V77.5727H211.09V31.7783Z" fill="black"/>
+		<path d="M295.61 31.7781V45.7941H359.166V63.5571H295.61V77.5731H359.166H373.182V63.5571V45.7941V31.7781H359.166H295.61Z" fill="black"/>
+		<path d="M373.182 0H295.61V14.0161H373.182V0Z" fill="black"/>
+	</g>
+	<defs data-content-block-id="obj1658443557170">
+		<clipPath data-content-block-id="obj1658443557170" id="clip0_37911_3901">
+			<rect data-content-block-id="obj1658443557170" width="373.182" height="77.5727" fill="black"/>
+		</clipPath>
+	</defs>
 </svg>

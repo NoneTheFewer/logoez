@@ -1,23 +1,24 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-filmora-square">
-<g filter="url(#filmora-square-filter0_i_8_43085)">
-<rect width="120" height="120" rx="27.375" fill="url(#filmora-square-paint0_linear_8_43085)"/>
-<path d="M46.2833 54.4537L30 38.1526L50.1362 18L70.2651 38.1442L47.1836 61.2581L47.075 61.1494C48.3642 59.0522 48.1007 56.2703 46.2833 54.4537Z" fill="white"/>
-<path d="M92.7805 60.1505L50.1362 102.828L30 82.6768L72.6443 40L92.7805 60.1505Z" fill="#55E5C5"/>
-</g>
-<defs>
-<filter id="filmora-square-filter0_i_8_43085" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.468749"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_43085"/>
-</filter>
-<linearGradient id="filmora-square-paint0_linear_8_43085" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
-<stop stop-color="#203D51"/>
-<stop offset="1" stop-color="#143247"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-filmora-square">
+	<g filter="url(#filmora-square-filter0_i_8_43085)">
+		<rect width="120" height="120" rx="27.375" fill="url(#filmora-square-paint0_linear_8_43085)"/>
+		<path d="M46.2833 54.4537L30 38.1526L50.1362 18L70.2651 38.1442L47.1836 61.2581L47.075 61.1494C48.3642 59.0522 48.1007 56.2703 46.2833 54.4537Z" fill="white"/>
+		<path d="M92.7805 60.1505L50.1362 102.828L30 82.6768L72.6443 40L92.7805 60.1505Z" fill="#55E5C5"/>
+	</g>
+	<defs>
+		<filter id="filmora-square-filter0_i_8_43085" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="0.468749"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+			<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_43085"/>
+		</filter>
+		<linearGradient id="filmora-square-paint0_linear_8_43085" x1="60" y1="0" x2="60" y2="120" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#203D51"/>
+			<stop offset="1" stop-color="#143247"/>
+		</linearGradient>
+	</defs>
 </svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="Navbarstyles__LogoCircle-sc-1b19ce9-4 NESFc"><circle cx="9" cy="9" r="9" fill="url(#logo-circle_svg__logo-circle_svg__a)"></circle><defs><radialGradient id="logo-circle_svg__logo-circle_svg__a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(149.216 9.368 7.42) scale(17.5848 20.2492)"><stop stop-color="#FFC700" ></stop><stop offset="1" stop-color="#FFEDAB" ></stop></radialGradient></defs></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="Navbarstyles__LogoCircle-sc-1b19ce9-4 NESFc">
+	<circle cx="9" cy="9" r="9" fill="url(#logo-circle_svg__logo-circle_svg__a)"/>
+	<defs>
+		<radialGradient id="logo-circle_svg__logo-circle_svg__a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(149.216 9.368 7.42) scale(17.5848 20.2492)">
+			<stop stop-color="#FFC700"/>
+			<stop offset="1" stop-color="#FFEDAB"/>
+		</radialGradient>
+	</defs>
+</svg>

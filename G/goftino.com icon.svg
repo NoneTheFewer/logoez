@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 80 80" style="vertical-align:middle"><defs><clipPath id="alg"><path d="M75,34.12A34.2,34.2,0,1,0,34,67.55V80s14.21-4.15,29.82-18.81C74.93,50.72,75,35.76,75,35.76l0,0C75,35.24,75,34.68,75,34.12Zm-9.91.59s0,10.38-7.81,17.65A56.62,56.62,0,0,1,34.21,65.41V56.19A23.71,23.71,0,1,1,65.09,33.56c0,.39,0,.78,0,1.16Z" style="fill:none"></path></clipPath></defs><g style="clip-path:url(#alg)"><rect width="80" height="80" style="fill:#ffcc43"></rect><path d="M4.25,36.72c-.42-.46-.79-.89-1.08-1.26C3.18,18.77,3,0,3,0L60,0c9,15.24,7.61,33.62-4.33,44C40.52,57.31,15,48.52,4.25,36.72Z" style="fill:#fba629;fill-rule:evenodd"></path></g></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+	<defs>
+		<clipPath id="alg">
+			<path d="M75,34.12A34.2,34.2,0,1,0,34,67.55V80s14.21-4.15,29.82-18.81C74.93,50.72,75,35.76,75,35.76l0,0C75,35.24,75,34.68,75,34.12Zm-9.91.59s0,10.38-7.81,17.65A56.62,56.62,0,0,1,34.21,65.41V56.19A23.71,23.71,0,1,1,65.09,33.56c0,.39,0,.78,0,1.16Z" style="fill:none"/>
+		</clipPath>
+	</defs>
+	<g style="clip-path:url(#alg)">
+		<rect width="80" height="80" style="fill:#ffcc43"/>
+		<path d="M4.25,36.72c-.42-.46-.79-.89-1.08-1.26C3.18,18.77,3,0,3,0L60,0c9,15.24,7.61,33.62-4.33,44C40.52,57.31,15,48.52,4.25,36.72Z" style="fill:#fba629;fill-rule:evenodd"/>
+	</g>
+</svg>

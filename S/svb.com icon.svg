@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" >
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
 	<style>
 		.cls2 { fill: url(#a); }
 		.cls3 { fill: #fff; }
 	</style>
-		<g class="logo__chevron">
+	<g class="logo__chevron">
 		<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" y1="36" x2="72" y2="36">
 			<stop offset=".18" stop-color="#0095db"/>
 			<stop offset="1" stop-color="#004b6c"/>

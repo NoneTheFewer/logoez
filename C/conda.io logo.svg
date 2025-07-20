@@ -1,8 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 497 103" version="1.1">
-	<!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
-	
-	<desc>Created with Sketch.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 497 103">
 	<defs>
 		<path d="M12.1252663,1.96313835 C15.8205856,11.7788301 28.7542029,24.8279262 44.6902672,24.8279262 C53.4666504,24.8279262 61.4346826,21.7100006 67.6705338,16.3979792 C68.1324487,16.1670217 72.4051616,21.0171283 74.1373425,22.8647879 C74.4837787,23.3267028 74.4837787,23.4421815 74.4837787,23.4421815 C53.4666504,41.803299 17.7837239,39.1472883 0.923829813,7.39063851 C2.30957453,2.77148944 4.27271289,-3.28195259e-14 4.27271289,-3.28195259e-14 C8.77638323,1.84765963 12.1252663,1.96313835 12.1252663,1.96313835 L12.1252663,1.96313835 Z" id="path-1"/>
 		<rect id="path-3" x="0.461917216" y="0.577393633" width="90.535324" height="103.930854"/>
@@ -50,14 +47,12 @@
 								<mask id="mask-2" fill="white">
 									<use xlink:href="#path-1"/>
 								</mask>
-								
 								<g id="g99" mask="url(#mask-2)">
 									<g transform="translate(-9.238298, -63.513300)">
 										<g id="rect107-Clipped">
 											<mask id="mask-4" fill="white">
 												<use xlink:href="#path-3"/>
 											</mask>
-											
 											<rect id="rect107" stroke="#2DB24A" stroke-width="0.25" fill="#FFFFFF" mask="url(#mask-4)" x="2.65600956" y="56.1226612" width="88.3412259" height="49.6558525"/>
 										</g>
 										<g id="use109">

@@ -1,9 +1,10 @@
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-    <style>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+	<style>
     path {
         fill: #000000;
     }
     </style>
-    <path d="m138.56 52.89h79.95v394.22h-79.95z" />
-    <circle cx="330.55" cy="376.23" fill="#ce0019" r="70.88" />
+	<path d="m138.56 52.89h79.95v394.22h-79.95z"/>
+	<circle cx="330.55" cy="376.23" fill="#ce0019" r="70.88"/>
 </svg>

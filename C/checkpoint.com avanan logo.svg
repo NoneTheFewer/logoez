@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 992.55 550.91">
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" viewBox="0 0 992.55 550.91">
 	<defs>
 		<linearGradient id="linear-gradient" x2="497.85" y1="348.89" y2="348.89" gradientUnits="userSpaceOnUse">
 			<stop offset="0" stop-color="#fff" stop-opacity="0"/>
@@ -14,9 +15,9 @@
 			<stop offset="1" stop-color="#eb5890"/>
 		</linearGradient>
 		<linearGradient xlink:href="#linear-gradient" id="linear-gradient-2" x1="499.69" x2="997.54" y1="858.4" y2="858.4" gradientTransform="translate(185.62 -305.31)"/>
-			<clipPath id="clip-path" transform="translate(-190.6 -204.2)">
-				<path d="M-3234.48-1039.17h7846.19v2763.04h-7846.19z" style="fill:none"/>
-			</clipPath>
+		<clipPath id="clip-path" transform="translate(-190.6 -204.2)">
+			<path d="M-3234.48-1039.17h7846.19v2763.04h-7846.19z" style="fill:none"/>
+		</clipPath>
 		<style>
 			.cls-4,.cls-5{fill:#222;fill-rule:evenodd}.cls-5{fill:#fff}
 		</style>
@@ -34,9 +35,9 @@
 	<path d="M0 305.97h497.85v85.86H0z" style="fill:url(#linear-gradient)"/>
 	<path d="M685.31 510.17h497.85v85.86H685.31z" style="fill:url(#linear-gradient-2)" transform="rotate(-180 838.93 450.995)"/>
 	<text style="font-size:62px;font-family:ArialMT,Arial;fill:#fff" transform="translate(149.12 369.54)">
-	<tspan style="letter-spacing:-.06em">A</tspan>
-	<tspan x="37.93" y="0"> </tspan>
-	<tspan x="55.16" y="0" style="font-family:Arial-BoldMT,Arial;font-weight:700">Check Point</tspan>
-	<tspan xml:space="preserve" x="413.44" y="0"> Company</tspan>
+		<tspan style="letter-spacing:-.06em">A</tspan>
+		<tspan x="37.93" y="0"> </tspan>
+		<tspan x="55.16" y="0" style="font-family:Arial-BoldMT,Arial;font-weight:700">Check Point</tspan>
+		<tspan xml:space="preserve" x="413.44" y="0"> Company</tspan>
 	</text>
 </svg>

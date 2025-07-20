@@ -1,29 +1,30 @@
+<?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -1 64 64">
-    <path fill="#1b8cff" d="M55 35H9L2 54h60Z" opacity=".3" />
-    <g fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" opacity="0.5">
-        <path d="M3 51h58" />
-        <path d="M8.125 38h47.75" />
-    </g>
-    <g fill="none" stroke="#1b8cff" stroke-linecap="round" stroke-linejoin="round">
-        <g stroke-width="4">
-            <path d="M9 6h46v29H9z" />
-            <path d="M9 54v6h46v-6" />
-            <path d="M55 35H9L2 54h60Z" />
-            <path d="M15 2v4" />
-            <path d="M49 2v4" />
-        </g>
-        <g stroke-width="2">
-            <path d="M9 12h46" />
-            <path d="M15 32v6" />
-            <path d="M49 32v6" />
-        </g>
-        <g fill="none" stroke="#1b8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-            <path d="M20.5 19h5" />
-            <path d="M29.5 19h5" />
-            <path d="M38.5 19h5" />
-            <path d="M20.5 25h5" />
-            <path d="M29.5 25h5" />
-            <path d="M38.5 25h5" />
-        </g>
-    </g>
+	<path fill="#1b8cff" d="M55 35H9L2 54h60Z" opacity=".3"/>
+	<g fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" opacity="0.5">
+		<path d="M3 51h58"/>
+		<path d="M8.125 38h47.75"/>
+	</g>
+	<g fill="none" stroke="#1b8cff" stroke-linecap="round" stroke-linejoin="round">
+		<g stroke-width="4">
+			<path d="M9 6h46v29H9z"/>
+			<path d="M9 54v6h46v-6"/>
+			<path d="M55 35H9L2 54h60Z"/>
+			<path d="M15 2v4"/>
+			<path d="M49 2v4"/>
+		</g>
+		<g stroke-width="2">
+			<path d="M9 12h46"/>
+			<path d="M15 32v6"/>
+			<path d="M49 32v6"/>
+		</g>
+		<g fill="none" stroke="#1b8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+			<path d="M20.5 19h5"/>
+			<path d="M29.5 19h5"/>
+			<path d="M38.5 19h5"/>
+			<path d="M20.5 25h5"/>
+			<path d="M29.5 25h5"/>
+			<path d="M38.5 25h5"/>
+		</g>
+	</g>
 </svg>

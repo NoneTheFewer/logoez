@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" viewBox="0 0 200 200">
+	<defs>
+		<linearGradient id="linear-gradient" x1="40" y1="160" x2="160" y2="40" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#198cff"/>
+			<stop offset="1" stop-color="#0ad7ff"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="45" y1="155" x2="155" y2="45" gradientUnits="userSpaceOnUse">
+			<stop offset="0"/>
+			<stop offset="1" stop-color="#2e2d2c"/>
+		</linearGradient>
+		<clipPath id="clip-path">
+			<rect x="45" y="45" width="110" height="110" fill="none"/>
+		</clipPath>
+		<linearGradient id="linear-gradient-3" x1="33.68" y1="99.98" x2="133.66" y2="99.98" xlink:href="#linear-gradient-2"/>
+	</defs>
+	<title>Artboard 1</title>
+	<rect x="40" y="40" width="120" height="120" fill="url(#linear-gradient)"/>
+	<rect x="45" y="45" width="110" height="110" opacity="0.4" fill="url(#linear-gradient-2)"/>
+	<g clip-path="url(#clip-path)">
+		<path d="M33.68,140.74l17.89-21.37c11.6,9.11,24.17,13.92,37.58,13.92,8.78,0,13.4-3,13.4-7.95V125c0-5-4.4-7.45-20.3-11.25-24.68-5.64-44.33-12.6-44.33-36.3v-.33C37.92,55.57,55.61,40,83.44,40c19.72,0,35.42,5.31,48,15.4L115.54,78.12c-10.6-7.63-22.21-11.45-32.49-11.45-7.78,0-11.62,3.15-11.62,7.47v.33c0,5.3,3.44,7.62,19.69,11.27,26.5,5.79,42.54,14.41,42.54,36.1v.34c0,23.69-18.09,37.78-46.26,37.78C66.86,160,48.1,153.5,33.68,140.74Z" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+	</g>
+</svg>

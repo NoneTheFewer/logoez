@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate;" viewBox="539.178 354.972 454 454" class="h-7 w-7" data-v-3991acc1=""><g filter="url(#a)"><path d="m561.297 461.424 315.495-84.589 84.59 315.495-315.495 84.59z"></path><path d="m640.824 663.943-8.255-30.807q21.763-12.436 29.507-30.36 7.745-17.925.436-47.665l-47.443 12.712-22.289-83.18 85.03-22.784 16.839 62.848q6.935 25.878 7.905 46.751.97 20.873-5.174 37.377-6.144 16.506-19.995 30.123-13.852 13.617-36.561 24.985Z" fill="#FFF"></path></g><defs><filter id="a" x="-200%" y="-200%" width="400%" height="400%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB"><feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="3.435"></feGaussianBlur><feOffset xmlns="http://www.w3.org/2000/svg" dx="5" dy="5" result="pf_100_offsetBlur"></feOffset><feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000" flood-opacity=".6"></feFlood><feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"></feComposite><feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"></feBlend></filter></defs></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="539.178 354.972 454 454" class="h-7 w-7" data-v-3991acc1="">
+	<g filter="url(#a)">
+		<path d="m561.297 461.424 315.495-84.589 84.59 315.495-315.495 84.59z"/>
+		<path d="m640.824 663.943-8.255-30.807q21.763-12.436 29.507-30.36 7.745-17.925.436-47.665l-47.443 12.712-22.289-83.18 85.03-22.784 16.839 62.848q6.935 25.878 7.905 46.751.97 20.873-5.174 37.377-6.144 16.506-19.995 30.123-13.852 13.617-36.561 24.985Z" fill="#FFF"/>
+	</g>
+	<defs>
+		<filter id="a" x="-200%" y="-200%" width="400%" height="400%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+			<feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="3.435"/>
+			<feOffset xmlns="http://www.w3.org/2000/svg" dx="5" dy="5" result="pf_100_offsetBlur"/>
+			<feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000" flood-opacity=".6"/>
+			<feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+			<feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
+		</filter>
+	</defs>
+</svg>

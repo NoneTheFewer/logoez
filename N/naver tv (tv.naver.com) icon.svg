@@ -1,1 +1,12 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="none"><path fill="url(#a)" d="M4.01 4.348h8.58v23.435H4.01V4.348Z"/><path fill="#00DE7B" d="M31.213 13.792a4.14 4.14 0 0 1-1.33 5.761L10.552 31.368a4.306 4.306 0 0 1-5.876-1.356 4.14 4.14 0 0 1 1.33-5.761l19.33-11.816a4.307 4.307 0 0 1 5.877 1.357Z"/><path fill="#00DE7B" d="M4.65 1.995A4.315 4.315 0 0 1 10.534.63l19.375 11.817a4.145 4.145 0 0 1 1.338 5.768 4.315 4.315 0 0 1-5.884 1.364L5.987 7.762A4.146 4.146 0 0 1 4.65 1.995Z"/><defs><linearGradient id="a" x1="433.05" x2="433.05" y1="2048.72" y2="-36.311" gradientUnits="userSpaceOnUse"><stop stop-color="#00DE7B"/><stop offset="1" stop-color="#00BA6E"/></linearGradient></defs></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+	<path fill="url(#a)" d="M4.01 4.348h8.58v23.435H4.01V4.348Z"/>
+	<path fill="#00DE7B" d="M31.213 13.792a4.14 4.14 0 0 1-1.33 5.761L10.552 31.368a4.306 4.306 0 0 1-5.876-1.356 4.14 4.14 0 0 1 1.33-5.761l19.33-11.816a4.307 4.307 0 0 1 5.877 1.357Z"/>
+	<path fill="#00DE7B" d="M4.65 1.995A4.315 4.315 0 0 1 10.534.63l19.375 11.817a4.145 4.145 0 0 1 1.338 5.768 4.315 4.315 0 0 1-5.884 1.364L5.987 7.762A4.146 4.146 0 0 1 4.65 1.995Z"/>
+	<defs>
+		<linearGradient id="a" x1="433.05" x2="433.05" y1="2048.72" y2="-36.311" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00DE7B"/>
+			<stop offset="1" stop-color="#00BA6E"/>
+		</linearGradient>
+	</defs>
+</svg>

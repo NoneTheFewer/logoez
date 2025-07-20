@@ -1,16 +1,17 @@
+<?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 27.692">
-  <g transform="translate(0 -0.599)">
-    <g transform="translate(0 0.599)">
-      <path d="M25.078.6,13.846,11.831,2.614.6H0V3.212L11.233,14.445,0,25.677V28.29H2.614L13.846,17.059,25.078,28.29h2.614V25.677L16.46,14.445,27.692,3.212V.6Z" transform="translate(0 -0.599)" fill="currentColor"></path>
-    </g>
-    <g transform="translate(0 0.599)">
-      <path d="M20.16.6,17.739,3.02,15.318.6H10.269l7.47,7.469L25.208.6Z" transform="translate(-3.893 -0.599)" fill="currentColor"></path>
-      <path d="M10.269,40.637h5.048l2.421-2.421,2.421,2.421h5.048l-7.469-7.469Z" transform="translate(-3.893 -12.945)" fill="currentColor"></path>
-      <path d="M37.618,18.338l2.421-2.421V10.868l-7.469,7.47,7.469,7.469V20.758Z" transform="translate(-12.347 -4.492)" fill="currentColor"></path>
-      <path d="M0,15.916l2.421,2.421L0,20.758v5.048l7.469-7.469L0,10.868Z" transform="translate(0 -4.492)" fill="currentColor"></path>
-      <path d="M101.006,7.834l-2.9,10.529-2.9-10.529h-6.03L85.77,26.541h5.716l1.276-10.128,2.789,10.128h5.118l2.789-10.128,1.277,10.128h5.715L107.036,7.834Z" transform="translate(-32.514 -3.341)" fill="currentColor"></path>
-      <path d="M69.113,7.834,64.829,20.093,60.491,7.834H54.582L61.7,26.541h6.258L75.023,7.834Z" transform="translate(-20.691 -3.341)" fill="currentColor"></path>
-      <path d="M129.283,7.834V26.541h12.891l1.835-4.959h-9.245V7.834Z" transform="translate(-49.009 -3.341)" fill="currentColor"></path>
-    </g>
-  </g>
- </svg>
+	<g transform="translate(0 -0.599)">
+		<g transform="translate(0 0.599)">
+			<path d="M25.078.6,13.846,11.831,2.614.6H0V3.212L11.233,14.445,0,25.677V28.29H2.614L13.846,17.059,25.078,28.29h2.614V25.677L16.46,14.445,27.692,3.212V.6Z" transform="translate(0 -0.599)" fill="currentColor"/>
+		</g>
+		<g transform="translate(0 0.599)">
+			<path d="M20.16.6,17.739,3.02,15.318.6H10.269l7.47,7.469L25.208.6Z" transform="translate(-3.893 -0.599)" fill="currentColor"/>
+			<path d="M10.269,40.637h5.048l2.421-2.421,2.421,2.421h5.048l-7.469-7.469Z" transform="translate(-3.893 -12.945)" fill="currentColor"/>
+			<path d="M37.618,18.338l2.421-2.421V10.868l-7.469,7.47,7.469,7.469V20.758Z" transform="translate(-12.347 -4.492)" fill="currentColor"/>
+			<path d="M0,15.916l2.421,2.421L0,20.758v5.048l7.469-7.469L0,10.868Z" transform="translate(0 -4.492)" fill="currentColor"/>
+			<path d="M101.006,7.834l-2.9,10.529-2.9-10.529h-6.03L85.77,26.541h5.716l1.276-10.128,2.789,10.128h5.118l2.789-10.128,1.277,10.128h5.715L107.036,7.834Z" transform="translate(-32.514 -3.341)" fill="currentColor"/>
+			<path d="M69.113,7.834,64.829,20.093,60.491,7.834H54.582L61.7,26.541h6.258L75.023,7.834Z" transform="translate(-20.691 -3.341)" fill="currentColor"/>
+			<path d="M129.283,7.834V26.541h12.891l1.835-4.959h-9.245V7.834Z" transform="translate(-49.009 -3.341)" fill="currentColor"/>
+		</g>
+	</g>
+</svg>

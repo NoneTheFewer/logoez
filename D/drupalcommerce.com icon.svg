@@ -1,17 +1,16 @@
-<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="50" fill="#4B4E9F" />
-  <g clip-path="url(#prefix__clip0_2_48)">
-    <path
-      d="M26.917 37.154L24.608 27H20v14.423l12.21 11.618 2.084-11.199-7.377-4.69v.002zM58.323 73.672L50 70.637V82l4.844-1.063 3.479-7.264.001-.001z"
-      fill="#fff" />
-    <path d="M41.678 73.672l3.479 7.264L50 81.999V70.635l-8.324 3.035.001.002z" fill="#CAC9DF" />
-    <path d="M34.294 41.843L32.21 53.04l9.464 20.63L50 70.634V37.456l-15.706 4.386z" fill="#9B9BC8" />
-    <path d="M65.707 41.842l2.084 11.2L80 41.422V27h-4.608l-2.307 10.154-7.377 4.69-.002-.002z" fill="#FAA629" />
-    <path d="M50.001 37.456v33.18l8.325 3.036 9.465-20.63-2.084-11.198-15.706-4.387z" fill="#CAC9DF" />
-  </g>
-  <defs>
-    <clipPath id="prefix__clip0_2_48">
-      <path fill="#fff" transform="translate(20 27)" d="M0 0h60v55H0z" />
-    </clipPath>
-  </defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+	<circle cx="50" cy="50" r="50" fill="#4B4E9F"/>
+	<g clip-path="url(#prefix__clip0_2_48)">
+		<path d="M26.917 37.154L24.608 27H20v14.423l12.21 11.618 2.084-11.199-7.377-4.69v.002zM58.323 73.672L50 70.637V82l4.844-1.063 3.479-7.264.001-.001z" fill="#fff"/>
+		<path d="M41.678 73.672l3.479 7.264L50 81.999V70.635l-8.324 3.035.001.002z" fill="#CAC9DF"/>
+		<path d="M34.294 41.843L32.21 53.04l9.464 20.63L50 70.634V37.456l-15.706 4.386z" fill="#9B9BC8"/>
+		<path d="M65.707 41.842l2.084 11.2L80 41.422V27h-4.608l-2.307 10.154-7.377 4.69-.002-.002z" fill="#FAA629"/>
+		<path d="M50.001 37.456v33.18l8.325 3.036 9.465-20.63-2.084-11.198-15.706-4.387z" fill="#CAC9DF"/>
+	</g>
+	<defs>
+		<clipPath id="prefix__clip0_2_48">
+			<path fill="#fff" transform="translate(20 27)" d="M0 0h60v55H0z"/>
+		</clipPath>
+	</defs>
 </svg>

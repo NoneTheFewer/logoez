@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 mr-2 text-blue-500 dark:text-white" viewBox="0 0 115.57 115.57" fill="currentColor"><rect x="67.402" y="95.605" width="19.407" height="19.407" rx="3" ry="3" transform="translate(203.877 123.035) rotate(135)"></rect><rect x="19.118" y="27.338" width="19.407" height="59.371" rx="3" ry="3" transform="translate(87.308 74.75) rotate(135)"></rect><rect x="81.475" y="33.291" width="19.407" height="59.371" rx="3" ry="3" transform="translate(197.968 40.819) rotate(135)"></rect><rect x="53.265" y="-0.844" width="19.407" height="59.371" rx="3" ry="3" transform="translate(84.884 91.546) rotate(-135)"></rect><rect x="47.263" y="61.354" width="19.407" height="59.371" rx="3" ry="3" transform="translate(30.658 193.481) rotate(-135)"></rect><rect x="5.035" y="67.368" width="19.407" height="19.407" rx="3" ry="3" transform="translate(77.443 118.932) rotate(135)"></rect><rect x="33.19" y="4.988" width="19.407" height="19.407" rx="3" ry="3" transform="translate(81.398 -7.465) rotate(135)"></rect><rect x="95.492" y="33.107" width="19.407" height="19.407" rx="3" ry="3" transform="translate(207.637 -3.518) rotate(135)"></rect></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 mr-2 text-blue-500 dark:text-white" viewBox="0 0 115.57 115.57" fill="currentColor">
+	<rect x="67.402" y="95.605" width="19.407" height="19.407" rx="3" ry="3" transform="translate(203.877 123.035) rotate(135)"/>
+	<rect x="19.118" y="27.338" width="19.407" height="59.371" rx="3" ry="3" transform="translate(87.308 74.75) rotate(135)"/>
+	<rect x="81.475" y="33.291" width="19.407" height="59.371" rx="3" ry="3" transform="translate(197.968 40.819) rotate(135)"/>
+	<rect x="53.265" y="-0.844" width="19.407" height="59.371" rx="3" ry="3" transform="translate(84.884 91.546) rotate(-135)"/>
+	<rect x="47.263" y="61.354" width="19.407" height="59.371" rx="3" ry="3" transform="translate(30.658 193.481) rotate(-135)"/>
+	<rect x="5.035" y="67.368" width="19.407" height="19.407" rx="3" ry="3" transform="translate(77.443 118.932) rotate(135)"/>
+	<rect x="33.19" y="4.988" width="19.407" height="19.407" rx="3" ry="3" transform="translate(81.398 -7.465) rotate(135)"/>
+	<rect x="95.492" y="33.107" width="19.407" height="19.407" rx="3" ry="3" transform="translate(207.637 -3.518) rotate(135)"/>
+</svg>

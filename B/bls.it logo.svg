@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" viewBox="0 0 2100 299.999988" preserveAspectRatio="xMidYMid meet" version="1.0">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" viewBox="0 0 2100 299.999988" preserveAspectRatio="xMidYMid meet">
 	<defs>
 		<filter x="0%" y="0%" width="100%" height="100%" id="id1">
 			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" color-interpolation-filters="sRGB"/>
@@ -10,7 +10,8 @@
 		<g/>
 	</defs>
 	<g>
-<path d="M 4 34 L 4 65 94.500 65 L 185 65 185 34 L 185 3 94.500 3 L 4 3 4 34 M 189 93.500 L 189 184 220 184 L 251 184 251 93.500 L 251 3 220 3 L 189 3 189 93.500 M 255 93.500 L 255 184 286 184 L 317 184 317 93.500 L 317 3 286 3 L 255 3 255 93.500 M 4 100 L 4 131 94.500 131 L 185 131 185 100 L 185 69 94.500 69 L 4 69 4 100 M 4 226.500 L 4 317 35 317 L 66 317 66 226.500 L 66 136 35 136 L 4 136 4 226.500 M 70 226.500 L 70 317 101 317 L 132 317 132 226.500 L 132 136 101 136 L 70 136 70 226.500 M 136 220 L 136 251 226.500 251 L 317 251 317 220 L 317 189 226.500 189 L 136 189 136 220 M 136 286 L 136 317 226.500 317 L 317 317 317 286 L 317 255 226.500 255 L 136 255 136 286" stroke="none" fill="#3c4ccc" fill-rule="evenodd" transform="scale(.73) translate(42 42)" />	</g>
+		<path d="M 4 34 L 4 65 94.500 65 L 185 65 185 34 L 185 3 94.500 3 L 4 3 4 34 M 189 93.500 L 189 184 220 184 L 251 184 251 93.500 L 251 3 220 3 L 189 3 189 93.500 M 255 93.500 L 255 184 286 184 L 317 184 317 93.500 L 317 3 286 3 L 255 3 255 93.500 M 4 100 L 4 131 94.500 131 L 185 131 185 100 L 185 69 94.500 69 L 4 69 4 100 M 4 226.500 L 4 317 35 317 L 66 317 66 226.500 L 66 136 35 136 L 4 136 4 226.500 M 70 226.500 L 70 317 101 317 L 132 317 132 226.500 L 132 136 101 136 L 70 136 70 226.500 M 136 220 L 136 251 226.500 251 L 317 251 317 220 L 317 189 226.500 189 L 136 189 136 220 M 136 286 L 136 317 226.500 317 L 317 317 317 286 L 317 255 226.500 255 L 136 255 136 286" stroke="none" fill="#3c4ccc" fill-rule="evenodd" transform="scale(.73) translate(42 42)"/>
+	</g>
 	<g fill="#000000" fill-opacity="1">
 		<g transform="translate(282.245513, 235.250006)">
 			<g>

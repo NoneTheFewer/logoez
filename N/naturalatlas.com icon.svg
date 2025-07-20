@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px"
-	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
-<style type="text/css">
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" xml:space="preserve">
+	<style type="text/css">
 	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#B3DA5A;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle_00000106857677127107655730000011321435094666782601_);}
 	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style>
-<rect id="Rectangle_00000100340262260328106110000018135088076406812085_" class="st0" width="1024" height="1024"/>
-<linearGradient id="Rectangle_00000069366725885732130610000018050804024852624792_" gradientUnits="userSpaceOnUse" x1="-446.0635" y1="1052.9736" x2="-446.0635" y2="1051.9736" gradientTransform="matrix(1024 0 0 -1024 457281 1078245)">
-	<stop  offset="0" style="stop-color:#C5E05F"/>
-	<stop  offset="1" style="stop-color:#A1D454"/>
-</linearGradient>
-<rect id="Rectangle" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle_00000069366725885732130610000018050804024852624792_);" width="1024" height="1024"/>
-<polygon class="st2" points="605.4,465.9 669,415.3 592.6,318.8 631.4,287.4 512,138 512,137.7 511.9,137.9 511.8,137.7 511.8,138 
-	392.4,287.4 431.2,318.8 354.8,415.3 418.4,465.9 324.8,590.2 389.8,640.3 471.3,531.1 471.3,671.8 511.8,671.8 512,671.8 
-	552.5,671.8 552.5,531.1 634,640.3 699,590.2 "/>
-<path class="st2" d="M643.5,695.4c-54.8,4.4-98.7,23.8-131.7,58.2c-33-34.4-76.9-53.8-131.7-58.2c-54.9-4.4-102.7,7.6-143.5,36.2
-	L281,799c45.7-24.7,86.9-29.7,123.6-15.2c36.7,14.6,72.5,45.6,107.2,93.2l0,0c0,0,0,0,0,0c0,0,0,0,0,0l0,0
-	c34.8-47.6,70.5-78.7,107.2-93.2c36.7-14.6,77.9-9.5,123.6,15.2l44.4-67.3C746.3,703.1,698.5,691,643.5,695.4z"/>
+	<rect id="Rectangle_00000100340262260328106110000018135088076406812085_" class="st0" width="1024" height="1024"/>
+	<linearGradient id="Rectangle_00000069366725885732130610000018050804024852624792_" gradientUnits="userSpaceOnUse" x1="-446.0635" y1="1052.9736" x2="-446.0635" y2="1051.9736" gradientTransform="matrix(1024 0 0 -1024 457281 1078245)">
+		<stop offset="0" style="stop-color:#C5E05F"/>
+		<stop offset="1" style="stop-color:#A1D454"/>
+	</linearGradient>
+	<rect id="Rectangle" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle_00000069366725885732130610000018050804024852624792_);" width="1024" height="1024"/>
+	<polygon class="st2" points="605.4,465.9 669,415.3 592.6,318.8 631.4,287.4 512,138 512,137.7 511.9,137.9 511.8,137.7 511.8,138   392.4,287.4 431.2,318.8 354.8,415.3 418.4,465.9 324.8,590.2 389.8,640.3 471.3,531.1 471.3,671.8 511.8,671.8 512,671.8   552.5,671.8 552.5,531.1 634,640.3 699,590.2 "/>
+	<path class="st2" d="M643.5,695.4c-54.8,4.4-98.7,23.8-131.7,58.2c-33-34.4-76.9-53.8-131.7-58.2c-54.9-4.4-102.7,7.6-143.5,36.2  L281,799c45.7-24.7,86.9-29.7,123.6-15.2c36.7,14.6,72.5,45.6,107.2,93.2l0,0c0,0,0,0,0,0c0,0,0,0,0,0l0,0  c34.8-47.6,70.5-78.7,107.2-93.2c36.7-14.6,77.9-9.5,123.6,15.2l44.4-67.3C746.3,703.1,698.5,691,643.5,695.4z"/>
 </svg>

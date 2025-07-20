@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 58.36 58.36"><defs><style>.cls-1{isolation:isolate;}.cls-2{fill:#009dc2;}.cls-3,.cls-4,.cls-5{opacity:0.75;mix-blend-mode:multiply;}.cls-3{fill:url(#linear-gradient);}.cls-4{fill:url(#linear-gradient-2);}.cls-5{fill:url(#linear-gradient-3);}</style><linearGradient id="linear-gradient" x1="33.19" y1="25.17" x2="15.15" y2="43.21" gradientUnits="userSpaceOnUse"><stop offset="0.27" stop-color="#fff"/><stop offset="0.91" stop-color="#009dc2"/></linearGradient><linearGradient id="linear-gradient-2" x1="56.17" y1="29.16" x2="44.24" y2="29.16" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0.41" stop-color="#9ad8e7"/><stop offset="1" stop-color="#009dc2"/></linearGradient><linearGradient id="linear-gradient-3" x1="28.28" y1="29.86" x2="2.36" y2="49.35" gradientUnits="userSpaceOnUse"><stop offset="0.11" stop-color="#fff"/><stop offset="1" stop-color="#009dc2"/></linearGradient></defs><g class="cls-1"><g id="Layer_2" data-name="Layer 2"><g id="Rent_Cafe" data-name="Rent Cafe"><path class="cls-2" d="M58.36,29.11a3,3,0,0,0-3-3H45.75a16.85,16.85,0,1,0,0,6h9.58a3,3,0,0,0,3-3v-.1ZM29.18,40A10.82,10.82,0,1,1,40,29.18,10.83,10.83,0,0,1,29.18,40Z"/><path class="cls-3" d="M45.75,26.14h0a16.85,16.85,0,1,0,0,6h0a16.4,16.4,0,0,0,.32-3A16.94,16.94,0,0,0,45.75,26.14ZM29.18,40A10.82,10.82,0,1,1,40,29.18,10.83,10.83,0,0,1,29.18,40Z"/><path class="cls-2" d="M58.36,29.11a3,3,0,0,0-3-3H45.75a16.94,16.94,0,0,1,.33,3,16.4,16.4,0,0,1-.32,3h9.58a3,3,0,0,0,3-3v-.1Z"/><path class="cls-4" d="M58.36,29.11a3,3,0,0,0-3-3H45.75a16.94,16.94,0,0,1,.33,3,16.4,16.4,0,0,1-.32,3h9.58a3,3,0,0,0,3-3v-.1Z"/><path class="cls-2" d="M29.18,52.33A23.15,23.15,0,1,1,50.46,20.09h6.45a29.17,29.17,0,1,0,0,18.14H50.48A23.18,23.18,0,0,1,29.18,52.33Z"/><path class="cls-5" d="M29.18,52.33A23.15,23.15,0,1,1,50.46,20.09h6.45a29.17,29.17,0,1,0,0,18.14H50.48A23.18,23.18,0,0,1,29.18,52.33Z"/></g></g></g></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.36 58.36">
+	<defs>
+		<style>.cls-1{isolation:isolate;}.cls-2{fill:#009dc2;}.cls-3,.cls-4,.cls-5{opacity:0.75;mix-blend-mode:multiply;}.cls-3{fill:url(#linear-gradient);}.cls-4{fill:url(#linear-gradient-2);}.cls-5{fill:url(#linear-gradient-3);}</style>
+		<linearGradient id="linear-gradient" x1="33.19" y1="25.17" x2="15.15" y2="43.21" gradientUnits="userSpaceOnUse">
+			<stop offset="0.27" stop-color="#fff"/>
+			<stop offset="0.91" stop-color="#009dc2"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="56.17" y1="29.16" x2="44.24" y2="29.16" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fff"/>
+			<stop offset="0.41" stop-color="#9ad8e7"/>
+			<stop offset="1" stop-color="#009dc2"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="28.28" y1="29.86" x2="2.36" y2="49.35" gradientUnits="userSpaceOnUse">
+			<stop offset="0.11" stop-color="#fff"/>
+			<stop offset="1" stop-color="#009dc2"/>
+		</linearGradient>
+	</defs>
+	<g class="cls-1">
+		<g id="Layer_2" data-name="Layer 2">
+			<g id="Rent_Cafe" data-name="Rent Cafe">
+				<path class="cls-2" d="M58.36,29.11a3,3,0,0,0-3-3H45.75a16.85,16.85,0,1,0,0,6h9.58a3,3,0,0,0,3-3v-.1ZM29.18,40A10.82,10.82,0,1,1,40,29.18,10.83,10.83,0,0,1,29.18,40Z"/>
+				<path class="cls-3" d="M45.75,26.14h0a16.85,16.85,0,1,0,0,6h0a16.4,16.4,0,0,0,.32-3A16.94,16.94,0,0,0,45.75,26.14ZM29.18,40A10.82,10.82,0,1,1,40,29.18,10.83,10.83,0,0,1,29.18,40Z"/>
+				<path class="cls-2" d="M58.36,29.11a3,3,0,0,0-3-3H45.75a16.94,16.94,0,0,1,.33,3,16.4,16.4,0,0,1-.32,3h9.58a3,3,0,0,0,3-3v-.1Z"/>
+				<path class="cls-4" d="M58.36,29.11a3,3,0,0,0-3-3H45.75a16.94,16.94,0,0,1,.33,3,16.4,16.4,0,0,1-.32,3h9.58a3,3,0,0,0,3-3v-.1Z"/>
+				<path class="cls-2" d="M29.18,52.33A23.15,23.15,0,1,1,50.46,20.09h6.45a29.17,29.17,0,1,0,0,18.14H50.48A23.18,23.18,0,0,1,29.18,52.33Z"/>
+				<path class="cls-5" d="M29.18,52.33A23.15,23.15,0,1,1,50.46,20.09h6.45a29.17,29.17,0,1,0,0,18.14H50.48A23.18,23.18,0,0,1,29.18,52.33Z"/>
+			</g>
+		</g>
+	</g>
+</svg>

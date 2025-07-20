@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg"  aria-label="Jellyfin" role="img" viewBox="0 0 512 512"><defs><linearGradient id="A" gradientUnits="userSpaceOnUse" x1="126.15" y1="219.32" x2="457.68" y2="410.73"><stop offset="0" stop-color="#aa5cc3"/><stop offset="1" stop-color="#00a4dc"/></linearGradient></defs><path fill="url(#A)" d="M256 56.1C203.1 56.1 32.8 364.9 58.7 417s369 51.6 394.7 0S308.9 56.1 256 56.1zm0 79.1c34.7 0 146.1 202.7 129.3 236.5s-241.5 34.2-258.5 0S221.3 135.2 256 135.2zm0 74.1c-17.6 0-74.1 102.5-65.5 119.8s122.5 17.1 131 0-47.9-119.8-65.5-119.8z"/></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	<linearGradient id="a" x1="97.508" x2="522.069" y1="308.135" y2="63.019" gradientTransform="matrix(1 0 0 -1 0 514)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#aa5cc3"/>
+		<stop offset="1" stop-color="#00a4dc"/>
+	</linearGradient>
+	<path d="M256 196.2c-22.4 0-94.8 131.3-83.8 153.4s156.8 21.9 167.7 0-61.3-153.4-83.9-153.4" fill="url(#a)"/>
+	<linearGradient id="b" x1="94.193" x2="518.754" y1="302.394" y2="57.278" gradientTransform="matrix(1 0 0 -1 0 514)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#aa5cc3"/>
+		<stop offset="1" stop-color="#00a4dc"/>
+	</linearGradient>
+	<path d="M256 0C188.3 0-29.8 395.4 3.4 462.2s472.3 66 505.2 0S323.8 0 256 0m165.6 404.3c-21.6 43.2-309.3 43.8-331.1 0S211.7 101.4 256 101.4 443.2 361 421.6 404.3" fill="url(#b)"/>
+</svg>

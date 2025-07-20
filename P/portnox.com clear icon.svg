@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 87">
-    <style>
+	<style>
     .cls0 {
         fill: none;
         stroke: #3ec5d3;
     }
     </style>
-    <circle cx="43.5" cy="43.5" r="39.375" stroke-width="8.25" class="cls0" />
-    <path transform="scale(0.370) translate(50 14)" d="M 98 203.7 A 79 100 0 1 1 98 5 L 110 17.7 A 19.9 17.7 90 0 0 117 186 " fill="#3ec5d3" />
+	<circle cx="43.5" cy="43.5" r="39.375" stroke-width="8.25" class="cls0"/>
+	<path transform="scale(0.370) translate(50 14)" d="M 98 203.7 A 79 100 0 1 1 98 5 L 110 17.7 A 19.9 17.7 90 0 0 117 186 " fill="#3ec5d3"/>
 </svg>

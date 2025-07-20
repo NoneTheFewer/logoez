@@ -1,221 +1,75 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 116 116">
-	
-	
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 116">
 	<g id="Canvas" transform="translate(293 131)">
-		
-		
 		<g id="Red" fill="#D50032">
-			
-			
 			<use href="#p10" transform="translate(-239.455 -59.968)"/>
-			
-			
 			<use href="#p10" transform="translate(-239.455 -95.538)"/>
-			
-			
 			<use href="#p10" transform="translate(-257.243 -77.75)"/>
-			
-			
 			<use href="#p10" transform="translate(-252.028 -90.3287)"/>
-			
-			
 			<use href="#p10" transform="translate(-226.873 -65.1772)"/>
-			
-			
 			<use href="#p10" transform="translate(-252.029 -65.1772)"/>
-			
-			
 			<use href="#p10" transform="translate(-226.873 -90.3287)"/>
-			
-			
 			<use href="#p17" transform="translate(-238.737 -106.541)"/>
-			
-			
 			<use href="#p17" transform="translate(-238.737 -47.541)"/>
-			
-			
 			<use href="#p17" transform="translate(-268.244 -77.031)"/>
-			
-			
 			<use href="#p17" transform="translate(-259.607 -97.8937)"/>
-			
-			
 			<use href="#p17" transform="translate(-217.875 -56.185)"/>
-			
-			
 			<use href="#p17" transform="translate(-259.607 -56.185)"/>
-			
-			
 			<use href="#p17" transform="translate(-217.876 -97.8937)"/>
-			
-			
 			<use href="#p24" transform="translate(-248.247 -100.63)"/>
-			
-			
 			<use href="#p24" transform="translate(-228.324 -52.5269)"/>
-			
-			
 			<use href="#p24" transform="translate(-262.333 -66.6199)"/>
-			
-			
 			<use href="#p24" transform="translate(-262.333 -86.5454)"/>
-			
-			
 			<use href="#p24" transform="translate(-248.247 -52.5269)"/>
-			
-			
 			<use href="#p24" transform="translate(-228.326 -100.63)"/>
-			
-		
 		</g>
-		
-		
 		<g id="Grey" fill="#97999B">
-			
-			
 			<use href="#p30" transform="translate(-238.454 -116.121)"/>
-			
-			
 			<use href="#p31" transform="translate(-237.73 -124.271)"/>
-			
-			
 			<use href="#p32" transform="translate(-237.014 -131)"/>
-			
-			
 			<use href="#p30" transform="translate(-238.207 -36.553)"/>
-			
-			
 			<use href="#p31" transform="translate(-237.493 -26.968)"/>
-			
-			
 			<use href="#p32" transform="translate(-236.786 -18.821)"/>
-			
-			
 			<use href="#p30" transform="translate(-266.533 -104.387)"/>
-			
-			
 			<use href="#p31" transform="translate(-272.094 -109.939)"/>
-			
-			
 			<use href="#p32" transform="translate(-276.647 -114.491)"/>
-			
-			
 			<use href="#p30" transform="translate(-210.11 -48.2897)"/>
-			
-			
 			<use href="#p31" transform="translate(-203.125 -41.3108)"/>
-			
-			
 			<use href="#p30" transform="translate(-278.107 -76.222)"/>
-			
-			
 			<use href="#p31" transform="translate(-286.266 -75.51)"/>
-			
-			
 			<use href="#p32" transform="translate(-293 -74.789)"/>
-			
-			
 			<use href="#p30" transform="translate(-266.374 -48.1187)"/>
-			
-			
 			<use href="#p31" transform="translate(-271.935 -41.141)"/>
-			
-			
 			<use href="#p32" transform="translate(-276.487 -35.1749)"/>
-			
-			
 			<use href="#p30" transform="translate(-210.277 -104.551)"/>
-			
-			
 			<use href="#p50" transform="translate(-251.325 -108.817)"/>
-			
-			
 			<use href="#p51" transform="translate(-253.682 -115.536)"/>
-			
-			
 			<use href="#p50" transform="translate(-224.298 -42.8115)"/>
-			
-			
 			<use href="#p51" transform="translate(-220.681 -34.8155)"/>
-			
-			
 			<use href="#p52" transform="translate(-217.517 -27.9899)"/>
-			
-			
 			<use href="#p50" transform="translate(-270.708 -89.5818)"/>
-			
-			
 			<use href="#p51" transform="translate(-277.386 -92.0436)"/>
-			
-			
 			<use href="#p52" transform="translate(-282.9 -94.0022)"/>
-			
-			
 			<use href="#p50" transform="translate(-270.811 -62.2999)"/>
-			
-			
 			<use href="#p51" transform="translate(-277.539 -58.6657)"/>
-			
-			
 			<use href="#p52" transform="translate(-283.076 -55.5204)"/>
-			
-			
 			<use href="#p50" transform="translate(-251.591 -42.9179)"/>
-			
-			
 			<use href="#p51" transform="translate(-254.046 -34.9636)"/>
-			
-			
 			<use href="#p52" transform="translate(-256.01 -28.1811)"/>
-			
-			
 			<use href="#p50" transform="translate(-224.035 -108.707)"/>
-			
-			
 			<use href="#p51" transform="translate(-220.313 -115.387)"/>
-			
-			
 			<use href="#p52" transform="translate(-217.08 -120.895)"/>
-			
-		
 		</g>
-		
-	
 	</g>
-	
-	
 	<defs>
-		
-		
 		<path id="p10" d="M 9.215 4.621C 9.215 7.161 7.165 9.22101 4.61 9.22101C 2.063 9.22101 1.2207e-06 7.16 1.2207e-06 4.621C 1.2207e-06 2.068 2.063 1.70898e-06 4.61 1.70898e-06C 7.164 1.70898e-06 9.215 2.068 9.215 4.621Z"/>
-		
-		
 		<path id="p17" d="M 7.80199 3.916C 7.80199 6.059 6.04399 7.81401 3.89099 7.81401C 1.73799 7.81401 3.54004e-06 6.059 3.54004e-06 3.916C 3.54004e-06 1.748 1.73799 1.09863e-05 3.89099 1.09863e-05C 6.04399 1.09863e-05 7.80199 1.748 7.80199 3.916Z"/>
-		
-		
 		<path id="p24" d="M 6.63758 2.12788C 7.34658 3.87788 6.51059 5.89686 4.75759 6.61586C 3.00959 7.35486 1.00659 6.51588 0.261589 4.76088C -0.462411 2.99988 0.366585 0.991864 2.12959 0.267864C 3.88759 -0.472136 5.90558 0.37688 6.63758 2.12788Z"/>
-		
-		
 		<path id="p30" d="M 6.376 3.199C 6.376 4.957 4.96199 6.376 3.20699 6.376C 1.44099 6.376 -6.95801e-06 4.957 -6.95801e-06 3.199C -6.95801e-06 1.43 1.44099 -5.57973e-06 3.20699 -5.57973e-06C 4.96199 -0.00100558 6.376 1.43 6.376 3.199Z"/>
-		
-		
 		<path id="p31" d="M 4.95499 2.48C 4.95499 3.844 3.838 4.94501 2.482 4.94501C 1.108 4.94501 7.32422e-06 3.844 7.32422e-06 2.48C 7.32422e-06 1.111 1.109 0 2.482 0C 3.838 0 4.95499 1.111 4.95499 2.48Z"/>
-		
-		
 		<path id="p32" d="M 3.522 1.75599C 3.522 2.73699 2.75 3.529 1.766 3.529C 0.787002 3.529 -4.5166e-06 2.73699 -4.5166e-06 1.75599C -4.5166e-06 0.791993 0.787002 -3.90625e-06 1.766 -3.90625e-06C 2.75 -3.90625e-06 3.522 0.791993 3.522 1.75599Z"/>
-		
-		
 		<path id="p50" d="M 5.51092 1.78654C 4.91092 0.322536 3.2509 -0.383453 1.7849 0.210547C 0.328902 0.805547 -0.391098 2.48154 0.215902 3.93854C 0.817902 5.38454 2.4739 6.11052 3.9399 5.49552C 5.3959 4.90452 6.09792 3.24254 5.51092 1.78654Z"/>
-		
-		
 		<path id="p51" d="M 4.28386 1.3895C 3.82886 0.2465 2.53283 -0.294497 1.39183 0.161503C 0.249829 0.625503 -0.299161 1.9195 0.164839 3.0535C 0.631839 4.1935 1.92783 4.74251 3.06483 4.28751C 4.19183 3.81751 4.75386 2.5185 4.28386 1.3895Z"/>
-		
-		
 		<path id="p52" d="M 3.04581 0.976868C 2.71581 0.177868 1.79679 -0.215127 0.977786 0.119873C 0.181786 0.432873 -0.213207 1.36788 0.116793 2.17288C 0.446793 2.98288 1.36579 3.36587 2.17679 3.04187C 2.98079 2.71487 3.37281 1.79587 3.04581 0.976868Z"/>
-		
-	
 	</defs>
-	
-
 </svg>

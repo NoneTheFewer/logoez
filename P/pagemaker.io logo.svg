@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1174.9 180" style="enable-background:new 0 0 1174.9 180;" xml:space="preserve">
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1174.9 180" xml:space="preserve">
 	<style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 	.st1{fill:url(#SVGID_2_);}
@@ -30,9 +29,7 @@
 	</symbol>
 	<symbol id="Icon_Text" viewBox="-566.1 -90.2 1132.2 180.4">
 		<g id="Logo_Text_1_">
-
 			<use xlink:href="#Icon" width="229.3" height="152.8" x="-114.6" y="-76.4" transform="matrix(1.18 0 0 1.18 -430.8557 0)" style="overflow:visible;"/>
-
 			<use xlink:href="#Text" width="802.2" height="134.5" x="-401.1" y="-67.2" transform="matrix(1 0 0 1 165 3.2344)" style="overflow:visible;"/>
 		</g>
 	</symbol>
@@ -59,11 +56,9 @@
 					<use xlink:href="#SVGID_3_" style="overflow:visible;"/>
 				</clipPath>
 				<g style="clip-path:url(#SVGID_4_);">
-
 					<use xlink:href="#Icon_Text" width="1132.2" height="180.4" x="-566.1" y="-90.2" transform="matrix(1 0 0 1 565.125 89.1756)" style="overflow:visible;"/>
 				</g>
 			</g>
 		</g>
 	</g>
-
 </svg>

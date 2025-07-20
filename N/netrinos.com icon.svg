@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<defs>
+		<clipPath id="a">
+			<rect width="63.9" height="63.9" fill="none"/>
+		</clipPath>
+	</defs>
+	<title>n</title>
+	<rect width="64" height="64" fill="#007bff"/>
+	<g clip-path="url(#a)">
+		<g>
+			<path d="M174.57,302.36,87.28-23.39,0,0,87.28,325.75Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M0,302.36,87.28-23.39,174.57,0,87.28,325.75Z" fill="none"/>
+			<path d="M-63.9,238.46,174.57,0l63.89,63.9L0,302.36Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M-87.28,151.18,238.46,63.9l23.39,87.28L-63.9,238.46Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M-63.9,63.9l325.75,87.28-23.39,87.28L-87.28,151.18Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M0,0,238.46,238.46l-63.89,63.9L-63.9,63.9Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M87.28,325.75,238.46,63.9,87.28-23.39-63.9,238.46Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M0,302.36,261.85,151.18,174.57,0-87.28,151.18Z" fill="none"/>
+			<path d="M-63.9,238.46H238.46V63.9H-63.9Z" fill="none"/>
+			<path d="M-87.28,151.18,174.57,302.36l87.28-151.18L0,0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M-63.9,63.9,87.28,325.75l151.18-87.29L87.28-23.39Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M0,0V302.36H174.57V0Z" fill="none"/>
+			<path d="M0,0,238.46,63.9,174.57,302.36-63.9,238.46Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M87.28-23.39,261.85,151.18,87.28,325.75-87.28,151.18Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M174.57,0l63.89,238.46L0,302.36-63.9,63.9Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+			<path d="M261.85,151.18l-23.39,87.28-63.89,63.9L87.28,325.75,0,302.36l-63.9-63.9-23.38-87.28L-63.9,63.9,0,0,87.28-23.39,174.57,0l63.89,63.9Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+		</g>
+	</g>
+</svg>

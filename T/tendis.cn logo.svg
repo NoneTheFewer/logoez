@@ -15,7 +15,6 @@
 				<mask id="mask-2" fill="white">
 					<use xlink:href="#path-1"/>
 				</mask>
-				
 				<polygon id="Fill-10" fill="#000000" mask="url(#mask-2)" points="375.496 18.735 389.654 18.735 389.654 0.307 375.496 0.307"/>
 				<polygon id="Fill-12" fill="#000000" mask="url(#mask-2)" points="375.496 117.221 389.654 117.221 389.654 31.441 375.496 31.441"/>
 			</g>

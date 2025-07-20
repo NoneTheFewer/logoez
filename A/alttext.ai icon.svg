@@ -1,43 +1,40 @@
-<svg viewBox="34.599 63.105 132.809 75.098" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="linear-gradient" x1="97.14858" y1="92.07571" x2="107.30897" y2="59.12375" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#29acb2" ></stop>
-      <stop offset="1" stop-color="#047481" ></stop>
-    </linearGradient>
-    <linearGradient id="linear-gradient-2" x1="83.21231" y1="76.76293" x2="110.68603" y2="103.42897" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#047481" ></stop>
-      <stop offset="1" stop-color="#29acb2" ></stop>
-    </linearGradient>
-    <linearGradient id="linear-gradient-3" x1="86.02415" y1="135.87592" x2="102.43291" y2="98.61788" xlink:href="#linear-gradient"></linearGradient>
-    <style>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="34.599 63.105 132.809 75.098">
+	<defs>
+		<linearGradient id="linear-gradient" x1="97.14858" y1="92.07571" x2="107.30897" y2="59.12375" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#29acb2"/>
+			<stop offset="1" stop-color="#047481"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="83.21231" y1="76.76293" x2="110.68603" y2="103.42897" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#047481"/>
+			<stop offset="1" stop-color="#29acb2"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="86.02415" y1="135.87592" x2="102.43291" y2="98.61788" xlink:href="#linear-gradient"/>
+		<style>
       .cls-1 {
         fill: #4c4c4c;
       }
-
       .cls-2 {
         fill: url(#linear-gradient-2);
       }
-
       .cls-2, .cls-3, .cls-4 {
         fill-rule: evenodd;
       }
-
       .cls-3 {
         fill: url(#linear-gradient);
       }
-
       .cls-4 {
         fill: url(#linear-gradient-3);
       }
     </style>
-  </defs>
-  <g>
-    <path class="cls-3" d="m92.02809,70.87692c-3.69716,13.36049,3.74713,17.4901,12.66913,17.15013l12.81702-24.19529-23.26744.19409-2.2187,6.85107Z"></path>
-    <path class="cls-2" d="m92.02809,70.87692l-9.51393,29.15143,13.50751-.19395c.09828,0,.14743,0,.19689-.04871,8.47866-.19392,9.71089,6.46138,5.22562,13.31196l18.04167-25.0706h-14.78863c-8.922.33997-16.36629-3.78963-12.66913-17.15013h0Z"></path>
-    <path class="cls-4" d="m96.21855,99.83439l-12.81694,38.33385,18.04256-25.0706c4.48527-6.85058,3.25304-13.50588-5.22562-13.26325h0Z"></path>
-  </g>
-  <g>
-    <polygon class="cls-1" points="126.11408 63.0912 126.11408 75.54165 157.62104 98.36085 126.11408 121.18004 126.11408 133.63049 167.39868 102.90622 167.39868 93.81547 126.11408 63.0912"></polygon>
-    <polygon class="cls-1" points="75.88592 63.0912 75.88592 75.54165 44.37896 98.36085 75.88592 121.18004 75.88592 133.63049 34.60132 102.90622 34.60132 93.81547 75.88592 63.0912"></polygon>
-  </g>
+	</defs>
+	<g>
+		<path class="cls-3" d="m92.02809,70.87692c-3.69716,13.36049,3.74713,17.4901,12.66913,17.15013l12.81702-24.19529-23.26744.19409-2.2187,6.85107Z"/>
+		<path class="cls-2" d="m92.02809,70.87692l-9.51393,29.15143,13.50751-.19395c.09828,0,.14743,0,.19689-.04871,8.47866-.19392,9.71089,6.46138,5.22562,13.31196l18.04167-25.0706h-14.78863c-8.922.33997-16.36629-3.78963-12.66913-17.15013h0Z"/>
+		<path class="cls-4" d="m96.21855,99.83439l-12.81694,38.33385,18.04256-25.0706c4.48527-6.85058,3.25304-13.50588-5.22562-13.26325h0Z"/>
+	</g>
+	<g>
+		<polygon class="cls-1" points="126.11408 63.0912 126.11408 75.54165 157.62104 98.36085 126.11408 121.18004 126.11408 133.63049 167.39868 102.90622 167.39868 93.81547 126.11408 63.0912"/>
+		<polygon class="cls-1" points="75.88592 63.0912 75.88592 75.54165 44.37896 98.36085 75.88592 121.18004 75.88592 133.63049 34.60132 102.90622 34.60132 93.81547 75.88592 63.0912"/>
+	</g>
 </svg>

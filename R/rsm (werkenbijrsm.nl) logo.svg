@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg2" viewBox="0 0 457.32401 238.10933" sodipodi:docname="RSM Standard Logo RGB.ai">
-  <defs id="defs6">
-    <clipPath id="clipPath22">
-      <path d="M 0,178.582 H 342.993 V 0 H 0 Z" id="path20"/>
-    </clipPath>
-  </defs>
-  <g id="g8" inkscape:groupmode="layer" inkscape:label="RSM Standard Logo RGB" transform="matrix(1.3333333,0,0,-1.3333333,0,238.10933)">
-    <path d="m 134.645,119.054 h 178.584 v 29.764 H 134.645 Z" style="fill:#009de1;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path10"/>
-    <path d="m 29.764,119.054 h 22.677 v 29.764 H 29.764 Z" style="fill:#888c8e;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path12"/>
-    <path d="m 65.196,119.054 h 56.693 v 29.764 H 65.196 Z" style="fill:#009d25;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path14"/>
-    <g id="g16">
-      <g id="g18" clip-path="url(#clipPath22)">
-        <g id="g24" transform="translate(183.7505,74.541)">
-          <path d="m 0,0 c 0,7.006 -2.379,12.652 -6.877,16.257 -4.627,3.679 -10.01,4.562 -17.978,4.562 h -24.25 v -64.642 h 13.146 V 9.181 h 11.577 c 3.273,0 5.652,-0.409 7.222,-1.361 2.312,-1.362 3.676,-3.879 3.676,-7.82 0,-6.736 -4.153,-9.122 -9.602,-9.122 h -8.761 v -11.701 h 5.222 l 13.684,-23 H 2.248 l -15.189,25.174 C -4.086,-16.061 0,-8.712 0,0" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path26"/>
-        </g>
-        <g id="g28" transform="translate(223.5991,67.3262)">
-          <path d="m 0,0 c -9.328,3.198 -19.824,3.606 -19.824,10.682 0,4.555 4.157,6.664 10.083,6.664 5.793,0 10.969,-0.537 19.684,-2.856 v 11.705 c -7.489,2.109 -12.938,2.857 -20.021,2.857 -12.809,0 -23.638,-5.102 -23.638,-18.102 0,-10.269 5.104,-15.443 15.189,-18.908 8.989,-3.067 19.136,-3.679 19.136,-10.617 0,-5.177 -5.039,-7.351 -12.324,-7.351 -7.086,0 -11.507,0.548 -20.569,2.996 v -11.767 c 7.561,-2.249 13.893,-2.866 21.249,-2.866 16.068,0 25.476,7.011 25.476,20.005 C 14.441,-7.278 7.697,-2.656 0,0" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path30"/>
-        </g>
-        <g id="g32" transform="translate(296.064,95.3604)">
-          <path d="m 0,0 -23.086,-64.643 h 12.535 l 14.641,41.1 h 0.201 v -41.1 h 12.874 l 0,64.643 z" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path34"/>
-        </g>
-        <g id="g36" transform="translate(277.4507,55.1289)">
-          <path d="m 0,0 -15.031,40.231 h -17.44 v -64.642 h 12.741 v 41.099 h 0.207 l 13.028,-34.874 z" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path38"/>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" ?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 457.32401 238.10933" sodipodi:docname="RSM Standard Logo RGB.ai">
+	<defs id="defs6">
+		<clipPath id="clipPath22">
+			<path d="M 0,178.582 H 342.993 V 0 H 0 Z" id="path20"/>
+		</clipPath>
+	</defs>
+	<g id="g8" inkscape:groupmode="layer" inkscape:label="RSM Standard Logo RGB" transform="matrix(1.3333333,0,0,-1.3333333,0,238.10933)">
+		<path d="m 134.645,119.054 h 178.584 v 29.764 H 134.645 Z" style="fill:#009de1;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path10"/>
+		<path d="m 29.764,119.054 h 22.677 v 29.764 H 29.764 Z" style="fill:#888c8e;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path12"/>
+		<path d="m 65.196,119.054 h 56.693 v 29.764 H 65.196 Z" style="fill:#009d25;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path14"/>
+		<g id="g16">
+			<g id="g18" clip-path="url(#clipPath22)">
+				<g id="g24" transform="translate(183.7505,74.541)">
+					<path d="m 0,0 c 0,7.006 -2.379,12.652 -6.877,16.257 -4.627,3.679 -10.01,4.562 -17.978,4.562 h -24.25 v -64.642 h 13.146 V 9.181 h 11.577 c 3.273,0 5.652,-0.409 7.222,-1.361 2.312,-1.362 3.676,-3.879 3.676,-7.82 0,-6.736 -4.153,-9.122 -9.602,-9.122 h -8.761 v -11.701 h 5.222 l 13.684,-23 H 2.248 l -15.189,25.174 C -4.086,-16.061 0,-8.712 0,0" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path26"/>
+				</g>
+				<g id="g28" transform="translate(223.5991,67.3262)">
+					<path d="m 0,0 c -9.328,3.198 -19.824,3.606 -19.824,10.682 0,4.555 4.157,6.664 10.083,6.664 5.793,0 10.969,-0.537 19.684,-2.856 v 11.705 c -7.489,2.109 -12.938,2.857 -20.021,2.857 -12.809,0 -23.638,-5.102 -23.638,-18.102 0,-10.269 5.104,-15.443 15.189,-18.908 8.989,-3.067 19.136,-3.679 19.136,-10.617 0,-5.177 -5.039,-7.351 -12.324,-7.351 -7.086,0 -11.507,0.548 -20.569,2.996 v -11.767 c 7.561,-2.249 13.893,-2.866 21.249,-2.866 16.068,0 25.476,7.011 25.476,20.005 C 14.441,-7.278 7.697,-2.656 0,0" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path30"/>
+				</g>
+				<g id="g32" transform="translate(296.064,95.3604)">
+					<path d="m 0,0 -23.086,-64.643 h 12.535 l 14.641,41.1 h 0.201 v -41.1 h 12.874 l 0,64.643 z" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path34"/>
+				</g>
+				<g id="g36" transform="translate(277.4507,55.1289)">
+					<path d="m 0,0 -15.031,40.231 h -17.44 v -64.642 h 12.741 v 41.099 h 0.207 l 13.028,-34.874 z" style="fill:#62666b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path38"/>
+				</g>
+			</g>
+		</g>
+	</g>
 </svg>

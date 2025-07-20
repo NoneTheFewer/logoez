@@ -1,34 +1,35 @@
-<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-repairit-square">
-<g filter="url(#repairit-square-filter0_i_8_44438)">
-<rect width="120" height="120" rx="27.375" fill="#283249"/>
-<path d="M26.732 42.4149C33.0101 29.7257 46.0882 21 61.2043 21C82.4328 21 99.642 38.2091 99.642 59.4375C99.642 80.6659 82.4328 97.875 61.2043 97.875H52.5462V73.5H61.2043C68.9709 73.5 75.2669 67.204 75.2669 59.4375C75.2669 51.671 68.9709 45.375 61.2043 45.375C53.4378 45.375 47.1418 51.671 47.1418 59.4375V60.6474C47.1418 61.4171 47.4573 62.1532 48.0146 62.684L52.9767 67.4098H21V36.9559L26.732 42.4149Z" fill="url(#repairit-square-paint0_linear_8_44438)"/>
-<path d="M26.732 42.4149C33.0101 29.7257 46.0882 21 61.2043 21V45.375C53.4378 45.375 47.1418 51.671 47.1418 59.4375V60.6474C47.1418 61.4171 47.4573 62.1532 48.0146 62.684L52.9767 67.4098H21V36.9559L26.732 42.4149Z" fill="url(#repairit-square-paint1_linear_8_44438)"/>
-<path opacity="0.4" d="M86.1454 88.8626C83.1418 91.4933 79.7248 93.6637 76.0046 95.2636L59 74L86.1454 88.8626Z" fill="url(#repairit-square-paint2_linear_8_44438)"/>
-<path d="M21 74H59.3709L86.0287 99.3783H47.6554L21 74Z" fill="white"/>
-</g>
-<defs>
-<filter id="repairit-square-filter0_i_8_44438" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="0.468749"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
-<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44438"/>
-</filter>
-<linearGradient id="repairit-square-paint0_linear_8_44438" x1="67.1621" y1="45.394" x2="67.1731" y2="93.5503" gradientUnits="userSpaceOnUse">
-<stop stop-color="#29BDFE"/>
-<stop offset="0.616277" stop-color="#0D7DFA"/>
-<stop offset="0.991727" stop-color="#0566E8"/>
-</linearGradient>
-<linearGradient id="repairit-square-paint1_linear_8_44438" x1="38.7148" y1="45.4103" x2="38.7713" y2="64.2702" gradientUnits="userSpaceOnUse">
-<stop stop-color="#29BDFE"/>
-<stop offset="1" stop-color="#3CE9FF"/>
-</linearGradient>
-<linearGradient id="repairit-square-paint2_linear_8_44438" x1="61.0831" y1="74.9704" x2="80.6875" y2="91.1557" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0847C0"/>
-<stop offset="1" stop-color="#0668E9"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" class="wsc-svg-logo-repairit-square">
+	<g filter="url(#repairit-square-filter0_i_8_44438)">
+		<rect width="120" height="120" rx="27.375" fill="#283249"/>
+		<path d="M26.732 42.4149C33.0101 29.7257 46.0882 21 61.2043 21C82.4328 21 99.642 38.2091 99.642 59.4375C99.642 80.6659 82.4328 97.875 61.2043 97.875H52.5462V73.5H61.2043C68.9709 73.5 75.2669 67.204 75.2669 59.4375C75.2669 51.671 68.9709 45.375 61.2043 45.375C53.4378 45.375 47.1418 51.671 47.1418 59.4375V60.6474C47.1418 61.4171 47.4573 62.1532 48.0146 62.684L52.9767 67.4098H21V36.9559L26.732 42.4149Z" fill="url(#repairit-square-paint0_linear_8_44438)"/>
+		<path d="M26.732 42.4149C33.0101 29.7257 46.0882 21 61.2043 21V45.375C53.4378 45.375 47.1418 51.671 47.1418 59.4375V60.6474C47.1418 61.4171 47.4573 62.1532 48.0146 62.684L52.9767 67.4098H21V36.9559L26.732 42.4149Z" fill="url(#repairit-square-paint1_linear_8_44438)"/>
+		<path opacity="0.4" d="M86.1454 88.8626C83.1418 91.4933 79.7248 93.6637 76.0046 95.2636L59 74L86.1454 88.8626Z" fill="url(#repairit-square-paint2_linear_8_44438)"/>
+		<path d="M21 74H59.3709L86.0287 99.3783H47.6554L21 74Z" fill="white"/>
+	</g>
+	<defs>
+		<filter id="repairit-square-filter0_i_8_44438" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="0.468749"/>
+			<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+			<feBlend mode="darken" in2="shape" result="effect1_innerShadow_8_44438"/>
+		</filter>
+		<linearGradient id="repairit-square-paint0_linear_8_44438" x1="67.1621" y1="45.394" x2="67.1731" y2="93.5503" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#29BDFE"/>
+			<stop offset="0.616277" stop-color="#0D7DFA"/>
+			<stop offset="0.991727" stop-color="#0566E8"/>
+		</linearGradient>
+		<linearGradient id="repairit-square-paint1_linear_8_44438" x1="38.7148" y1="45.4103" x2="38.7713" y2="64.2702" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#29BDFE"/>
+			<stop offset="1" stop-color="#3CE9FF"/>
+		</linearGradient>
+		<linearGradient id="repairit-square-paint2_linear_8_44438" x1="61.0831" y1="74.9704" x2="80.6875" y2="91.1557" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0847C0"/>
+			<stop offset="1" stop-color="#0668E9"/>
+		</linearGradient>
+	</defs>
 </svg>

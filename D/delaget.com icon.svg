@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 44.056 44.056"><defs><style>.a{fill:none;}.b{fill:#f47d46;stroke:rgba(0,0,0,0);fill-rule:evenodd;}.c{clip-path:url(#a);}.d{fill:#fff;}.e{clip-path:url(#b);}</style><clipPath id="a"><path class="a" d="M318.007,214.48l-6.217,7.594,6.9,5.227V214.726c0-.348-.1-.53-.265-.53-.115,0-.26.093-.417.284" transform="translate(-311.79 -214.196)"/></clipPath><clipPath id="b"><path class="a" d="M294.32,223.118v9.172l6.009,6.191a1.206,1.206,0,0,0,1.742,0l6.009-6.191-6.9-5.227-5.862-4.441a.884.884,0,0,0-.515-.21c-.289,0-.483.252-.483.707" transform="translate(-294.32 -222.411)"/></clipPath></defs><g transform="translate(-2565.629 -2980.5)"><g transform="translate(2566.129 2981)"><g transform="translate(0 0)"><path class="b" d="M267.678,156.15c-17.222,0-21.528,4.306-21.528,21.528s4.306,21.528,21.528,21.528,21.528-4.306,21.528-21.528S284.9,156.15,267.678,156.15Z" transform="translate(-246.15 -156.15)"/></g></g><g transform="translate(2580.793 2992.311)"><g transform="translate(6.972 0)"><g class="c"><rect class="d" width="13.709" height="14.473" transform="translate(-6.453 5.414) rotate(-40)"/></g></g><g transform="translate(0 3.561)"><g class="e"><rect class="d" width="21.535" height="21.189" transform="translate(-8.157 9.721) rotate(-50)"/></g></g></g></g></svg>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.056 44.056">
+	<defs>
+		<style>.a{fill:none;}.b{fill:#f47d46;stroke:rgba(0,0,0,0);fill-rule:evenodd;}.c{clip-path:url(#a);}.d{fill:#fff;}.e{clip-path:url(#b);}</style>
+		<clipPath id="a">
+			<path class="a" d="M318.007,214.48l-6.217,7.594,6.9,5.227V214.726c0-.348-.1-.53-.265-.53-.115,0-.26.093-.417.284" transform="translate(-311.79 -214.196)"/>
+		</clipPath>
+		<clipPath id="b">
+			<path class="a" d="M294.32,223.118v9.172l6.009,6.191a1.206,1.206,0,0,0,1.742,0l6.009-6.191-6.9-5.227-5.862-4.441a.884.884,0,0,0-.515-.21c-.289,0-.483.252-.483.707" transform="translate(-294.32 -222.411)"/>
+		</clipPath>
+	</defs>
+	<g transform="translate(-2565.629 -2980.5)">
+		<g transform="translate(2566.129 2981)">
+			<g transform="translate(0 0)">
+				<path class="b" d="M267.678,156.15c-17.222,0-21.528,4.306-21.528,21.528s4.306,21.528,21.528,21.528,21.528-4.306,21.528-21.528S284.9,156.15,267.678,156.15Z" transform="translate(-246.15 -156.15)"/>
+			</g>
+		</g>
+		<g transform="translate(2580.793 2992.311)">
+			<g transform="translate(6.972 0)">
+				<g class="c">
+					<rect class="d" width="13.709" height="14.473" transform="translate(-6.453 5.414) rotate(-40)"/>
+				</g>
+			</g>
+			<g transform="translate(0 3.561)">
+				<g class="e">
+					<rect class="d" width="21.535" height="21.189" transform="translate(-8.157 9.721) rotate(-50)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
