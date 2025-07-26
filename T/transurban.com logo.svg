@@ -395,7 +395,7 @@
 			<stop offset="1" stop-color="#004c45"/>
 		</linearGradient>
 	</defs>
-	<style>tspan { white-space:pre }.shp0 { fill: #2b3a45 } .shp1 { fill: url(#grd1) } .shp2 { fill: url(#grd2) } .shp3 { fill: url(#grd3) } </style>
+	<style>.shp0 { fill: #2b3a45 } .shp1 { fill: url(#grd1) } .shp2 { fill: url(#grd2) } .shp3 { fill: url(#grd3) } </style>
 	<g id="layer1">
 		<g id="g8348"/>
 		<g id="g8516"/>

@@ -1,15 +1,14 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 213.43768" xml:space="preserve" sodipodi:docname="aviondb.svg" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)">
-	<sodipodi:namedview id="namedview31" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.73623221" inkscape:cx="-448.90728" inkscape:cy="330.73804" inkscape:window-width="2460" inkscape:window-height="1563" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"/>
-	<style type="text/css" id="style930">
+<svg   xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 213.43768" xml:space="preserve"  >
+		<style type="text/css" id="style930">
 	.st0{fill:#4DBBEB;}
 	.st1{fill:#737373;}
-	.st2{font-family:'Kollektif';}
-	.st3{font-size:44.2701px;}
+	.st2{}
+	.st3{}
 	.st4{fill:#2488FF;}
 </style>
 	<path id="shape0" class="st0" d="m 217.52184,1.8853392 c -1.7426,-1.74260585 -4.53077,-2.4396482 -6.97042,-1.39408467 L 4.2268843,80.999646 c -2.4396483,1.045563 -3.83373303,3.13669 -4.18225421,5.576339 -0.34852117,2.439648 1.39408471,4.879296 3.48521191,5.924859 l 81.205435,38.337326 39.382893,79.11431 c 1.04556,2.09113 3.48521,3.48521 5.92486,3.48521 0,0 0,0 0.34852,0 2.43965,0 4.8793,-1.7426 5.57634,-3.83373 L 218.56741,8.5072415 c 1.39408,-2.091127 0.69704,-4.8792964 -1.04557,-6.6219023 z" style="fill:#4dbbeb;stroke-width:3.48521"/>
-	<g aria-label="AvionDB" transform="scale(3.486954,3.4834704)" id="text933" style="font-size:44.2922px;font-family:Kollektif;fill:#737373;stroke-width:1.0005" class="st1 st2 st3">
+	<g aria-label="AvionDB" transform="scale(3.486954,3.4834704)" id="text933" style="fill:#737373;stroke-width:1.0005" class="st1 st2 st3">
 		<path d="M 85.476961,42.235558 81.995006,33.325213 H 68.11044 l -3.503582,8.910345 H 60.324702 L 72.760255,11.763044 h 4.69307 l 12.24091,30.472514 z M 75.052723,14.877339 74.858079,15.482897 q -0.540676,1.795045 -1.600401,4.606561 L 69.364809,30.102783 H 80.762264 L 76.847768,20.046204 Q 76.24221,18.553938 75.636653,16.672385 Z" id="path3354"/>
 		<path d="M 102.23792,42.235558 H 97.631363 L 89.131932,18.83509 h 4.152394 l 5.147238,15.225443 q 0.281152,0.865082 1.492266,5.125611 l 0.75695,-2.530365 0.84345,-2.551992 5.32026,-15.268697 h 4.13076 z" id="path3356"/>
 		<path d="M 114.08955,42.235558 V 18.83509 h 3.89287 v 23.400468 z m 0,-28.37469 v -3.719852 h 3.89287 v 3.719852 z" id="path3358"/>

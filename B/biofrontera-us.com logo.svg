@@ -24,7 +24,6 @@
 		</linearGradient>
 	</defs>
 	<style>
-		tspan { white-space:pre }
 		.shp0 { fill: #ec6b1e } 
 		.shp1 { fill: url(#grd1) } 
 		.shp2 { fill: url(#grd2) } 

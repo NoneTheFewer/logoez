@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" viewBox="0 0 96.000001 96.000002" xml:space="preserve" color-interpolation-filters="sRGB" class="st7" sodipodi:docname="intune.svg" inkscape:version="1.2.2 (732a01da63, 2022-12-09)">
-	<sodipodi:namedview id="namedview64" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:deskcolor="#505050" showgrid="false" inkscape:zoom="4" inkscape:cx="47.875" inkscape:cy="59.75" inkscape:window-width="1920" inkscape:window-height="1009" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg62"/>
-	<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
+<svg   xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" viewBox="0 0 96.000001 96.000002" xml:space="preserve" color-interpolation-filters="sRGB" class="st7"  >
+		<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
 	<style type="text/css" id="style2">
 		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st2 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:0.75}
@@ -9,7 +8,7 @@
 		.st4 {fill:#32bedd;stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st5 {fill:url(#grad0-19);stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st6 {fill:#0078d4;stroke:none;stroke-linecap:butt;stroke-width:0.75}
-		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st7 {fill:none;fill-rule:evenodd;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	</style>
 	<defs id="Patterns_And_Gradients">
 		<linearGradient id="grad0-5" x1="-0.0017017915" y1="14.883376" x2="24.2104" y2="14.883376" gradientTransform="scale(1.2251795,0.81620694)" gradientUnits="userSpaceOnUse">

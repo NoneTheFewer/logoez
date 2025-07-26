@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 100 30" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="endatabas-logo-100x30_v02.svg">
-	<sodipodi:namedview id="base" pagecolor="#1f1b17" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:zoom="3.3145877" inkscape:cx="188.07742" inkscape:cy="56.576133" inkscape:document-units="mm" inkscape:current-layer="layer2" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1920" inkscape:window-height="1027" inkscape:window-x="1920" inkscape:window-y="25" inkscape:window-maximized="0" showborder="false" inkscape:showpageshadow="false"/>
-	<g inkscape:groupmode="layer" id="layer2" inkscape:label="Background">
-		<rect style="fill:#32382e;fill-opacity:1;stroke-width:0" id="rect963" width="100" height="30" x="0" y="0" sodipodi:insensitive="true"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 30">
+	<g id="layer2">
+		<rect style="fill:#32382e;fill-opacity:1;stroke-width:0" id="rect963" width="100" height="30" x="0" y="0" />
 	</g>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+	<g id="layer1">
 		<g id="g956">
 			<g id="g929" transform="translate(-0.92845413)">
 				<rect style="fill:#b0a974;fill-opacity:1;stroke-width:0" id="rect853-4-5" width="9.0623751" height="21.361313" x="74.14994" y="4.3193436"/>
@@ -13,7 +12,7 @@
 				<rect style="fill:#b0a974;fill-opacity:1;stroke-width:0" id="rect853-7" width="9.0623751" height="21.361313" x="45.69212" y="4.3193417"/>
 				<rect style="fill:#b0a974;fill-opacity:1;stroke-width:0" id="rect853" width="9.0623751" height="21.361313" x="36.100578" y="4.3193436"/>
 			</g>
-			<g aria-label="endatabas" id="text835" style="font-size:17.6389px;line-height:1.25;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';stroke-width:0.264583">
+			<g aria-label="endatabas" id="text835" style="stroke-width:0.264583">
 				<path d="m 11.143501,21.173615 q -1.5522233,0 -2.2754182,-0.65264 Q 8.1448879,19.850697 8.1448879,18.35139 v -3.175002 q 0,-1.516945 0.6526393,-2.169585 0.6526393,-0.652639 2.1695848,-0.652639 h 0.829028 q 1.252362,0 1.887363,0.705556 0.652639,0.687917 0.652639,2.028474 v 2.293057 H 9.6441944 v 1.322917 q 0,0.546806 0.3351391,0.846668 0.3351395,0.299861 0.9877785,0.299861 h 2.804585 v 1.322918 z m 1.728612,-6.438199 q 0,-0.458612 -0.299861,-0.758473 -0.299861,-0.299861 -0.758473,-0.299861 h -1.023056 q -0.635,0 -0.899584,0.299861 -0.2469446,0.282222 -0.2469446,0.846667 v 1.234723 h 3.2279186 z" style="fill:#b0a974;fill-opacity:1" id="path921"/>
 				<path d="m 18.940997,12.354164 v 0.423334 q 0.546806,-0.423334 1.411112,-0.423334 h 0.81139 q 1.428751,0 2.116668,0.670278 0.705556,0.670279 0.705556,2.151946 v 5.997227 H 22.486416 V 14.82361 q 0,-0.529167 -0.3175,-0.829028 -0.299861,-0.3175 -0.829028,-0.3175 H 20.17572 q -0.582083,0 -0.864306,0.3175 -0.282222,0.299861 -0.282222,0.652639 v 6.526394 h -1.499307 v -8.819451 z" style="fill:#b0a974;fill-opacity:1" id="path923"/>
 				<path d="m 32.118358,20.76792 q -0.582084,0.405695 -1.411112,0.405695 h -0.723195 q -1.552223,0 -2.275418,-0.65264 -0.723195,-0.670278 -0.723195,-2.169585 v -3.175002 q 0,-1.481667 0.723195,-2.151946 0.740834,-0.670278 2.275418,-0.670278 h 2.046113 v -3.52778 h 1.499306 v 12.347231 h -1.411112 z m -1.234723,-0.917223 q 0.582084,0 0.864306,-0.299861 0.282223,-0.317501 0.282223,-0.670279 v -5.203475 h -2.222502 q -0.652639,0 -0.987778,0.299861 -0.335139,0.299861 -0.335139,0.846667 v 3.880558 q 0,0.546806 0.335139,0.846668 0.335139,0.299861 0.987778,0.299861 z" style="fill:#b0a974;fill-opacity:1" id="path925"/>

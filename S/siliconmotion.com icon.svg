@@ -15,7 +15,6 @@
 		</linearGradient>
 	</defs>
 	<style>
-		tspan { white-space:pre }
 		.s0 { fill: #ffffff } 
 		.s1 { fill: url(#grd1) } 
 		.s2 { fill: url(#grd2) } 

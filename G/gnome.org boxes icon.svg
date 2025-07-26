@@ -14,7 +14,7 @@
 	<radialGradient id="h" cx="108.002" cy="272" r="12" xlink:href="#a"/>
 	<radialGradient id="i" cx="108.002" cy="184" r="12" xlink:href="#a"/>
 	<g transform="matrix(1 0 0 1 0 -172)">
-		<path d="m 22.352 194.352 h 82.687 v 82.687 h -82.687 z" fill="none" font-variant-ligatures="normal" font-variant-position="normal" font-variant-caps="normal" font-variant-numeric="normal" font-variant-alternates="normal" font-feature-settings="normal" text-indent="0" text-align="start" text-decoration-line="none" text-decoration-style="solid" text-decoration-color="#000" text-transform="none" text-orientation="mixed" white-space="normal" shape-padding="0" isolation="auto" mix-blend-mode="normal" solid-color="#000" solid-opacity="1"/>
+		<path d="m 22.352 194.352 h 82.687 v 82.687 h -82.687 z" fill="none" />
 		<g fill="none" stroke="#f6f5f4" stroke-width="8">
 			<path d="m 84 256 l 24 24 m -24 -64 l 24 -24 m -64 64 l -24 24 m 24 -64 l -24 -24 m 24 24 h 40 v 40 h -40 z"/>
 			<path d="m 20 192 h 88 v 88 h -88 z"/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 737 227">
-	<g transform="translate(0 -826)">
-		<g style="line-height:125%" transform="translate(120 395) scale(.76786)" font-weight="700" font-size="356.6" font-family="Folio" letter-spacing="0" word-spacing="0" font-stretch="condensed">
-			<path d="M166 843h52V635h38v-47H127v47h39v208z" style="-inkscape-font-specification:'Folio Bold Condensed'" fill="#e70012"/>
-			<path d="M410 843v-46h-55V588h-52v255h107zm185-255h-52v192c0 18-4 22-15 22s-15-4-15-22V588h-52v200c0 48 21 60 67 60s67-12 67-60V588zm190 77v-20c0-45-21-62-65-62-50 0-67 20-67 65 0 85 81 80 82 133 0 14-5 21-15 21-11 0-15-7-15-21v-18h-52v24c0 47 19 61 66 61 51 0 68-16 68-70 0-83-82-83-82-127 0-15 4-21 15-21 10 0 15 6 15 21v14h50z" style="-inkscape-font-specification:'Folio Bold Condensed'" fill="#125fad"/>
-		</g>
-		<path d="M7 1041h46l87-133v133h39V848h-46z" fill="#125fad" fill-rule="evenodd" stroke="#125fad" stroke-width="1.5"/>
-	</g>
+    <g transform="translate(0 -826)">
+        <g transform="translate(120 395) scale(.76786)">
+            <path d="M166 843h52V635h38v-47H127v47h39v208z" fill="#e70012" />
+            <path d="M410 843v-46h-55V588h-52v255h107zm185-255h-52v192c0 18-4 22-15 22s-15-4-15-22V588h-52v200c0 48 21 60 67 60s67-12 67-60V588zm190 77v-20c0-45-21-62-65-62-50 0-67 20-67 65 0 85 81 80 82 133 0 14-5 21-15 21-11 0-15-7-15-21v-18h-52v24c0 47 19 61 66 61 51 0 68-16 68-70 0-83-82-83-82-127 0-15 4-21 15-21 10 0 15 6 15 21v14h50z" fill="#125fad" />
+        </g>
+        <path d="M7 1041h46l87-133v133h39V848h-46z" fill="#125fad" fill-rule="evenodd" stroke="#125fad" stroke-width="1.5" />
+    </g>
 </svg>

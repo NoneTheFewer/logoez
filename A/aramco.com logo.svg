@@ -196,7 +196,6 @@
 		</radialGradient>
 	</defs>
 	<style>
-		tspan { white-space:pre }
 		.shp0 { fill: url(#grd1) } 
 		.shp1 { fill: #59595e } 
 		.shp2 { fill: #ffffff } 
