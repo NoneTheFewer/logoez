@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" viewBox="0 0 1101 300" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
+	<rect id="jdeli-wide-white" x="0.819" y="0" width="1100" height="300" fill="none"/>
+	<g>
+		<g id="_--JDELI" serif:id="| JDELI">
+			<path d="M506.466,204.416c-8.101,0 -16.201,-2.426 -21.199,-5.541l2.97,-14.173c5.408,3.368 10.804,5.529 16.611,5.529c9.175,0 13.099,-5.13 13.099,-16.611l0,-55.618l16.334,0l0,56.704c0,18.23 -8.499,29.71 -27.815,29.71" fill="#fff" fill-rule="nonzero"/>
+			<path d="M591.02,123.128l-14.185,0l0,74.137l14.185,0c23.095,0 39.429,-11.493 39.429,-37.147c0,-22.274 -14.729,-36.99 -39.429,-36.99m-0.265,79.256l-19.594,0l0,-84.387l20.39,0c27.284,0 44.705,17.01 44.705,41.59c0,27.271 -17.023,42.797 -45.501,42.797" fill="#fff" fill-rule="nonzero"/>
+			<path d="M670.258,202.388l0,-84.386l48.338,0l0,5.131l-42.664,0l0,34.563l35.65,0l0,4.998l-35.65,0l0,34.564l42.664,0l0,5.13l-48.338,0Z" fill="#fff" fill-rule="nonzero"/>
+			<path d="M750.722,202.388l0,-84.386l5.674,0l0,79.111l42.664,0l0,5.275l-48.338,0Z" fill="#fff" fill-rule="nonzero"/>
+			<rect x="829.296" y="117.996" width="5.674" height="84.386" fill="#fff"/>
+			<rect x="404.576" y="18" width="4.056" height="264" fill="#fff"/>
+		</g>
+		<g id="JDeli-Icon" serif:id="JDeli Icon">
+			<g>
+				<path d="M286,71.195c-15.361,8.576 -30.721,17.158 -46.069,25.74c-13.253,7.405 -26.5,14.81 -39.746,22.215c10.772,12.55 21.563,25.1 32.341,37.651l3.209,-0.513l0.949,-1.335c3.728,-5.279 7.462,-10.551 11.19,-15.835c18.164,-25.696 36.334,-51.385 54.511,-77.081c-5.468,3.05 -10.93,6.101 -16.385,9.158Z" fill="url(#_Linear1)"/>
+				<path d="M137.502,84.745c-23.613,22.183 -47.22,44.36 -70.834,66.537c29.322,9.709 58.638,19.424 87.954,29.126c8.108,-44.866 16.221,-89.732 24.329,-134.599c-13.816,12.975 -27.639,25.955 -41.449,38.936Z" fill="url(#_Linear2)"/>
+				<path d="M153.369,257.331l1.253,-76.923l-87.954,-29.126l86.701,106.049Z" fill="#17a679"/>
+				<path d="M156.706,168.877l79.035,-12.589l-56.79,-110.479l-22.245,123.068Z" fill="url(#_Linear3)"/>
+			</g>
+		</g>
+	</g>
+	<defs>
+		<linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-75.8387,75.8387,-75.8387,-75.8387,302.385,62.0368)">
+			<stop offset="0" stop-color="#86c436" stop-opacity="1"/>
+			<stop offset="0.56" stop-color="#79bc33" stop-opacity="1"/>
+			<stop offset="1" stop-color="#469d28" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-58.2061,-58.2061,58.2061,-58.2061,154.624,180.408)">
+			<stop offset="0" stop-color="#08b4a3" stop-opacity="1"/>
+			<stop offset="1" stop-color="#16a576" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(84.9137,84.9137,-84.9137,84.9137,150.827,71.8872)">
+			<stop offset="0" stop-color="#48e56e" stop-opacity="1"/>
+			<stop offset="1" stop-color="#dfeb5e" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 276 96" shape-rendering="geometricprecision">
+	<path d="M47 23c-13.9 0-23 11.522-23 25 0 13.264 9 25 23 25C37 77 19.054 67.274.5 49c-.338-.333-.5-.5-.5-1C0 22.1 19 0 47 0c.5 0 .657.266 1 .5C57.025 6.654 72.506 19.212 68.5 37c-.075.332 0 .5-.5 1-2.729-9.37-11.23-15-21-15z" fill="url(#ccc_logo_0_linear)"/>
+	<path d="M47 73c9.576 0 18.285-5.598 21-15 .5.5.49.668.5 1 .388 11.8 2 37-21.5 37C19 96 0 74.486 0 48c20 19 35 25 47 25z" fill="url(#ccc_logo_1_linear)"/>
+	<path d="M68 58l22 7c-4.851 18.778-20 31-43 31 12-5 21-18 21-38z" fill="url(#ccc_logo_2_linear)"/>
+	<path d="M47 0c20 0 38.002 11.75 43 31l-22 7C72 19 55 6 47 0z" fill="url(#ccc_logo_3_linear)"/>
+	<path d="M140 23c-13.901 0-23 11.522-23 25 0 13.264 8 25 23 25-10 4-27.438-5.214-46-23.5-.332-.328-1-1-1-1.5 0-25.9 19-48 47-48 1 0 1.588.718 2 1 9.048 6.198 23.506 18.354 19.5 36-.075.331 0 .5-.5 1-2.729-9.37-11.229-15-21-15z" fill="url(#ccc_logo_4_linear)"/>
+	<path d="M140 73c9.576 0 18.285-5.598 21-15 .5.5.489.668.5 1 .354 11.067 1.5 37-21.5 37-28 0-47-21.514-47-48 20 19 35 25 47 25z" fill="url(#ccc_logo_5_linear)"/>
+	<path d="M161 58l22 7c-4.851 18.778-21.5 31-43 31 12-5 21-18 21-38z" fill="url(#ccc_logo_6_linear)"/>
+	<path d="M140 0c20 0 38.002 11.75 43 31l-22 7c4-19-13-32-21-38z" fill="url(#ccc_logo_7_linear)"/>
+	<path d="M233 23c-13.901 0-23 11.522-23 25 0 13.264 8 25 23 25-10 4-27.438-5.214-46-23.5-.332-.328-1-1-1-1.5 0-25.9 19-48 47-48 1 0 1.588.718 2 1 9.048 6.198 23.506 18.354 19.5 36-.075.331 0 .5-.5 1-2.729-9.37-11.229-15-21-15z" fill="url(#ccc_logo_8_linear)"/>
+	<path d="M233 73c9.576 0 18.285-5.598 21-15 .5.5.489.668.5 1 .354 11.067 1.5 37-21.5 37-28 0-47-21.514-47-48 20 19 35 25 47 25z" fill="url(#ccc_logo_9_linear)"/>
+	<path d="M254 58l22 7c-4.851 18.778-21.5 31-43 31 12-5 21-18 21-38z" fill="url(#ccc_logo_10_linear)"/>
+	<path d="M233 0c20 0 38.002 11.75 43 31l-22 7c4-19-13-32-21-38z" fill="url(#ccc_logo_11_linear)"/>
+	<defs>
+		<linearGradient id="ccc_logo_0_linear" x1="45.031" y1=".255" x2="45.031" y2="96.146" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FCC30B"/>
+			<stop offset="1" stop-color="#E48E0A"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_1_linear" x1="90.429" y1="71.993" x2="-.066" y2="71.993" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FCC30B"/>
+			<stop offset="1" stop-color="#D8740A"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_2_linear" x1="68.49" y1="95.634" x2="68.49" y2="58.084" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#D1640A"/>
+			<stop offset="1" stop-color="#E28A0A"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_3_linear" x1="68.503" y1=".114" x2="68.503" y2="32.96" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F4B20B"/>
+			<stop offset="1" stop-color="#D1650A"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_4_linear" x1="139.5" y1="0" x2="139.5" y2="95.5" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00A9E7"/>
+			<stop offset="1" stop-color="#005FB4"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_5_linear" x1="182" y1="72" x2="93" y2="72" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00A6E4"/>
+			<stop offset="1" stop-color="#00538F"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_6_linear" x1="161.49" y1="95.571" x2="161.49" y2="58.16" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#003D7F"/>
+			<stop offset="1" stop-color="#005CAF"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_7_linear" x1="161.503" y1="-.035" x2="161.503" y2="33.119" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00A9E7"/>
+			<stop offset="1" stop-color="#005593"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_8_linear" x1="232.5" y1="0" x2="232.5" y2="95.5" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00A9E7"/>
+			<stop offset="1" stop-color="#005FB4"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_9_linear" x1="275" y1="72" x2="186" y2="72" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00A6E4"/>
+			<stop offset="1" stop-color="#00538F"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_10_linear" x1="254.49" y1="95.571" x2="254.49" y2="58.16" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#003D7F"/>
+			<stop offset="1" stop-color="#005CAF"/>
+		</linearGradient>
+		<linearGradient id="ccc_logo_11_linear" x1="254.503" y1="-.035" x2="254.503" y2="33.119" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00A9E7"/>
+			<stop offset="1" stop-color="#005593"/>
+		</linearGradient>
+	</defs>
+</svg>

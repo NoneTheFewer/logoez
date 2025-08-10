@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.33 99.19">
+	<defs>
+		<style>
+   .altr-1 {
+                      fill: #fb9f1b;
+                    }
+                    .altr-2 {
+                      fill: #062536;
+                    }
+                    .altr-3 {
+                      fill: #fff;
+                    }
+  </style>
+	</defs>
+	<g id="altr-mob">
+		<g>
+			<circle class="altr-3" cx="50.66" cy="49.6" r="49.37">
+   </circle>
+			<circle class="altr-2" cx="50.66" cy="49.6" r="49.37">
+   </circle>
+			<g>
+				<path class="altr-1" d="M66.71,2.67h.09s0-.07-.01-.09c-.03,.03-.05,.06-.08,.09Z">
+    </path>
+				<g>
+					<path class="altr-1" d="M0,32.94c33.83,3.81,43.38-5.9,51.61-15.74H0v15.74Z">
+     </path>
+					<path class="altr-1" d="M0,54.74v-15.74H101.33s0-15.74,0-15.74C36.13,12.76,69.91,62.62,0,54.74Z">
+     </path>
+					<path class="altr-1" d="M101.33,1.46c-33.58-5.41-40.9,5.2-49.66,15.67,0,.02,0,.04,0,.07h49.65V1.46Z">
+     </path>
+					<path class="altr-1" d="M0,76.54v-15.74H101.33s0-15.74,0-15.74C36.13,34.56,69.91,84.42,0,76.54Z">
+     </path>
+					<path class="altr-1" d="M0,98.34v-15.74H101.33s0-15.74,0-15.74C36.13,56.36,69.91,106.22,0,98.34Z">
+     </path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

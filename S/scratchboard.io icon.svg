@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<style>
+    .sketch {
+      fill: none;
+      stroke: #4285F4;
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+	<!-- Main body -->
+	<path class="sketch" d="M10 30 Q10 25 15 25 L85 25 Q90 25 90 30 L90 80 Q90 85 85 85 L15 85 Q10 85 10 80 Z"/>
+	<!-- Left eye -->
+	<circle class="sketch" cx="35" cy="55" r="10"/>
+	<!-- Right eye -->
+	<circle class="sketch" cx="65" cy="55" r="10"/>
+	<!-- Antenna -->
+	<path class="sketch" d="M48 25 L50 5 L52 25"/>
+	<!-- Set divider (resembling a bracket) -->
+	<path class="sketch" d="M30 15 L20 50 L30 85"/>
+	<!-- Hammer -->
+	<path class="sketch" d="M70 15 L80 50 L70 85 M65 50 L95 50"/>
+</svg>

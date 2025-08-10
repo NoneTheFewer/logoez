@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+	<path id="A" d="M322 114c56-.8 161 45.6 171 120l.7 238c-.7 22.2-12.8 36.2-36 36.6l-243 .2-67.5-87.7h208c26-1 43.5-13.6 49-38 0 0 4.3-159-2.4-163-62-89.6-159-84-211-5 9-60.8 62-106 131-102z" fill="#00a652"/>
+	<use transform="rotate(180 255 257)" xlink:href="#A"/>
+	<circle cx="252" cy="262" fill="#fed519" r="74.7"/>
+</svg>

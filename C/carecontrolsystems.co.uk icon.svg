@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 69">
+	<style>
+    .gr1 {
+        fill: #a0d9d9;
+    }
+    .gr2 {
+        fill: #1ab8af;
+    }
+    .bl1 {
+        fill: #99c0d9;
+    }
+    .bl2 {
+        fill: #0567a5;
+    }
+    .fr1 {
+        fill: #022a44;
+    }
+    .fr2 {
+        fill: #0d3759;
+    }
+    </style>
+	<path d=" M 0 44.7 A 22.4 22.4 0 0 1 44.8 44.7" class="gr1"/>
+	<path d=" M 22.4 67.1 A 22.4 22.4 0 0 1 0 44.7 L 67.3 44.7 L 67.3 67.1" class="gr2"/>
+	<path d="M 22.4 22.4 A 22.4 22.4 0 0 1 67.2 22.4" class="bl1"/>
+	<path d="M 67.2 22.4 A 22.4 22.4 0 0 1 22.4 22.4" class="bl2"/>
+	<path d="M 67.3 22.3 A 22.4 22.4 0 0 1 67.3 67.1" class="fr2"/>
+	<path d="M 67.3 67.1 A 22.4 22.4 0 0 1 67.3 22.3" class="fr1"/>
+</svg>
