@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 1572">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1572 1572">
 	<defs>
 		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
 			<path d="m-15359.42-2347.55h21491.43v12094.61h-21491.43z"/>
@@ -8,7 +8,7 @@
 	<style>
 		.s0 { fill: #cf5f28 } 
 	</style>
-	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)" transform="translate(446 0)">
 		<g id="Page 1">
 			<path id="Path 4" fill-rule="evenodd" class="s0" d="m679.7 0.8v220.6l-457.8 227.4 340.3 169.1-222.8 109.7-339.2-168v-220.6zm0 1012.4v220.6l-221.6-110.9zm-679.4-116.4v-220.6l221.6 109.7zm679.4 454.7v220.6l-679.4-338.2v-220.6l679.4-337.1v220.6l-457.8 227.3zm0-1012.3v219.5l-221.6-109.8z"/>
 		</g>

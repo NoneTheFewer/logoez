@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.163 14.618">
+	<style>
+		.cls0 { fill: url(#myGradient); }
+		.cls1 { fill: url(#myGradient2); }
+	</style>
+	<defs>
+		<linearGradient id="myGradient" gradientTransform="rotate(-40 0.3 0.3)">
+			<stop offset="5%" stop-color="#e54d84"/>
+			<stop offset="95%" stop-color="#fccd75"/>
+		</linearGradient>
+		<linearGradient id="myGradient2">
+			<stop offset="15%" stop-color="#fccd75" stop-opacity="1"/>
+			<stop offset="35%" stop-color="#fccd75" stop-opacity="1"/>
+			<stop offset="95%" stop-color="#fccd75" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(0 -.68)">
+		<path d="M 13.802,2.212 A 0.767,0.767 0.0 0,0 13.802,0.678 L 13.802,2.212 M 14.62,7.988 A 0.767,0.767 0.0 0,0 13.086,7.988 L 14.62,7.988 M 2.81,2.212 L 13.802,2.212 L 13.802,0.678 L 2.811,0.678 L 2.81,2.212 M 11.809,13.764 L 2.81,13.764 L 2.81,15.298 L 11.808,15.298 L 11.809,13.764 M 1.534,12.487 L 1.534,3.489 L 0.0,3.489 L 0.0,12.487 L 1.534,12.487 M 13.086,7.987 L 13.086,12.487 L 14.62,12.487 L 14.62,7.987 L 13.086,7.987 M 2.811,13.765 A 1.277,1.277 0.0 0,1 1.534,12.488 L 0.0,12.488 A 2.81,2.81 0.0 0,0 2.81,15.298 L 2.811,13.765 M 11.809,15.299 A 2.81,2.81 0.0 0,0 14.619,12.488 L 13.086,12.488 C 13.086,13.194 12.515,13.765 11.809,13.765 L 11.809,15.299 M 2.81,0.678 A 2.81,2.81 0.0 0,0 0.0,3.488 L 1.534,3.488 C 1.534,2.783 2.105,2.212 2.811,2.212 L 2.81,0.678" class="cls0"/>
+		<path d="M 20.163,0.678 L 13.493,0.678 L 13.493,2.212 L 20.163,2.212 L 20.163,0.678" class="cls1"/>
+	</g>
+</svg>
