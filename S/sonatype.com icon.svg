@@ -1,11 +1,10 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 150 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M37.75 17.5981L25 10.1606L12.25 17.5981V32.4019L25 39.8394L37.75 32.4019V17.5981ZM43 35.5V14.5L25 4L7 14.5V35.5L25 46L43 35.5Z" fill="url(#paint0_linear_9176_15329)"/>
 	<defs>
-		<style>.cls-1{fill:url(#New_Gradient_Swatch_3);}</style>
-		<linearGradient id="New_Gradient_Swatch_3" x1="14.28" y1="27.86" x2="107.98" y2="100.6" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#8002ef"/>
-			<stop offset="1" stop-color="#4ba9ea"/>
+		<linearGradient id="paint0_linear_9176_15329" x1="14.125" y1="9.72727" x2="43.8213" y2="34.7801" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#7230EE"/>
+			<stop offset="1" stop-color="#4BA9EA"/>
 		</linearGradient>
 	</defs>
-	<path class="cls-1" d="M75,29.18,35.32,52.09V97.91L75,120.82l39.68-22.91V52.09Zm28.3,62.16L75,107.68,46.7,91.34h0V58.66h0L75,42.32l28.3,16.34h0V91.34Z"/>
 </svg>

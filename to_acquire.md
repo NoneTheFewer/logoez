@@ -8,3 +8,4 @@ This is a list of icons I'd love to get in proper vector format, written down so
 * [Transmit](https://panic.com/transmit/)
 * [SudokuPad](https://sudokupad.app/)
 * [SudokuWiki](https://www.sudokuwiki.org/sudoku.htm)
+* [ClamWin](https://clamwin.com/)

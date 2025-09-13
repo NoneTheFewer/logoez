@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260">
+	<title>logo</title>
+	<defs>
+		<linearGradient id="gradient-s0" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(25)">
+			<stop offset="0%" stop-color="#ed5239"/>
+			<stop offset="100%" stop-color="#ec29ca"/>
+		</linearGradient>
+		<linearGradient id="gradient-s1" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(25)">
+			<stop offset="0%" stop-color="#ff2ff8"/>
+			<stop offset="100%" stop-color="#9073fc"/>
+		</linearGradient>
+		<linearGradient id="gradient-s2" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(25)">
+			<stop offset="0%" stop-color="#1f9dec"/>
+			<stop offset="100%" stop-color="#3eddb9"/>
+		</linearGradient>
+	</defs>
+	<g>
+		<path fill-rule="evenodd" fill="url(#gradient-s0)" d="m40 0h220v220h-220z"/>
+		<path fill-rule="evenodd" fill="url(#gradient-s1)" d="m20 20h220v220h-220z"/>
+		<path fill-rule="evenodd" fill="url(#gradient-s2)" d="m0 40h220v220h-220z"/>
+	</g>
+</svg>

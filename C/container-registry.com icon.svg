@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 600 600">
+	<title>Container Registry</title>
+	<g id="Cross">
+		<g id="g220">
+			<g id="g250">
+				<path id="polygon200" fill="#D03808" fill-rule="nonzero" d="M257 326v6l-41 23-5-8 41-24 5 3Z"/>
+				<path id="polygon202" fill="#D03808" fill-rule="nonzero" d="m77 425 4 8 44-25-5-9-43 26Z"/>
+				<path id="polygon204" fill="#D03808" fill-rule="nonzero" d="m145 385 5 9 41-24-5-8-41 23Z"/>
+				<path id="polygon206" fill="#D03808" fill-rule="nonzero" d="m384 355 5-8-41-24-5 3v6l41 23Z"/>
+				<path id="polygon208" fill="#D03808" fill-rule="nonzero" d="m475 408 5-9 43 26-4 8-44-25Z"/>
+				<path id="polygon210" fill="#D03808" fill-rule="nonzero" d="m409 370 5-8 41 23-5 9-41-24Z"/>
+				<path id="polygon212" fill="#D03808" d="M295 126h10v48h-10z"/>
+				<path id="polygon214" fill="#D03808" d="m299 252-4-2v-48h9v48l-5 2Z"/>
+				<path id="polygon216" fill="#D03808" d="M295 47h10v50h-10z"/>
+			</g>
+		</g>
+		<g id="g173">
+			<path id="path171" fill="#3B3B3B" fill-rule="nonzero" d="m311 6 238 138 8 4 3 2v300l-3 1-8 5-119 69-101 58-8 5v-49l3-1 85-50 85-49 24-13V199L321 312v276l-3 1-16 10-2 1-3-1-16-10-2-1V312L82 198v228l15 9 134 77 45 26 3 1v49l-8-5-101-58-120-69-8-5-2-1V150l3-1 8-5L289 6l8-5 3-1 3 1 8 5ZM103 162l197 114 197-114L316 58l-16-10-33 19-2 2-162 93Z"/>
+		</g>
+	</g>
+	<style>
+    @media (prefers-color-scheme:light){
+      :root{
+        filter:none
+      }
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        #g173{
+            path {fill:white;}
+        }
+      }
+    }
+  </style>
+</svg>

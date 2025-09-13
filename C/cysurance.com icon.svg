@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32">
+	<defs>
+		<style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+		<linearGradient id="linear-gradient" x1="-82.45" y1="59.6" x2="-82.63" y2="59.39" gradientTransform="translate(5744.07 5257.54) scale(69.38 -88.08)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7755a3"/>
+			<stop offset="1" stop-color="#5a55a5"/>
+		</linearGradient>
+	</defs>
+	<g id="Group-5">
+		<path id="Combined-Shape" class="cls-1" d="M11.28,8.13c.87-.87,2.27-.87,3.14,0h0c.87.88.87,2.28,0,3.15h0l-4.71,4.71,9.44,9.44,4.71-4.71c.87-.87,2.27-.87,3.14,0,.87.87.87,2.27,0,3.14h0l-6.3,6.3c-.87.87-2.27.87-3.14,0h0l-9.44-9.44h0s-3.15-3.15-3.15-3.15c-.87-.87-.87-2.27,0-3.14h0l6.3-6.3ZM20.72,1.85l6.29,6.29c.87.87.87,2.28,0,3.15-.87.87-2.28.87-3.15,0l-6.29-6.29c-.87-.87-.87-2.28,0-3.15.87-.87,2.28-.87,3.15,0Z"/>
+	</g>
+</svg>

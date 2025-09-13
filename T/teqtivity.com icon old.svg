@@ -1,10 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
-	<style>
-		.cls0 { fill: #FFFFFF; }
-		.cls1 { fill: #3864b0; }
-	</style>
-	<polygon points="9,30.5 70,0 132,31 70.5,65" class="cls1"/>
-	<polygon points="75,76 139,42 139,110 75,144" class="cls1"/>
-	<path fill-rule="evenodd" d="M 64,144 L 5,111 L 5,42 64,76 M 49,119 19,102 19,67 49,84" class="cls0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+	<path d="M12.1512 23.9149L19.3217 27.8689V35.4894L12.1512 31.5353V23.9149Z" fill="#32312D"/>
+	<path d="M38.6822 14.8802L24.38 22.4681L10 14.8802L24.38 8L38.6822 14.8802Z" fill="#005FE1"/>
+	<path d="M25.7752 42L25.7752 25.6838L40 17.4043L40 33.7115L25.7752 42Z" fill="#005FE1"/>
 </svg>
