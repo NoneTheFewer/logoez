@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 115">
+	<title>Parrot QA</title>
+	<desc>Logo</desc>
+	<g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Shapes">
+			<polygon id="BlTri1" fill="#3399CC" points="25 68 25 98 0 83"/>
+			<polygon id="BlTri2" fill="#3399CC" points="25 34 25 64 0 49"/>
+			<polygon id="BlTri3" fill="#3399CC" transform="translate(12.500000, 66.000000) rotate(-180.000000) translate(-12.500000, -66.000000) " points="25 51 25 81 0 66"/>
+			<polygon id="BlTri4" fill="#3399CC" transform="translate(12.500000, 100.000000) rotate(-180.000000) translate(-12.500000, -100.000000) " points="25 85 25 115 0 100"/>
+			<polygon id="PrpTri" fill="#996699" transform="translate(12.500000, 32.000000) rotate(-180.000000) translate(-12.500000, -32.000000) " points="25 17 25 47 0 32"/>
+			<polygon id="RedTri" fill="#996666" points="25 5.77098115e-14 25 30 0 15"/>
+			<polygon id="YlwTri" fill="#FFCC66" transform="translate(39.500000, 15.000000) rotate(-180.000000) translate(-39.500000, -15.000000) " points="52 5.77098115e-14 52 30 27 15"/>
+			<polygon id="LtGrTri" fill="#6CC497" points="52 17 52 47 27 32"/>
+			<polygon id="DkGrTri" fill="#669933" transform="translate(39.500000, 49.000000) rotate(-180.000000) translate(-39.500000, -49.000000) " points="52 34 52 64 27 49"/>
+		</g>
+	</g>
+</svg>
