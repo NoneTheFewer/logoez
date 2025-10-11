@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.375 85" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<use xlink:href="#A" x="2.188" y="2.5"/>
+	<symbol id="A" overflow="visible">
+		<g fill="#876929" stroke="none">
+			<path d="M30.032 57.551l35.503 7.998L70 63.431V16.57l-4.465-2.119-35.503 7.881v35.219z"/>
+			<path d="M30.032 15.957V64.11l23.597 7.075 6.538-3.1V11.914l-6.538-3.1-23.597 7.143z"/>
+		</g>
+		<path d="M60.167 68.085l-6.538 3.1V8.814l6.538 3.1v56.171zM70 63.431l-4.465 2.119V14.451L70 16.57v46.861z" stroke="none" fill="#d9a741"/>
+		<path d="M35 0L0 16.57V63.44L35 80l10.469-4.956V4.956zM24.531 56.365l-10.407-2.323V25.957l10.407-2.294z" fill="#876929" stroke="none"/>
+		<path d="M4.475 55.335l20.045 5.695.01-4.694-10.407-2.294-9.648 1.292z" fill="#fad791" stroke="none"/>
+		<path d="M14.123 54.042l-9.648 1.293V24.674l9.648 1.283v28.086z" fill="#d9a741" stroke="none"/>
+		<path d="M24.531 23.664l-10.407 2.294-9.648-1.283 20.056-5.705v4.694z" fill="#624a1e" stroke="none"/>
+		<path d="M45.469 75.044L35 80V0l10.469 4.956v70.088z" fill="#d9a741" stroke="none"/>
+	</symbol>
+</svg>

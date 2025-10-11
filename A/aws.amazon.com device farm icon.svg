@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.375 85" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<style>.B{stroke:none}.C{fill:#ad688b}.D{fill:#692f56}.E{fill:#cfb2c1}</style>
+	<use xlink:href="#A" x="2.188" y="2.5"/>
+	<symbol id="A" overflow="visible">
+		<path d="M34.814 43.727l-4.725-.215L0 44.683l4.497 20.79 30.317-21.746zM70 44.751l-5.751-.234-10.506.849 6.217 22.839L70 44.751z" class="B E"/>
+		<path d="M70 35.298l-34.824 1.376L.145 35.298 35.093 0 70 35.298z" fill="#512843" class="B"/>
+		<path d="M34.814 43.727L4.497 45.112v20.361l30.317-6.654V43.727z" class="B C"/>
+		<path d="M53.557 43.99l-6.641-.263L9.864 45.62l6.383 25.434 37.31-27.063z" class="B E"/>
+		<path d="M70 35.298L35.093 32V0L70 16.488v18.81z" class="B C"/>
+		<path d="M.145 35.298L35.093 32V0L.145 16.488v18.81zm4.352 9.814L0 44.683v18.654l4.497 2.136V45.112z" class="B D"/>
+		<path d="M53.556 60.156l-37.31 10.898v-24.82l37.31-2.244v16.166z" class="B C"/>
+		<path d="M9.864 45.62l6.383.615v24.82L9.864 68.02v-22.4z" class="B D"/>
+		<path d="M70 44.751v18.683l-10.04 4.771V45.697L70 44.751z" class="B C"/>
+		<path d="M53.743 66.4l6.217 1.805V45.698l-6.217-.332V66.4z" class="B D"/>
+		<path d="M53.557 46.303l-10.465-.644-18.443 1.346 10.444 32.995 18.464-33.698z" class="B E"/>
+		<path d="M53.557 46.302v24.937L35.093 80V48.068l18.464-1.766z" class="B C"/>
+		<path d="M24.649 47.005l10.444 1.063V80l-10.444-4.956V47.005z" class="B D"/>
+	</symbol>
+</svg>

@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" zoomAndPan="disable" viewBox="0 0 1125 1125" preserveAspectRatio="xMidYMid meet" baseProfile="tiny-ps">
+<svg xmlns="http://www.w3.org/2000/svg" zoomAndPan="disable" viewBox="0 0 1125 1125">
 	<style>
 		.blue2 { fill: #007bb4; }
 		.blue1 { fill: #09508e; }
 	</style>
-	<rect x="-112.5" width="1350" fill="lightgrey" y="-112.499995" height="1350" fill-opacity="1"/>
 	<path fill="#ffffff" d="M 629.886719 890.277344 L 846.921875 662.6875 L 884.25 530.054688 L 782.503906 376.195312 L 438.109375 65.609375 L 246.332031 258.386719 L 562.402344 570.984375 L 617.835938 687.457031 L 615.160156 780.5 Z M 629.886719 890.277344 " fill-opacity="1" fill-rule="nonzero"/>
 	<path class="blue2" d="M 455.179688 1048.917969 C 455.179688 1048.917969 609.804688 920.375 609.804688 907.332031 C 609.804688 894.292969 629.886719 711.554688 629.886719 711.554688 L 551.570312 570.984375 L 246.332031 858.144531 Z M 455.179688 1048.917969 " fill-opacity="1" fill-rule="nonzero"/>
 	<g>

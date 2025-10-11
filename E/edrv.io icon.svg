@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Calque 1" viewBox="0 0 64.26 71.19">
+	<defs>
+		<style>
+      .cls-1 {
+        fill: #221b4a;
+      }
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+      .cls-2 {
+        fill: #0094d8;
+      }
+    </style>
+	</defs>
+	<g id="Groupe_239">
+		<path id="Tracé_22307" class="cls-2" d="m0,53.39l30.84,17.8v-17.8L0,35.59v17.8Z"/>
+		<path id="Tracé_22308" class="cls-1" d="m0,35.59v17.8l30.84-17.8v-17.79L0,35.59Z"/>
+		<path id="Tracé_22309" class="cls-1" d="m33.42,53.39l30.84-17.8v-17.79l-30.83,17.8v17.79Z"/>
+		<path id="Tracé_22310" class="cls-2" d="m33.42,0v17.8l30.84,17.8v-17.8L33.42,0Z"/>
+	</g>
+</svg>

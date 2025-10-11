@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.375 85" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<use xlink:href="#A" x="2.188" y="2.5"/>
+	<symbol id="A" overflow="visible">
+		<g stroke="none">
+			<path d="M53.626 61.6l-18.631-3.902L16.364 61.6 34.995 80l18.631-18.4z" fill="#fcbf92"/>
+			<path d="M0 26.185L34.995 0 70 26.185l-35.005 4.049L0 26.185z" fill="#6b3b19"/>
+			<path d="M34.995 16.419L70 26.185v-9.619L34.995 0v16.419zm27.978 20.956l-27.977-1.297v16l27.978-4V37.375z" fill="#f58534"/>
+			<path d="M7.018 37.375l27.977-1.297v16l-27.977-4V37.375zm27.977-20.956L0 26.185v-9.619L34.995 0v16.419z" fill="#9d5025"/>
+			<path d="M53.626 61.6l-18.631 6.107V80l18.631-8.819V61.6z" fill="#f58534"/>
+			<path d="M16.364 61.6l18.631 6.107V80L16.364 71.18V61.6z" fill="#9d5025"/>
+		</g>
+	</symbol>
+</svg>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 150 150" xml:space="preserve">
-	<rect fill="#FFFFFF" width="150" height="150"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
 	<path fill="#FFCF33" d="M47.8,67c0-11.1,9-20,20.1-20H73v35c0,11.1-9,20-20.1,20h-5.2V67z"/>
 	<path fill="#FFCF33" d="M18,64.2c0,11.1,9,20,20.1,20h5.2V67c0-11.1-9-20-20.1-20H18V64.2z"/>
 	<path fill="#FFD755" d="M43.3,84.1L18.2,47h5.1c11.1,0,20.1,9,20.1,20V84.1z"/>

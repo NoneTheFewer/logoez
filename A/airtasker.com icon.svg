@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 160 160">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
 	<g>
-		<rect y="-0.1" fill="#FFFFFF" width="160" height="160"/>
 		<circle fill="#0A65FC" cx="80" cy="80" r="80"/>
 		<path fill-rule="evenodd" fill="#F9F3EF" d="M68.6,109.1l-5.1,14.2H45.1l24.7-66.5l11.7-7c-2.6,0.6-5.3,0.8-7.6,0.8   c-12.4,0-19.5-5.8-23.1-15.6H105v88.1H88.3v-15.4c-1,0.1-2.4,0.3-3.3,0.3c-8.8,0-15.7-3.1-20.7-9.3L68.6,109.1z M88.5,53.9   L75.7,89.5c1.7,2.1,5.3,3.8,9,3.6c1.4,0,2.8-0.3,3.6-0.6L88.5,53.9z"/>
 	</g>

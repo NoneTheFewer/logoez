@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 100" enable-background="new 0 0 280 100">
+	<style type="text/css">
+	.st0{fill:#757575;}
+	.st1{fill:#424242;}
+</style>
+	<rect x="230" class="st0" width="50" height="50"/>
+	<rect x="230" y="50" width="50" height="50"/>
+	<rect x="115" class="st0" width="100" height="50"/>
+	<rect x="115" class="st1" width="50" height="50"/>
+	<polyline class="st1" points="100,100 0,100 0,0 100,100 "/>
+	<polygon class="st0" points="0,100 100,100 100,0 "/>
+	<polygon points="0,100 100,100 50,50 "/>
+	<circle cx="165" cy="50" r="50"/>
+	<circle class="st1" cx="255" cy="25" r="25"/>
+</svg>

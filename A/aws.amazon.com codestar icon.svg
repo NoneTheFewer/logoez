@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 67 81" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<style>.B{stroke:none}.C{fill:#303030}.D{fill:#759c3e}.E{fill:#4b612c}</style>
+	<use xlink:href="#A" x=".5" y=".5"/>
+	<symbol id="A" overflow="visible">
+		<path d="M66 40v23.75l-5 2.75V40 13.5l5 2.75z" class="B D"/>
+		<path d="M47 40v33l-7-2.75V40 9.75L47 7z" class="B E"/>
+		<path d="M61 40v26.5l-6-2V40 15.5l6-2z" class="B E"/>
+		<path d="M44 40v29.5L40 71v5.75L33 80V40 0l7 3.25V9l4 1.5z" class="B D"/>
+		<path d="M58 40v23.25l-3 1.25v5L47 73V40 7l8 3.5v5l3 1.25z" class="B D"/>
+		<path d="M0 40v23.75l5 2.75V40 13.5l-5 2.75z" class="B E"/>
+		<path d="M19 40v33l7-2.75V40 9.75L19 7z" class="B D"/>
+		<path d="M5 40v26.5l6-2V40 15.5l-6-2z" class="B D"/>
+		<path d="M22 40v29.5l4 1.5v5.75L33 80V40 0l-7 3.25V9l-4 1.5z" class="B E"/>
+		<path d="M8 40v23.25l3 1.25v5l8 3.5V40 7l-8 3.5v5l-3 1.25z" class="B E"/>
+	</symbol>
+</svg>

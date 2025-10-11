@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 81 81" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<style>.B{stroke:none}.C{fill:#80dadd}.D{fill:#03b5bb}.E{fill:#027f83}</style>
+	<use xlink:href="#A" x=".5" y=".5"/>
+	<symbol id="A" overflow="visible">
+		<path d="M49.5 31.25l-9-4 8.5-26z" class="B C"/>
+		<g transform="matrix(.707107 .707107 -.707107 .707107 60.074711 5.431107)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M0 26L9 0v26z" class="E"/>
+		</g>
+		<g transform="matrix(0 1 -1 0 78.3624 29.682)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M0 26L9 0v26z" class="E"/>
+		</g>
+		<g transform="matrix(-.707107 .707107 -.707107 -.707107 74.363293 59.644311)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M0 26L9 0v26z" class="E"/>
+		</g>
+		<g transform="matrix(-1 0 0 -1 50.1124 77.932)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M0 26L9 0v26z" class="E"/>
+		</g>
+		<g transform="matrix(-.707107 -.707107 .707107 -.707107 19.855689 73.988293)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M0 26L9 0v26z" class="E"/>
+		</g>
+		<g transform="matrix(0 -1 1 0 1.693 49.6124)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M.25 26l9-26v26z" class="E"/>
+		</g>
+		<g transform="matrix(.707107 -.707107 .707107 .707107 5.823307 19.541489)" class="B">
+			<use xlink:href="#C" class="C"/>
+			<use xlink:href="#D" class="D"/>
+			<path d="M0 26L9 0v26z" class="E"/>
+		</g>
+		<g class="B">
+			<path d="M30 27.25l9-26v26z" class="E"/>
+			<path d="M40.5 27.25l8.5-26H39v26z" class="D"/>
+		</g>
+	</symbol>
+	<defs>
+		<path id="C" d="M19.5 30l-9-4L19 0z"/>
+		<path id="D" d="M10.5 26L19 0H9v26z"/>
+	</defs>
+</svg>
