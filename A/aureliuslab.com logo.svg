@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 22">
+	<title>Aurelius</title>
+	<defs>
+		<polygon id="path-1" points="0 76.3607595 94.9203323 76.3607595 94.9203323 0.193306962 0 0.193306962"/>
+	</defs>
+	<g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Homepage-–-V1" transform="translate(-133.000000, -36.000000)">
+			<g id="Group-3-Copy-3" transform="translate(133.000000, 36.000000)">
+				<g id="Group-7-Copy" transform="translate(0.000000, 3.600000) scale(1)">
+					<polygon id="Fill-1" fill="#F7952C" points="4.88274772 3.86834383 10.1262279 17.4 17.3412988 13.5323001 12.0977132 0.000643943599"/>
+					<polygon id="Fill-2" fill="#70C6D2" points="4.88284262 3.86834383 0 17.3574342 7.59279128 13.4104965 12.0977026 0.000643943599"/>
+					<polygon id="Fill-3" fill="#000000" points="4.88269499 3.8682456 4.88174594 3.87086503 8.0511384 12.0460019 12.0978713 0"/>
+				</g>
+				<text id="aurelius" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.24" font-weight="bold" fill="#222222">
+					<tspan x="23.2327807" y="18">aurelius</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

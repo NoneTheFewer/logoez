@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.87 360">
+	<style>.st0{fill:#005e81}.st3{font-family:'HelveticaNeue'}.st4{font-size:70px}</style>
+	<path d="M20.09 63.79h190.58v196.56l-95.35 57.36-95.23-59.19z" class="st0"/>
+	<path d="M32.58 76.49h165.6v178.68l-82.85 49.84-82.75-51.43z" fill="#fff"/>
+	<path d="M42.84 89.15h145.08v158.88l-72.58 44.31-72.5-45.73z" class="st0"/>
+	<path d="M251.38 144.37h618.26v68.78H251.38z" fill="none"/>
+	<text transform="translate(251.375 194.347)">
+		<tspan x="0" y="0" class="st0 st3 st4">Information</tspan>
+		<tspan x="362.94" y="0" class="st0 st3 st4" letter-spacing="-17"> </tspan>
+		<tspan x="364.9" y="0" class="st4" font-family="'HelveticaNeue-Bold'" fill="#2e457e">Shield</tspan>
+	</text>
+</svg>

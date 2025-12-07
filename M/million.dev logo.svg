@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 109" preserveAspectRatio="xMidYMid">
 	<defs>
-		<radialGradient cx="49.9999398%" cy="49.9986554%" fx="49.9999398%" fy="49.9986554%" r="32.3059134%" gradientTransform="translate(0,5, 0,5), scale(0,448, 1), rotate(92,849), translate(-0,5, -0,5)" id="radialGradient-1">
+		<radialGradient cx="49.9999398%" cy="49.9986554%" fx="49.9999398%" fy="49.9986554%" r="32.3059134%" id="radialGradient-1">
+			<stop stop-color="#845CE7" offset="0%"/>
+			<stop stop-color="#AF73DB" offset="100%"/>
+		</radialGradient>
+		<radialGradient cx="50.0606294%" cy="104.166644%" fx="50.0606294%" fy="104.166644%" r="67.3009497%" id="radialGradient-2">
 			<stop stop-color="#845CE7" offset="0%"/>
 			<stop stop-color="#AF73D8" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="50.0606294%" cy="104.166644%" fx="50.0606294%" fy="104.166644%" r="67.3009497%" gradientTransform="translate(0,5006, 1,0417), scale(0,4435, 1), rotate(92,7908), translate(-0,5006, -1,0417)" id="radialGradient-2">
+		<radialGradient cx="99.1220389%" cy="34.2223886%" fx="99.1220389%" fy="34.2223886%" r="42.5206194%" id="radialGradient-3">
 			<stop stop-color="#845CE7" offset="0%"/>
 			<stop stop-color="#AF73D8" offset="100%"/>
 		</radialGradient>
-		<radialGradient cx="99.1220389%" cy="34.2223886%" fx="99.1220389%" fy="34.2223886%" r="42.5206194%" gradientTransform="translate(0,9912, 0,3422), scale(0,6888, 1), rotate(92,7908), translate(-0,9912, -0,3422)" id="radialGradient-3">
-			<stop stop-color="#845CE7" offset="0%"/>
-			<stop stop-color="#AF73D8" offset="100%"/>
-		</radialGradient>
-		<radialGradient cx="0.877957622%" cy="34.2104631%" fx="0.877957622%" fy="34.2104631%" r="42.5058021%" gradientTransform="translate(0,0088, 0,3421), scale(0,689, 1), rotate(92,7908), translate(-0,0088, -0,3421)" id="radialGradient-4">
+		<radialGradient cx="0.877957622%" cy="34.2104631%" fx="0.877957622%" fy="34.2104631%" r="42.5058021%" id="radialGradient-4">
 			<stop stop-color="#845CE7" offset="0%"/>
 			<stop stop-color="#AF73D8" offset="100%"/>
 		</radialGradient>

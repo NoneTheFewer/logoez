@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10000 10000" enable-background="new 0 0 10000 10000" xml:space="preserve">
-	<polygon fill="#39449D" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="6495.5,826.01 7625.5,173.773   8755.5,826.01 8755.5,2130.48 7625.5,2782.717 6495.5,2130.48 "/>
-	<polygon fill="#8E396B" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="7625.5,2786.521 8755.5,2134.287   9885.5,2786.521 9885.5,4090.993 8755.5,4743.229 7625.5,4090.993 "/>
-	<polygon fill="#E74865" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="5365.5,2786.521 6495.5,2134.287   7625.5,2786.521 7625.5,4090.993 6495.5,4743.229 5365.5,4090.993 "/>
-	<polygon fill="#F0433A" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="4234.5,830.585 5365,178.35   6495.5,830.585 6495.5,2135.056 5365,2787.292 4234.5,2135.056 "/>
-	<polygon fill="#FF5222" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="1974.5,830.585 3104.5,178.35   4234.5,830.585 4234.5,2135.056 3104.5,2787.292 1974.5,2135.056 "/>
-	<polygon fill="#FD5C1E" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="3105.5,2786.521 4235.5,2134.287   5365.5,2786.521 5365.5,4090.993 4235.5,4743.229 3105.5,4090.993 "/>
-	<polygon fill="#FDB513" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="844.5,2786.521 1975,2134.287   3105.5,2786.521 3105.5,4090.993 1975,4743.229 844.5,4090.993 "/>
-	<polygon fill="#FC9912" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="1974.5,4744.745 3104.5,4092.509   4234.5,4744.745 4234.5,6049.216 3104.5,6701.453 1974.5,6049.216 "/>
-	<polygon fill="#FF6F1D" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="4234.5,4744.745 5365,4092.509   6495.5,4744.745 6495.5,6049.216 5365,6701.453 4234.5,6049.216 "/>
-	<polygon fill="#C44676" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="6495.5,4744.745 7625.5,4092.509   8755.5,4744.745 8755.5,6049.216 7625.5,6701.453 6495.5,6049.216 "/>
-	<polygon fill="#FF721E" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="3105.301,6701.314 -3676.081,10620.051   -4805.72,9966.299 1975.07,6049.08 "/>
-	<polygon fill="#FD9B26" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="1974.479,4744.852 -4806.903,8663.588   -5936.542,8009.835 844.249,4092.616 "/>
-	<polygon fill="#FB551C" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="5365.762,6701.314 -1415.62,10620.051   -2545.259,9966.299 4235.531,6049.08 "/>
-	<polygon fill="#39449D" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="7625.04,6701.314 843.657,10620.051   -285.981,9966.299 6494.81,6049.08 "/>
-	<polygon fill="#FF721E" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="-4806.312,9966.74 1973.888,6051.943   1974.479,4743.668 -4806.903,8662.51 "/>
-	<polygon fill="#FD9B26" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="-5935.951,8009.092 844.249,4094.298   844.84,2786.021 -5936.542,6704.863 "/>
-	<polygon fill="#FF4847" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="-4806.312,6053.811 1973.888,2139.018   1974.479,830.742 -4806.903,4749.583 "/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+	<polygon fill="#39449D" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="649.55,82.601 762.55,17.3773   875.55,82.601 875.55,213.048 762.55,278.2717 649.55,213.048 "/>
+	<polygon fill="#8E396B" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="762.55,278.6521 875.55,213.4287   988.55,278.6521 988.55,409.0993 875.55,474.3229 762.55,409.0993 "/>
+	<polygon fill="#E74865" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="536.55,278.6521 649.55,213.4287   762.55,278.6521 762.55,409.0993 649.55,474.3229 536.55,409.0993 "/>
+	<polygon fill="#F0433A" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="423.45,83.0585 536.50,17.835   649.55,83.0585 649.55,213.5056 536.50,278.7292 423.45,213.5056 "/>
+	<polygon fill="#FF5222" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="197.45,83.0585 310.45,17.835   423.45,83.0585 423.45,213.5056 310.45,278.7292 197.45,213.5056 "/>
+	<polygon fill="#FD5C1E" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="310.55,278.6521 423.55,213.4287   536.55,278.6521 536.55,409.0993 423.55,474.3229 310.55,409.0993 "/>
+	<polygon fill="#FDB513" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="84.45,278.6521 197.50,213.4287   310.55,278.6521 310.55,409.0993 197.50,474.3229 84.45,409.0993 "/>
+	<polygon fill="#FC9912" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="197.45,474.4745 310.45,409.2509   423.45,474.4745 423.45,604.9216 310.45,670.1453 197.45,604.9216 "/>
+	<polygon fill="#FF6F1D" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="423.45,474.4745 536.50,409.2509   649.55,474.4745 649.55,604.9216 536.50,670.1453 423.45,604.9216 "/>
+	<polygon fill="#C44676" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="649.55,474.4745 762.55,409.2509   875.55,474.4745 875.55,604.9216 762.55,670.1453 649.55,604.9216 "/>
+	<polygon fill="#FF721E" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="310.5301,670.1314 -367.6081,1062.0051   -480.572,996.6299 197.507,604.908 "/>
+	<polygon fill="#FD9B26" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="197.4479,474.4852 -480.6903,866.3588   -593.6542,800.9835 84.4249,409.2616 "/>
+	<polygon fill="#FB551C" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="536.5762,670.1314 -141.562,1062.0051   -254.5259,996.6299 423.5531,604.908 "/>
+	<polygon fill="#39449D" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="762.504,670.1314 84.3657,1062.0051   -28.5981,996.6299 649.481,604.908 "/>
+	<polygon fill="#FF721E" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="-480.6312,996.674 197.3888,605.1943   197.4479,474.3668 -480.6903,866.251 "/>
+	<polygon fill="#FD9B26" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="-593.5951,800.9092 84.4249,409.4298   84.484,278.6021 -593.6542,670.4863 "/>
+	<polygon fill="#FF4847" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" points="-480.6312,605.3811 197.3888,213.9018   197.4479,83.0742 -480.6903,474.9583 "/>
 </svg>

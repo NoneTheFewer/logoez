@@ -1,55 +1,29 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" class="site-logo js-site-logo-wrap" viewBox="0 0 129.6 90.4" xml:space="preserve">
-	<defs>
-		<linearGradient gradientUnits="userSpaceOnUse" id="gradient">
-			<stop offset="0%" stop-color="#e93535"/>
-			<stop offset="100%" stop-color="#be36ca"/>
-		</linearGradient>
-	</defs>
-	<g class="site-logo js-site-logo">
-		<g class="site-logo-wrap">
-			<g class="menu-bar__logo__site-centers-svg">
-				<g class="site-logo__group site-logo__s">
-					<path class="site-logo__box" d="M45.3,46.9H0V0h45.3V46.9z M3.3,43.5H42V3.3H3.3V43.5z"/>
-					<path class="site-logo__letter" d="M24.1,22l-0.2-0.1c-2.3-0.8-3.2-1.2-3.2-2.4c0-0.9,1-1.6,2.2-1.6c1.2,0.1,2.4,0.7,3.1,1.7l0.2,0.3l2.5-2.4l-0.2-0.2                                 c-1.4-1.7-3.5-2.8-5.7-2.8c-3.6,0-5.8,2.6-5.8,5.1c0,3.3,2.9,4.7,5.4,5.6c2.1,0.7,2.8,1.2,2.8,2.2S23.8,29,22.8,29                                 c-2.3,0-3.6-2.3-3.6-2.3L19,26.3l-2.7,2.3l0.1,0.2c1.4,2.2,3.8,3.6,6.4,3.6c3.7,0,6.1-2,6.1-5C29,24,26.6,22.9,24.1,22z"/>
-				</g>
-				<g class="site-logo__group-ite">
-					<g class="site-logo__group site-logo__i">
-						<path class="site-logo__box" d="M87.3,46.9H42V0h45.3L87.3,46.9L87.3,46.9z M45.3,43.5h38.6V3.3H45.3V43.5z"/>
-						<rect class="site-logo__letter" height="17.3" width="3.6" x="62.8" y="14.8"/>
-					</g>
-					<g class="site-logo__group site-logo__t">
-						<path class="site-logo__box" d="M87.3,90.4H42V43.5h45.3L87.3,90.4L87.3,90.4z M45.3,87.1h38.6V46.9H45.3V87.1z"/>
-						<polygon class="site-logo__letter" points="58.3,58.3 58.3,61.7 62.8,61.7 62.8,75.6 66.4,75.6 66.4,61.7 70.9,61.7 70.9,58.3 "/>
-					</g>
-					<g class="site-logo__group site-logo__e">
-						<path class="site-logo__box" d="M129.2,90.4H83.9V43.5h45.3V90.4z M87.3,87.1h38.6V46.9H87.3V87.1z"/>
-						<polygon class="site-logo__letter" points="104.7,72.2 104.7,68.4 111.3,68.4 111.3,65 104.7,65 104.7,61.7 111.9,61.7 111.9,58.3 101.1,58.3 101.1,75.6                                 112,75.6 112,72.2 "/>
-					</g>
-				</g>
-			</g>
-		</g>
-		<g class="site-logo-wrap">
-			<g class="menu-bar__logo__site-centers-svg-gradient" fill="url(#gradient)">
-				<g class="site-logo__group site-logo__s">
-					<path class="site-logo__box" d="M45.3,46.9H0V0h45.3V46.9z M3.3,43.5H42V3.3H3.3V43.5z"/>
-					<path class="site-logo__letter" d="M24.1,22l-0.2-0.1c-2.3-0.8-3.2-1.2-3.2-2.4c0-0.9,1-1.6,2.2-1.6c1.2,0.1,2.4,0.7,3.1,1.7l0.2,0.3l2.5-2.4l-0.2-0.2                                 c-1.4-1.7-3.5-2.8-5.7-2.8c-3.6,0-5.8,2.6-5.8,5.1c0,3.3,2.9,4.7,5.4,5.6c2.1,0.7,2.8,1.2,2.8,2.2S23.8,29,22.8,29                                 c-2.3,0-3.6-2.3-3.6-2.3L19,26.3l-2.7,2.3l0.1,0.2c1.4,2.2,3.8,3.6,6.4,3.6c3.7,0,6.1-2,6.1-5C29,24,26.6,22.9,24.1,22z"/>
-				</g>
-				<g class="site-logo__group-ite">
-					<g class="site-logo__group site-logo__i">
-						<path class="site-logo__box" d="M87.3,46.9H42V0h45.3L87.3,46.9L87.3,46.9z M45.3,43.5h38.6V3.3H45.3V43.5z"/>
-						<rect class="site-logo__letter" height="17.3" width="3.6" x="62.8" y="14.8"/>
-					</g>
-					<g class="site-logo__group site-logo__t">
-						<path class="site-logo__box" d="M87.3,90.4H42V43.5h45.3L87.3,90.4L87.3,90.4z M45.3,87.1h38.6V46.9H45.3V87.1z"/>
-						<polygon class="site-logo__letter" points="58.3,58.3 58.3,61.7 62.8,61.7 62.8,75.6 66.4,75.6 66.4,61.7 70.9,61.7 70.9,58.3 "/>
-					</g>
-					<g class="site-logo__group site-logo__e">
-						<path class="site-logo__box" d="M129.2,90.4H83.9V43.5h45.3V90.4z M87.3,87.1h38.6V46.9H87.3V87.1z"/>
-						<polygon class="site-logo__letter" points="104.7,72.2 104.7,68.4 111.3,68.4 111.3,65 104.7,65 104.7,61.7 111.9,61.7 111.9,58.3 101.1,58.3 101.1,75.6                                 112,75.6 112,72.2 "/>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.6 90.4" xml:space="preserve">
+    <defs>
+        <linearGradient gradientUnits="userSpaceOnUse" id="gradient">
+            <stop offset="0%" stop-color="#e93535" />
+            <stop offset="100%" stop-color="#be36ca" />
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M45.3,46.9H0V0h45.3V46.9z M3.3,43.5H42V3.3H3.3V43.5z" />
+        <path d="M24.1,22l-0.2-0.1c-2.3-0.8-3.2-1.2-3.2-2.4c0-0.9,1-1.6,2.2-1.6c1.2,0.1,2.4,0.7,3.1,1.7l0.2,0.3l2.5-2.4l-0.2-0.2 c-1.4-1.7-3.5-2.8-5.7-2.8c-3.6,0-5.8,2.6-5.8,5.1c0,3.3,2.9,4.7,5.4,5.6c2.1,0.7,2.8,1.2,2.8,2.2S23.8,29,22.8,29 c-2.3,0-3.6-2.3-3.6-2.3L19,26.3l-2.7,2.3l0.1,0.2c1.4,2.2,3.8,3.6,6.4,3.6c3.7,0,6.1-2,6.1-5C29,24,26.6,22.9,24.1,22z" />
+        <path d="M87.3,46.9H42V0h45.3L87.3,46.9L87.3,46.9z M45.3,43.5h38.6V3.3H45.3V43.5z" />
+        <rect height="17.3" width="3.6" x="62.8" y="14.8" />
+        <path d="M87.3,90.4H42V43.5h45.3L87.3,90.4L87.3,90.4z M45.3,87.1h38.6V46.9H45.3V87.1z" />
+        <polygon points="58.3,58.3 58.3,61.7 62.8,61.7 62.8,75.6 66.4,75.6 66.4,61.7 70.9,61.7 70.9,58.3 " />
+        <path d="M129.2,90.4H83.9V43.5h45.3V90.4z M87.3,87.1h38.6V46.9H87.3V87.1z" />
+        <polygon points="104.7,72.2 104.7,68.4 111.3,68.4 111.3,65 104.7,65 104.7,61.7 111.9,61.7 111.9,58.3 101.1,58.3 101.1,75.6 112,75.6 112,72.2 " />
+    </g>
+    <g fill="url(#gradient)">
+        <path d="M45.3,46.9H0V0h45.3V46.9z M3.3,43.5H42V3.3H3.3V43.5z" />
+        <path d="M24.1,22l-0.2-0.1c-2.3-0.8-3.2-1.2-3.2-2.4c0-0.9,1-1.6,2.2-1.6c1.2,0.1,2.4,0.7,3.1,1.7l0.2,0.3l2.5-2.4l-0.2-0.2 c-1.4-1.7-3.5-2.8-5.7-2.8c-3.6,0-5.8,2.6-5.8,5.1c0,3.3,2.9,4.7,5.4,5.6c2.1,0.7,2.8,1.2,2.8,2.2S23.8,29,22.8,29 c-2.3,0-3.6-2.3-3.6-2.3L19,26.3l-2.7,2.3l0.1,0.2c1.4,2.2,3.8,3.6,6.4,3.6c3.7,0,6.1-2,6.1-5C29,24,26.6,22.9,24.1,22z" />
+        <path d="M87.3,46.9H42V0h45.3L87.3,46.9L87.3,46.9z M45.3,43.5h38.6V3.3H45.3V43.5z" />
+        <rect height="17.3" width="3.6" x="62.8" y="14.8" />
+        <path d="M87.3,90.4H42V43.5h45.3L87.3,90.4L87.3,90.4z M45.3,87.1h38.6V46.9H45.3V87.1z" />
+        <polygon points="58.3,58.3 58.3,61.7 62.8,61.7 62.8,75.6 66.4,75.6 66.4,61.7 70.9,61.7 70.9,58.3 " />
+        <path d="M129.2,90.4H83.9V43.5h45.3V90.4z M87.3,87.1h38.6V46.9H87.3V87.1z" />
+        <polygon points="104.7,72.2 104.7,68.4 111.3,68.4 111.3,65 104.7,65 104.7,61.7 111.9,61.7 111.9,58.3 101.1,58.3 101.1,75.6 112,75.6 112,72.2 " />
+    </g>
 </svg>

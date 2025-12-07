@@ -5,7 +5,7 @@
 		.gold { fill: #ffcc00; }
 		.bronze { fill: #7a6201; }
 		.brown { fill: #996d03; }
-		.black {#000}
+		.black {fill:#000;}
 		.st0{fill:none;}
 		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#01D4C9;}
 	</style>

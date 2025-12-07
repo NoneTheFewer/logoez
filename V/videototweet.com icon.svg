@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 512 512">
-	<rect id="r4" width="512" height="512" x="0" y="0" fill="url(#r5)" stroke="#FFF" stroke-opacity="100%" stroke-width="0" paint-order="stroke" rx="128"/>
+	<rect id="r4" width="512" height="512" x="0" y="0" fill="url(#r5)" stroke="#FFF" stroke-width="0" paint-order="stroke" rx="128"/>
 	<clipPath id="clip">
 		<use xlink:href="#r4"/>
 	</clipPath>

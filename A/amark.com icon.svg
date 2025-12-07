@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1551 822">
+	<title>AMRK_BIG</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(278.686,-102.363,59.433,161.808,1110.699,587.295)">
+			<stop offset="0" stop-color="#736fab"/>
+			<stop offset="1" stop-color="#c9c3dd"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5195.325,-10093.047,17810.46,9167.81,85344.838,7142.824)">
+			<stop offset="0" stop-color="#736fab"/>
+			<stop offset="1" stop-color="#c9c3dd"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4657.176,-9674.376,17905.042,8619.36,80760.122,4773.89)">
+			<stop offset="0" stop-color="#736fab"/>
+			<stop offset="1" stop-color="#c9c3dd"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4653.701,-9697.246,17986.225,8631.576,76686.441,2901.704)">
+			<stop offset="0" stop-color="#736fab"/>
+			<stop offset="1" stop-color="#c9c3dd"/>
+		</linearGradient>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3667.921,-8649.988,17603.452,7464.527,96144.185,10784.566)">
+			<stop offset="0" stop-color="#736fab" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c9c3dd" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g6" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3683.808,-8794.302,18076.011,7571.783,72053.175,957.345)">
+			<stop offset="0" stop-color="#736fab"/>
+			<stop offset="1" stop-color="#c9c3dd"/>
+		</linearGradient>
+		<linearGradient id="g7" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5180.101,-10028.908,17654.441,9118.818,93635.043,11211.941)">
+			<stop offset="0" stop-color="#736fab"/>
+			<stop offset="1" stop-color="#c9c3dd"/>
+		</linearGradient>
+		<linearGradient id="g8" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(313.473,-115.17,301.191,819.789,591.248,466.802)">
+			<stop offset="0" stop-color="#1d1778"/>
+			<stop offset=".24" stop-color="#26207d"/>
+			<stop offset=".62" stop-color="#3d388b"/>
+			<stop offset="1" stop-color="#5a569d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #1d1778 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: url(#g4) } 
+		.s5 { fill: url(#g5) } 
+		.s6 { fill: url(#g6) } 
+		.s7 { fill: url(#g7) } 
+		.s8 { fill: url(#g8) } 
+	</style>
+	<path class="s0" d="m0 821.2h368.5l148.3-314.4-184.3-405.3z"/>
+	<path class="s1" d="m1446.3 571.9l-29-69.3h-365.1l29.3 69.3z"/>
+	<path class="s2" d="m1393.3 445.3l-30.9-74.4h-366.1l31.4 74.4z"/>
+	<path class="s3" d="m1338.3 313.5l-28.9-69.2h-366.7l29.1 69.2z"/>
+	<path class="s4" d="m918.2 186.7h367.1l-28.7-69.3h-367.8z"/>
+	<path class="s5" d="m1161.7 761.2l25.4 60h363.1l-24.9-60z"/>
+	<path class="s6" d="m1232.5 60l-25.1-60h-368.3l25.4 60z"/>
+	<path class="s7" d="m1470.3 629.5h-364.5l31.4 74.4h364z"/>
+	<path class="s8" d="m388.8 0l347.9 821.2h368.5l-348-821.2z"/>
+</svg>

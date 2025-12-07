@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" class="fo fo-ag " viewBox="0 0 108 72" fill="black">
-	<rect class="fo fo-ai " x="48" width="60" height="20" rx="10"/>
-	<rect class="fo fo-aj " x="25" y="52" width="60" height="20" rx="10"/>
-	<rect class="fo fo-ak " x="49" y="26" width="36" height="20" rx="10"/>
-	<rect class="fo fo-al " y="52" width="20" height="20" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 72" fill="black">
+    <rect x="48" width="60" height="20" rx="10" />
+    <rect x="25" y="52" width="60" height="20" rx="10" />
+    <rect x="49" y="26" width="36" height="20" rx="10" />
+    <rect y="52" width="20" height="20" rx="10" />
 </svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="48.10 71.10 982.80 216.80">
+	<title>Linux China.svg</title>
+	<defs>
+		<style>.gray{fill:#ccc}</style>
+	</defs>
+	<path fill="none" d="M0 0h1080v360H0z"/>
+	<g transform="translate(67.5)">
+		<path id="l" d="M0 270h45l60-180H60z" class="gray"/>
+		<path id="L" d="M0 90v180h120l15-45H45V90z"/>
+		<path d="M165 270h45l15-45h-45zm30-90h45l15-45h-45z" id="i"/>
+		<g id="N">
+			<path d="M315 90h45l30 180h-45z" class="gray"/>
+			<path d="M255 270h45l60-180h-45zm90 0h45l60-180h-45z"/>
+		</g>
+		<path d="M450 135h45v67.5a22.5 22.5 0 0 0 45 0V135h45v67.5a67.5 67.5 0 1 1-135 0z" id="u"/>
+		<g id="x">
+			<path d="M585 270h45l90-135h-45z"/>
+			<path d="M675 270h45l-90-135h-45z"/>
+		</g>
+		<path fill="red" d="M675 270h45l-22.5-33.75z"/>
+		<g id="c" fill="#26a13b">
+			<path d="M787.5 135h15v45h-15a22.5 22.5 0 1 0 22.5 30h45a67.5 67.5 0 1 1-67.5-75z"/>
+		</g>
+		<g id="n" fill="#1493d1">
+			<path d="M810 202.5a67.5 67.5 0 1 1 135 0h-45a22.5 22.5 0 0 0-45 0z"/>
+			<path d="M810 135h45v67.5h-45zm90 67.5h45V270h-45z"/>
+		</g>
+	</g>
+</svg>

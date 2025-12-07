@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 612">
+	<defs>
+		<style>.cls-1{mask:url(#mask);}.cls-2{fill:#4edcd4;}.cls-3{fill:#1cc6ba;}.cls-4{fill:url(#linear-gradient);}.cls-5{filter:url(#luminosity-invert);}</style>
+		<filter id="luminosity-invert" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+		</filter>
+		<mask id="mask" x="0" y="0" width="612" height="612" maskUnits="userSpaceOnUse">
+			<g class="cls-5">
+				<rect width="612" height="612" rx="76.5" ry="76.5" transform="translate(612 612) rotate(-180)"/>
+			</g>
+		</mask>
+		<linearGradient id="linear-gradient" y1="459" x2="612" y2="459" gradientUnits="userSpaceOnUse">
+			<stop offset="0.16" stop-color="#4edcd4"/>
+			<stop offset="1" stop-color="#4edcd4" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<title>symbol</title>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<g class="cls-1">
+				<path class="cls-2" d="M0,306V535.5A76.5,76.5,0,0,0,76.5,612h459A76.5,76.5,0,0,0,612,535.5V306Z"/>
+				<path class="cls-3" d="M76.5,612A76.5,76.5,0,0,1,0,535.5V76.5A76.5,76.5,0,0,1,76.5,0h459A76.5,76.5,0,0,1,612,76.5c0,42.25-76.5,118.75-246.62,288.88S118.76,612,76.5,612Z"/>
+				<path class="cls-4" d="M0,535.5A76.5,76.5,0,0,0,76.5,612h459A76.5,76.5,0,0,0,612,535.5V306H0Z"/>
+			</g>
+		</g>
+	</g>
+</svg>

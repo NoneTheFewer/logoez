@@ -1,12 +1,23 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 402 402" xml:space="preserve">
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="100.2667" y1="296.9621" x2="303.4023" y2="93.8265">
-		<!--<stop  offset="4.418800e-04" style="stop-color:#0397A7"/>
-	<stop  offset="0.9971" style="stop-color:#00ECCD"/>
-	-->
-		<stop stop-color="#0397A7" offset="0%"/>
-		<stop stop-color="#00ECCD" offset="100%"/>
-	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M268.07,58.69c-5.85-7.21-15.1-10.75-24.26-9.29L116.56,69.68c-9.16,1.46-16.85,7.7-20.17,16.37  L50.33,206.39c-3.32,8.67-1.76,18.45,4.09,25.65L135.6,332.1c5.85,7.21,15.1,10.75,24.26,9.29l127.25-20.28  c9.16-1.46,16.85-7.7,20.17-16.37l46.06-120.34c3.32-8.67,1.76-18.45-4.09-25.65L268.07,58.69z"/>
-	<polygon fill="#FFFFFF" points="236.97,135.37 208.16,186.91 179.84,125.72 144.49,135.14 100.69,249.28 139.76,249.28   166.1,181.96 192.07,246.1 212.06,246.1 250.47,177.35 250.47,265.28 286.94,252.95 286.94,144.24 "/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.2 46">
+	<style type="text/css">
+  .st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+ </style>
+	<g>
+		<g>
+			<g>
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.0835" y1="-25.2179" x2="39.9127" y2="3.6912" gradientTransform="matrix(0.7617 0 0 -0.7617 4.4938 16.8616)">
+					<stop offset="4.418800e-04" stop-color="#0397A7">
+     </stop>
+					<stop offset="0.9971" stop-color="#00ECCD">
+     </stop>
+				</linearGradient>
+				<path class="st0" d="M47.3,17.2L34.6,1.5c-0.9-1.1-2.4-1.7-3.8-1.5l-20,3.2C9.3,3.5,8.1,4.4,7.5,5.8L0.3,24.7     c-0.5,1.4-0.3,2.9,0.6,4l12.8,15.7c0.9,1.1,2.4,1.7,3.8,1.5l20-3.2c1.4-0.2,2.6-1.2,3.2-2.6L48,21.3     C48.5,19.9,48.3,18.4,47.3,17.2L47.3,17.2z">
+    </path>
+				<path class="st1" d="M20.3,12.3l-5.5,1.4L7.9,31.2H14l4.1-10.3l4.1,9.8h3.1l6-10.5v13.4l5.7-1.9V15.2l-7.8-1.4l-4.5,7.9     L20.3,12.3z">
+    </path>
+			</g>
+		</g>
+	</g>
 </svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 164 40">
+	<defs>
+		<path id="path-1" d="M0 .1h33.12v38.593H0z"/>
+		<path id="path-3" d="M.032.193h33.123V38.96H.032z"/>
+		<path id="path-5" d="M0 39.407h163.867V.302H0z"/>
+	</defs>
+	<g id="Desktop" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+		<g id="U4-Desktop-Drop-Down" transform="translate(-52 -45)">
+			<g id="Top-Navigation" transform="translate(52 20)">
+				<g id="Logo" transform="translate(0 25)">
+					<g id="Group-3" transform="translate(0 .714)">
+						<mask id="mask-2" fill="#fff">
+							<use xlink:href="#path-1"/>
+						</mask>
+						<path id="Fill-1" fill="#7C878F" d="M25.554.1v22.636c0 5.637-3.362 9.003-8.993 9.003-5.667 0-9.05-3.366-9.05-9.003V.1H0v21.777c0 10.058 6.656 16.815 16.561 16.815 9.905 0 16.56-6.757 16.56-16.815V.101h-7.567Z" mask="url(#mask-2)"/>
+					</g>
+					<g id="Group-6" transform="translate(42.56 .11)">
+						<mask id="mask-4" fill="#fff">
+							<use xlink:href="#path-3"/>
+						</mask>
+						<path id="Fill-4" fill="#7C878F" d="M16.593.192C6.688.192.032 6.95.032 17.005V38.96h7.57V16.15c0-5.64 3.361-9.005 8.991-9.005 5.667 0 9.05 3.366 9.05 9.005v22.81h7.512V17.005C33.155 6.949 26.5.192 16.593.192" mask="url(#mask-4)"/>
+					</g>
+					<mask id="mask-6" fill="#fff">
+						<use xlink:href="#path-5"/>
+					</mask>
+					<path id="Fill-7" fill="#7C878F" d="M86.964 39.071h7.512V.815h-7.512z" mask="url(#mask-6)"/>
+					<path id="Fill-9" fill="#7C878F" d="M104.51.815v7.123h11.25V39.07h7.51V7.938h11.251V.815z" mask="url(#mask-6)"/>
+					<path id="Fill-10" fill="#85BC3B" d="M163.867.815h-8.128l-18.26 25.612a3.462 3.462 0 0 0-.57 2.602 3.453 3.453 0 0 0 1.432 2.244 3.45 3.45 0 0 0 1.99.627l13.94-.006v7.177h6.952l.021-13.163h-14.926L163.868.815Z" mask="url(#mask-6)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

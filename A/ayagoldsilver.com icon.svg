@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1488 768">
+	<title>AYA</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-339-370h12957v7291h-12957z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ba9a41 } 
+		.s1 { fill: #b9b9b7 } 
+		.s2 { fill: #1b2432 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m554.1 578.5l-35.3 71.4h-161.7l53.6-108.9h126.3l16.6 37.5z"/>
+			<path id="Layer" class="s1" d="m1487.5 767.6h-266.6l-111.8-226.6h-0.4l-121.1-244.8 135.1-265.1z"/>
+			<path id="Layer" class="s0" d="m600.9 93l-334.2 674.6h-266.6l334.2-674.6z"/>
+			<path id="Layer" class="s1" d="m1162.7 649.9h-344.6l53.6-108.9h237.4z"/>
+			<path id="Layer" class="s2" d="m841 0.3l-147.6 297.4-78-172.4-140.8 277.7 79 175.5h0.5l-35.3 71.4-58.2 117.7h266.6l379.9-767.3z"/>
+		</g>
+	</g>
+</svg>

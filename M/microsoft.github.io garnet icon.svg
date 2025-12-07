@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 729 836">
+	<defs>
+		<filter id="blur">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="25"/>
+		</filter>
+	</defs>
+	<g filter="url(#blur)">
+		<polygon points="100.7,422 52,422 52,420.4 340,36.7 389.5,36.7 " fill="#000" opacity="0.5" transform="translate(0 20)"/>
+		<polygon points="51,423 52,422 100.7,422 389.2,806.3 340,806.3 " fill="#000" opacity="0.5"/>
+	</g>
+	<polygon points="51,423 52,422 100.7,422 389.2,806.3 340,806.3 " fill="#71060a"/>
+	<polygon points="100.7,422 52,422 52,420.4 340,36.7 389.5,36.7 " fill="#c11018"/>
+	<line x1="52" y1="422" x2="341" y2="806.3" stroke-width="3" stroke="white" stroke-linecap="round"/>
+	<line x1="341" y1="806.3" x2="387" y2="806.3" stroke-width="3" stroke="white" stroke-linecap="round"/>
+	<line x1="388.5" y1="805.6" x2="100.7" y2="422" stroke-width="4.5" stroke="white" stroke-linecap="round"/>
+	<line x1="53" y1="422" x2="100.7" y2="422" stroke-width="4.5" stroke="white" stroke-linecap="round"/>
+	<line x1="100.7" y1="422" x2="389.5" y2="36.7" stroke-width="4.5" stroke="white" stroke-linecap="round"/>
+	<line x1="389.5" y1="36.7" x2="340.9" y2="36.7" stroke-width="4.5" stroke="white" stroke-linecap="round"/>
+	<line x1="340" y1="36.7" x2="52" y2="422" stroke-width="3" stroke="white" stroke-linecap="round"/>
+	<polygon name="edge_ul" points="390,39 396,72 132.5,422 102.95,422" fill="#c11018"/>
+	<polygon name="edge_ll" points="102.95,422 132.5,422 395.7,772.8 390.3,804" fill="#71060a"/>
+	<polygon name="edge_lr" points="395.7,772.8 390.3,804 675.6,422 659,422" fill="#2c0204"/>
+	<polygon name="edge_ur" points="390,39 396,72 659,422 675.6,422" fill="#71060a"/>
+	<polygon name="main" points="396,72 132.5,422 395.7,772.8 659,422" fill="#79060c"/>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<defs>
+		<linearGradient id="ai-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+			<stop offset="0%" stop-color="#3D81F6"/>
+			<stop offset="100%" stop-color="#A656F7"/>
+		</linearGradient>
+	</defs>
+	<!-- 背景方块 -->
+	<rect x="0" y="0" width="40" height="40" rx="8" fill="url(#ai-gradient)"/>
+	<!-- FS 文字 -->
+	<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="white">
+    FS
+  </text>
+</svg>

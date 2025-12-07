@@ -1,17 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 380 300">
-	<g stroke="#0dd0dd" stroke-width="30" fill="none">
-		<ellipse cx="64" cy="104" rx="50" ry="85" transform="rotate(7,87,144)"/>
-		<line x1="13" y1="184" x2="124" y2="18"/>
-		<g transform="rotate(5,243,110)">
-			<line x1="233" y1="2" x2="233" y2="198"/>
-			<ellipse cx="188" cy="147" rx="35" ry="45" transform="rotate(15,213,172)"/>
-		</g>
-		<g transform="rotate(5,366,110)">
-			<line x1="355" y1="2" x2="355" y2="198"/>
-			<ellipse cx="310" cy="147" rx="35" ry="45" transform="rotate(15,336,172)"/>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 378.9 295.6">
 	<defs>
 		<rect id="pixel" x="0.5" y="0.5" rx="1" width="11" height="10" fill="#777"/>
 		<pattern id="pixel-1" height="100%" width="100%">
@@ -51,6 +39,19 @@
 			<use xlink:href="#pixel"/>
 		</pattern>
 	</defs>
+	<g transform="translate(-.5 0)">
+	<g stroke="#0dd0dd" stroke-width="30" fill="none">
+		<ellipse cx="64" cy="104" rx="50" ry="85" transform="rotate(7,87,144)"/>
+		<line x1="13" y1="184" x2="124" y2="18"/>
+		<g transform="rotate(5,243,110)">
+			<line x1="233" y1="2" x2="233" y2="198"/>
+			<ellipse cx="188" cy="147" rx="35" ry="45" transform="rotate(15,213,172)"/>
+		</g>
+		<g transform="rotate(5,366,110)">
+			<line x1="355" y1="2" x2="355" y2="198"/>
+			<ellipse cx="310" cy="147" rx="35" ry="45" transform="rotate(15,336,172)"/>
+		</g>
+	</g>
 	<g transform="scale(0.8) translate(36,62)">
 		<rect width="12" height="88" x="0" y="220" fill="url(#pixel-8v)"/>
 		<rect width="36" height="11" x="12" y="220" fill="url(#pixel-3h)"/>
@@ -81,5 +82,6 @@
 		<rect width="12" height="11" x="380" y="242" fill="url(#pixel-1)"/>
 		<rect width="12" height="11" x="374" y="253" fill="url(#pixel-1)"/>
 		<rect width="12" height="44" x="368" y="264" fill="url(#pixel-4v)"/>
+	</g>
 	</g>
 </svg>

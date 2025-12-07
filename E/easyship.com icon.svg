@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38.6 45" enable-background="new 0 0 38.6 45">
+	<style type="text/css">
+  .st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+ </style>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-169.4051" y1="248.1713" x2="-168.5526" y2="250.4736" gradientTransform="matrix(8.63 0 0 -10.0503 1482.71 2511.5027)">
+			<stop offset="0" stop-color="#8DD0D6">
+   </stop>
+			<stop offset="1" stop-color="#57C4C6">
+   </stop>
+		</linearGradient>
+		<path class="st0" d="M37.1,10.1L20.5,0.5C20.1,0.1,19.3,0,18.7,0c-0.7,0-1.3,0.1-1.9,0.5l-15.9,9C0.5,9.7,0,10.2,0,10.7   c0,0.6,0.5,1.1,0.9,1.4l17.8,10.4v21.2c0,0.5,0.1,0.9,0.5,1.2c0.5,0.3,0.9,0.1,1.2,0l16.7-9.6c1.1-0.6,1.5-1.5,1.5-2.8V12.8   C38.6,11.7,38,10.7,37.1,10.1L37.1,10.1z">
+  </path>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-158.2131" y1="241.9552" x2="-153.4724" y2="241.9552" gradientTransform="matrix(4.452 0 0 -7.5338 720.974 1850.9814)">
+			<stop offset="0" stop-color="#8ED2D8">
+   </stop>
+			<stop offset="1" stop-color="#57C4C7">
+   </stop>
+		</linearGradient>
+		<path class="st1" d="M38.2,11.3L18.7,22.4v21.2c0,0.5,0.1,0.9,0.5,1.2c0.5,0.3,0.9,0.1,1.2,0l16.7-9.6c1.1-0.6,1.5-1.5,1.5-2.8   V12.8C38.6,12.3,38.5,11.8,38.2,11.3z">
+  </path>
+	</g>
+</svg>

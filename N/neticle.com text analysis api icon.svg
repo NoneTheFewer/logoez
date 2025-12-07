@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.68 22.68">
+	<defs>
+		<style>.cls-1{mask:url(#mask);}.cls-2{fill:#c93939;}.cls-3{fill:#ea4e4e;}.cls-4{fill:url(#linear-gradient);}.cls-5{filter:url(#luminosity-invert);}</style>
+		<filter id="luminosity-invert" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+		</filter>
+		<mask id="mask" x="0" y="0" width="22.68" height="22.68" maskUnits="userSpaceOnUse">
+			<g class="cls-5">
+				<rect width="22.68" height="22.68" rx="2.83" ry="2.83" transform="translate(0 22.68) rotate(-90)"/>
+			</g>
+		</mask>
+		<linearGradient id="linear-gradient" x1="426.54" y1="-267.64" x2="449.22" y2="-267.64" gradientTransform="translate(278.98 449.22) rotate(-90)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c93939"/>
+			<stop offset="0.29" stop-color="#c93939" stop-opacity="0.63"/>
+			<stop offset="0.67" stop-color="#c93939" stop-opacity="0.18"/>
+			<stop offset="0.84" stop-color="#c93939" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<title>Asset 12</title>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<g class="cls-1">
+				<path class="cls-2" d="M0,2.83A2.83,2.83,0,0,1,2.83,0h17a2.84,2.84,0,0,1,2.84,2.83v8.51H0Z"/>
+				<path class="cls-3" d="M0,2.83A2.83,2.83,0,0,1,2.83,0H17V22.68H2.83A2.84,2.84,0,0,1,0,19.84Z"/>
+				<path class="cls-4" d="M17,22.68H8.5a2.84,2.84,0,0,1-2.83-2.84v-17A2.83,2.83,0,0,1,8.5,0H17Z"/>
+			</g>
+		</g>
+	</g>
+</svg>

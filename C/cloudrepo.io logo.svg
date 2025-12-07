@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40">
+	<!-- Cloud icon -->
+	<path d="M15 25c-2.76 0-5-2.24-5-5 0-2.64 2.05-4.78 4.65-4.96C15.34 12.78 17.29 11 19.5 11c2.76 0 5 2.24 5 5 0 .34-.04.67-.09 1h.59c1.65 0 3 1.35 3 3s-1.35 3-3 3H15z" fill="#2563eb"/>
+	<!-- Text -->
+	<text x="35" y="26" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="500" fill="#0f172a">
+CloudRepo
+</text>
+</svg>

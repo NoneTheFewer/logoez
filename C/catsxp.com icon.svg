@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 10 92.88 92.88">
+	<style>
+        @keyframes bounce{to{transform:translateY(5%)}}
+    </style>
+	<defs>
+		<radialGradient id="radial-gradient" cx="56.18" cy="68.29" r="28.51" gradientTransform="matrix(-2.6, 0, 0, 2.46, 175.31, -94.79)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4aab00"/>
+			<stop offset="1" stop-color="#4c7400"/>
+		</radialGradient>
+		<radialGradient id="radial-gradient-2" cx="56.18" cy="68.45" r="28.51" gradientTransform="matrix(-2.6, 0, 0, 2.46, 175.31, -94.79)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3970c4"/>
+			<stop offset="1" stop-color="#0d336b"/>
+		</radialGradient>
+		<radialGradient id="radial-gradient-3" cx="39.8" cy="47.55" r="38.62" gradientTransform="matrix(-2.6, 0, 0, 2.46, 175.31, -94.79)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#78ef00"/>
+			<stop offset="1" stop-color="#54a700"/>
+		</radialGradient>
+		<radialGradient id="radial-gradient-4" cx="39.8" cy="47.7" r="38.62" gradientTransform="matrix(-2.6, 0, 0, 2.46, 175.31, -94.79)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00c4ff"/>
+			<stop offset="1" stop-color="#06f"/>
+		</radialGradient>
+	</defs>
+	<g fill="none" fill-rule="evenodd" animation="bounce 1s infinite alternate ease-in-out">
+		<path d="M94.2,69.1c4-8.77-7.79-13.1-24.11-2.42-11.41,7.46-13.44,5.25-33.91,6.46-15.5.91,1.51,15.64,14.31,17.15S83.1,85.05,94.2,69.1Z" transform="translate(-3.12 -3.08)" fill="url(#radial-gradient)"/>
+		<path d="M4.93,29.94C1,38.71,12.71,43,29,32.36,40.45,24.89,42.47,27.11,63,25.9,78.45,25,61.44,10.26,48.64,8.74S16,14,4.93,29.94Z" transform="translate(-3.12 -3.08)" fill="url(#radial-gradient-2)"/>
+		<path d="M94.2,69.1C86.33,85,69.3,96,49.56,96S12.79,85,4.93,69.1C-5,47,28.56,40.32,49.56,63,68.94,84,87.74,77,94.2,69.1Z" transform="translate(-3.12 -3.08)" fill="url(#radial-gradient-3)"/>
+		<path d="M4.93,29.94C12.79,14.07,29.82,3.08,49.56,3.08s36.77,11,44.64,26.86c10,22.11-23.63,28.77-44.64,6.07C30.19,15.06,11.38,22.08,4.93,29.94Z" transform="translate(-3.12 -3.08)" fill="url(#radial-gradient-4)"/>
+	</g>
+</svg>

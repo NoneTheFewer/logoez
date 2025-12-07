@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.68 22.68">
+	<defs>
+		<style>.cls-1{fill:#fb1;}.cls-2{mask:url(#mask);}.cls-3{fill:#ffa300;}.cls-4{fill:url(#linear-gradient);}.cls-5{filter:url(#luminosity-invert);}</style>
+		<filter id="luminosity-invert" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+		</filter>
+		<mask id="mask" x="0" y="0" width="22.68" height="22.68" maskUnits="userSpaceOnUse">
+			<g class="cls-5">
+				<rect width="22.68" height="22.68" rx="2.83" ry="2.83" transform="translate(0 22.68) rotate(-90)"/>
+			</g>
+		</mask>
+		<linearGradient id="linear-gradient" y1="11.34" x2="22.68" y2="11.34" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb1"/>
+			<stop offset="0.84" stop-color="#fb1" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<title>Asset 11</title>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<circle class="cls-1" cx="11.34" cy="11.34" r="11.34"/>
+			<g class="cls-2">
+				<path class="cls-3" d="M3.69,0H2.83A2.83,2.83,0,0,0,0,2.83v17a2.84,2.84,0,0,0,2.83,2.84h8.51V0Z"/>
+			</g>
+			<circle class="cls-4" cx="11.34" cy="11.34" r="11.34"/>
+		</g>
+	</g>
+</svg>
