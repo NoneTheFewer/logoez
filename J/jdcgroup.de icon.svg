@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1552 1795">
+	<title>JDC</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m5152.84-12859.47v16216.45h-11463.28v-16216.45z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #00a2b4 } 
+		.s1 { fill: #0b4395 } 
+		.s2 { fill: #94c11f } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m624.9 1182.2l152.6 88.4v519l-377.5-218.1-398.7-231 0.5-460.4 0.5-437.4 449 259.4-0.6 178.2v201.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m1551.2 447.6l-0.5 438.6-0.2 460.7-398.8 229.9-376.7 217.2v-518.8l326.5-188.2v-201.3l0.3-178.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1546.9 447.9l-449 259.3-149-86-173.9-100.6-174.2 100.4-150.1 86.5-449.4-259.6 375.2-216.4 398.7-230 398.5 231z"/>
+		</g>
+	</g>
+</svg>

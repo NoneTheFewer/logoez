@@ -1,8 +1,14 @@
 <?xml version="1.0" ?>
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 200 200" xml:space="preserve">
-	<g transform="translate(5.0937 -656.02)" fill="#1c59ae">
-		<path d="m38.488 693.73 29.215 25.258v99.328h-29.215v-124.59"/>
-		<path d="m79.766 731.05 15.141 11.496 14.324-11.496v87.266h-29.465v-87.266"/>
-		<path d="m122.11 718.98 29.211-25.258v124.59h-29.211v-99.328"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1550 1715">
+	<title>MIKN</title>
+	<style>
+		.s0 { fill: #003399 } 
+	</style>
+	<g id="Calque_1-2">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m0 1714.6v-1714.6l408.2 353.3v1361.3z"/>
+			<path id="Layer" class="s0" d="m571.2 1714.6v-1219.6l203.8 176.9 203.9-176.9v1219.6z"/>
+			<path id="Layer" class="s0" d="m1141.8 1714.6v-1361.3l407.8-353.3v1714.6z"/>
+		</g>
 	</g>
 </svg>

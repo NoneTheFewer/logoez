@@ -1,11 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1569 2044">
-	<style>
-		.s0 { fill: #ee2d3e } 
-	</style>
-	<g id="Layer">
-		<g id="Layer">
-			<path id="Layer" class="s0" d="m1022.9 0.6v477l-545.1 544.3 545.1 544.3v476.8l-1022.7-1021.1zm545.1 1021.3l-545.1 544.3v-1088.8z"/>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1549 2020">
+	<style>.a{fill:#ed2c3e}</style>
+	<path class="a" d="m1549 1010.4l-1010.5 1009.6v-471.6l538.9-538-538.9-538.8v-471.6z"/>
+	<path class="a" d="m0.4 1010.4l538.1 538v-1076.8z"/>
 </svg>

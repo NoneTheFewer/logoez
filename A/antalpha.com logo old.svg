@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1544 352">
+	<title>logo</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1544 0v352h-1544v-352z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1544 0v352h-1544v-352z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #2222ff } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m507.6 105.6l-68.2 140.5h17.6l55.6-114.9 55.7 114.9h17.5l-68.1-140.5z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m1475.8 105.6h-10l-68.2 140.5h17.5l55.7-114.9 55.7 114.9h17.5z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m920.5 105.6l-68.2 140.5h17.5l55.7-114.9 55.7 114.9h17.5l-68.2-140.5z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m589.8 203.8l15.8-15.9v-51.7l100.5 110h17.9v-140.6h-15.8v119.4l-109.1-119.4h-9.3z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m880.4 121.4v-15.8h-134.4v15.8h59.3v124.7l15.8-15.9v-108.8z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m1036.9 230.2v-108.8l-15.9-15.8v140.5h98.8l-15.8-15.9z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m1239.8 148.6c0-23.6-19.2-43-42.9-43h-54.7v41.7 98.9h15.8v-83.1-41.7h38.9c14.9 0 27.1 12.2 27.1 27.2 0 14.9-12.2 27.2-27.1 27.2h-26.3l15.8 15.8h10.5c23.7 0 42.9-19.3 42.9-43z"/>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m1359.4 105.6v62.2h-81.4v-46.4l-15.8-15.8v125l15.8 15.8v-62.8h81.4v46.4l15.8 15.8v-124.4z"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<g>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m300.8 352h-249.8c-28.2 0-51-22.9-51-51v-250c0-28.2 22.8-51 51-51h249.8c28.2 0 51 22.8 51 51v250c0 28.1-22.8 51-51 51z"/>
+			<path id="路径" fill-rule="evenodd" class="s1" d="m33.9 181.9l123.8 60.1v-20.9l-93.1-45.1 93.1-45.2v-20.8l-123.8 60z"/>
+			<path id="路径" fill-rule="evenodd" class="s1" d="m194.1 110v20.8l93 45.2-93 45.1v20.9l123.7-60.1v-11.9z"/>
+		</g>
+	</g>
+</svg>

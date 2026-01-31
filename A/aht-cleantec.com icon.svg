@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1540 2221">
+	<title>3SQ1</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2099.94,1771.873,-1513.365,-1793.569,2004.825,233.24)">
+			<stop offset="0" stop-color="#b5d443"/>
+			<stop offset=".33" stop-color="#b5d443"/>
+			<stop offset=".66" stop-color="#90cb47"/>
+			<stop offset="1" stop-color="#7bc647"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m1122.2 1.3c-101.3 15.8-278.8 127.3-342 163.5-331.8 187.7-593.8 544.5-716.5 935.7-423.8 1353.8 1420 1564.7 1473 166.3 13.9-165.4-30.7-330.8-123.6-467.4-4.6-3.7-10.2-6.5-15.8-6.5-13-0.9-24.2 8.4-26 21.4v0.9c-58.6 183.1-254.7 466.5-323.4 147.8-53.9-302-14-614.2 116.1-892 14.9-33.5-4.6-70.6-35.3-70.6q-2.8 0-6.5 0.9z"/>
+		</g>
+	</g>
+</svg>

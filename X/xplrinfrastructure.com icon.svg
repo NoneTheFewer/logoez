@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1526 1424">
+	<title>xplr-logo</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m5486.45 0v1981.35h-5486.45v-1981.35z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ef9935 } 
+		.s1 { fill: #63676b } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path class="s0" d="m719.4 317.4l-216.7-317.4h-476.5l459.1 643.6z"/>
+			<path class="s0" d="m807.4 1068.6l240.1 355.1h477.6l-486.4-677.1z"/>
+			<path class="s1" d="m0 1423.7l1022.4-1423.7h477.7l-1022.4 1423.7z"/>
+		</g>
+	</g>
+</svg>

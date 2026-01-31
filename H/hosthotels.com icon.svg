@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1369 1551">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1551 1752">
+	<title>HST_BIG</title>
 	<style>
-		.s0 { fill: #000000 } 
+		.s0 { fill: #a2955f } 
+		.s1 { fill: #101e40 } 
 	</style>
-	<g id="Clip-Path: Page 1">
-		<g id="Page 1">
-			<path id="Path 2" class="s0" d="m0.1 881.1l556.1 76.9v330.7l-556.1 262.2zm0-629.9l544.7-250.9h11.4v655.6l-556.1 219.5zm807.1 350.5v-347.7l550.3-250.8h11.4v666.9zm0 322.1l561.8-250.8v618.5l-561.8 259.4z"/>
-		</g>
-	</g>
+	<path fill-rule="evenodd" class="s0" d="m0 1751.1l630.9-294.8v-374.6l-630.9-85.9zm0-761.5l630.9-245.9v-743.2h-13.2l-617.7 282.7z"/>
+	<path class="s1" d="m912.9 676.5v-393.2l623.5-282.4h13.7v755.3z"/>
+	<path class="s1" d="m912.9 1038.6l637.2-282.4v700.1l-637.2 294.8z"/>
 </svg>

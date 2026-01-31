@@ -1,40 +1,16 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 438 362" xml:space="preserve">
-	<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_2_);}
-	.st2{fill:url(#SVGID_3_);}
-	.st3{fill:url(#SVGID_4_);}
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1550 1246">
+	<title>NCNO_BIG</title>
+	<style>
+		.s0 { fill: #cd1012 } 
+		.s1 { fill: #faba00 } 
+		.s2 { fill: #5cb74d } 
+		.s3 { fill: #17a7da } 
+	</style>
 	<g>
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="383.2099" y1="362.9283" x2="376.8902" y2="181.9569">
-			<stop offset="0" style="stop-color:#9E1E2E"/>
-			<stop offset="0.4908" style="stop-color:#AF1F2D"/>
-			<stop offset="0.9571" style="stop-color:#BA202E"/>
-		</linearGradient>
-		<rect x="338.73" y="25.94" class="st0" width="76.25" height="310.12"/>
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="271.6193" y1="407.1778" x2="271.6193" y2="64.5691">
-			<stop offset="0" style="stop-color:#B4802D"/>
-			<stop offset="0.2702" style="stop-color:#CF9235"/>
-			<stop offset="0.5031" style="stop-color:#E29F3A"/>
-			<stop offset="0.7178" style="stop-color:#FAAE41"/>
-			<stop offset="0.9448" style="stop-color:#FAAE41"/>
-		</linearGradient>
-		<rect x="233.49" y="153.37" class="st1" width="76.25" height="182.69"/>
-		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="166.3817" y1="391.929" x2="166.3817" y2="101.8841">
-			<stop offset="0.1166" style="stop-color:#62923F"/>
-			<stop offset="0.3436" style="stop-color:#76A842"/>
-			<stop offset="0.5337" style="stop-color:#85BE40"/>
-			<stop offset="0.7975" style="stop-color:#8BC540"/>
-			<stop offset="0.9141" style="stop-color:#8BC540"/>
-		</linearGradient>
-		<rect x="128.26" y="107.3" class="st2" width="76.25" height="228.75"/>
-		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="61.1432" y1="376.6794" x2="61.1432" y2="60.0815">
-			<stop offset="0" style="stop-color:#0481B2"/>
-			<stop offset="0.2945" style="stop-color:#0092C7"/>
-			<stop offset="0.5031" style="stop-color:#0FA0DB"/>
-			<stop offset="0.9386" style="stop-color:#C1E2F6"/>
-		</linearGradient>
-		<rect x="23.02" y="185.61" class="st3" width="76.25" height="150.45"/>
+		<path fill-rule="evenodd" class="s0" d="m1549.7 0.6v1245.1h-301.4v-1245.1z"/>
+		<path fill-rule="evenodd" class="s1" d="m1133.7 512.2v733.5h-301.1v-733.5z"/>
+		<path fill-rule="evenodd" class="s2" d="m718 327.1v918.6h-301.4v-918.6z"/>
+		<path fill-rule="evenodd" class="s3" d="m302 641.7v604h-301.4v-604z"/>
 	</g>
 </svg>

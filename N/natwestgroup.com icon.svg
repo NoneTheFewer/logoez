@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1547 1548">
+	<title>NWG_BIG</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(230.949,44.409,-38.479,200.106,812.074,788.612)">
+			<stop offset="0" stop-color="#5a287d" stop-opacity="0"/>
+			<stop offset=".014" stop-color="#5c297f" stop-opacity=".01"/>
+			<stop offset=".346" stop-color="#863fb6" stop-opacity=".31"/>
+			<stop offset=".633" stop-color="#a54fde" stop-opacity=".57"/>
+			<stop offset=".861" stop-color="#b858f6" stop-opacity=".77"/>
+			<stop offset="1" stop-color="#bf5cff" stop-opacity=".9"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-160.976,63.974,-80.994,-203.804,794.164,638.539)">
+			<stop offset="0" stop-color="#5a287d" stop-opacity="0"/>
+			<stop offset=".014" stop-color="#5c297f" stop-opacity=".01"/>
+			<stop offset=".347" stop-color="#863fb6" stop-opacity=".31"/>
+			<stop offset=".633" stop-color="#a54fde" stop-opacity=".57"/>
+			<stop offset=".861" stop-color="#b858f6" stop-opacity=".77"/>
+			<stop offset="1" stop-color="#bf5cff" stop-opacity=".9"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(49.288,220.504,-107.696,24.073,640.747,834.009)">
+			<stop offset="0" stop-color="#5a287d" stop-opacity="0"/>
+			<stop offset=".014" stop-color="#5c297f" stop-opacity=".01"/>
+			<stop offset=".347" stop-color="#863fb6" stop-opacity=".31"/>
+			<stop offset=".633" stop-color="#a54fde" stop-opacity=".57"/>
+			<stop offset=".861" stop-color="#b858f6" stop-opacity=".77"/>
+			<stop offset="1" stop-color="#bf5cff" stop-opacity=".9"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #3c1053 } 
+		.s1 { fill: #bf5cff } 
+		.s2 { fill: #8f52d1 } 
+		.s3 { fill: url(#g1) } 
+		.s4 { fill: url(#g2) } 
+		.s5 { fill: url(#g3) } 
+	</style>
+	<g id="Symbols">
+		<g id="Logo/Wh/NatWestGroupColleague-Hor">
+			<g id="Group">
+				<g id="Brandmark">
+					<path id="Oval" fill-rule="evenodd" class="s0" d="m773.5 1548c-427.6 0-773.2-346-773.2-774 0-428 345.6-774 773.2-774 427.6 0 773.2 346 773.2 774 0 428-345.6 774-773.2 774z"/>
+					<path id="Fill-1" class="s0" d="m1546.7 774c0 718-56 774-773 774-717.4 0-773.4-56-773.4-774 0-718 56-774 773.4-774 717 0 773 56 773 774z"/>
+					<g id="Path">
+						<path fill-rule="evenodd" class="s1" d="m1004.6 944.2h-307.8l153.9 266.8h307.8z"/>
+						<path fill-rule="evenodd" class="s1" d="m927.6 277.1h-307.8l-153.9 266.8h307.8z"/>
+						<path fill-rule="evenodd" class="s1" d="m542.8 944.2l153.5-266.8h-307.4l-153.9 266.8z"/>
+					</g>
+					<g id="Path">
+						<path fill-rule="evenodd" class="s2" d="m1158.5 677.4l153.9 266.8-153.9 266.8-153.9-266.8z"/>
+						<path fill-rule="evenodd" class="s2" d="m773.7 543.9l153.9 266.9 153.9-266.9-153.9-266.8z"/>
+						<path fill-rule="evenodd" class="s2" d="m696.8 1211h-0.5-307.4l-153.9-266.8h307.8z"/>
+					</g>
+					<path id="Path" fill-rule="evenodd" class="s3" d="m1004.2 677.4l-76.6 133.4h-153.9l-76.9 133.4h307.8l153.9-266.8z"/>
+					<path id="Path" fill-rule="evenodd" class="s4" d="m543.3 677.4h153l77.4 133.4h153.9l-153.9-266.9h-307.8z"/>
+					<path id="Path" fill-rule="evenodd" class="s5" d="m773.7 1077.2l-76.9-133 76.9-133.4-77.4-133.4-153.5 266.8 154 266.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

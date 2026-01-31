@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1552 703">
+	<title>ASY</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m10249.53-13110.61v16078.58h-11347.45v-16078.58z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,95.983,-167.024,0,1453.804,15.599)">
+			<stop offset="0" stop-color="#1abeef"/>
+			<stop offset="1" stop-color="#014f9f"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,321.949,-985.285,0,507.775,15.599)">
+			<stop offset="0" stop-color="#1abeef"/>
+			<stop offset="1" stop-color="#014f9f"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #014f9f } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path class="s0" d="m1132 107.6c-129.9 45.7-243.3 118.9-361 188.7-216.6 121.7-294.6 145.6-443 138.6-117.2-5.9-230.2-54.9-327.1-141.9l-0.2 0.2 0.2 409.3h1550.9v-515.6c-46.6-42-97.2-73.7-162-89.5-87.2-21.4-174-19-257.8 10.2zm104.9-106.5l-12.5-0.6c117.3 5.6 230.5 54.7 327.4 141.7v-0.2-140.9"/>
+			<path class="s1" d="m1370.1 15.6c59 21.2 115 53.3 167.2 96.1v-96.1z"/>
+			<path class="s0" d="m420.4 327.5c130.1-45.4 243.3-118.6 361-188.7l0.2 0.2c166.8-93.8 251.5-129.5 349.3-137.6l-1130.2-0.3v247.3c46.5 42.1 97.3 73.7 162.2 89.5 87.2 21.3 173.9 19 257.5-10.4z"/>
+			<path class="s2" d="m15.1 241.6c48.4 42.3 96.5 69 151.2 82.3 86.3 21 170.3 17.7 249.4-9.9 110.9-38.9 207.8-97.2 310.6-158.9l47.9-28.7c98.3-55 167.4-89.6 226.1-110.8-201 0-960.3 0-985.2 0z"/>
+		</g>
+	</g>
+</svg>

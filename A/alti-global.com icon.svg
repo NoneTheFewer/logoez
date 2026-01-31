@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1583 680">
+	<title>alitiiii-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(790.6,0,0,4558.76,593.42,340.015)">
+			<stop offset="0" stop-color="#191970"/>
+			<stop offset="1" stop-color="#00e7d7"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(790.6,0,0,1148.907,593.42,340.015)">
+			<stop offset="0" stop-color="#191970"/>
+			<stop offset="1" stop-color="#00e7d7"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #00e7d7 } 
+		.s3 { fill: #191970 } 
+	</style>
+	<path id="Layer" class="s0" d="m721.3 0.7h117.7v678.7h-117.7z"/>
+	<path id="Layer" class="s1" d="m918.5 0.7v20.3h174.6v658.4h117.7v-658.4h174.7v-20.4c0 0-467 0-467 0.1z"/>
+	<path id="Layer" class="s2" d="m1465 227.6h117.7v451.8h-117.7zm-0.1-226.9h117.8v113.4h-117.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m349.4 0.7h117.7v678.7h-117.7v-213.3h-216.2l-109.8 213.3h-23.4l349.4-678.8c0 0 0 0.1 0 0.1zm-205.7 445h205.7v-399.6c0 0-205.7 399.6-205.7 399.6z"/>
+</svg>

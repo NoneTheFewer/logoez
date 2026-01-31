@@ -1,13 +1,43 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1524 1240">
-	<style>
-		.s0 { fill: #f5bd48 } 
-		.s1 { fill: #525349 } 
-	</style>
-	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
-		<g id="Page 1">
-			<path id="Path 8" class="s0" d="m838.9 235.3l-76.4-235.3v233.9 99.1 447.8l111.3-438.8-0.5-1.4c255 34.8 408.6 186.8 408.6 414.4 0 274.3-270.3 378.1-498.5 385.1v99.4c440.3-5.6 739.7-200.7 739.7-500.6 0-283.1-278.2-484.8-684.2-503.6z"/>
-			<path id="Path 9" class="s1" d="m241.3 755c0-248.8 183.6-407.4 482.5-421v-100.1c-427.2 7.3-723.6 212.9-723.6 505 0 299.9 299.3 495 739.6 500.6v-99.4c-228.2-7-498.5-110.8-498.5-385.1z"/>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1549 1217">
+	<defs>
+		<linearGradient id="P" gradientUnits="userSpaceOnUse"/>
+		<linearGradient id="g1" x2="1" href="#P" gradientTransform="matrix(1335.092,-2223.596,2352.709,1412.614,-595.413,2371.687)">
+			<stop stop-color="#614219"/>
+			<stop offset=".05" stop-color="#7e5a23"/>
+			<stop offset=".14" stop-color="#b38631"/>
+			<stop offset=".18" stop-color="#cb9b37"/>
+			<stop offset=".19" stop-color="#cb9b38"/>
+			<stop offset=".47" stop-color="#d6b060"/>
+			<stop offset=".5" stop-color="#d6b060"/>
+			<stop offset=".53" stop-color="#d6b060"/>
+			<stop offset=".81" stop-color="#cb9b38"/>
+			<stop offset=".82" stop-color="#cb9b37"/>
+			<stop offset=".86" stop-color="#b38631"/>
+			<stop offset=".95" stop-color="#7e5a23"/>
+			<stop offset="1" stop-color="#614219"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" href="#P" gradientTransform="matrix(-2350.471,28.103,-24.647,-2061.371,2729.978,682.43)">
+			<stop stop-color="#614219"/>
+			<stop offset=".27" stop-color="#cb9b37"/>
+			<stop offset=".28" stop-color="#cb9b38"/>
+			<stop offset=".5" stop-color="#d6b060"/>
+			<stop offset=".72" stop-color="#cb9b38"/>
+			<stop offset=".73" stop-color="#cb9b37"/>
+			<stop offset="1" stop-color="#614219"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" href="#P" gradientTransform="matrix(495.309,0,0,1025.783,526.657,256.911)">
+			<stop stop-color="#8b6527"/>
+			<stop offset=".32" stop-color="#cb9b38"/>
+			<stop offset=".48" stop-color="#d6b060"/>
+			<stop offset=".5" stop-color="#d6b060"/>
+			<stop offset=".52" stop-color="#d6b060"/>
+			<stop offset=".68" stop-color="#cb9b37"/>
+			<stop offset="1" stop-color="#8b6527"/>
+		</linearGradient>
+	</defs>
+	<style>.a{fill:url(#g1)}.b{fill:url(#g2)}.c{fill:url(#g3)}</style>
+	<path class="a" d="m385.3 986.8c0 0-149.5-108.1-149.5-287.5 0-160.9 118.1-300.4 292.4-370.4l103-137.5c-358.6 44.8-631.2 255.3-631.2 507.9 0 279.1 330.8 506.7 744.6 516.4 0 0 28.1 2 64.5 0 1.7 0 1.7 0 3.4 0-3.4 0-6.7 0-9.7 0-1.7 0-257.9-31.2-417.5-228.9z"/>
+	<path class="b" d="m918.8 191.4l103.1 137.5c172.5 70 292.3 209.5 292.3 370.4 0 222.6-232.5 423.3-556.6 417-52.8-1.7-124.4-10.4-182.6-30.1-2 0-96.3-24.8-189.7-99.4 159.6 197.7 415.8 228.9 415.8 228.9 3 0 6.7 0 9.7 0 410.7-11.4 737.5-240.6 737.5-516.4 1.7-252.6-270.6-463.1-629.5-507.9z"/>
+	<path class="c" d="m918.8 191.4l-144.8-191.1v513.3l247.9-184.7z"/>
 </svg>

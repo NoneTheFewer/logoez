@@ -1,11 +1,10 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1531 1597">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1548 1548">
+	<title>RENE</title>
 	<style>
-		.s0 { fill: #000000 } 
+		.s0 { fill: #b7d43d } 
+		.s1 { fill: #63c5f0 } 
 	</style>
-	<g id="Clip-Path: Page 1">
-		<g id="Page 1">
-			<path id="Path 1" fill-rule="evenodd" class="s0" d="m766.1 798.9l764.5-798.5v1596.2zm-765.7-798.5v1596.2l765.7-797.7z"/>
-		</g>
-	</g>
+	<path class="s0" d="m773.6 774l-773.5-773.5v1547z"/>
+	<path class="s1" d="m1547.5 1547.5v-1547l-773.9 773.5 773.5 773.5z"/>
 </svg>

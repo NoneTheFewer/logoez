@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1552 1552">
+	<title>logo</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m6807.64 0v1552h-6807.64v-1552z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #2222ff } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path id="路径" fill-rule="evenodd" class="s0" d="m1326.3 1552h-1101.6c-124.2 0-224.7-100.9-224.7-225v-1102.3c0-124.2 100.5-224.7 224.7-224.7h1101.6c124.1 0 225 100.5 225 224.7v1102.3c0 124.1-100.9 225-225 225z"/>
+			<path id="路径" fill-rule="evenodd" class="s1" d="m149.6 802.1l545.6 264.9v-92.1l-410.2-198.9 410.2-199.3v-91.7l-545.6 264.5z"/>
+			<path id="路径" fill-rule="evenodd" class="s1" d="m855.7 485v91.7l410.2 199.3-410.2 198.9v92.1l545.7-264.9v-52.6z"/>
+		</g>
+	</g>
+</svg>

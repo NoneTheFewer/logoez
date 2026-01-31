@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1549 800">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-3495-2000h8540v4800h-8540z"/>
+		</clipPath>
+	</defs>
+	<style>.a{fill:#b8f539}</style>
+	<g clip-path="url(#cp1)">
+		<path fill-rule="evenodd" class="a" d="m559.6 800h-212l-66.6-241.9-66.7 241.9h-213.4l153.9-422-148.5-378h208l66.7 227.1 66.6-227.1h206.6l-148.5 378zm595 0h-212l-66.7-241.9-66.6 241.9h-213.4l153.9-422-148.5-378h208l66.6 227.1 66.7-227.1h206.6l-148.5 378zm36.3 0v-800h195v610.4h163.1v189.6z"/>
+	</g>
+</svg>

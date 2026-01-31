@@ -1,6 +1,18 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="#fffffe">
-	<circle cx="20" cy="20" r="20" fill="#fba60b"/>
-	<circle cx="20" cy="30.06" r="1.9"/>
-	<path d="M25.18 19.19a4.8 4.8 0 01-3.46 4.49v3.5h-3.47v-3.5a4.76 4.76 0 01-3.43-4.5V8.05h3.43V19.2c0 .87.8 1.58 1.75 1.58s1.72-.7 1.72-1.58V8.04h3.46V19.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1535">
+	<title>CuriosityStream_Combo_Horz_Rev (1)-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1088.681,1092.934,-1092.934,1088.681,224.128,221.24)">
+			<stop offset="0" stop-color="#ebc130"/>
+			<stop offset="1" stop-color="#ea894b"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<path id="Shape 1" class="s0" d="m414.6 252.8h754.5v1074.2h-754.5z"/>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m768.2 1534.8c-424.3 0-767.3-343-767.3-767.3 0-424.3 343-767.3 767.3-767.3 424.3 0 767.3 343 767.3 767.3 0 424.3-343 767.3-767.3 767.3zm77.4-315.9c0-42.4-34.3-76.7-76.7-76.7-42.5 0-76.8 34.3-76.8 76.7 0 42.5 34.3 76.8 76.8 76.8 42.4 0 76.7-34.3 76.7-76.8zm133-886.8h-140v435.4c0 35.2-30.7 68.4-69.1 68.4-38.4 0-71-33.2-71-68.4v-435.4h-138.7v435.4c0 83.8 51.8 163.7 138.7 195.7v117h140.1v-117.7c85.6-27.5 140-111.9 140-195.6z"/>
+	</g>
 </svg>

@@ -1,15 +1,20 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1432 1539">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1546 1545">
+	<title>GAU_BIG</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(386.158,386.158,-772.027,772.027,773.207,772.477)">
+			<stop offset="0" stop-color="#f79b2c"/>
+			<stop offset="1" stop-color="#9b6324"/>
+		</linearGradient>
+	</defs>
 	<style>
-		.s0 { fill: #947c4e } 
-		.s1 { fill: #00ace5 } 
+		.s0 { fill: #a58849 } 
+		.s1 { fill: #0e5995 } 
+		.s2 { fill: url(#g1) } 
 	</style>
-	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
-		<g id="Clip-Path: Page 1">
-			<g id="Page 1">
-				<path id="Path 93" class="s0" d="m1431.4 767.2h-715.4v771z"/>
-				<path id="Path 94" fill-rule="evenodd" class="s1" d="m716 1189.9v348.3c-396.8 0-715.9-345-715.9-771 0-422.1 319.1-767.2 715.9-767.2 296.5 0 551 193.6 657.7 470.7l-380.6-3.2c-71.2-74.5-170.9-119.2-277.1-119.2-216.2 0-393.5 187.1-393.5 418.9 0 235.6 177.3 422.7 393.5 422.7z"/>
-			</g>
-		</g>
+	<g id="Page 1">
+		<path id="Path 6" class="s0" d="m1545.9 772.7h-772.5v772z"/>
+		<path id="Path 7" class="s1" d="m348.9 772.7c0-234.5 190-424.4 424.5-424.4 116.4 0 221.8 47.4 298.3 123.3h413.4c-117.5-276.8-392-471.4-711.7-471.4-426.8 0-772.5 345.7-772.5 772.5 0 426.3 345.7 772 772.5 772v-348.1c-234.5 0-424.5-189.9-424.5-423.9z"/>
+		<path id="Path 8" class="s2" d="m773.4 772.7v772l772.5-772z"/>
 	</g>
 </svg>

@@ -1,5 +1,8 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 576 576">
-	<path d="M559.4 557.1H21.3V18.9h538.1v538.2z" style="fill:#3d1628"/>
-	<path d="M499.7 451.5H381.8l-91.5-199.6-91.5 199.6H81l150.4-328.1h117.8l150.5 328.1z" style="fill:#be1549"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1533 1222">
+	<title>corpay-svg</title>
+	<style>
+		.s0 { fill: #be1549 } 
+	</style>
+	<path id="Layer" class="s0" d="m1532.3 1221.2h-431l-334.7-742.7-334.7 742.7h-431l550.1-1220.9h431z"/>
 </svg>

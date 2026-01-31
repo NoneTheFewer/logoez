@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542.6 100">
     <clipPath id="clp1" clip-rule="nonzero">
         <rect x="0" y="0" width="200" height="100" id="rect8" />
     </clipPath>
+    <g transform="translate(171.3 0)">
     <g id="g3115" transform="matrix(0.885145, 0, 0, 0.885145, 11.4855, 1.76462)">
         <g transform="translate(0, -19.1525)" id="g2478">
             <g style="stroke-width: 0.039; stroke-miterlimit: 4;" class="ps10" id="q1" transform="matrix(4.73215, 0, 0, -4.7322, -302.531, 290.599)">
@@ -127,5 +128,6 @@
                 </g>
             </g>
         </g>
+    </g>
     </g>
 </svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 123 123">
+	<rect fill="lightgrey" height="100%" width="100%"/>
+	<g id="Frame 2147203922">
+		<rect height="123" width="123"/>
+		<path d="M35.5689 53.8654C35.5689 65.4458 43.6875 76.1511 55.6419 76.1511C71.2517 76.1511 77.8339 62.8931 77.8339 51.8527C77.8339 40.8122 70.9794 27 55.3112 27C42.441 27 25 35.4588 25 62.9305C25 82.5468 38.8066 98.5275 59.3948 98.5275C85.6803 98.5275 96.9132 77.1105 96.9132 65.9968" id="Vector 485" stroke="url(#paint0_radial_1_10)" stroke-width="9.58843" stroke-dasharray=" 270.695px" stroke-dashoffset=" 270.695px"/>
+	</g>
+	<defs>
+		<radialGradient cx="0" cy="0" gradientTransform="translate(51.809 108.336) rotate(-78.0375) scale(89.1973 247.558)" gradientUnits="userSpaceOnUse" id="paint0_radial_1_10" r="1">
+			<stop offset="0.005" stop-color="#FFC9A5"/>
+			<stop offset="0.352037" stop-color="#FFB1A4"/>
+			<stop offset="0.672228" stop-color="#DF96B7"/>
+			<stop offset="1" stop-color="#B676FF"/>
+		</radialGradient>
+	</defs>
+</svg>

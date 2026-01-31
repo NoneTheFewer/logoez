@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1514 979">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1052.12-791.3h8401.22v11878.5h-8401.22z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-1526.8-542.1h8879.73v11885.17h-8879.73z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #439190 } 
+		.s1 { fill: #546ba2 } 
+		.s2 { fill: #b4b4b6 } 
+		.s3 { fill: #f3f2f2 } 
+	</style>
+	<g id="layer1">
+		<g id="g830">
+			<g id="g834">
+				<g id="Clip-Path: g836" clip-path="url(#cp1)">
+					<g id="g836">
+						<g id="g2306">
+							<g id="Clip-Path: g2304" clip-path="url(#cp2)">
+								<g id="g2304">
+									<g id="g8460">
+										<g id="g18602">
+											<path id="path984" class="s0" d="m756.6 489.5h-756.6c0-270.1 338.7-489 756.6-489z"/>
+											<path id="path986" class="s1" d="m756.6 489.5v-489c417.8 0 756.6 218.9 756.6 489z"/>
+											<path id="path988" class="s0" d="m1513.2 489.5c0 269.9-338.7 488.8-756.6 488.8v-488.8z"/>
+											<path id="path990" class="s1" d="m756.5 489.5v488.8c-417.8 0-756.5-218.9-756.5-488.8z"/>
+											<path id="path992" class="s2" d="m756.6 489.5v-487.8l487.8 487.8z"/>
+											<path id="path994" class="s3" d="m756.6 489.5h-487.9l487.9-487.8z"/>
+											<path id="path996" class="s3" d="m1244.4 489.5l-487.8 487.6v-487.6z"/>
+											<path id="path998" class="s2" d="m756.5 489.5v487.6l-487.8-487.6z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

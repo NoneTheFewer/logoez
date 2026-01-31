@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1551 1395">
+	<title>SKE_BIG</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(436.296,-794.9,858.855,471.399,893.384,1485.983)">
+			<stop offset="0" stop-color="#a7a9ac"/>
+			<stop offset="1" stop-color="#d1d3d4"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(802.327,-1379.078,524.486,305.138,183.161,1531.657)">
+			<stop offset="0" stop-color="#d89c2e"/>
+			<stop offset="1" stop-color="#eebf45"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<path class="s0" d="m1093.9 602.8c-221.2 47.3-384.5 73.7-384.5 112.9 0 25.7 55.7 45.8 197.9 97.7 175.3 63.8 240.2 99.4 240.2 153 0 91-192.6 178.1-661 428.1v-0.3l-0.7 0.7h1065.2c0 0-456.8-792.1-457.1-792.1z"/>
+	<path class="s1" d="m745.7 0.5l-745.3 1291.8 535.5-215.1c178.8-72 251.8-99.8 251.8-134.1 0-36.3-57.5-59.6-166.5-108.6-106.2-47.6-143.5-70.5-143.5-103.3 0-75.5 198.2-86 595-165h0.4l-326.3-565.7z"/>
+</svg>

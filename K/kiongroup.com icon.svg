@@ -1,11 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 1545 1212">
-	<style>
-		.shp0 { fill: #000000 } 
-	</style>
-	<g id="KION_Group_logo">
-		<g id="KION_Group_WEB_RGB_3color_positive_illu4_v_v_2-Copy-2">
-			<path id="Path" class="shp0" d="M929.88 0.76L449.84 445.48L376.75 445.48L376.75 0.76L0 0.76L0 1211.76L376.75 1211.76L376.75 746.8L453.64 746.8L959.86 1211.76L1544.3 1211.76L801.6 558.34L1445.77 0.76L929.88 0.76Z"/>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1553 1669">
+	<style>.a{fill:#ae0055}</style>
+	<path fill-rule="evenodd" class="a" d="m1547 1326.3v342.2h-1546.5v-342.2z"/>
+	<path fill-rule="evenodd" d="m935.4 0.2l-482.2 446.7h-73.4v-446.7h-378.8v1217.1h378.8v-467.4h77.1l508.6 467.4h587.5l-746.4-656.8 647.6-560.3z"/>
 </svg>

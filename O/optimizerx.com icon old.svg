@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1521 992">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-5847.08-40.45h6639.61v1331.42h-6639.61z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #2e283a } 
+		.s1 { fill: #729a40 } 
+	</style>
+	<g id="OpRX_logo_no-tag_cmyk">
+		<path id="Fill-1" class="s0" d="m960.7 345.7l202.8 203v239.7l-202.8 202.9-119.8-119.9 202.8-202.9-202.8-202.9 119.8-119.9"/>
+		<path id="Fill-2" class="s1" d="m1520.2 465.6l-202.9 202.9 202.9 202.9-119.8 119.9-202.9-202.9v-239.7l202.9-203 119.8 119.9"/>
+		<g id="Group-6">
+			<g id="Clip-Path: Fill-3" clip-path="url(#cp1)">
+				<path id="Fill-3" fill-rule="evenodd" class="s1" d="m605.4 598.3l187.1 380.1h-224.9l-174.6-352.1h-196.9v352.1h-195.6v-978.1h455.4c184.4 0 336.6 102 336.6 310.2 0 146.7-62.8 238.9-187.1 287.8zm-14-283.6c0-88-53.1-124.4-139.7-124.4h-255.6v251.5h255.6c90.8 0 139.7-41.9 139.7-127.1z"/>
+			</g>
+		</g>
+	</g>
+</svg>

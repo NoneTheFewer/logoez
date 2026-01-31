@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1552 1332">
+	<title>APEX</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-518.088,0,0,-404.35,768.314,1382.809)">
+			<stop offset="0" stop-color="#e75334"/>
+			<stop offset=".25" stop-color="#e14a31"/>
+			<stop offset=".5" stop-color="#d83d2b"/>
+			<stop offset=".75" stop-color="#ce2d23"/>
+			<stop offset="1" stop-color="#c0181a"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-249.624,0,0,-194.823,250.227,1382.809)">
+			<stop offset="0" stop-color="#c0191a" stop-opacity="0"/>
+			<stop offset=".25" stop-color="#c0191a" stop-opacity="1"/>
+			<stop offset=".5" stop-color="#c0191a" stop-opacity="1"/>
+			<stop offset=".75" stop-color="#c0191a" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0191a" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(528.524,0,0,404.334,768.314,1382.809)">
+			<stop offset="0" stop-color="#e75334"/>
+			<stop offset=".25" stop-color="#e14a31"/>
+			<stop offset=".5" stop-color="#d83d2b"/>
+			<stop offset=".75" stop-color="#ce2d23"/>
+			<stop offset="1" stop-color="#c0181a"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(254.652,0,0,194.815,1296.838,1382.809)">
+			<stop offset="0" stop-color="#c0191a" stop-opacity="0"/>
+			<stop offset=".25" stop-color="#c0191a" stop-opacity="1"/>
+			<stop offset=".5" stop-color="#c0191a" stop-opacity="1"/>
+			<stop offset=".75" stop-color="#c0191a" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0191a" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #1475bd } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+		.s4 { fill: url(#g4) } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m613.6 267.5h310.6l85 145.6h-479.3zm-217.7 377.9l83.9-145.5h580.2l85.1 145.5zm267.7-464.8l104.1-180.6 105.6 180.6z"/>
+	<path class="s1" d="m345.7 732.3l-345.1 599.2h246.8l125-215 191 0.1 90.2-105.2-113.7-120.8h144.5l83.9-158.3z"/>
+	<path class="s2" d="m345.7 732.3l-345.1 599.2h246.8l125-215 191 0.1 90.2-105.2-113.7-120.8h144.5l83.9-158.3z"/>
+	<path class="s3" d="m768.3 732.3l90.3 158.3h144.6l-113.6 120.8 90.1 105.2 199.9-0.1 125 215h246.9l-345.2-599.2z"/>
+	<path class="s4" d="m768.3 732.3l90.3 158.3h144.6l-113.6 120.8 90.1 105.2 199.9-0.1 125 215h246.9l-345.2-599.2z"/>
+</svg>

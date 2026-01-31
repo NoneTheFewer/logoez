@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1543 1235">
+	<title>CGR-EN-FINAL_compressed-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-482.02-5248.65h17156.09v12130.73h-17156.09z"/>
+		</clipPath>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-606.944,-1228.513,251.063,-124.037,1473.18,1258.147)">
+			<stop offset="0" stop-color="#309cd6"/>
+			<stop offset=".307" stop-color="#41b4e5"/>
+			<stop offset=".638" stop-color="#1b79c1"/>
+			<stop offset="1" stop-color="#142685"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-599.63,1243.139,-244.307,-117.842,733.319,57.552)">
+			<stop offset="0" stop-color="#309cd6"/>
+			<stop offset=".284" stop-color="#41b4e5"/>
+			<stop offset=".614" stop-color="#1b79c1"/>
+			<stop offset="1" stop-color="#142685"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(614.39,0,0,311.127,596.303,1096.007)">
+			<stop offset="0" stop-color="#309cd6"/>
+			<stop offset=".307" stop-color="#41b4e5"/>
+			<stop offset=".638" stop-color="#1b79c1"/>
+			<stop offset="1" stop-color="#142685"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-309.369,587.805,-192.237,-101.177,771.669,621.789)">
+			<stop offset="0" stop-color="#309cd6"/>
+			<stop offset=".307" stop-color="#41b4e5"/>
+			<stop offset=".638" stop-color="#1b79c1"/>
+			<stop offset="1" stop-color="#142685"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 14" class="s0" d="m771.1 309.5l462.5 924.8h308.7l-616.4-1233.4z"/>
+			<path id="Path 15" class="s1" d="m617.2 0.9l-616.3 1233.4h307.6l462.6-924.8 154.8-308.6z"/>
+			<path id="Path 16" class="s2" d="m828.1 958.3l-141.6 276h547.1l-138.6-277z"/>
+			<path id="Path 17" class="s3" d="m377.8 1234.3h308.7l239.4-467.5-153.8-302.5z"/>
+		</g>
+	</g>
+</svg>

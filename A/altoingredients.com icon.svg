@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1549 1540">
+	<defs>
+		<linearGradient id="P" gradientUnits="userSpaceOnUse"/>
+		<linearGradient id="g1" x2="1" href="#P" gradientTransform="matrix(6904.556,-847.773,890.602,7253.373,.171,3355.194)">
+			<stop stop-color="#4ec8ef"/>
+			<stop offset=".22" stop-color="#75ccb9"/>
+			<stop offset=".23" stop-color="#77ccb6"/>
+			<stop offset=".48" stop-color="#a5ce77"/>
+			<stop offset=".49" stop-color="#a7ce74"/>
+			<stop offset=".75" stop-color="#ccd244"/>
+			<stop offset="1" stop-color="#fcd402"/>
+		</linearGradient>
+	</defs>
+	<style>.a{fill:url(#g1)}</style>
+	<path fill-rule="evenodd" class="a" d="m466.3 380.4c-7.8-13.5-7.8-30.6 0-44.1l184.8-313.2c17-29.5 59.4-29.5 76.5 0l407.6 705.4 407.5 705c17.1 29.6-4.2 66.6-38.4 66.6h-344.9c-16 0-30.6-8.6-38.5-22.1l-217.1-376.2zm164.4 843.8c0 178-147.7 321.8-327.4 315-163.8-6-297.3-139.9-303-303.6-2.5-70.4 18.2-135.9 55.2-189.7l128.5-222.7 112.1-194c8.6-14.6 29.9-14.6 38.5 0l112.1 194 128.5 222.7c34.9 50.9 55.5 112.2 55.5 178.3z"/>
+</svg>

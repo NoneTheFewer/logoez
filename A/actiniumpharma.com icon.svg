@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1514 1075">
+	<title>logo (2)-svg</title>
+	<defs>
+		<filter id="blurMe" x="-1" width="100" y="-1" height="100">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="65"/>
+		</filter>
+		<radialGradient id="g1" cx="237.3" cy="522.9" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<linearGradient id="g2" x1="33.8" y1="600.4" x2="839" y2="307.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b0f0"/>
+			<stop offset=".5" stop-color="#c8c8c8"/>
+			<stop offset="1" stop-color="#02215e"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="8.7" y1="430.8" x2="863.9" y2="430.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="8.7" y1="476.9" x2="863.9" y2="476.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="1357.8" y1="-4" x2="1200.3" y2="333.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b0f0"/>
+			<stop offset=".5" stop-color="#c8c8c8"/>
+			<stop offset="1" stop-color="#02215e"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="1415.1" y1="61.4" x2="1175.4" y2="301" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="1382.5" y1="28.8" x2="1142.8" y2="268.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="1447.9" y1="988.6" x2="1109.9" y2="831" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b0f0"/>
+			<stop offset=".5" stop-color="#c8c8c8"/>
+			<stop offset="1" stop-color="#02215e"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="1382.7" y1="1045.9" x2="1142.9" y2="806.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="1415.2" y1="1013.4" x2="1175.4" y2="773.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g11" x1="33.8" y1="772.5" x2="839" y2="479.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b0f0"/>
+			<stop offset=".5" stop-color="#c8c8c8"/>
+			<stop offset="1" stop-color="#02215e"/>
+		</linearGradient>
+		<linearGradient id="g12" x1="8.7" y1="603" x2="863.9" y2="603" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<linearGradient id="g13" x1="8.7" y1="649" x2="863.9" y2="649" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ef6ff"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".6"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".6"/>
+		</linearGradient>
+		<radialGradient id="g14" cx="1055.6" cy="355.6" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g15" cx="905.5" cy="197.1" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g16" cx="712.6" cy="135.5" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g17" cx="499.8" cy="161.9" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g18" cx="323.6" cy="285.1" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g19" cx="325" cy="778.3" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g20" cx="501.5" cy="892.8" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g21" cx="713.3" cy="928.1" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g22" cx="907.1" cy="848.7" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g23" cx="1056.6" cy="699" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g24" cx="1201.1" cy="522.9" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g25" cx="1320.1" cy="373.2" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g26" cx="1460.9" cy="214.6" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g27" cx="1462.3" cy="839.9" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+		<radialGradient id="g28" cx="1320.9" cy="681.5" r="35.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#b6ccf2"/>
+			<stop offset="1" stop-color="#2b468b"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { opacity: .8;fill: url(#g3) } 
+		.s3 { opacity: .2;fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { opacity: .8;fill: url(#g6) } 
+		.s6 { opacity: .3;fill: url(#g7) } 
+		.s7 { fill: url(#g8) } 
+		.s8 { opacity: .8;fill: url(#g9) } 
+		.s9 { opacity: .3;fill: url(#g10) } 
+		.s10 { fill: url(#g11) } 
+		.s11 { opacity: .8;fill: url(#g12) } 
+		.s12 { opacity: .2;fill: url(#g13) } 
+		.s13 { fill: url(#g14) } 
+		.s14 { fill: url(#g15) } 
+		.s15 { fill: url(#g16) } 
+		.s16 { fill: url(#g17) } 
+		.s17 { fill: url(#g18) } 
+		.s18 { fill: url(#g19) } 
+		.s19 { fill: url(#g20) } 
+		.s20 { fill: url(#g21) } 
+		.s21 { fill: url(#g22) } 
+		.s22 { fill: url(#g23) } 
+		.s23 { fill: url(#g24) } 
+		.s24 { fill: url(#g25) } 
+		.s25 { fill: url(#g26) } 
+		.s26 { fill: url(#g27) } 
+		.s27 { fill: url(#g28) } 
+		.s28 { opacity: .5;fill: #0491c5 } 
+	</style>
+	<path filter="url(#blurMe)" d="M 1458.9,856.9 L 1318,698.4 L 1053.5,372.5 L 903.7,214 L 711.1,152.5 L 498.1,158.8 L 281.8,302.2 L 234.8,539.8 L 281.8,795.3 L 498.1,929.8 L 709.6,945 L 903.7,865.8 L 1053.5,716.1 L 1198.6,539.8 L 1318,390.1 L 1458.9,231.7" fill="none" stroke="#08C" stroke-width="45"/>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<ellipse id="Layer" class="s0" cx="234.8" cy="539.8" rx="52.9" ry="52.9"/>
+				<g id="Layer">
+					<path id="Layer" class="s1" d="m0 399h872.8v109.7h-872.8z"/>
+					<path id="Layer" class="s2" d="m828.6 453.9h-784.6l-35.1-46.2h855l-35.3 46.2z"/>
+					<path id="Layer" class="s3" d="m863.9 500h-855l35.1-46.1h784.6l35.3 46.1z"/>
+				</g>
+				<g id="Layer">
+					<path id="Layer" class="s4" d="m1114 252.3l252.4-252.1 77.6 77.5-252.4 252.1z"/>
+					<path id="Layer" class="s5" d="m1183.9 259.9l190.1-189.9 57.5 7.7-239.9 239.7-7.7-57.5z"/>
+					<path id="Layer" class="s6" d="m1126.3 252.2l240.1-239.7 7.6 57.5-190.1 189.9-57.6-7.7z"/>
+				</g>
+				<g id="Layer">
+					<path id="Layer" class="s7" d="m1113.9 822.5l77.6-77.5 252.4 252.1-77.6 77.6z"/>
+					<path id="Layer" class="s8" d="m1183.9 814.8l190.1 189.9-7.6 57.5-240.1-239.7 57.6-7.7z"/>
+					<path id="Layer" class="s9" d="m1191.6 757.3l239.9 239.7-57.5 7.7-190.1-189.9 7.7-57.5z"/>
+				</g>
+				<g id="Layer">
+					<path id="Layer" class="s10" d="m0 571.1h872.8v109.7h-872.8z"/>
+					<path id="Layer" class="s11" d="m828.6 625.9h-784.6l-35.1-46h855l-35.3 46z"/>
+					<path id="Layer" class="s12" d="m863.9 671.9h-855l35.1-46h784.6l35.3 46z"/>
+				</g>
+				<ellipse id="Layer" class="s13" cx="1053.5" cy="372.5" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s14" cx="903.7" cy="214" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s15" cx="711.1" cy="152.5" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s16" cx="498.1" cy="178.8" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s17" cx="321.8" cy="302.2" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s18" cx="321.8" cy="795.3" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s19" cx="498.1" cy="909.8" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s20" cx="709.6" cy="945" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s21" cx="903.7" cy="865.8" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s22" cx="1053.5" cy="716.1" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s23" cx="1198.6" cy="539.8" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s24" cx="1318" cy="390.1" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s25" cx="1458.9" cy="231.7" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s26" cx="1458.9" cy="856.9" rx="52.9" ry="52.9"/>
+				<ellipse id="Layer" class="s27" cx="1318" cy="698.4" rx="52.9" ry="52.9"/>
+			</g>
+			<path id="Layer" class="s28" d="m0 399l44 54.9-44 54.8v-109.7z"/>
+			<path id="Layer" class="s28" d="m0 572l44 54.7-44 55v-109.7z"/>
+		</g>
+	</g>
+</svg>

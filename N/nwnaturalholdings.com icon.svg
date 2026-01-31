@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.429237 43.383247">
+	<defs id="defs191">
+		<path d="M 15.282346,9.7787368 C 13.663423,5.3349474 11.669846,2.5749474 9.4886154,0.20842105 L 0.58453846,8.8086316 16.169615,23.862947 C 17.2125,19.11221 16.737808,13.784211 15.282346,9.7787368" id="path-1"/>
+		<linearGradient x1="-14.972746" y1="9.9437971" x2="37.890831" y2="9.9437971" id="linearGradient-3" gradientTransform="scale(0.82619729,1.2103647)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#49AF56" offset="0%" id="stop168"/>
+			<stop stop-color="#005093" offset="100%" id="stop170"/>
+		</linearGradient>
+		<path d="m 1.2684615,13.248718 c 1.071,3.729487 2.8455385,7.580769 6.2854231,11.342949 l 8.8988464,-8.725 L 0.85915385,0.58974359 C 0.22034615,3.9198718 -0.06930769,8.5916667 1.2684615,13.248718" id="path-4"/>
+		<linearGradient x1="-17.483433" y1="10.321692" x2="35.793872" y2="10.321692" id="linearGradient-6" gradientTransform="scale(0.81979496,1.2198172)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#49AF56" offset="0%" id="stop174"/>
+			<stop stop-color="#005093" offset="100%" id="stop176"/>
+		</linearGradient>
+		<path d="M 12.429238,9.3267429 3.3787619,0.13828571 C 3.4511905,0.5016 3.5180476,0.86617143 3.575,1.2326286 4.6917619,8.1230286 3.4307619,15.623771 0.2352381,21.711486 L 12.429238,9.3267429" id="path-7"/>
+		<linearGradient x1="-38.629824" y1="8.2136316" x2="16.368599" y2="8.2136316" id="linearGradient-9" gradientTransform="scale(0.75182334,1.3300997)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#49AF56" offset="0%" id="stop180"/>
+			<stop stop-color="#005093" offset="100%" id="stop182"/>
+		</linearGradient>
+		<path d="m 0,13.0364 9.48935,9.596257 C 9.1988,21.121886 9.00055,19.553943 8.9193,17.928829 8.50915,9.8032571 10.9902,3.5544857 12.78225,0.11368571 L 0,13.0364" id="path-10"/>
+		<linearGradient x1="0.066690422" y1="8.5683743" x2="57.700329" y2="8.5683743" id="linearGradient-12" gradientTransform="scale(0.75340653,1.3273047)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#49AF56" offset="0%" id="stop186"/>
+			<stop stop-color="#005093" offset="100%" id="stop188"/>
+		</linearGradient>
+	</defs>
+	<g id="Investor-Relations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0,-0.20842105)">
+		<g id="01---NWN---Landing" transform="translate(-136,-17)">
+			<g id="NWN-Holdings-4c-Logo-hz" transform="translate(136,17)">
+				<g id="Group-22" transform="translate(12)">
+					<mask id="mask-2" fill="#ffffff">
+						<use xlink:href="#path-1" id="use211"/>
+					</mask>
+					<path d="M 15.282346,9.7787368 C 13.663423,5.3349474 11.669846,2.5749474 9.4886154,0.20842105 L 0.58453846,8.8086316 16.169615,23.862947 C 17.2125,19.11221 16.737808,13.784211 15.282346,9.7787368" id="Fill-20" fill="url(#linearGradient-3)" mask="url(#mask-2)"/>
+				</g>
+				<g id="Group-25" transform="translate(14,19)">
+					<mask id="mask-5" fill="#ffffff">
+						<use xlink:href="#path-4" id="use217"/>
+					</mask>
+					<path d="m 1.2684615,13.248718 c 1.071,3.729487 2.8455385,7.580769 6.2854231,11.342949 l 8.8988464,-8.725 L 0.85915385,0.58974359 C 0.22034615,3.9198718 -0.06930769,8.5916667 1.2684615,13.248718" id="Fill-23" fill="url(#linearGradient-6)" mask="url(#mask-5)"/>
+				</g>
+				<g id="Group-28" transform="translate(30,12)">
+					<mask id="mask-8" fill="#ffffff">
+						<use xlink:href="#path-7" id="use223"/>
+					</mask>
+					<path d="M 12.429238,9.3267429 3.3787619,0.13828571 C 3.4511905,0.5016 3.5180476,0.86617143 3.575,1.2326286 4.6917619,8.1230286 3.4307619,15.623771 0.2352381,21.711486 L 12.429238,9.3267429" id="Fill-26" fill="url(#linearGradient-9)" mask="url(#mask-8)"/>
+				</g>
+				<g id="Group-31" transform="translate(0,9)">
+					<mask id="mask-11" fill="#ffffff">
+						<use xlink:href="#path-10" id="use229"/>
+					</mask>
+					<path d="m 0,13.0364 9.48935,9.596257 C 9.1988,21.121886 9.00055,19.553943 8.9193,17.928829 8.50915,9.8032571 10.9902,3.5544857 12.78225,0.11368571 L 0,13.0364" id="Fill-29" fill="url(#linearGradient-12)" mask="url(#mask-11)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
