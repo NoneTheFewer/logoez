@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" fill="none">
+	<g clip-path="url(#C)">
+		<g filter="url(#A)">
+			<path fill-rule="evenodd" d="M0 57.556L7.724 62 32 53.111 56.276 62 64 57.556 32 2 0 57.556zm49.103-7.778L32 19.778 14.458 50.137 32 43.667l17.103 6.111z" fill="url(#B)"/>
+		</g>
+	</g>
+	<defs>
+		<filter id="A" x="-1" y="1" width="68" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="A"/>
+			<feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="B"/>
+			<feOffset dx="1" dy="1"/>
+			<feGaussianBlur stdDeviation="1"/>
+			<feComposite in2="B" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+			<feBlend in2="A"/>
+			<feBlend in="SourceGraphic"/>
+		</filter>
+		<linearGradient id="B" x1="3.862" y1="59.778" x2="47.099" y2="28.95" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#c0f"/>
+			<stop offset="1" stop-color="#5200ff"/>
+		</linearGradient>
+		<clipPath id="C">
+			<path fill="#fff" d="M0 0h64v64H0z"/>
+		</clipPath>
+	</defs>
+</svg>

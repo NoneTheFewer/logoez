@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+	<defs>
+		<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+			<stop offset="0%" stop-color="#4F46E5" stop-opacity="1"/>
+			<stop offset="100%" stop-color="#7C3AED" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<!-- Background circle -->
+	<circle cx="100" cy="100" r="95" fill="url(#grad1)"/>
+	<!-- House icon -->
+	<g transform="translate(100, 100)">
+		<!-- Roof -->
+		<path d="M -35,-15 L 0,-45 L 35,-15 Z" fill="#FFFFFF" opacity="0.95"/>
+		<!-- House body -->
+		<rect x="-35" y="-15" width="70" height="55" fill="#FFFFFF" opacity="0.95"/>
+		<!-- Door -->
+		<rect x="-12" y="10" width="24" height="30" fill="url(#grad1)" rx="2"/>
+		<!-- Windows -->
+		<rect x="-28" y="-5" width="12" height="12" fill="#E0E7FF" rx="1"/>
+		<rect x="16" y="-5" width="12" height="12" fill="#E0E7FF" rx="1"/>
+		<!-- Key accent -->
+		<g transform="translate(25, -30) scale(0.8)">
+			<circle cx="0" cy="0" r="4" fill="#FCD34D"/>
+			<rect x="0" y="-1" width="12" height="2" fill="#FCD34D" rx="1"/>
+			<rect x="8" y="-3" width="2" height="2" fill="#FCD34D"/>
+			<rect x="10" y="-3" width="2" height="2" fill="#FCD34D"/>
+		</g>
+	</g>
+</svg>

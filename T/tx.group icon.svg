@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<svg viewBox="0 0 52 25" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<symbol viewBox="0 0 52 25" id="icon-logo2020">
+			<g fill="#302B27">
+				<path d="M8 11h8v13H8z" fill="#302B27"/>
+				<path d="M16.52 4.06V1H0v7.94h16.52V12H25V4.06zM52 5.58L46.197 0 39 6.92 31.803 0 26 5.616l7.197 6.92L26 19.42 31.803 25 39 18.08 46.197 25 52 19.42l-7.197-6.92L52 5.58zM38.37 17.188l-2.128-2.101 5.75-5.712 2.13 2.1-5.751 5.713z" fill="#302B27"/>
+			</g>
+		</symbol>
+	</defs>
+	<use xlink:href="#icon-logo2020"/>
+</svg>
