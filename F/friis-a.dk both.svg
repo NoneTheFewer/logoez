@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257 199" opacity=" 1">
+	<g class="logo-a">
+		<polygon class="line-two" fill="currentColor" points="176.834,99.296 88.959,99.296 88.959,119.155 176.834,119.155  "/>
+		<polygon class="line-one" fill="currentColor" points="86.192,0 231.69,198.592 256.993,198.592 111.494,0  "/>
+	</g>
+	<g class="logo-f">
+		<polygon class="line-three" fill="currentColor" points="0,119.154 69.187,119.154 69.187,99.296 0,99.296  "/>
+		<polygon class="line-two" fill="currentColor" points="0,19.859 69.187,19.859 69.187,0 0,0  "/>
+		<polygon class="line-one" fill="currentColor" points="0,0 0,198.592 19.769,198.592 19.769,0  "/>
+	</g>
+	<g class="loader">
+		<polygon class="horizontal" points="0,20 40,20 40,0 0,0  "/>
+		<polygon class="vertical" points="0,0 0,40 21,40 21,0  "/>
+	</g>
+</svg>
