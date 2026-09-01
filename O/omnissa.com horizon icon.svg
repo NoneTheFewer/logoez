@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+	<clipPath id="clippy">
+		<path d="M 4.13,27.65 A 13.17,13.17 0.0 1,0 30.47,27.65 A 13.17,13.17 0.0 1,0 4.13,27.65"/>
+		<path d="M 26.17,31.0 A 9.83,9.83 0.0 1,0 45.83,31.0 A 9.83,9.83 0.0 1,0 26.17,31.0"/>
+		<path d="M 21.9,15.3 L 38.6,21.51 L 36,40.83 17,40.81"/>
+	</clipPath>
+	<linearGradient id="myGradient">
+		<stop offset="0%" stop-color="#006169"/>
+		<stop offset="100%" stop-color="#36b1c0"/>
+	</linearGradient>
+	<linearGradient id="skydient">
+		<stop offset="0%" stop-color="#0d99aa"/>
+		<stop offset="100%" stop-color="#def2f6"/>
+	</linearGradient>
+	<g clip-path="url(#clippy)">
+		<rect fill="url(#myGradient)" width="41.75" height="26.4" x="4.11" y="14.46"/>
+	</g>
+	<circle cx="25.7" cy="21.6" r="12.8" fill="url(#skydient)" opacity="0.75"/>
+</svg>

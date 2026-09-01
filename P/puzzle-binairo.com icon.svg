@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 121">
+	<defs>
+		<g id="black">
+			<rect x=".5" y=".5" width="20" height="20" fill="none" stroke="grey" stroke-width="1"/>
+			<circle cx="10.5" cy="10.5" r="8.5" fill="black" stroke="black" stroke-width="1"/>
+		</g>
+		<g id="blackdot">
+			<rect x=".5" y=".5" width="20" height="20" fill="none" stroke="grey" stroke-width="1"/>
+			<circle cx="10.5" cy="10.5" r="8.5" fill="black" stroke="black" stroke-width="1"/>
+			<circle cx="10.5" cy="10.5" r="1" fill="grey"/>
+		</g>
+		<g id="white">
+			<rect x=".5" y=".5" width="20" height="20" fill="none" stroke="grey" stroke-width="1"/>
+			<circle cx="10.5" cy="10.5" r="8.5" fill="white" stroke="black" stroke-width="1"/>
+		</g>
+		<g id="whitedot">
+			<rect x=".5" y=".5" width="20" height="20" fill="none" stroke="grey" stroke-width="1"/>
+			<circle cx="10.5" cy="10.5" r="8.5" fill="white" stroke="black" stroke-width="1"/>
+			<circle cx="10.5" cy="10.5" r="1" fill="grey"/>
+		</g>
+	</defs>
+	<rect fill="white" width="100%" height="100%"/>
+	<use href="#black" x="0" y="0"/>
+	<use href="#white" x="20" y="0"/>
+	<use href="#white" x="40" y="0"/>
+	<use href="#blackdot" x="60" y="0"/>
+	<use href="#blackdot" x="80" y="0"/>
+	<use href="#white" x="100" y="0"/>
+	<use href="#black" x="0" y="20"/>
+	<use href="#white" x="20" y="20"/>
+	<use href="#black" x="40" y="20"/>
+	<use href="#white" x="60" y="20"/>
+	<use href="#blackdot" x="80" y="20"/>
+	<use href="#white" x="100" y="20"/>
+	<use href="#white" x="0" y="40"/>
+	<use href="#blackdot" x="20" y="40"/>
+	<use href="#black" x="40" y="40"/>
+	<use href="#white" x="60" y="40"/>
+	<use href="#white" x="80" y="40"/>
+	<use href="#black" x="100" y="40"/>
+	<use href="#white" x="0" y="60"/>
+	<use href="#blackdot" x="20" y="60"/>
+	<use href="#whitedot" x="40" y="60"/>
+	<use href="#blackdot" x="60" y="60"/>
+	<use href="#blackdot" x="80" y="60"/>
+	<use href="#white" x="100" y="60"/>
+	<use href="#black" x="0" y="80"/>
+	<use href="#white" x="20" y="80"/>
+	<use href="#black" x="40" y="80"/>
+	<use href="#white" x="60" y="80"/>
+	<use href="#white" x="80" y="80"/>
+	<use href="#black" x="100" y="80"/>
+	<use href="#whitedot" x="0" y="100"/>
+	<use href="#blackdot" x="20" y="100"/>
+	<use href="#whitedot" x="40" y="100"/>
+	<use href="#blackdot" x="60" y="100"/>
+	<use href="#white" x="80" y="100"/>
+	<use href="#black" x="100" y="100"/>
+</svg>
