@@ -4,3 +4,12 @@
 *.htm
 *.html
 *.py
+
+# Prevent myself from uploading images to the base directory.
+/*.svg
+/*.png
+/*.jpg
+/*.jpeg
+/*.gif
+/*.ico
+/*.webp
