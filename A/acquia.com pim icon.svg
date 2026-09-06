@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 49.55" fill="none">
+    <g transform="scale(1.03) translate(-0.5 0)">
+        <path d="M27.6655 12.0362C23.7097 8.92462 21.2011 4.58291 19.8986 2.02613L19.2474 0.651256L18.9338 0L18.4032 1.08543L17.9207 2.12261C16.6182 4.70352 14.0856 8.97286 10.1539 12.0362C4.172 16.7638 0.529785 22.3598 0.529785 29.3548C0.529785 38.2794 7.50064 48 18.9338 48C30.367 48 37.2896 38.2794 37.2896 29.3548C37.2896 22.3598 33.6715 16.7638 27.6655 12.0362Z" fill="url(#paint0_linear_3255_27139)" />
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_3255_27139" x1="4.18857" y1="55.8487" x2="52.0953" y2="35.3916" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#212654" />
+            <stop offset="0.1" stop-color="#751D5F" />
+            <stop offset="0.2" stop-color="#AA1866" />
+            <stop offset="0.3" stop-color="#C8146A" />
+            <stop offset="0.4" stop-color="#D7136C" />
+            <stop offset="0.5" stop-color="#DE126D" />
+            <stop offset="0.6" stop-color="#E0126D" />
+            <stop offset="0.7" stop-color="#E0126D" />
+            <stop offset="0.8" stop-color="#E1116E" />
+            <stop offset="0.9" stop-color="#E1116E" />
+            <stop offset="1" stop-color="#E1116E" />
+        </linearGradient>
+    </defs>
+    <line x1="9.6" y1="30.8" x2="18.9" y2="40.3" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="18.9" y1="40.3" x2="28.6" y2="30.1" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="9.6" y1="30.8" x2="19.3" y2="21.1" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="19.3" y1="21.1" x2="28" y2="21.6" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="28.6" y1="30.1" x2="28" y2="21.6" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="15.7" y1="30.9" x2="17.3" y2="32.5" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="17.9" y1="28.6" x2="20.9" y2="31.6" stroke="white" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="17.9" y1="28.6" x2="20.9" y2="31.6" stroke="white" stroke-width="2.2" stroke-linecap="round" transform="translate(2.3 -2.3)" />
+</svg>
