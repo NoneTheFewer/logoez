@@ -1,18 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66.11511 9.8431861">
     <defs id="defs5111">
-        <filter style="color-interpolation-filters:sRGB" id="filter10964-8">
-            <feFlood result="flood" flood-color="rgb(0,0,0)" flood-opacity="0.40000000000000002" id="feFlood10966-7" />
-            <feComposite result="composite1" operator="in" in="flood" in2="SourceGraphic" id="feComposite10968-9" />
-            <feGaussianBlur result="blur" stdDeviation="3.5" id="feGaussianBlur10970-2" />
-            <feComposite result="composite2" operator="over" in="SourceGraphic" in2="blur" id="feComposite10974-0" />
-        </filter>
-        <filter style="color-interpolation-filters:sRGB" id="filter4949">
-            <feFlood result="flood" flood-color="rgb(0,0,0)" flood-opacity="0.40000000000000002" id="feFlood4941" />
-            <feComposite result="composite1" operator="in" in="flood" in2="SourceGraphic" id="feComposite4943" />
-            <feGaussianBlur result="blur" stdDeviation="3.5" id="feGaussianBlur4945" />
-            <feComposite result="composite2" operator="over" in="SourceGraphic" in2="blur" id="feComposite4947" />
-        </filter>
         <linearGradient y2="85.401268" x2="77.581551" y1="102.90127" x1="89.69368" gradientTransform="matrix(0.91220191,0,0,0.91220191,0.0189802,6.0858864)" gradientUnits="userSpaceOnUse" id="linearGradient3697" xlink:href="#linearGradient3962-8" />
         <linearGradient id="linearGradient3962-8">
             <stop style="stop-color:#38c102;stop-opacity:1" offset="0" id="stop3964-8" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 	<style>.st0{fill:#f6f5f4}.st5{filter:url(#a)}.st6{opacity:.104}.st12{fill:#deddda}.st13{fill:#c0bfbc}.st14{fill:#9a9996}</style>
 	<filter id="a" width="100%" height="100%" x="0%" y="0%">
 		<feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
@@ -35,11 +35,6 @@
 		<stop offset="1" style="stop-color:#9a9996"/>
 	</linearGradient>
 	<path d="M66.3 353.4h153.5V170.9H66.3z" style="fill:url(#SVGID_00000000913397844114778320000005430802384345341625_)"/>
-	<defs>
-		<filter id="Adobe_OpacityMaskFilter" width="318.1" height="45.7" x="12.3" y="422.5" filterUnits="userSpaceOnUse">
-			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-		</filter>
-	</defs>
 	<mask id="k_00000108284265726524986450000011440074620691340978_" width="318.1" height="45.7" x="12.3" y="422.5" maskUnits="userSpaceOnUse">
 		<g class="st5">
 			<path d="M192 192h128v128H192z" class="st6"/>
@@ -82,11 +77,6 @@
 	</linearGradient>
 	<path d="M62 174h99.4v69.6H62z" style="fill:url(#SVGID_00000083047515832390970400000015322467841010903468_)"/>
 	<path d="M221.1 34.8h109.4v19.9H221.1zm0 39.8h129.2v19.9H221.1zM340.4 164h119.3v19.9H340.4zm0-39.7h79.5v19.9h-79.5zM62 263.5h119.3v19.9H62zm159.1-59.7h238.6v19.9H221.1z" class="st13"/>
-	<defs>
-		<filter id="Adobe_OpacityMaskFilter_00000119804471159932097450000015969052371896999095_" width="318.1" height="45.7" x="12.3" y="442.4" filterUnits="userSpaceOnUse">
-			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/>
-		</filter>
-	</defs>
 	<mask id="q_00000017484493083678120980000002679859168726325157_" width="318.1" height="45.7" x="12.3" y="442.4" maskUnits="userSpaceOnUse">
 		<g class="st5">
 			<path d="M192 192h128v128H192z" class="st6"/>

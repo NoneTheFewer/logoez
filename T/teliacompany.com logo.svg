@@ -4,11 +4,6 @@
 		.white { fill: #FFF; }
 		.purple { fill: #990ae3; }
 	</style>
-	<defs id="defs2">
-		<filter height="39.848" width="37.924" y="3.076" x="-4.7529998" filterUnits="userSpaceOnUse" id="Adobe_OpacityMaskFilter">
-			<feColorMatrix id="feColorMatrix30" result="source" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" type="matrix" style="color-interpolation-filters:sRGB"/>
-		</filter>
-	</defs>
 	<g transform="translate(-0.14 -0.13)">
 		<g id="layer1" transform="translate(345.59401,-237.03516)">
 			<g id="g224" transform="translate(0.1322917,-0.13228724)">
@@ -29,13 +24,6 @@
 								<path id="path24" d="M 18.257,26.303 C 26.543,22.321 32.806,16.227 33.107,11.381 C 32.959,9.878 32.551,8.613 31.94,7.561 C 33.086,11.85 26.52,18.321 17.09,22.868 C 7.239,27.62 -1.192,29.177 -3.95,25.515 C -3.596,26.565 -3.134,27.648 -2.583,28.733 C 0.764,32.396 8.263,31.104 18.257,26.303 L 18.257,26.303" class="white"/>
 							</g>
 						</g>
-						<defs id="defs33">
-							<filter height="39.848" width="37.924" y="3.076" x="-4.7529998" filterUnits="userSpaceOnUse" id="filter115">
-								<feColorMatrix id="feColorMatrix113" result="source" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" type="matrix" style="color-interpolation-filters:sRGB"/>
-							</filter>
-						</defs>
-						<mask id="SVGID_1_" height="39.848" width="37.924" y="3.076" x="-4.753" maskUnits="userSpaceOnUse">
-						</mask>
 					</g>
 				</g>
 				<g transform="matrix(0.26458333,0,0,0.26458333,-344.33618,236.48588)" id="g90">

@@ -524,15 +524,6 @@
 			<stop id="stop4170" stop-color="#D3ED89" offset="0"/>
 			<stop id="stop4172-8" stop-color="#5F821C" offset="1"/>
 		</linearGradient>
-		<filter id="filter6896" height="1.5" width="1.5" y="-0.25" x="-0.25">
-			<feGaussianBlur id="feGaussianBlur6898" result="blur" stdDeviation="0.8" in="SourceAlpha"/>
-			<feColorMatrix id="feColorMatrix6900" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.541 0 " type="matrix" result="bluralpha"/>
-			<feOffset id="feOffset6902" result="offsetBlur" dy="0.9" dx="1.7" in="bluralpha"/>
-			<feMerge id="feMerge6904">
-				<feMergeNode id="feMergeNode6906" in="offsetBlur"/>
-				<feMergeNode id="feMergeNode6908" in="SourceGraphic"/>
-			</feMerge>
-		</filter>
 		<radialGradient id="SVGID_48_" cx="232.2451" cy="-168.24001" r="33.430199" gradientTransform="matrix(1,0,0,-1,-270.96,-122.0747)" gradientUnits="userSpaceOnUse">
 			<stop offset="0.005" id="stop7071" stop-color="#D1E787"/>
 			<stop offset="0.1227" id="stop7073" stop-color="#CEE583"/>

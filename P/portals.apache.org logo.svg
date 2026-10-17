@@ -8,13 +8,6 @@
             <feOffset dx="-0.5" dy="0" result="offset" id="feOffset4232" />
             <feComposite in="offset" in2="SourceGraphic" operator="atop" result="composite2" id="feComposite4234" />
         </filter>
-        <filter style="color-interpolation-filters:sRGB" id="filter4236-3">
-            <feFlood flood-opacity="1" flood-color="rgb(132,131,208)" result="flood" id="feFlood4226-6" />
-            <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1" id="feComposite4228-7" />
-            <feGaussianBlur in="composite1" stdDeviation="4.27807" result="blur" id="feGaussianBlur4230-5" />
-            <feOffset dx="-0.5" dy="0" result="offset" id="feOffset4232-3" />
-            <feComposite in="offset" in2="SourceGraphic" operator="atop" result="composite2" id="feComposite4234-5" />
-        </filter>
         <filter style="color-interpolation-filters:sRGB" id="filter4980">
             <feBlend mode="overlay" in2="BackgroundImage" id="feBlend4982" />
         </filter>

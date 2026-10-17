@@ -1,33 +1,15 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 249 318">
     <defs id="defs204">
-        <linearGradient id="linearGradient9801">
-            <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop9803" />
-            <stop style="stop-color:#ffffff;stop-opacity:0;" offset="1" id="stop9805" />
-        </linearGradient>
         <linearGradient id="linearGradient6959">
             <stop style="stop-color:#2b1100;stop-opacity:1;" offset="0" id="stop6961" />
             <stop style="stop-color:#2b1100;stop-opacity:0;" offset="1" id="stop6963" />
         </linearGradient>
-        <linearGradient id="linearGradient4384">
-            <stop id="stop4386" offset="0" style="stop-color:#1a1a1a;stop-opacity:1;" />
-            <stop id="stop4388" offset="1" style="stop-color:#1a1a1a;stop-opacity:0;" />
-        </linearGradient>
-        <radialGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.6108021,0.52170169,-0.39951805,1.2335489,-156.37141,-322.25295)" r="54.151649" fy="364.45007" fx="358.94165" cy="364.45007" cx="358.94165" id="radialGradient4390" xlink:href="#linearGradient4384" />
-        <filter id="filter4397-3" color-interpolation-filters="sRGB">
-            <feGaussianBlur id="feGaussianBlur4399-4" stdDeviation="0.31035522" />
-        </filter>
         <filter id="filter6605">
             <feGaussianBlur stdDeviation="2.5852505" id="feGaussianBlur6607" />
         </filter>
         <filter id="filter6621">
             <feGaussianBlur stdDeviation="2.2581629" id="feGaussianBlur6623" />
-        </filter>
-        <filter id="filter6907">
-            <feGaussianBlur stdDeviation="1.1820505" id="feGaussianBlur6909" />
-        </filter>
-        <filter id="filter8149">
-            <feGaussianBlur id="feGaussianBlur8151" stdDeviation="0.46872052" />
         </filter>
         <linearGradient gradientTransform="matrix(1,0,0,0.9734835,95.564285,-215.14803)" y2="647.89563" x2="548.47723" y1="599.01215" x1="595.38373" gradientUnits="userSpaceOnUse" id="linearGradient8153" xlink:href="#linearGradient6959" />
         <linearGradient gradientTransform="translate(95.564285,-231.79422)" y2="644.28723" x2="459.13281" y1="602.23309" x1="453.74127" gradientUnits="userSpaceOnUse" id="linearGradient8155" xlink:href="#linearGradient6959" />

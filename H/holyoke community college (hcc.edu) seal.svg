@@ -1,55 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.502857 58.502857">
-	<defs>
-		<clipPath id="clipPath1306">
-			<path d="m 53.28,20.88 h 144.77 v 13.5 H 53.28 Z" id="path1304"/>
-		</clipPath>
-		<clipPath id="clipPath1370">
-			<path d="M 128,395.617 H 300 V 476.44 H 128 Z" id="path1368"/>
-		</clipPath>
-		<clipPath id="clipPath1534">
-			<path d="m 128,292.857 h 172 v 51.12 H 128 Z" id="path1532"/>
-		</clipPath>
-		<clipPath id="clipPath1700">
-			<path d="M 0,0 H 612 V 792 H 0 Z" id="path1698"/>
-		</clipPath>
-		<clipPath id="clipPath1708">
-			<path d="M 112.376,486.627 H 314.294 V 384.894 H 112.376 Z" id="path1706"/>
-		</clipPath>
-		<clipPath id="clipPath1726">
-			<path d="M 111.082,363.88 H 313 V 262.146 H 111.082 Z" id="path1724"/>
-		</clipPath>
-		<clipPath id="clipPath1744">
-			<path d="M 112.376,240.054 H 314.294 V 138.32 H 112.376 Z" id="path1742"/>
-		</clipPath>
-		<filter style="opacity:1;color-interpolation-filters:sRGB" id="filter2614" x="-0.04076324" width="1.0815265" y="-0.058360908" height="1.1167217">
-			<feGaussianBlur stdDeviation="1.2517481" id="feGaussianBlur2616"/>
-		</filter>
-		<clipPath id="clipPath1306-3">
-			<path d="m 53.28,20.88 h 144.77 v 13.5 H 53.28 Z" id="path1304-5"/>
-		</clipPath>
-		<clipPath id="clipPath1370-6">
-			<path d="M 128,395.617 H 300 V 476.44 H 128 Z" id="path1368-3"/>
-		</clipPath>
-		<clipPath id="clipPath1534-5">
-			<path d="m 128,292.857 h 172 v 51.12 H 128 Z" id="path1532-3"/>
-		</clipPath>
-		<clipPath id="clipPath1700-7">
-			<path d="M 0,0 H 612 V 792 H 0 Z" id="path1698-1"/>
-		</clipPath>
-		<clipPath id="clipPath1708-9">
-			<path d="M 112.376,486.627 H 314.294 V 384.894 H 112.376 Z" id="path1706-6"/>
-		</clipPath>
-		<clipPath id="clipPath1726-4">
-			<path d="M 111.082,363.88 H 313 V 262.146 H 111.082 Z" id="path1724-2"/>
-		</clipPath>
-		<clipPath id="clipPath1744-1">
-			<path d="M 112.376,240.054 H 314.294 V 138.32 H 112.376 Z" id="path1742-9"/>
-		</clipPath>
-		<filter style="opacity:1;color-interpolation-filters:sRGB" id="filter2614-0" x="-0.04076324" width="1.0815265" y="-0.058360908" height="1.1167217">
-			<feGaussianBlur stdDeviation="1.2517481" id="feGaussianBlur2616-2"/>
-		</filter>
-	</defs>
 	<g transform="translate(-20.641426,-66.665239)" id="layer1">
 		<g transform="translate(2.2678548,-97.517857)" id="layer1-0">
 			<g style="opacity:0.97000002" transform="translate(-55.882529,38.74451)" id="layer1-8">

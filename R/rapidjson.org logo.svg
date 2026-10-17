@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 217.15039 44.79867956">
-	<defs id="defs4">
-		<linearGradient id="linearGradient3801">
-			<stop offset="0" id="stop3803" stop-color="#000000" stop-opacity="1"/>
-			<stop offset="1" id="stop3805" stop-color="#000000" stop-opacity="0"/>
-		</linearGradient>
-		<linearGradient xlink:href="#linearGradient3801" id="linearGradient3807" x1="81.25" y1="52.737183" x2="122.25" y2="52.737183" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2378503,0,0,1.1662045,-226.99279,64.427324)"/>
-		<linearGradient xlink:href="#linearGradient3801" id="linearGradient3935" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.4768835,0,0,2.2904698,246.48785,81.630301)" x1="81.25" y1="52.737183" x2="115.96579" y2="48.439766"/>
-		<linearGradient xlink:href="#linearGradient3801" id="linearGradient3947" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2378503,0,0,1.1662045,-226.99279,-10.072676)" x1="81.25" y1="52.737183" x2="122.25" y2="52.737183"/>
-	</defs>
 	<g transform="translate(0 .35)">
 		<g transform="scale(.0228) translate(-75 50)">
 			<path d="M 1169.0,355.0 Q 1169.0,448.0 1136.5,523.0 Q 1104.0,598.0 1047.0,652.0 Q 990.0,706.0 911.0,738.5 Q 832.0,771.0 739.0,779.0 L 739.0,783.0 Q 786.0,798.0 821.5,846.0 Q 857.0,894.0 879.0,975.0 L 999.0,1434.0 L 815.0,1434.0 L 709.0,1006.0 Q 686.0,912.0 635.5,868.0 Q 585.0,824.0 502.0,824.0 L 377.0,824.0 L 246.0,1434.0 L 74.0,1434.0 L 377.0,0.0 L 772.0,0.0 Q 877.0,0.0 952.0,28.0 Q 1027.0,56.0 1075.0,104.5 Q 1123.0,153.0 1146.0,217.5 Q 1169.0,282.0 1169.0,355.0 M 993.0,373.0 Q 993.0,325.0 978.0,284.5 Q 963.0,244.0 932.0,214.5 Q 901.0,185.0 853.0,168.5 Q 805.0,152.0 739.0,152.0 L 518.0,152.0 L 408.0,672.0 L 606.0,672.0 Q 711.0,672.0 784.5,647.0 Q 858.0,622.0 904.5,581.0 Q 951.0,540.0 972.0,485.5 Q 993.0,431.0 993.0,373.0" name="R"/>

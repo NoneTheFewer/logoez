@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 48 48">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
 	<defs id="defs4">
 		<linearGradient id="linearGradient3737">
 			<stop id="stop3739" style="stop-color:#ffffff;stop-opacity:1" offset="0"/>
@@ -10,30 +10,20 @@
 			<stop id="stop3382" style="stop-color:#cbcbcb;stop-opacity:1" offset="1"/>
 		</linearGradient>
 		<filter height="1.308857" y="-0.15442851" width="1.1109422" x="-0.055471141" id="filter3320">
-			<feGaussianBlur id="feGaussianBlur3322" stdDeviation="5.1381465" inkscape:collect="always"/>
-		</filter>
-		<filter id="filter3346">
-			<feGaussianBlur id="feGaussianBlur3348" stdDeviation="4.3079948" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3322" stdDeviation="5.1381465" />
 		</filter>
 		<filter id="filter3374">
-			<feGaussianBlur id="feGaussianBlur3376" stdDeviation="2.8243803" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3376" stdDeviation="2.8243803" />
 		</filter>
-		<filter height="3.6767714" y="-1.3383857" width="1.2180201" x="-0.10901005" id="filter3590">
-			<feGaussianBlur id="feGaussianBlur3592" stdDeviation="13.174458" inkscape:collect="always"/>
-		</filter>
-		<filter id="filter3608">
-			<feGaussianBlur id="feGaussianBlur3610" stdDeviation="0.65207202" inkscape:collect="always"/>
-		</filter>
-		<linearGradient x1="450.00766" y1="149.2951" x2="450.00766" y2="-180.3633" id="linearGradient3634" xlink:href="#linearGradient3378" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.1628958,0,0,0.1628958,-48.613141,6.6553395)"/>
 		<linearGradient x1="450.00766" y1="149.2951" x2="450.00766" y2="-180.3633" id="linearGradient3666" xlink:href="#linearGradient3378" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.1815965,0,0,0.1815965,-57.874629,4.0991271)"/>
 		<filter height="1.2445416" y="-0.12227083" width="1.1848184" x="-0.092409186" id="filter3721">
-			<feGaussianBlur id="feGaussianBlur3723" stdDeviation="1.0214161" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3723" stdDeviation="1.0214161" />
 		</filter>
 		<filter height="3.6856284" y="-1.3428142" width="1.2179631" x="-0.10898156" id="filter3725">
-			<feGaussianBlur id="feGaussianBlur3727" stdDeviation="13.172935" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3727" stdDeviation="13.172935" />
 		</filter>
 		<filter id="filter3733">
-			<feGaussianBlur id="feGaussianBlur3735" stdDeviation="4.3495439" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3735" stdDeviation="4.3495439" />
 		</filter>
 		<linearGradient x1="11.07143" y1="12.048323" x2="181.87404" y2="12.048323" id="linearGradient3743" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse"/>
 	</defs>

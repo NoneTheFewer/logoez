@@ -1,18 +1,7 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.721 51.721">
-	<defs id="defs13720">
-		<filter id="luminosity-invert-noclip-2" x="49.81" y="34" width="88.92" height="59.72" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-			<feColorMatrix id="feColorMatrix13704" result="invert" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
-			<feFlood id="feFlood13706" flood-color="#fff" result="bg"/>
-			<feBlend id="feBlend13708" in="invert" in2="bg"/>
-		</filter>
-		<filter id="luminosity-invert-noclip" x="20.41" y="34" width="89.12" height="59.72" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-			<feColorMatrix id="feColorMatrix13691" result="invert" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
-			<feFlood id="feFlood13693" flood-color="#fff" result="bg"/>
-			<feBlend id="feBlend13695" in="invert" in2="bg"/>
-		</filter>
+	<defs>
 		<style>.cls-7{fill:#fff}</style>
-		<style id="style14833">.cls-7{fill:#fff}</style>
 		<clipPath id="clip-path-3">
 			<circle id="circle13717" cx="79.67" cy="63.86" r="25.86" fill="none"/>
 		</clipPath>

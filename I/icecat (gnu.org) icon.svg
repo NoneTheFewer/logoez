@@ -5,11 +5,6 @@
 			<stop style="stop-color:#d4e3eb;stop-opacity:0.49803922;" offset="0" id="stop3718"/>
 			<stop id="stop3720" offset="1" style="stop-color:#d4e3eb;stop-opacity:0;"/>
 		</linearGradient>
-		<linearGradient id="linearGradient3676">
-			<stop id="stop3684" offset="0" style="stop-color:#d4e3eb;stop-opacity:0.49803922;"/>
-			<stop style="stop-color:#d4e3eb;stop-opacity:0;" offset="1" id="stop3680"/>
-		</linearGradient>
-		<linearGradient xlink:href="#linearGradient3716" id="linearGradient3714" x1="64.843742" y1="175.61958" x2="114.72285" y2="175.61958" gradientUnits="userSpaceOnUse"/>
 	</defs>
 	<g transform="translate(-27.6 -13.05)">
 		<path style="fill:#002452;stroke:#000000;stroke-opacity:1;fill-opacity:1" id="path3648" d="M 255.27753,178.65329 A 106.51545,99.77396 0.0 1,1 42.24664,178.65329 A 106.51545,99.77396 0.0 1,1 255.27753,178.65329" transform="matrix(1.08865, 0, 0, 1.12618, -15.4355, -31.5303)"/>
