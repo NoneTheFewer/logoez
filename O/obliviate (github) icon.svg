@@ -19,41 +19,12 @@
 			<stop id="stop943-7" style="stop-color:#f5f5f5;stop-opacity:1" offset="0"/>
 			<stop id="stop945-0" style="stop-color:#d5d5d5;stop-opacity:1" offset="1"/>
 		</linearGradient>
-		<filter width="1.6" height="2" y="-0.5" x="-0.3" id="filter1180">
-			<feTurbulence baseFrequency="0.4" type="fractalNoise" seed="0" numOctaves="5" result="result1" id="feTurbulence1176"/>
-			<feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="result1" id="feDisplacementMap1178"/>
-		</filter>
-		<filter width="1.6" height="2" y="-0.5" x="-0.3" id="filter1198">
-			<feTurbulence baseFrequency="0.4" type="fractalNoise" seed="0" numOctaves="5" result="result1" id="feTurbulence1194"/>
-			<feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="result1" id="feDisplacementMap1196"/>
-		</filter>
-		<filter width="1.6" height="2" y="-0.5" x="-0.3" id="filter1226">
-			<feTurbulence baseFrequency="0.4" type="fractalNoise" seed="0" numOctaves="5" result="result1" id="feTurbulence1222"/>
-			<feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="result1" id="feDisplacementMap1224"/>
-		</filter>
-		<filter width="1.6" height="2" y="-0.5" x="-0.3" id="filter1232">
-			<feTurbulence baseFrequency="0.4" type="fractalNoise" seed="0" numOctaves="5" result="result1" id="feTurbulence1228"/>
-			<feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="result1" id="feDisplacementMap1230"/>
-		</filter>
 		<filter id="filter1043">
 			<feFlood flood-opacity="0.14902" flood-color="rgb(0,0,0)" result="flood" id="feFlood1033"/>
 			<feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1" id="feComposite1035"/>
 			<feGaussianBlur in="composite1" stdDeviation="0" result="blur" id="feGaussianBlur1037"/>
 			<feOffset dx="0" dy="1" result="offset" id="feOffset1039"/>
 			<feComposite in="offset" in2="SourceGraphic" operator="atop" result="composite2" id="feComposite1041"/>
-		</filter>
-		<filter id="filter1160">
-			<feFlood flood-opacity="0.14902" flood-color="rgb(0,0,0)" result="flood" id="feFlood1150"/>
-			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite1152"/>
-			<feGaussianBlur in="composite1" stdDeviation="0" result="blur" id="feGaussianBlur1154"/>
-			<feOffset dx="1" dy="1" result="offset" id="feOffset1156"/>
-			<feComposite in="SourceGraphic" in2="offset" operator="over" result="fbSourceGraphic" id="feComposite1158"/>
-			<feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix1162"/>
-			<feFlood id="feFlood1164" flood-opacity="0.14902" flood-color="rgb(0,0,0)" result="flood" in="fbSourceGraphic"/>
-			<feComposite in2="fbSourceGraphic" id="feComposite1166" in="flood" operator="in" result="composite1"/>
-			<feGaussianBlur id="feGaussianBlur1168" in="composite1" stdDeviation="0" result="blur"/>
-			<feOffset id="feOffset1170" dx="1" dy="1" result="offset"/>
-			<feComposite in2="offset" id="feComposite1172" in="fbSourceGraphic" operator="over" result="composite2"/>
 		</filter>
 		<filter id="filter1305">
 			<feFlood flood-opacity="0.14902" flood-color="rgb(0,0,0)" result="flood" id="feFlood1295"/>

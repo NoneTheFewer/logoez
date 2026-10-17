@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32">
+	<rect width="32" height="32" fill="#4D53E8" rx="4.033"/>
+	<g filter="url(#icon_coze_logo_svg__a)">
+		<path fill="#fff" fill-rule="evenodd" d="M16.134 5.042a8.38 8.38 0 0 0-8.377 8.38v3.514h-2.01c-2.31 0-2.832 3.238-.64 3.965l2.65.878v1.517c0 1.5 1.578 2.475 2.919 1.804l1.467-.734c.068-.034.15 0 .174.073 1.19 3.715 6.443 3.715 7.633 0a.124.124 0 0 1 .174-.073l1.468.734c1.34.67 2.918-.305 2.918-1.804v-1.517l2.65-.878c2.192-.727 1.67-3.965-.639-3.965H24.51V13.42c0-4.628-3.75-8.38-8.376-8.38" clip-rule="evenodd"/>
+	</g>
+	<g filter="url(#icon_coze_logo_svg__b)">
+		<path fill="url(#icon_coze_logo_svg__c)" d="M18.969 17.746a.81.81 0 1 1 1.621 0 .81.81 0 0 1-1.621 0"/>
+	</g>
+	<g filter="url(#icon_coze_logo_svg__d)">
+		<path fill="url(#icon_coze_logo_svg__e)" d="M13.55 20.732a.811.811 0 0 1 1.146-1.147 2.026 2.026 0 0 0 2.866 0 .81.81 0 1 1 1.147 1.147 3.647 3.647 0 0 1-5.16 0"/>
+	</g>
+	<g filter="url(#icon_coze_logo_svg__f)">
+		<path fill="url(#icon_coze_logo_svg__g)" d="M12.483 16.124a.81.81 0 0 0-.811.811v1.622a.81.81 0 1 0 1.621 0v-1.622a.81.81 0 0 0-.81-.811"/>
+	</g>
+	<defs>
+		<filter id="icon_coze_logo_svg__a" width="26.979" height="24.85" x="2.644" y="3.975" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="0.533"/>
+			<feGaussianBlur stdDeviation="0.533"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0.165547 0 0 0 0 0.177065 0 0 0 0 0.463086 0 0 0 0.2 0"/>
+			<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_3493_58493"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="0.267"/>
+			<feGaussianBlur stdDeviation="0.267"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0.164706 0 0 0 0 0.176471 0 0 0 0 0.462745 0 0 0 0.1 0"/>
+			<feBlend in2="effect1_dropShadow_3493_58493" result="effect2_dropShadow_3493_58493"/>
+			<feBlend in="SourceGraphic" in2="effect2_dropShadow_3493_58493" result="shape"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="1.067"/>
+			<feGaussianBlur stdDeviation="1.067"/>
+			<feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+			<feColorMatrix values="0 0 0 0 0.301961 0 0 0 0 0.32549 0 0 0 0 0.909804 0 0 0 0.1 0"/>
+			<feBlend in2="shape" result="effect3_innerShadow_3493_58493"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="-1.067"/>
+			<feGaussianBlur stdDeviation="1.067"/>
+			<feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+			<feColorMatrix values="0 0 0 0 0.301961 0 0 0 0 0.32549 0 0 0 0 0.909804 0 0 0 0.15 0"/>
+			<feBlend in2="effect3_innerShadow_3493_58493" result="effect4_innerShadow_3493_58493"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="-1.067"/>
+			<feGaussianBlur stdDeviation="0.8"/>
+			<feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+			<feColorMatrix values="0 0 0 0 0.301961 0 0 0 0 0.32549 0 0 0 0 0.909804 0 0 0 0.15 0"/>
+			<feBlend in2="effect4_innerShadow_3493_58493" result="effect5_innerShadow_3493_58493"/>
+		</filter>
+		<filter id="icon_coze_logo_svg__b" width="3.221" height="3.489" x="18.169" y="16.268" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="0.4"/>
+			<feGaussianBlur stdDeviation="0.4"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+			<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_3493_58493"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="-0.133"/>
+			<feGaussianBlur stdDeviation="0.267"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0.301961 0 0 0 0 0.32549 0 0 0 0 0.909804 0 0 0 0.4 0"/>
+			<feBlend in2="effect1_dropShadow_3493_58493" result="effect2_dropShadow_3493_58493"/>
+			<feBlend in="SourceGraphic" in2="effect2_dropShadow_3493_58493" result="shape"/>
+		</filter>
+		<filter id="icon_coze_logo_svg__d" width="7.233" height="4.32" x="12.512" y="18.68" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="0.4"/>
+			<feGaussianBlur stdDeviation="0.4"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+			<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_3493_58493"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="-0.133"/>
+			<feGaussianBlur stdDeviation="0.267"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0.301961 0 0 0 0 0.32549 0 0 0 0 0.909804 0 0 0 0.4 0"/>
+			<feBlend in2="effect1_dropShadow_3493_58493" result="effect2_dropShadow_3493_58493"/>
+			<feBlend in="SourceGraphic" in2="effect2_dropShadow_3493_58493" result="shape"/>
+		</filter>
+		<filter id="icon_coze_logo_svg__f" width="3.221" height="5.11" x="10.872" y="15.457" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="0.4"/>
+			<feGaussianBlur stdDeviation="0.4"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+			<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_3493_58493"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset dy="-0.133"/>
+			<feGaussianBlur stdDeviation="0.267"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0.301961 0 0 0 0 0.32549 0 0 0 0 0.909804 0 0 0 0.4 0"/>
+			<feBlend in2="effect1_dropShadow_3493_58493" result="effect2_dropShadow_3493_58493"/>
+			<feBlend in="SourceGraphic" in2="effect2_dropShadow_3493_58493" result="shape"/>
+		</filter>
+		<linearGradient id="icon_coze_logo_svg__c" x1="19.827" x2="19.7" y1="17.206" y2="22.403" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#272DCC"/>
+			<stop offset="1" stop-color="#9A9DF2"/>
+		</linearGradient>
+		<linearGradient id="icon_coze_logo_svg__e" x1="15.863" x2="15.329" y1="20.133" y2="22.133" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2B33E6"/>
+			<stop offset="1" stop-color="#A19AF2"/>
+		</linearGradient>
+		<linearGradient id="icon_coze_logo_svg__g" x1="12.53" x2="12.023" y1="16.667" y2="27.042" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#272DCC"/>
+			<stop offset="1" stop-color="#9A9DF2"/>
+		</linearGradient>
+	</defs>
+</svg>

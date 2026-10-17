@@ -6,36 +6,10 @@
 		.cls2 { fill: #4aaee6; }
 	</style>
 	<defs>
-		<clipPath>
-			<rect width="384" height="384"/>
-		</clipPath>
 		<linearGradient id="a" x1="193.38" x2="193.84" y1="71.815" y2="290.49" gradientTransform="translate(0 15.672)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#80c6ed" offset="0"/>
 			<stop stop-color="#fff" offset=".5"/>
 			<stop stop-color="#80c6ed" offset="1"/>
-		</linearGradient>
-		<linearGradient id="f" x1="45.448" x2="45.448" y1="92.54" y2="7.0165" gradientTransform="scale(1.0059 .99417)" gradientUnits="userSpaceOnUse">
-			<stop offset="0"/>
-			<stop stop-opacity=".58824" offset="1"/>
-		</linearGradient>
-		<filter id="c" x="-.047721" y="-.048282" width="1.0954" height="1.0966" color-interpolation-filters="sRGB">
-			<feGaussianBlur stdDeviation="1.71"/>
-		</filter>
-		<radialGradient id="e" cx="47.5" cy="59.494" r="37.054" gradientTransform="matrix(1.1227 1.0047e-8 0 1.0388 -5.8315 -6.8641)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#347aa1" offset="0"/>
-			<stop stop-color="#191919" offset="1"/>
-		</radialGradient>
-		<clipPath id="b">
-			<rect x="6" y="6" width="84" height="84" rx="6" ry="6" fill="#fff"/>
-		</clipPath>
-		<filter id="d" x="-.19506" y="-.19506" width="1.3901" height="1.3901" color-interpolation-filters="sRGB">
-			<feGaussianBlur stdDeviation="5.28"/>
-		</filter>
-		<linearGradient x1="15.594" x2="111.61" y1="61.448" y2="61.448" gradientTransform="matrix(.70315 0 0 .69956 3.1971 4.0472)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
-			<stop stop-color="#ffc730" stop-opacity="0" offset="0"/>
-			<stop stop-color="#ffc730" offset=".2202"/>
-			<stop stop-color="#ffc730" offset=".56107"/>
-			<stop stop-color="#ffc730" stop-opacity="0" offset="1"/>
 		</linearGradient>
 	</defs>
 	<g transform="matrix(1.0589 0 0 1.0589 -11.305 -11.579)">

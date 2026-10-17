@@ -22,33 +22,8 @@
 			<stop offset="1" id="stop956" stop-color="#0f140d" stop-opacity="1"/>
 		</linearGradient>
 		<linearGradient xlink:href="#linearGradient958" id="linearGradient960" x1="94.916" y1="6.6901026" x2="136.32048" y2="48.094578" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.6268397,0,0,1.6268397,-486.22132,359.3229)"/>
-		<rect x="9.720953" y="67.157089" width="649.74109" height="299.35715" id="rect1026-8"/>
 		<rect x="9.720953" y="67.157089" width="649.74109" height="299.35715" id="rect1026-5"/>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2520">
-			<path d="M 0.06,651 H 476.1 V 0 H 0.06 Z" id="path2522"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2512">
-			<path d="M 0,651 H 476 V 0 H 0 Z" id="path2514"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2452">
-			<path d="M 0.06,651 H 476.1 V 0 H 0.06 Z" id="path2454"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2444">
-			<path d="M 0,651 H 476 V 0 H 0 Z" id="path2446"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2436">
-			<path d="M 260.55,378.32 H 375.6 V 355.9 H 260.55 Z" id="path2438" clip-rule="evenodd"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2426">
-			<path d="M 0.06,651 H 476.1 V 0 H 0.06 Z" id="path2428"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2418">
-			<path d="M 0,651 H 476 V 0 H 0 Z" id="path2420"/>
-		</clipPath>
 		<radialGradient xlink:href="#linearGradient2053" id="radialGradient2057" cx="500.77231" cy="163.38313" fx="500.77231" fy="163.38313" r="37.110352" gradientTransform="matrix(3.1473262,0,-1.3593042e-7,3.3006668,-1077.6647,-377.08254)" gradientUnits="userSpaceOnUse"/>
-		<filter id="filter2107" x="-0.020717788" width="1.0414356" y="-0.037598945" height="1.0751979" color-interpolation-filters="sRGB">
-			<feGaussianBlur stdDeviation="0.74453307" id="feGaussianBlur2109"/>
-		</filter>
 		<linearGradient xlink:href="#linearGradient2294" id="linearGradient2286" gradientUnits="userSpaceOnUse" x1="646.93994" y1="170.38812" x2="646.93994" y2="211.79395" gradientTransform="translate(48.955516,98.740786)"/>
 		<linearGradient xlink:href="#linearGradient2294" id="linearGradient2480" gradientUnits="userSpaceOnUse" x1="651.75629" y1="180.15427" x2="651.75629" y2="205.87666" gradientTransform="translate(48.955516,98.740786)"/>
 		<linearGradient xlink:href="#linearGradient2294" id="linearGradient2482" gradientUnits="userSpaceOnUse" x1="646.93994" y1="170.38812" x2="646.93994" y2="211.79395" gradientTransform="translate(48.955516,98.740786)"/>
