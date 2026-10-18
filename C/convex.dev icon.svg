@@ -1,10 +1,7 @@
 <?xml version="1.0" ?>
-<!DOCTYPE svg
-  PUBLIC '-//W3C//DTD SVG 1.1//EN'
-  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" viewBox="0 0 367 370" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 367 370" xml:space="preserve">
 	<g transform="matrix(1,0,0,1,-129.225,-127.948)">
-		<g id="Layer-1" serif:id="Layer 1" transform="matrix(4.16667,0,0,4.16667,0,0)">
+		<g id="Layer-1" transform="matrix(4.16667,0,0,4.16667,0,0)">
 			<g transform="matrix(1,0,0,1,86.6099,107.074)">
 				<path d="M0,-6.544C13.098,-7.973 25.449,-14.834 32.255,-26.287C29.037,2.033 -2.48,19.936 -28.196,8.94C-30.569,7.925 -32.605,6.254 -34.008,4.088C-39.789,-4.83 -41.69,-16.18 -38.963,-26.48C-31.158,-13.247 -15.3,-5.131 0,-6.544" style="fill:rgb(245,176,26);fill-rule:nonzero;"/>
 			</g>

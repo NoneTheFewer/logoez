@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" viewBox="0 0 851 501" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
-	<rect id="jpedal-stacked" x="0.819" y="0.5" width="850" height="500" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 851 501" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
 	<g>
 		<g>
 			<g>
@@ -12,7 +11,7 @@
 				<path d="M711.256,456.88l0,-84.953l5.712,0l0,79.642l42.951,0l0,5.311l-48.663,0Z" fill="#1d1d1b" fill-rule="nonzero"/>
 			</g>
 		</g>
-		<g id="JPedal-Icon" serif:id="JPedal Icon">
+		<g id="JPedal-Icon">
 			<g>
 				<path d="M442.977,306.811c52.129,-19.322 104.269,-38.632 156.397,-57.93c7.142,-2.645 14.285,-5.301 21.416,-7.945c-73.173,-2.919 -146.347,-5.838 -219.52,-8.781c13.903,24.885 27.805,49.771 41.707,74.656Z" fill="url(#_Linear1)"/>
 				<path d="M298.641,259.05c-19.944,13.723 -39.877,27.446 -59.809,41.169c68.04,2.201 136.105,4.391 204.145,6.592c-6.018,-44.889 -12.048,-89.779 -18.077,-134.657c-42.103,28.965 -84.181,57.931 -126.259,86.896Z" fill="url(#_Linear2)"/>
