@@ -1,28 +1,11 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 182.12115 112.65578" inkscape:version="0.47 r22583" xml:space="preserve" sodipodi:docname="ETF logo.pdf">
-	<metadata id="metadata2822">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 182.12115 112.65578" xml:space="preserve">
 	<defs id="defs2820">
-		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective2824"/>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2834">
-			<path d="m 0.001,841.887 595.273,0 0,-841.885 -595.273,0 0,841.885 z" id="path2836"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2846">
 			<path d="m 47.74,57.277 145.697,0 0,90.125 -145.697,0 0,-90.125 z" id="path2848"/>
 		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2878">
-			<path d="m 0,0 595.276,0 0,841.89 L 0,841.89 0,0 z" id="path2880"/>
-		</clipPath>
 	</defs>
-	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1440" inkscape:window-height="838" id="namedview2818" showgrid="false" inkscape:zoom="0.96924772" inkscape:cx="189.21588" inkscape:cy="126.40983" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="g2826"/>
-	<g id="g2826" inkscape:groupmode="layer" inkscape:label="ETF logo" transform="matrix(1.25,0,0,-1.25,-59.675101,184.25213)">
+	<g id="g2826" transform="matrix(1.25,0,0,-1.25,-59.675101,184.25213)">
 		<g id="g2842">
 			<g id="g2844" clip-path="url(#clipPath2846)">
 				<g id="g2850" transform="matrix(0.3999939,0,0,-0.3999939,297.63779,420.94489)">

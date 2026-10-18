@@ -1,9 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 66.428001">
 	<defs id="defs6">
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2368">
-			<path d="m 184.84,17.008 60.056,0 0,13.298 -60.056,0 0,-13.298 z" id="path2370"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath">
 			<use height="100%" width="100%" y="0" x="0" xlink:href="#path2370" transform="translate(-243.8615,-29.4553)" id="use"/>
 		</clipPath>

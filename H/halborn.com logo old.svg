@@ -15,13 +15,6 @@
 			<!--Composition of inputs-->
 			<feComposite in="SourceGraphic" in2="spec2" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"/>
 		</filter>
-		<filter id="filter3" filterUnits="userSpaceOnUse">
-			<feGaussianBlur stdDeviation="100" result="spec2">
-				<animate attributeName="stdDeviation" from=".5" to="5" dur="5s" repeatCount="indefinite" values="5; .5; .5; 5;"/>
-			</feGaussianBlur>
-			<!--Composition of inputs-->
-			<feComposite in="SourceGraphic" in2="spec2" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"/>
-		</filter>
 	</defs>
 	<g id="Group_1" data-name="Group 1" transform="translate(-14.028 -0.521)">
 		<g id="Path_2-2" data-name="Path 2" transform="translate(17385.5 11651)">

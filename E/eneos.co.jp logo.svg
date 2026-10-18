@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 264.58335 45.851219" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)" sodipodi:docname="ENEOS.svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.58335 45.851219">
 	<defs id="defs242">
 		<radialGradient id="h" cx="14606.29" cy="-3396.27" gradientUnits="userSpaceOnUse" r="34522.09" gradientTransform="matrix(1.4470314,0,0,1.4470314,64.008799,185.14707)">
 			<stop offset="0" stop-color="#ec6c00" id="stop17"/>
@@ -9,26 +9,8 @@
 			<stop offset=".84" stop-color="#c80723" id="stop25"/>
 			<stop offset="1" stop-color="#c60025" id="stop27"/>
 		</radialGradient>
-		<radialGradient id="radialGradient188" cx="14606.29" cy="-3396.27" gradientUnits="userSpaceOnUse" r="34522.09">
-			<stop offset="0" stop-color="#ec6c00" id="stop176"/>
-			<stop offset=".05" stop-color="#e96303" id="stop178"/>
-			<stop offset=".35" stop-color="#da3912" id="stop180"/>
-			<stop offset=".62" stop-color="#cf1a1c" id="stop182"/>
-			<stop offset=".84" stop-color="#c80723" id="stop184"/>
-			<stop offset="1" stop-color="#c60025" id="stop186"/>
-		</radialGradient>
 	</defs>
-	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="868.30964" inkscape:cy="-127.90811" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1"/>
-	<metadata id="metadata245">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-84.851719,-230.52011)">
+	<g id="layer1" transform="translate(-84.851719,-230.52011)">
 		<g id="g568">
 			<path id="use51" d="m 179.44504,274.32673 h 12.3549 v -18.28924 c 0.53984,0.36755 0.84229,0.57047 0.89972,0.61259 0.13788,0.11868 16.37112,12.18261 27.22521,18.71421 -0.005,-0.0422 -0.005,-0.0881 0,-0.13395 0.13788,-11.50496 0.10719,-18.98987 0.12261,-21.09944 0,-8.50715 0,-15.89253 -0.12261,-22.00299 -0.008,-0.0612 -0.008,-0.12638 0,-0.1876 H 207.4551 v 18.54959 c -0.53217,-0.35988 -0.82697,-0.55897 -0.88441,-0.59727 -0.1876,-0.10341 -17.01813,-12.59227 -27.12565,-18.88649 -0.0689,9.46047 -0.11868,16.5051 -0.11868,23.61866 0,6.02239 0,12.09839 0.11868,19.70199 z" style="fill:#231815;stroke-width:0.38286"/>
 			<path id="use53" d="m 179.44504,274.32673 h 12.3549 v -18.28924 c 0.53984,0.36755 0.84229,0.57047 0.89972,0.61259 0.13788,0.11868 16.37112,12.18261 27.22521,18.71421 -0.005,-0.0422 -0.005,-0.0881 0,-0.13395 0.13788,-11.50496 0.10719,-18.98987 0.12261,-21.09944 0,-8.50715 0,-15.89253 -0.12261,-22.00299 -0.008,-0.0612 -0.008,-0.12638 0,-0.1876 H 207.4551 v 18.54959 c -0.53217,-0.35988 -0.82697,-0.55897 -0.88441,-0.59727 -0.1876,-0.10341 -17.01813,-12.59227 -27.12565,-18.88649 -0.0689,9.46047 -0.11868,16.5051 -0.11868,23.61866 0,6.02239 0,12.09839 0.11868,19.70199 z" style="fill:none;stroke-width:0.38286"/>

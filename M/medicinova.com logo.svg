@@ -7,15 +7,6 @@
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath208">
 			<path d="M 0,1.2207e-4 H 959.76 V 540.00012 H 0 Z" clip-rule="evenodd" id="path206"/>
 		</clipPath>
-		<linearGradient x1="-10.31" y1="519.76001" x2="970.07001" y2="20.236" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="linearGradient224">
-			<stop offset="0" id="stop210" stop-opacity="1" stop-color="#e8e8e8"/>
-			<stop offset="0.1" id="stop212" stop-opacity="1" stop-color="#e8e8e8"/>
-			<stop offset="0.32" id="stop214" stop-opacity="1" stop-color="#8aafcd"/>
-			<stop offset="0.6" id="stop216" stop-opacity="1" stop-color="#105bb4"/>
-			<stop offset="0.79" id="stop218" stop-opacity="1" stop-color="#153c7f"/>
-			<stop offset="0.95" id="stop220" stop-opacity="1" stop-color="#1c2d66"/>
-			<stop offset="1" id="stop222" stop-opacity="1" stop-color="#1c2d66"/>
-		</linearGradient>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath234">
 			<path d="m 2.16,0.12024 h 947.88 v 539.88 H 2.16 Z" clip-rule="evenodd" id="path232"/>
 		</clipPath>
@@ -263,15 +254,6 @@
 				</g>
 			</g>
 		</mask>
-		<linearGradient x1="0" y1="174" x2="959.76001" y2="174" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="linearGradient738">
-			<stop offset="0" id="stop724" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.16667" id="stop726" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.33333" id="stop728" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.5" id="stop730" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.66667" id="stop732" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.83333" id="stop734" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="1" id="stop736" stop-opacity="1" stop-color="#ffffff"/>
-		</linearGradient>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath748">
 			<path d="M 1.4302e-5,0 H 959.76001 V 540 H 1.4302e-5 Z" clip-rule="evenodd" id="path746"/>
 		</clipPath>

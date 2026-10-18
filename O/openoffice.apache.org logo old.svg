@@ -1,11 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1181.4792 314.73828">
 	<defs id="defs4">
-		<filter color-interpolation-filters="sRGB" height="1" width="1" y="0" x="0" id="filter3016">
-			<feMorphology result="result0" in="SourceGraphic" radius="4" id="feMorphology3018"/>
-			<feGaussianBlur result="result91" stdDeviation="8" in="result0" id="feGaussianBlur3020"/>
-			<feComposite in="SourceGraphic" operator="in" in2="result91" id="feComposite3022"/>
-		</filter>
 		<linearGradient id="linearGradient7895">
 			<stop id="stop7897" offset="0" style="stop-color:#7eb2ec;stop-opacity:1;"/>
 			<stop id="stop7899" offset="1" style="stop-color:#2065ac;stop-opacity:1;"/>
@@ -18,9 +13,6 @@
 			<stop id="stop7929" offset="0" style="stop-color:#696969;stop-opacity:1;"/>
 			<stop id="stop7931" offset="1" style="stop-color:#696969;stop-opacity:0;"/>
 		</linearGradient>
-		<radialGradient xlink:href="#linearGradient7927" id="radialGradient7779" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.7548551,-7.7757466e-4,1.1391408e-4,0.11058653,23.199159,173.31196)" cx="94.249657" cy="152.48552" fx="94.249657" fy="152.48552" r="65"/>
-		<radialGradient xlink:href="#linearGradient7895" id="radialGradient7781" gradientUnits="userSpaceOnUse" gradientTransform="matrix(47.24319,-4.5545251,3.8248069,39.673967,-18446.316,-2490.6292)" cx="97.295937" cy="118.36192" fx="97.295937" fy="118.36192" r="91.96875"/>
-		<linearGradient xlink:href="#linearGradient7907" id="linearGradient7783" gradientUnits="userSpaceOnUse" x1="102.13333" y1="10.927078" x2="103.10371" y2="91.927078"/>
 		<radialGradient xlink:href="#linearGradient7927" id="radialGradient8025" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.7548551,-7.7757466e-4,1.1391408e-4,0.11058653,23.199159,173.31196)" cx="94.249657" cy="152.48552" fx="94.249657" fy="152.48552" r="65"/>
 		<radialGradient xlink:href="#linearGradient7895" id="radialGradient8027" gradientUnits="userSpaceOnUse" gradientTransform="matrix(47.24319,-4.5545251,3.8248069,39.673967,-18446.316,-2490.6292)" cx="97.295937" cy="118.36192" fx="97.295937" fy="118.36192" r="91.96875"/>
 		<linearGradient xlink:href="#linearGradient7907" id="linearGradient8029" gradientUnits="userSpaceOnUse" x1="102.13333" y1="10.927078" x2="103.10371" y2="91.927078"/>

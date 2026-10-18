@@ -1,14 +1,8 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xml:space="preserve" viewBox="0 0 303.8512 136.44904" sodipodi:docname="Haverford logo.svg" inkscape:version="1.0 (4035a4f, 2020-05-01)">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 303.8512 136.44904">
 	<defs id="defs14">
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath28">
 			<path d="m 119.019,175.171 h 227.889 v 27.907 H 119.019 Z" id="path26"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath38">
-			<path d="M 118.999,172.109 H 349.28 v 30.969 H 118.999 Z" id="path36"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath54">
-			<path d="M 0,0 H 792 V 612 H 0 Z" id="path52"/>
 		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath218">
 			<path d="M 118.18,455.664 H 346.069 V 558 H 118.18 Z" id="path216"/>
@@ -27,15 +21,6 @@
 		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath334">
 			<path d="M 118.16,453.267 H 348.441 V 562.32 H 118.16 Z" id="path332"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath398">
-			<path d="m 117.212,303.565 h 227.89 V 356.4 h -227.89 z" id="path396"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath408">
-			<path d="m 117.193,299.944 h 230.28 V 356.4 h -230.28 z" id="path406"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath438">
-			<path d="M 0,0 H 792 V 612 H 0 Z" id="path436"/>
 		</clipPath>
 		<clipPath id="clipPath218-0" clipPathUnits="userSpaceOnUse">
 			<path id="path216-2" d="M 118.18,455.664 H 346.069 V 558 H 118.18 Z"/>
@@ -56,8 +41,7 @@
 			<path id="path332-3" d="M 118.16,453.267 H 348.441 V 562.32 H 118.16 Z"/>
 		</clipPath>
 	</defs>
-	<sodipodi:namedview inkscape:document-rotation="0" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1440" inkscape:window-height="785" id="namedview12" showgrid="false" inkscape:zoom="0.70710784" inkscape:cx="93.027852" inkscape:cy="87.31637" inkscape:window-x="0" inkscape:window-y="23" inkscape:window-maximized="0" inkscape:current-layer="g18"/>
-	<g id="g18" inkscape:groupmode="layer" inkscape:label="Visual-Identity-Guidelines 2" transform="matrix(1.3333333,0,0,-1.3333333,-364.26158,690.47755)">
+	<g id="g18" transform="matrix(1.3333333,0,0,-1.3333333,-364.26158,690.47755)">
 		<g id="g212" transform="translate(155.01619,-40.141602)">
 			<g clip-path="url(#clipPath218-0)" id="g214">
 				<path id="path220" style="fill:#a20e32;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 155.7455,493.3425 3.665,9.956 4.029,-9.956 z m 15.806,-10.182 c -0.632,0.492 -1.172,1.285 -1.622,2.379 l -9.553,22.955 h -0.602 l -9.079,-23.375 c -0.353,-0.911 -0.839,-1.592 -1.459,-2.041 -0.62,-0.45 -2.266,-0.717 -3.226,-0.778 v -10e-4 l -0.224,-0.009 h -0.315 c -1.034,0 -1.757,0.265 -2.134,0.751 -0.377,0.486 -0.565,1.604 -0.565,3.355 v 15.371 c 0,2.042 0.203,3.33 0.611,3.865 0.407,0.534 1.224,0.802 2.452,0.802 v 1.13 c -0.255,-0.012 -0.614,-0.024 -1.076,-0.036 -1.738,-0.073 -2.935,-0.11 -3.591,-0.11 -0.62,0 -1.793,0.031 -3.519,0.091 -0.499,0.024 -0.881,0.043 -1.149,0.055 v -1.13 h 0.511 c 0.923,0 1.58,-0.222 1.969,-0.666 0.389,-0.444 0.583,-1.2 0.583,-2.269 v -8.078 h -15.132 v 6.346 c 0,2.029 0.21,3.314 0.629,3.855 0.42,0.541 1.243,0.812 2.471,0.812 v 1.13 c -0.231,-0.012 -0.566,-0.024 -1.003,-0.036 -1.787,-0.073 -3.021,-0.11 -3.701,-0.11 -0.608,0 -1.781,0.031 -3.519,0.091 -0.486,0.024 -0.869,0.043 -1.148,0.055 v -1.13 h 0.528 c 0.924,0 1.583,-0.225 1.978,-0.675 0.395,-0.45 0.593,-1.203 0.593,-2.26 v -17.377 c 0,-1.446 -0.216,-2.443 -0.647,-2.99 -0.432,-0.547 -1.213,-0.82 -2.343,-0.82 h -0.109 l 0.018,-1.112 c 0.948,0.036 1.814,0.064 2.598,0.082 0.784,0.018 1.467,0.027 2.051,0.027 0.583,0 1.267,-0.009 2.051,-0.027 0.784,-0.018 1.668,-0.046 2.653,-0.082 v 1.112 h -0.365 c -1.058,0 -1.778,0.249 -2.161,0.747 -0.382,0.499 -0.574,1.611 -0.574,3.337 v 7.53 h 15.132 v -7.804 c 0,-1.458 -0.213,-2.458 -0.638,-2.999 -0.425,-0.541 -1.197,-0.811 -2.315,-0.811 h -0.11 v -1.112 c 0.96,0.036 1.829,0.064 2.607,0.082 0.778,0.018 1.465,0.027 2.061,0.027 0.571,0 1.242,-0.009 2.014,-0.027 0.683,-0.016 1.63,-0.044 2.534,-0.043 l -0.001,-0.004 c 0.117,0.006 0.517,0.004 0.657,0.008 0.894,0.024 2.167,0.023 2.682,0.039 0.595,0.018 1.045,0.027 1.349,0.027 0.656,0 1.361,-0.009 2.115,-0.027 0.753,-0.018 1.562,-0.046 2.425,-0.082 l 0.018,1.112 c -0.875,0.085 -1.468,0.231 -1.778,0.438 -0.309,0.206 -0.464,0.547 -0.464,1.02 0,0.195 0.018,0.402 0.054,0.62 0.037,0.219 0.091,0.438 0.164,0.657 l 2.243,6.636 h 8.97 l 2.752,-6.673 c 0.073,-0.158 0.131,-0.322 0.174,-0.492 0.042,-0.17 0.064,-0.316 0.064,-0.438 0,-0.559 -0.259,-0.993 -0.775,-1.303 -0.517,-0.31 -1.243,-0.465 -2.179,-0.465 v -1.112 c 1.009,0.036 1.969,0.064 2.881,0.082 0.911,0.018 1.768,0.027 2.57,0.027 0.389,0 0.948,-0.009 1.677,-0.027 0.73,-0.018 1.635,-0.046 2.717,-0.082 v 1.112 c -1.021,0.073 -1.848,0.356 -2.48,0.848"/>

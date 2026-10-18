@@ -1,12 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
 	<defs>
-		<linearGradient id="a">
-			<stop offset="0" stop-color="#c8c8c8" stop-opacity="0"/>
-			<stop offset=".367" stop-color="#c8c8c8" stop-opacity="0"/>
-			<stop offset=".934" stop-color="#c8c8c8" stop-opacity=".196"/>
-			<stop offset="1" stop-color="#c8c8c8" stop-opacity=".196"/>
-		</linearGradient>
 	</defs>
 	<g transform="translate(-50 -322.221)">
 		<rect ry="3" rx="3" y="323.221" x="50" height="6" width="32" fill="#46a546"/>

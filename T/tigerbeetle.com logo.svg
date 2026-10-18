@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 800 153.55388" sodipodi:docname="tigerbeetle.svg" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)">
-	<sodipodi:namedview id="namedview45" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:document-units="mm" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.79528375" inkscape:cx="224.44819" inkscape:cy="-155.29049" inkscape:window-width="2460" inkscape:window-height="1563" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg7292"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 800 153.55388">
 	<defs id="defs7289">
 		<clipPath id="clip11">
 			<rect x="0" y="0" width="373" height="43" id="rect1759"/>
@@ -16,12 +15,6 @@
 		<filter id="alpha" filterUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
 			<feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" id="feColorMatrix1702"/>
 		</filter>
-		<clipPath id="clipPath7313">
-			<rect x="0" y="0" width="373" height="43" id="rect7311"/>
-		</clipPath>
-		<clipPath id="clipPath7317">
-			<path d="M 0,13.5 H 18 V 19 H 0 Z m 0,0" id="path7315"/>
-		</clipPath>
 	</defs>
 	<g id="layer1" transform="matrix(15.916745,0,0,15.916745,-1125.3511,-3026.5234)">
 		<g id="use2768" clip-path="url(#clip11)" style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.780934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="matrix(0.64025899,0,0,0.64025899,70.702336,181.26354)">

@@ -5,9 +5,6 @@
 		.purple { fill: #990ae3; }
 	</style>
 	<defs id="defs2">
-		<filter height="39.848" width="37.924" y="3.076" x="-4.7529998" filterUnits="userSpaceOnUse" id="Adobe_OpacityMaskFilter">
-			<feColorMatrix id="feColorMatrix30" result="source" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" type="matrix" style="color-interpolation-filters:sRGB"/>
-		</filter>
 	</defs>
 	<g transform="translate(-0.14 -0.13)">
 		<g id="layer1" transform="translate(345.59401,-237.03516)">
@@ -30,9 +27,6 @@
 							</g>
 						</g>
 						<defs id="defs33">
-							<filter height="39.848" width="37.924" y="3.076" x="-4.7529998" filterUnits="userSpaceOnUse" id="filter115">
-								<feColorMatrix id="feColorMatrix113" result="source" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" type="matrix" style="color-interpolation-filters:sRGB"/>
-							</filter>
 						</defs>
 						<mask id="SVGID_1_" height="39.848" width="37.924" y="3.076" x="-4.753" maskUnits="userSpaceOnUse">
 						</mask>

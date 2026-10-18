@@ -1,14 +1,7 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 512 512">
 	<rect id="r4" width="512" height="512" x="0" y="0" fill="url(#r5)" stroke="#FFF" stroke-width="0" paint-order="stroke" rx="128"/>
-	<clipPath id="clip">
-		<use xlink:href="#r4"/>
-	</clipPath>
 	<defs>
-		<radialGradient id="r6" cx="0" cy="0" r="1" gradientTransform="matrix(0 512 -512 0 256 0)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#fff"/>
-			<stop offset="1" stop-color="#fff" stop-opacity="0"/>
-		</radialGradient>
 		<linearGradient id="r5" gradientTransform="rotate(180)" gradientUnits="userSpaceOnUse" transform-origin="center center">
 			<stop stop-color="#FC466B"/>
 			<stop offset="1" stop-color="#3F5EFB"/>

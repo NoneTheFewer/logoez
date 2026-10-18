@@ -1,13 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363 110">
 	<defs id="defs2">
-		<filter style="color-interpolation-filters:sRGB" id="filter1296" x="-0.012302013" y="-0.026396924" width="1.0348557" height="1.0747913">
-			<feFlood flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" id="feFlood1286"/>
-			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite1288"/>
-			<feGaussianBlur in="composite1" stdDeviation="1" result="blur" id="feGaussianBlur1290"/>
-			<feOffset dx="2" dy="2" result="offset" id="feOffset1292"/>
-			<feComposite in="SourceGraphic" in2="offset" operator="over" result="composite2" id="feComposite1294"/>
-		</filter>
 		<filter style="color-interpolation-filters:sRGB;" id="filter1408" x="-0.012302013" y="-0.029489216" width="1.0348557" height="1.0835528">
 			<feFlood flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" id="feFlood1398"/>
 			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite1400"/>

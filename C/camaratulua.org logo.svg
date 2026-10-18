@@ -74,24 +74,6 @@
 		<filter id="filter12818-2" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
 			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12816-2"/>
 		</filter>
-		<filter id="filter12822-2" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
-			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12820-4"/>
-		</filter>
-		<filter id="filter12826-5" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
-			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12824-5"/>
-		</filter>
-		<filter id="filter12830-1" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
-			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12828-9"/>
-		</filter>
-		<filter id="filter12834-8" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
-			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12832-9"/>
-		</filter>
-		<filter id="filter12838-6" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
-			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12836-8"/>
-		</filter>
-		<filter id="filter12842-4" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
-			<feColorMatrix values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " id="feColorMatrix12840-9"/>
-		</filter>
 		<linearGradient xlink:href="#linearGradient16373" id="linearGradient16085" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.007936,0,0,1.0148612,238.125,-71.695174)" x1="88.00103" y1="70.645424" x2="121.99895" y2="180.65886"/>
 		<linearGradient xlink:href="#linearGradient16448" id="linearGradient16089" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.007936,0,0,1.0148612,238.125,-71.695174)" x1="63.24575" y1="70.645302" x2="104.99999" y2="70.645424" spreadMethod="reflect"/>
 		<linearGradient xlink:href="#linearGradient4059" id="linearGradient16091" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.007936,0,0,1.0148612,238.125,-71.695174)" x1="126.28428" y1="180.65874" x2="210.00011" y2="70.645302"/>

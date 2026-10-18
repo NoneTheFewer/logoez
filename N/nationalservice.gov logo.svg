@@ -1,14 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 1010 454" xml:space="preserve">
-	<metadata>
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title>Corporation for National and Community Service (CNCS) Logo</dc:title>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 454" xml:space="preserve">
 	<polygon transform="translate(-391 -478.88)" points="1376 873.76 1384.9 893.04 1384.9 926.72 1299.6 926.72 1293.8 873.76 1299.6 820.78 1384.9 820.78 1384.9 854.49" fill="#ec2418"/>
 	<polygon transform="translate(-391 -478.88)" points="1299.6 893.04 1295.7 873.76 1299.6 854.49 1384.9 854.49 1384.9 893.04" fill="#fff"/>
 	<polygon transform="translate(-391 -478.88)" points="1026.4 820.78 1299.6 820.78 1299.6 926.72 1026.4 926.72" fill="#00449f"/>

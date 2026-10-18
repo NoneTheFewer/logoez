@@ -25,11 +25,6 @@
 			<stop style="stop-color:#d4ff2a;stop-opacity:1" offset="0" id="stop3291"/>
 			<stop style="stop-color:#55ddff;stop-opacity:1" offset="1" id="stop3293"/>
 		</linearGradient>
-		<linearGradient id="linearGradient872">
-			<stop id="stop868" offset="0" style="stop-color:#217844;stop-opacity:1"/>
-			<stop id="stop870" offset="1" style="stop-color:#37c871;stop-opacity:1"/>
-		</linearGradient>
-		<linearGradient xlink:href="#linearGradient872" id="linearGradient860" gradientUnits="userSpaceOnUse" x1="47.625" y1="261.01666" x2="37.041664" y2="261.01666" gradientTransform="matrix(-2,0,0,2,101.6,-267.36667)"/>
 		<filter id="filter2272">
 			<feColorMatrix in="SourceGraphic" type="hueRotate" values="0" result="colormatrix1" id="feColorMatrix2258"/>
 			<feColorMatrix type="matrix" values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 " result="colormatrix2" id="feColorMatrix2260"/>
@@ -56,36 +51,9 @@
 			<feComposite in="colormatrix4" in2="blend1" operator="arithmetic" k2="0.3" result="composite1" id="feComposite2268-9" k1="0" k3="0" k4="0"/>
 			<feBlend in2="blend1" mode="normal" result="blend2" id="feBlend2270-0"/>
 		</filter>
-		<filter id="filter2493">
-			<feColorMatrix in="SourceGraphic" type="hueRotate" values="0" result="colormatrix1" id="feColorMatrix2479"/>
-			<feColorMatrix type="matrix" values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 " result="colormatrix2" id="feColorMatrix2481"/>
-			<feColorMatrix type="hueRotate" values="50" result="colormatrix3" id="feColorMatrix2483"/>
-			<feBlend in2="colormatrix3" mode="normal" result="blend1" id="feBlend2485"/>
-			<feColorMatrix type="matrix" values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 " result="colormatrix4" id="feColorMatrix2487"/>
-			<feComposite in="colormatrix4" in2="blend1" operator="arithmetic" k2="0.3" result="composite1" id="feComposite2489" k1="0" k3="0" k4="0"/>
-			<feBlend in2="blend1" mode="normal" result="blend2" id="feBlend2491"/>
-		</filter>
 		<linearGradient xlink:href="#linearGradient2777" id="linearGradient2755" x1="11.641666" y1="238.79167" x2="11.641666" y2="293.82501" gradientUnits="userSpaceOnUse" gradientTransform="translate(-3.1750001,-1.0583333)"/>
 		<linearGradient xlink:href="#linearGradient2368" id="linearGradient2757" x1="9.5249996" y1="238.79167" x2="9.5249996" y2="293.82501" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.0583333,-1.0583333)"/>
 		<linearGradient xlink:href="#linearGradient2356" id="linearGradient2759" x1="8.4666662" y1="238.79167" x2="8.4666662" y2="293.82501" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-1.0583333)"/>
-		<filter id="filter2272-9-1">
-			<feColorMatrix in="SourceGraphic" type="hueRotate" values="0" result="colormatrix1" id="feColorMatrix2258-6-9"/>
-			<feColorMatrix type="matrix" values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 " result="colormatrix2" id="feColorMatrix2260-1-4"/>
-			<feColorMatrix type="hueRotate" values="50" result="colormatrix3" id="feColorMatrix2262-9-7"/>
-			<feBlend in2="colormatrix3" mode="normal" result="blend1" id="feBlend2264-6-8"/>
-			<feColorMatrix type="matrix" values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 " result="colormatrix4" id="feColorMatrix2266-5-4"/>
-			<feComposite in="colormatrix4" in2="blend1" operator="arithmetic" k2="0.3" result="composite1" id="feComposite2268-9-5" k1="0" k3="0" k4="0"/>
-			<feBlend in2="blend1" mode="normal" result="blend2" id="feBlend2270-0-0"/>
-		</filter>
-		<filter id="filter925">
-			<feColorMatrix in="SourceGraphic" type="hueRotate" values="0" result="colormatrix1" id="feColorMatrix911"/>
-			<feColorMatrix type="matrix" values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 " result="colormatrix2" id="feColorMatrix913"/>
-			<feColorMatrix type="hueRotate" values="50" result="colormatrix3" id="feColorMatrix915"/>
-			<feBlend in2="colormatrix3" mode="normal" result="blend1" id="feBlend917"/>
-			<feColorMatrix type="matrix" values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 " result="colormatrix4" id="feColorMatrix919"/>
-			<feComposite in="colormatrix4" in2="blend1" operator="arithmetic" k2="0.3" result="composite1" id="feComposite921" k1="0" k3="0" k4="0"/>
-			<feBlend in2="blend1" mode="normal" result="blend2" id="feBlend923"/>
-		</filter>
 		<filter id="filter2272-9-8">
 			<feColorMatrix in="SourceGraphic" type="hueRotate" values="0" result="colormatrix1" id="feColorMatrix2258-6-4"/>
 			<feColorMatrix type="matrix" values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 " result="colormatrix2" id="feColorMatrix2260-1-3"/>
@@ -94,15 +62,6 @@
 			<feColorMatrix type="matrix" values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 " result="colormatrix4" id="feColorMatrix2266-5-9"/>
 			<feComposite in="colormatrix4" in2="blend1" operator="arithmetic" k2="0.3" result="composite1" id="feComposite2268-9-2" k1="0" k3="0" k4="0"/>
 			<feBlend in2="blend1" mode="normal" result="blend2" id="feBlend2270-0-06"/>
-		</filter>
-		<filter id="filter2053">
-			<feColorMatrix in="SourceGraphic" type="hueRotate" values="0" result="colormatrix1" id="feColorMatrix2039"/>
-			<feColorMatrix type="matrix" values="0.5 0 0.5 0 0 0 1 0 0 0 0.5 0 0.5 0 0 0 0 0 1 0 " result="colormatrix2" id="feColorMatrix2041"/>
-			<feColorMatrix type="hueRotate" values="50" result="colormatrix3" id="feColorMatrix2043"/>
-			<feBlend in2="colormatrix3" mode="normal" result="blend1" id="feBlend2045"/>
-			<feColorMatrix type="matrix" values="2.5 -0.75 -0.75 0 0 -0.75 2.5 -0.75 0 0 -0.75 -0.75 2.5 0 0 0 0 0 1 0 " result="colormatrix4" id="feColorMatrix2047"/>
-			<feComposite in="colormatrix4" in2="blend1" operator="arithmetic" k2="0.3" result="composite1" id="feComposite2049" k1="0" k3="0" k4="0"/>
-			<feBlend in2="blend1" mode="normal" result="blend2" id="feBlend2051"/>
 		</filter>
 		<linearGradient xlink:href="#linearGradient846" id="linearGradient848" x1="162.11601" y1="-210.01071" x2="174.08969" y2="-221.98439" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2374369,1.3155474,-1.2374369,-1.3155474,-25.399998,-231.53639)"/>
 		<linearGradient id="linearGradient846">

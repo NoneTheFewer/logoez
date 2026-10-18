@@ -1,17 +1,16 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 128 128" inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)" sodipodi:docname="com.github.cassidyjames.clairvoyant.svg">
-	<linearGradient id="a" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+	<linearGradient id="a" gradientUnits="userSpaceOnUse">
 		<stop offset="0.88487101" stop-opacity="0"/>
 		<stop offset="1" stop-color="#ffffff"/>
 	</linearGradient>
-	<radialGradient id="b" cx="18.287395" cy="-65.802" gradientUnits="userSpaceOnUse" r="60" inkscape:collect="always">
+	<radialGradient id="b" cx="18.287395" cy="-65.802" gradientUnits="userSpaceOnUse" r="60">
 		<stop offset="0" stop-color="#5e5c64"/>
 		<stop offset="0.60951883" stop-color="#3d3846"/>
 		<stop offset="1" stop-color="#241f31"/>
 	</radialGradient>
-	<radialGradient id="c" cx="-65.573082" cy="-55.780399" gradientTransform="matrix(1.1610924 -0.01939456 0.01963532 1.1755061 95.823535 -0.049083)" r="60" xlink:href="#a" inkscape:collect="always"/>
-	<radialGradient id="d" cx="-65.573082" cy="-55.780399" gradientTransform="matrix(1.1610924 -0.01939456 0.01963532 1.1755061 59.248744 102.17278)" r="60" xlink:href="#a" inkscape:collect="always"/>
-	<sodipodi:namedview pagecolor="#232323" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0" inkscape:pagecheckerboard="true" inkscape:deskcolor="#232323" inkscape:document-units="px" showgrid="false" inkscape:zoom="8.1256282" inkscape:cx="55.626468" inkscape:cy="61.595238" inkscape:window-width="2560" inkscape:window-height="1371" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="g15174"/>
+	<radialGradient id="c" cx="-65.573082" cy="-55.780399" gradientTransform="matrix(1.1610924 -0.01939456 0.01963532 1.1755061 95.823535 -0.049083)" r="60" xlink:href="#a"/>
+	<radialGradient id="d" cx="-65.573082" cy="-55.780399" gradientTransform="matrix(1.1610924 -0.01939456 0.01963532 1.1755061 59.248744 102.17278)" r="60" xlink:href="#a"/>
 	<g transform="matrix(1 0 0 1 45.712605 115.11093)">
 		<circle cx="18.287395" cy="-51.110931" fill="url(#b)" r="60" stroke-width="1.6455"/>
 		<circle cx="18.287395" cy="-51.110931" fill="#f6f5f4" r="32" stroke-width="1.00164"/>

@@ -31,9 +31,6 @@
 			<stop offset="1" style="stop-color:#9FF4D9"/>
 		</linearGradient>
 		<use xlink:href="#SVGID_3_" style="overflow:visible;fill:url(#SVGID_4_);"/>
-		<clipPath id="SVGID_5_">
-			<use xlink:href="#SVGID_3_" style="overflow:visible;"/>
-		</clipPath>
 	</g>
 	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="65.3598" y1="132.4593" x2="161.2761" y2="132.4593">
 		<stop offset="0" style="stop-color:#FCD77E"/>

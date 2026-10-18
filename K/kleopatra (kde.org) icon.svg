@@ -5,10 +5,6 @@
 			<stop style="stop-color:#524220;stop-opacity:0.553" offset="0" id="stop4750"/>
 			<stop style="stop-color:#342a14;stop-opacity:0;" offset="1" id="stop4752"/>
 		</linearGradient>
-		<linearGradient gradientTransform="translate(-386.57,-501.8)" gradientUnits="userSpaceOnUse" x2="419.974" y2="539.825" x1="406.501" y1="527.014" id="linearGradient4222">
-			<stop id="stop4224" stop-color="#292c2f" style="stop-color:#001043;stop-opacity:1"/>
-			<stop id="stop4226" stop-opacity="0" offset="1" style="stop-color:#0f0d45;stop-opacity:0"/>
-		</linearGradient>
 		<linearGradient id="linearGradient4402">
 			<stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop4404"/>
 			<stop style="stop-color:#ffffff;stop-opacity:0;" offset="1" id="stop4406"/>
@@ -21,36 +17,14 @@
 			<stop stop-color="#536161" id="stop12" style="stop-color:#bfc9c9;stop-opacity:1"/>
 			<stop offset="1" stop-color="#f4f5f5" id="stop14" style="stop-color:#fbfbfb;stop-opacity:1"/>
 		</linearGradient>
-		<linearGradient id="c" y1="527.014" x1="406.501" y2="539.825" x2="419.974" gradientUnits="userSpaceOnUse" gradientTransform="translate(-386.57,-501.8)">
-			<stop stop-color="#292c2f" id="stop17"/>
-			<stop offset="1" stop-opacity="0" id="stop19"/>
-		</linearGradient>
-		<linearGradient xlink:href="#c" id="linearGradient4358-3" gradientUnits="userSpaceOnUse" gradientTransform="translate(-405.64617,-517.76875)" x1="406.501" y1="527.014" x2="419.974" y2="539.825"/>
 		<linearGradient xlink:href="#linearGradient4402" id="linearGradient4408" x1="11.875" y1="-15.125" x2="32.125" y2="33.5" gradientUnits="userSpaceOnUse"/>
-		<linearGradient xlink:href="#c" id="linearGradient4358-6" gradientUnits="userSpaceOnUse" gradientTransform="translate(-389.55242,-517.76875)" x1="412.158" y1="521.888" x2="419.974" y2="539.825"/>
 		<linearGradient gradientTransform="matrix(1.125,0,0,1,-476.43379,-500.54873)" gradientUnits="userSpaceOnUse" x2="0" y2="503.8" y1="543.8" id="a-6">
 			<stop id="stop4380" stop-color="#bd8d48"/>
 			<stop id="stop4382" stop-color="#e8b971" offset="1"/>
 		</linearGradient>
-		<linearGradient gradientUnits="userSpaceOnUse" x2="0" y2="505.8" y1="541.8" id="b-7" gradientTransform="translate(-425.36379,-500.54873)">
-			<stop id="stop4385" stop-color="#e3dfd6"/>
-			<stop id="stop4387" stop-color="#f4f1e8" offset="1"/>
-		</linearGradient>
-		<linearGradient gradientUnits="userSpaceOnUse" x2="426.57" y2="543.8" x1="414.57" y1="531.8" id="c-5">
-			<stop id="stop4390" stop-color="#383e51"/>
-			<stop id="stop4392" stop-opacity="0" stop-color="#655c6f" offset="1"/>
-		</linearGradient>
-		<linearGradient gradientUnits="userSpaceOnUse" x2="0" y2="504.8" y1="542.8" id="d" gradientTransform="translate(-425.36379,-500.54873)">
-			<stop id="stop4395" stop-color="#977a5c"/>
-			<stop id="stop4397" stop-color="#9d8062" offset="1"/>
-		</linearGradient>
 		<linearGradient gradientUnits="userSpaceOnUse" x2="418.57" y2="533.8" x1="413.57" y1="528.8" id="e" gradientTransform="translate(-425.36379,-500.54873)">
 			<stop id="stop4400" stop-opacity=".259" stop-color="#bdb49e"/>
 			<stop id="stop4402" stop-opacity="0" stop-color="#bdb49e" offset="1"/>
-		</linearGradient>
-		<linearGradient gradientTransform="matrix(1.125,0,0,1,-441.64001,-503.79999)" gradientUnits="userSpaceOnUse" x2="0" y2="503.8" y1="543.8" id="a-6-3">
-			<stop id="stop4380-5" stop-color="#bd8d48"/>
-			<stop id="stop4382-6" stop-color="#e8b971" offset="1"/>
 		</linearGradient>
 		<linearGradient xlink:href="#linearGradient4748" id="linearGradient4754" x1="16" y1="9" x2="41" y2="40" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1,-1)"/>
 	</defs>

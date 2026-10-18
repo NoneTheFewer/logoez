@@ -48,9 +48,6 @@
 			<stop offset="0" style="stop-color:#f60e0e;stop-opacity:1"/>
 			<stop offset="1" style="stop-color:#f66629;stop-opacity:1"/>
 		</linearGradient>
-		<filter id="blor">
-			<feDropShadow dx="1" dy="14" stdDeviation="1" flood-opacity="0.7"/>
-		</filter>
 		<filter id="f2" width="120" height="120">
 			<feOffset in="SourceGraphic" dx="20" dy="20"/>
 			<feGaussianBlur stdDeviation="10"/>

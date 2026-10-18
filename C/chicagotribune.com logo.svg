@@ -1,11 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 302.36032 45.744274" inkscape:version="0.47 r22583" sodipodi:docname="New document 3">
-	<defs id="defs12698">
-		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective12704"/>
-		<inkscape:perspective id="perspective12674" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
-	</defs>
-	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.979899" inkscape:cx="263.373" inkscape:cy="30.067409" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1280" inkscape:window-height="750" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1"/>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-40.580182,-350.81583)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 302.36032 45.744274">
+	<g id="layer1" transform="translate(-40.580182,-350.81583)">
 		<g transform="matrix(3.9377011,0,0,-3.9377011,-250.19148,712.26529)" id="g12647">
 			<path id="path1642" style="fill:#1162a5;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 89.947,90.709 c -0.328,-0.235 -0.679,-0.605 -0.881,-0.901 -0.23,0.289 -0.622,0.635 -0.921,0.84 0.295,0.231 0.743,0.69 0.921,0.942 0.178,-0.25 0.612,-0.674 0.881,-0.881"/>
 			<path id="path1644" style="fill:#1162a5;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 95.286,88.389 c -0.048,-0.61 -0.515,-1.225 -1.165,-1.225 -0.606,0 -0.98,0.246 -1.185,0.678 l -0.081,-0.05 0,-4.103 c 0.346,-0.185 0.886,-0.51 1.185,-0.709 l 0.648,0.668 0.101,-0.089 -1.55,-1.611 c -0.687,0.497 -1.635,1.072 -2.218,1.347 l 0,0.031 c 0.274,0.17 0.375,0.436 0.375,1.083 l 0,2.806 c 1.063,0.414 1.904,1.003 2.502,1.529 0.117,-0.193 0.386,-0.435 0.729,-0.435 0.285,0 0.508,0.064 0.619,0.142 l 0.04,-0.062 z"/>

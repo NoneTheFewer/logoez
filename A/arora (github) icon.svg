@@ -14,22 +14,18 @@
 		<filter color-interpolation-filters="sRGB" id="filter4124">
 			<feGaussianBlur id="feGaussianBlur4126" stdDeviation="6.8373876"/>
 		</filter>
-		<radialGradient cx="347.91772" cy="287.9361" r="160.1559" fx="347.91772" fy="287.9361" id="radialGradient3702-1" xlink:href="#linearGradient3696-9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.34478099,1.0480397,-1.0852566,0.33853235,540.44687,-172.14433)"/>
 		<linearGradient id="linearGradient3696-9">
 			<stop id="stop3698-0" style="stop-color:#fefefe;stop-opacity:1" offset="0"/>
 			<stop id="stop3704-9" style="stop-color:#016792;stop-opacity:1" offset="1"/>
 		</linearGradient>
-		<radialGradient cx="-304.58493" cy="117.19162" r="210.5" fx="-304.58493" fy="117.19162" id="radialGradient4036-3" xlink:href="#linearGradient4030-2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47980995,0.54472985,-0.59991493,0.52841816,896.44789,599.99056)"/>
 		<linearGradient id="linearGradient4030-2">
 			<stop id="stop4032-9" style="stop-color:#ffffff;stop-opacity:1" offset="0"/>
 			<stop id="stop4034-5" style="stop-color:#000000;stop-opacity:1" offset="1"/>
 		</linearGradient>
-		<radialGradient cx="347.91772" cy="287.9361" r="160.1559" fx="347.91772" fy="287.9361" id="radialGradient3702-8" xlink:href="#linearGradient3696-2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.34478099,1.0480397,-1.0852566,0.33853235,540.44687,-172.14433)"/>
 		<linearGradient id="linearGradient3696-2">
 			<stop id="stop3698-4" style="stop-color:#fefefe;stop-opacity:1" offset="0"/>
 			<stop id="stop3704-3" style="stop-color:#016792;stop-opacity:1" offset="1"/>
 		</linearGradient>
-		<radialGradient cx="347.91772" cy="287.9361" r="160.1559" fx="347.91772" fy="287.9361" id="radialGradient4246" xlink:href="#linearGradient3696-2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.34478099,1.0480397,-1.0852566,0.33853235,540.44687,-172.14433)"/>
 		<filter color-interpolation-filters="sRGB" id="filter4347">
 			<feGaussianBlur id="feGaussianBlur4349" stdDeviation="11.164239"/>
 		</filter>

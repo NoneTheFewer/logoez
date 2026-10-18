@@ -1,17 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 282.22223 81.903266">
 	<defs id="defs8153">
-		<linearGradient id="linearGradient8271">
-			<stop id="stop8267" offset="0" style="stop-color:#79787d;stop-opacity:1"/>
-			<stop style="stop-color:#e6e6e6;stop-opacity:1" offset="0.5" id="stop8275"/>
-			<stop id="stop8269" offset="1" style="stop-color:#6b6d6a;stop-opacity:1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient8251">
-			<stop id="stop8247" offset="0" style="stop-color:#1c3973;stop-opacity:1"/>
-			<stop style="stop-color:#1b6bab;stop-opacity:1" offset="0.37087527" id="stop8255"/>
-			<stop id="stop8257" offset="0.54158634" style="stop-color:#5d93bc;stop-opacity:1"/>
-			<stop id="stop8249" offset="1" style="stop-color:#1070a3;stop-opacity:1"/>
-		</linearGradient>
 		<style type="text/css" id="style3189">
  .fil1 {fill:black}
  .fil0 {fill:#2049A3}
@@ -22,8 +11,6 @@
  .fil0 {fill:#2049A3}
  .fil2 {fill:white}
  </style>
-		<linearGradient gradientUnits="userSpaceOnUse" y2="304.68625" x2="1678.0383" y1="7.8886151" x1="1485.5012" id="linearGradient8253" xlink:href="#linearGradient8251" gradientTransform="matrix(0.26458333,0,0,0.26458333,-324.00867,23.06817)"/>
-		<linearGradient gradientUnits="userSpaceOnUse" y2="813.88708" x2="1640.6044" y1="556.88892" x1="1567.7164" id="linearGradient8273" xlink:href="#linearGradient8271" gradientTransform="matrix(0.26458333,0,0,0.26458333,-324.00867,23.06817)"/>
 	</defs>
 	<path style="fill:#035bda;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 65.18622,12.34746 L 49.65531,43.62676 L 76.99862,75.31801 L 26.24946,81.07935 L 104.99786,81.90327 L 65.18622,12.34746000000005 L 65.18622,12.34746" id="path7291"/>
 	<path style="fill:#035bda;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 62.12364,0.0 L 26.46842,29.83918 L 0.0,74.49496 L 22.53095,72.23094 L 62.12364,0.0" id="path7293"/>

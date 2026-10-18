@@ -1,14 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 600 246">
 	<defs id="defs922">
-		<linearGradient id="linear-gradient" x1="137.07" y1="174.21" x2="103.59" y2="143.49" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#45445b" id="stop909"/>
-			<stop offset=".23" stop-color="#3f3e53" id="stop911"/>
-			<stop offset=".46" stop-color="#343346" id="stop913"/>
-			<stop offset=".64" stop-color="#2c2b41" id="stop915"/>
-			<stop offset=".92" stop-color="#171632" id="stop917"/>
-			<stop offset="1" stop-color="#0f0f2d" id="stop919"/>
-		</linearGradient>
 	</defs>
 	<path id="Fill-1" transform="translate(-61.57 -65.612) scale(4.28151)" fill="#e7792b" fill-rule="evenodd" stroke="none" stroke-width="1" d="M14.908 53.348l18.788 18.745 18.786-18.745-18.786-18.746-18.788 18.746"/>
 	<path id="Fill-2" transform="translate(-61.57 -65.612) scale(4.28151)" fill="#e26129" fill-rule="evenodd" stroke="none" stroke-width="1" d="M33.695 15.855L14.907 34.602l18.788 18.745 18.787-18.745-18.787-18.747"/>

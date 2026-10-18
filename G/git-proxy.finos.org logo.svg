@@ -28,9 +28,6 @@
 					<stop offset="0.9997" stop-color="#2A2A8B"/>
 				</linearGradient>
 				<use xlink:href="#SVGID_4_" overflow="visible" fill="url(#SVGID_5_)"/>
-				<clipPath id="SVGID_6_">
-					<use xlink:href="#SVGID_4_" overflow="visible"/>
-				</clipPath>
 			</g>
 		</g>
 		<path class="st1" d="M279.7,73.4h-12.5V39.2h-30.7c-1.6-4.5-5.8-7.7-10.9-7.7c-6.4,0-11.6,5.2-11.6,11.6c0,6.4,5.2,11.6,11.6,11.6   c5,0,9.3-3.2,10.9-7.7h23v34.2H272L279.7,73.4L279.7,73.4z"/>

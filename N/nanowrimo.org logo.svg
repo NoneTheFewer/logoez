@@ -1,11 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 284 117">
 	<defs>
-		<filter x="-8.8%" y="-21.7%" width="117.6%" height="150.1%" filterUnits="objectBoundingBox" id="filter-2">
-			<feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
-			<feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
-			<feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.188235294   0 0 0 0 0.380392157  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"/>
-		</filter>
 		<polygon id="path-3" points="0 0.517879623 51.3204877 0.517879623 51.3204877 53 0 53"/>
 	</defs>
 	<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

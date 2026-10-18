@@ -2,9 +2,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.83984 205.72128">
 	<circle cx="103" cy="102.5" r="102.5" fill="white"/>
 	<defs id="defs3359">
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3377">
-			<path d="M 0,792 612,792 612,0 0,0 0,792 Z" id="path3379"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3393">
 			<path d="m -32768,32767 65535,0 0,-65535 -65535,0 0,65535 z" id="path3395"/>
 		</clipPath>
@@ -23,18 +20,6 @@
 				</g>
 			</g>
 		</mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3419">
-			<path d="m 21.5,195.84 569,0 0,-149.59 -569,0 0,149.59 z" id="path3421"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3437">
-			<path d="m 266.655,728.351 78.69,0 0,52.009 -78.69,0 0,-52.009 z" id="path3439"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3501">
-			<path d="M 0,0 612,0 612,792 0,792 0,0 Z" id="path3503"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3567">
-			<path d="M 0,0 612,0 612,792 0,792 0,0 Z" id="path3569"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3575">
 			<path d="m -32768,32767 65535,0 0,-65535 -65535,0 0,65535 z" id="path3577"/>
 		</clipPath>
@@ -53,9 +38,6 @@
 				</g>
 			</g>
 		</mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3601">
-			<path d="m 30.18,680.68 276.32,0 0,-3 -276.32,0 0,3 z" id="path3603"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3617">
 			<path d="m -32768,32767 65535,0 0,-65535 -65535,0 0,65535 z" id="path3619"/>
 		</clipPath>
@@ -74,12 +56,6 @@
 				</g>
 			</g>
 		</mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3643">
-			<path d="m 304,680.68 3,0 0,-385.04 -3,0 0,385.04 z" id="path3645"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3675">
-			<path d="M 0,0 612,0 612,792 0,792 0,0 Z" id="path3677"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3699">
 			<path d="M 0,0 612,0 612,792 0,792 0,0 Z" id="path3701"/>
 		</clipPath>
@@ -148,9 +124,6 @@
 		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath4339">
 			<path d="M 0,0 612,0 612,792 0,792 0,0 Z" id="path4341"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath4391">
-			<path d="m 344.731,628.41 194.434,0 0,36.482 -194.434,0 0,-36.482 z" id="path4393"/>
 		</clipPath>
 	</defs>
 	<g id="g3363" transform="matrix(1.25,0,0,-1.25,-284.4548,550.08786)">

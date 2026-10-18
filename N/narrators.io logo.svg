@@ -9,14 +9,6 @@
 			<stop offset="0" style="stop-color:#000;stop-opacity:1"/>
 			<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
 		</linearGradient>
-		<linearGradient id="b">
-			<stop offset="0" style="stop-color:#fff;stop-opacity:1"/>
-			<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
-		</linearGradient>
-		<linearGradient id="c">
-			<stop offset="0" style="stop-color:#000;stop-opacity:1"/>
-			<stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-		</linearGradient>
 	</defs>
 	<path d="M14.545 265.38v931.054H967.828V265.38H14.545z" style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(0 -308.268)"/>
 	<path d="m512.841 640.414-34.214 31.207 34.386 21.598zM466.192 756.498l34.214-31.207-34.385-21.599z" style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none" transform="translate(0 -308.268)"/>

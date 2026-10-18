@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="MSDN_(2009).svg" viewBox="-0.02 -0.02 85.17 23.33">
-	<sodipodi:namedview id="namedview45005" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:document-units="mm" showgrid="false" inkscape:zoom="3.0003928" inkscape:cx="182.14282" inkscape:cy="66.158004" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="layer1"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="-0.02 -0.02 85.17 23.33">
 	<defs id="defs45000">
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath56">
 			<path d="M 576.063,788.4 H 330 V 681.576 h 246.063 z" id="path54"/>
@@ -351,7 +350,7 @@
 			<stop style="stop-opacity: 1; stop-color: rgb(209, 33, 153);" offset="1" id="stop952"/>
 		</radialGradient>
 	</defs>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-61.535047,-137.02721)">
+	<g id="layer1" transform="translate(-61.535047,-137.02721)">
 		<g id="g18" transform="matrix(0.35277777,0,0,-0.35277777,77.987897,153.28215)">
 			<path d="m 0,0 c -0.153,0.52 -1.9,0.714 -4.613,0.583 -3.594,-0.169 -6.307,-0.731 -7.52,-1.165 -0.1,-0.037 -0.166,-0.07 -0.209,-0.101 -0.764,-0.374 1.586,-0.826 4.529,-1.002 3.415,-0.203 6.652,-0.419 7.727,0.494 C 0.211,-0.938 0.184,-0.338 0,0" style="fill: rgb(40, 56, 146); fill-opacity: 1; fill-rule: nonzero; stroke: none;" id="path20"/>
 		</g>

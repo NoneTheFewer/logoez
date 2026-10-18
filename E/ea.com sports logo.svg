@@ -2,53 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
 	<defs id="defs4">
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath8060">
-			<path d="m 206.79492,499.85328 h 14.23136 v -6.91618 h -14.23136 z" id="path8062"/>
-		</clipPath>
-		<radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.4754755,0,0,-9.4754755,213.88357,499.94288)" spreadMethod="pad" id="radialGradient8064">
-			<stop offset="0" id="stop8066" stop-opacity="1" stop-color="#ed2a23"/>
-			<stop offset="0.1484071" id="stop8068" stop-opacity="1" stop-color="#ed2a23"/>
-			<stop offset="1" id="stop8070" stop-opacity="1" stop-color="#af2323"/>
-		</radialGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath8030">
-			<path d="m 204.5012,503.36178 h 18.92103 V 484.44216 H 204.5012 Z" id="path8032"/>
-		</clipPath>
-		<radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(11.770713,0,0,-11.770713,212.77197,496.17237)" spreadMethod="pad" id="radialGradient8034">
-			<stop offset="0" id="stop8036" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.780899" id="stop8038" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="0.91138878" id="stop8040" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="1" id="stop8042" stop-opacity="1" stop-color="#d5d7d8"/>
-		</radialGradient>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath8008">
 			<path d="m 182.156,480.486 h 63.466 v 26.645 h -63.466 z" id="path8010"/>
 		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7990">
 			<path d="M 212.28595,513.06069 233.12052,495.5784 215.6383,474.74392 194.80373,492.22621 Z" id="path7992"/>
-		</clipPath>
-		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.790032,-12.410316,-12.410316,-14.790032,206.56914,500.11604)" spreadMethod="pad" id="linearGradient7994">
-			<stop offset="0" id="stop7996" stop-opacity="1" stop-color="#dfe0e1"/>
-			<stop offset="0.18205762" id="stop7998" stop-opacity="1" stop-color="#dfe0e1"/>
-			<stop offset="1" id="stop8000" stop-opacity="1" stop-color="#7a7f83"/>
-		</linearGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7944">
-			<path d="m 224.83294,504.77677 v -21.74675 h -21.746 v 21.74675 z" id="path7946"/>
-		</clipPath>
-		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-22.134757,-22.134757,0,213.95619,505.08753)" spreadMethod="pad" id="linearGradient7948">
-			<stop offset="0" id="stop7950" stop-opacity="1" stop-color="#e4ebef"/>
-			<stop offset="0.0969078" id="stop7952" stop-opacity="1" stop-color="#fffffb"/>
-			<stop offset="0.26767" id="stop7954" stop-opacity="1" stop-color="#fffffb"/>
-			<stop offset="0.3094559" id="stop7956" stop-opacity="1" stop-color="#fffffb"/>
-			<stop offset="0.516861" id="stop7958" stop-opacity="1" stop-color="#91999c"/>
-			<stop offset="0.52826696" id="stop7960" stop-opacity="1" stop-color="#91999c"/>
-			<stop offset="0.666672" id="stop7962" stop-opacity="1" stop-color="#afafb0"/>
-			<stop offset="0.76272531" id="stop7964" stop-opacity="1" stop-color="#cbd6d9"/>
-			<stop offset="0.797974" id="stop7966" stop-opacity="1" stop-color="#cbd6d9"/>
-			<stop offset="0.893554" id="stop7968" stop-opacity="1" stop-color="#ecedee"/>
-			<stop offset="0.959595" id="stop7970" stop-opacity="1" stop-color="#ecedee"/>
-			<stop offset="1" id="stop7972" stop-opacity="1" stop-color="#ecedee"/>
-		</linearGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7922">
-			<path d="m 182.156,480.486 h 63.466 v 26.645 h -63.466 z" id="path7924"/>
 		</clipPath>
 	</defs>
 	<g id="layer1" transform="translate(0,-52.362149)">

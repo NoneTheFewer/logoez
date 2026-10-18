@@ -1,14 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" sodipodi:docname="Microsoft Delve 2013.svg" viewBox="0 0 900 900">
-	<defs id="defs837">
-		<inkscape:path-effect lpeversion="1" is_visible="true" id="path-effect956" effect="spiro"/>
-		<inkscape:path-effect effect="spiro" id="path-effect950" is_visible="true" lpeversion="1"/>
-		<inkscape:path-effect lpeversion="1" is_visible="true" id="path-effect922" effect="spiro"/>
-		<inkscape:path-effect lpeversion="1" is_visible="true" id="path-effect908" effect="spiro"/>
-		<inkscape:path-effect lpeversion="1" is_visible="true" id="path-effect900" effect="spiro"/>
-	</defs>
-	<sodipodi:namedview inkscape:current-layer="g841" inkscape:window-maximized="1" inkscape:window-y="-9" inkscape:window-x="-9" inkscape:cy="432.16079" inkscape:cx="330.8387" inkscape:zoom="0.91" inkscape:pagecheckerboard="true" showgrid="false" id="namedview835" inkscape:window-height="1001" inkscape:window-width="1920" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff"/>
-	<g id="g841" inkscape:label="Image" inkscape:groupmode="layer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+	<g id="g841">
 		<path id="path960" d="M 291.68653,822.10993 C 162.34587,799.53925 56.150812,781.04931 55.697515,781.02115 55.244218,780.99301 54.873692,638.42877 54.874123,464.21174 L 54.874907,147.45349 290.31368,105.29697 C 419.80501,82.110876 527.11235,62.886975 528.77444,62.577186 l 3.02198,-0.563252 v 41.346156 41.34615 l 148.07692,0.0241 c 141.03327,0.023 148.28717,0.11965 152.49691,2.032 5.45007,2.47579 10.82098,7.73228 14.02905,13.73018 l 2.43008,4.54336 0.32274,296.15385 c 0.23442,215.1 -0.012,297.31104 -0.90043,300.382 -1.55086,5.36089 -9.09089,13.63233 -14.80692,16.24326 -4.18724,1.91262 -11.46687,2.00894 -153.57143,2.03193 l -149.17583,0.0241 v 41.75824 c 0,39.08288 -0.1232,41.75055 -1.92307,41.63822 -1.05769,-0.0661 -107.74725,-18.58694 -237.08791,-41.15761 z" style="fill:#107ad4;fill-opacity:1;stroke:none;stroke-width:0.797802"/>
 		<rect y="169.63098" x="531.67474" height="426.45615" width="107.14964" id="rect847" style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.750335"/>
 		<rect style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42178" id="rect847-3" width="107.14964" height="134.7527" x="531.72919" y="621.62256"/>

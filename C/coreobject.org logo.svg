@@ -12,9 +12,6 @@
 		<filter id="alpha" filterUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
 			<feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" id="feColorMatrix9939"/>
 		</filter>
-		<clipPath id="clipPath17144">
-			<rect x="0" y="0" width="540" height="39" id="rect17142"/>
-		</clipPath>
 	</defs>
 	<g id="layer1" transform="matrix(29.356072,0,0,29.356072,-137.1844,-5019.5589)">
 		<g id="use12988" clip-path="url(#clip364)" transform="matrix(0.35277778,0,0,0.35277778,0.583101,166.33101)">

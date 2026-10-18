@@ -17,9 +17,6 @@
 		<stop offset="1" stop-color="#0067b5"/>
 	</radialGradient>
 	<use fill="url(#SVGID_2_)" overflow="visible" xlink:href="#SVGID_4_"/>
-	<clipPath id="SVGID_3_">
-		<use overflow="visible" xlink:href="#SVGID_4_"/>
-	</clipPath>
 	<g>
 		<path fill="#33a0d9" d="M211.42 97.19c0 4.49-3.01 6.84-4.76 7.54 1.48.57 2.74 1.55 3.33 2.39.96 1.38 1.14 2.67 1.14 5.17v5.56h-6.83l-.03-3.56c0-1.68.17-4.15-1.09-5.5-1-1.01-2.48-1.22-4.93-1.22H191v10.27h-6.76v-28.3h15.58c3.43 0 6 .11 8.19 1.37 2.14 1.26 3.41 3.11 3.41 6.28z"/>
 		<path fill="#49afe1" d="M179.55 117.85h-22.62V89.54h22.62v5.92h-15.83v5.08h15.43v5.82l-15.43-.02V112h15.83z"/>

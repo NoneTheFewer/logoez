@@ -1,17 +1,11 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227.781 227.781" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227.781 227.781" xml:space="preserve">
 	<defs id="defs1">
-		<linearGradient id="swatch40">
-			<stop style="stop-color:#000;stop-opacity:1" id="stop40" offset="0"/>
-		</linearGradient>
 		<linearGradient id="linearGradient58">
 			<stop style="stop-color:#000;stop-opacity:1" id="stop59" offset=".032"/>
 			<stop style="stop-color:#c321e0;stop-opacity:1" id="stop1" offset=".315"/>
 			<stop style="stop-color:#553d8f;stop-opacity:1" id="stop62" offset=".341"/>
 			<stop style="stop-color:#311d2c;stop-opacity:1" id="stop60" offset=".753"/>
-		</linearGradient>
-		<linearGradient id="swatch58">
-			<stop style="stop-color:#6df4fc;stop-opacity:1" id="stop58" offset="0"/>
 		</linearGradient>
 		<filter style="color-interpolation-filters:sRGB" id="filter58" width="1.136" height="1.118" x="-.068" y="-.059">
 			<feGaussianBlur id="feGaussianBlur58" stdDeviation="3.003"/>
@@ -236,14 +230,7 @@
 		<filter style="color-interpolation-filters:sRGB" id="filter36" width="1.035" height="1.03" x="-.017" y="-.015">
 			<feGaussianBlur id="feGaussianBlur36" stdDeviation=".552"/>
 		</filter>
-		<clipPath id="clipPath39" clipPathUnits="userSpaceOnUse">
-			<g id="use39">
-				<ellipse style="display:inline;opacity:1;fill:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" id="ellipse39" cx="92.094" cy="118.706" rx="109.284" ry="90.382" transform="translate(92.800032,45.697005)"/>
-			</g>
-		</clipPath>
-		<clipPath id="clipPath45" clipPathUnits="userSpaceOnUse"/>
 	</defs>
-	<metadata id="metadata37"/>
 	<g id="g46" style="display:inline" clip-path="none" transform="matrix(1,0,0,-1,-86.109261,286.73022)">
 		<g id="layer4" style="display:inline" transform="translate(92.800035,45.697005)">
 			<rect style="opacity:1;fill:url(#radialGradient60);stroke:none;stroke-width:1.846;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="rect58" width="400" height="345.679" x="-92.8" y="-45.697"/>

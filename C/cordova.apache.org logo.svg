@@ -27,16 +27,6 @@
 			<stop style="stop-color:#e9e9e9;stop-opacity:1" offset="1" id="stop3448"/>
 		</linearGradient>
 		<linearGradient xlink:href="#linearGradient3444" id="linearGradient3450" x1="386.67145" y1="402.39362" x2="70.076378" y2="198.42131" gradientUnits="userSpaceOnUse" gradientTransform="translate(-14.849242,-10.606602)"/>
-		<filter id="filter4506">
-			<feGaussianBlur stdDeviation="2 2" result="blur" id="feGaussianBlur4508"/>
-		</filter>
-		<filter id="filter4548">
-			<feFlood flood-opacity="0.498039" flood-color="rgb(0,0,0)" result="flood" id="feFlood4550"/>
-			<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite4552"/>
-			<feGaussianBlur in="composite1" stdDeviation="3" result="blur" id="feGaussianBlur4554"/>
-			<feOffset dx="6" dy="6" result="offset" id="feOffset4556"/>
-			<feComposite in="SourceGraphic" in2="offset" operator="over" result="composite2" id="feComposite4558"/>
-		</filter>
 		<filter id="filter4539" x="-0.2009301" width="1.4018602" y="-0.053703274" height="1.1074065">
 			<feGaussianBlur stdDeviation="1.1101047" id="feGaussianBlur4541"/>
 		</filter>

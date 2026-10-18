@@ -1,21 +1,12 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1874.88 468.749983">
 	<defs>
-		<filter x="0%" y="0%" width="100%" height="100%" id="accd385eca">
-			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" color-interpolation-filters="sRGB"/>
-		</filter>
-		<filter x="0%" y="0%" width="100%" height="100%" id="d1754ef0b2">
-			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.2126 0.7152 0.0722 0 0" color-interpolation-filters="sRGB"/>
-		</filter>
 		<g/>
 		<clipPath id="36955886f9" name="ai.">
 			<rect x="0" width="225" y="0" height="230"/>
 		</clipPath>
 		<clipPath id="e492f960c8" name="flame1">
 			<path d="M 254 25.671875 L 496 25.671875 L 496 388.476562 L 254 388.476562 Z M 254 25.671875 " clip-rule="nonzero"/>
-		</clipPath>
-		<clipPath id="f8078f8e9e" name="a2">
-			<path d="M 1351 75.414062 L 1475.949219 75.414062 L 1475.949219 246 L 1351 246 Z M 1351 75.414062 " clip-rule="nonzero"/>
 		</clipPath>
 	</defs>
 	<g transform="matrix(1, 0, 0, 1, 1305, 47)">

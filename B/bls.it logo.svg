@@ -1,12 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" viewBox="0 0 2100 299.999988" preserveAspectRatio="xMidYMid meet">
 	<defs>
-		<filter x="0%" y="0%" width="100%" height="100%" id="id1">
-			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" color-interpolation-filters="sRGB"/>
-		</filter>
-		<filter x="0%" y="0%" width="100%" height="100%" id="id2">
-			<feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.2126 0.7152 0.0722 0 0" color-interpolation-filters="sRGB"/>
-		</filter>
 		<g/>
 	</defs>
 	<g>

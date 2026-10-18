@@ -38,37 +38,6 @@
 			<stop id="stop6120" style="stop-color:#1f86d9;stop-opacity:1" offset="0.5"/>
 			<stop id="stop6089" style="stop-color:#2681da;stop-opacity:1" offset="1"/>
 		</linearGradient>
-		<radialGradient cx="400" cy="204.06569" r="184.54076" fx="400" fy="204.06569" id="radialGradient6118" xlink:href="#linearGradient6085" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1108658,2.4297618e-8,-2.4297614e-8,1.1108657,-44.346319,-21.689587)"/>
-		<radialGradient cx="396.5" cy="207.5" r="207.5" fx="396.5" fy="207.5" id="radialGradient6263" xlink:href="#linearGradient6257" gradientUnits="userSpaceOnUse"/>
-		<radialGradient cx="407.5" cy="207.5" r="212.5" fx="407.5" fy="207.5" id="radialGradient6273" xlink:href="#linearGradient6267" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.97647059,0,4.8823529)"/>
-		<linearGradient x1="161.33578" y1="88.741539" x2="161.33578" y2="325.04599" id="linearGradient6290" xlink:href="#linearGradient6284" gradientUnits="userSpaceOnUse"/>
-		<linearGradient x1="94.145531" y1="112.00981" x2="94.145531" y2="305.25006" id="linearGradient6304" xlink:href="#linearGradient6298" gradientUnits="userSpaceOnUse"/>
-		<linearGradient x1="39.178356" y1="135.89064" x2="39.178356" y2="280.00003" id="linearGradient6318" xlink:href="#linearGradient6312" gradientUnits="userSpaceOnUse"/>
-		<linearGradient x1="161.33578" y1="88.741539" x2="161.33578" y2="325.04599" id="linearGradient6290-6" xlink:href="#linearGradient6284-0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,792,9.5e-7)"/>
-		<linearGradient id="linearGradient6284-0">
-			<stop id="stop6286-6" style="stop-color:#4a9eda;stop-opacity:1" offset="0"/>
-			<stop id="stop6294-9" style="stop-color:#6ab8ef;stop-opacity:1" offset="0.25"/>
-			<stop id="stop6292-8" style="stop-color:#7ec9fd;stop-opacity:1" offset="0.5"/>
-			<stop id="stop6296-4" style="stop-color:#6ab8ef;stop-opacity:1" offset="0.75"/>
-			<stop id="stop6288-9" style="stop-color:#4a9eda;stop-opacity:1" offset="1"/>
-		</linearGradient>
-		<linearGradient x1="94.145531" y1="112.00981" x2="94.145531" y2="305.25006" id="linearGradient6304-4" xlink:href="#linearGradient6298-4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,792,9.5e-7)"/>
-		<linearGradient id="linearGradient6298-4">
-			<stop id="stop6300-7" style="stop-color:#7fc2f3;stop-opacity:1" offset="0"/>
-			<stop id="stop6308-5" style="stop-color:#98d0fa;stop-opacity:1" offset="0.25"/>
-			<stop id="stop6306-4" style="stop-color:#aadbff;stop-opacity:1" offset="0.5"/>
-			<stop id="stop6310-4" style="stop-color:#98d0fa;stop-opacity:1" offset="0.75"/>
-			<stop id="stop6302-9" style="stop-color:#7fc2f3;stop-opacity:1" offset="1"/>
-		</linearGradient>
-		<linearGradient x1="39.178356" y1="135.89064" x2="39.178356" y2="280.00003" id="linearGradient6318-7" xlink:href="#linearGradient6312-9" gradientUnits="userSpaceOnUse"/>
-		<linearGradient id="linearGradient6312-9">
-			<stop id="stop6314-2" style="stop-color:#afddff;stop-opacity:1" offset="0"/>
-			<stop id="stop6324-7" style="stop-color:#bfe4ff;stop-opacity:1" offset="0.25"/>
-			<stop id="stop6320-4" style="stop-color:#cae8ff;stop-opacity:1" offset="0.5"/>
-			<stop id="stop6322-6" style="stop-color:#bfe4ff;stop-opacity:1" offset="0.75"/>
-			<stop id="stop6316-9" style="stop-color:#afddff;stop-opacity:1" offset="1"/>
-		</linearGradient>
-		<linearGradient x1="39.178356" y1="135.89064" x2="39.178356" y2="280.00003" id="linearGradient6360" xlink:href="#linearGradient6312-9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,792,9.5e-7)"/>
 		<linearGradient x1="39.178356" y1="135.89064" x2="39.178356" y2="280.00003" id="linearGradient6841" xlink:href="#linearGradient6312" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="94.145531" y1="112.00981" x2="94.145531" y2="305.25006" id="linearGradient6843" xlink:href="#linearGradient6298" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="161.33578" y1="88.741539" x2="161.33578" y2="325.04599" id="linearGradient6845" xlink:href="#linearGradient6284" gradientUnits="userSpaceOnUse"/>

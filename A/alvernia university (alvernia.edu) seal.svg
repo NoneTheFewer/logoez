@@ -72,10 +72,6 @@
             fill-rule: nonzero
         }
         </style>
-		<linearGradient id="linearGradient3712">
-			<stop offset="0" style="stop-color:#ecb8ab;stop-opacity:1" id="stop3714"/>
-			<stop offset="1" style="stop-color:#efdad4;stop-opacity:1" id="stop3716"/>
-		</linearGradient>
 		<style id="style3496" type="text/css"/>
 		<style id="style2529" type="text/css"/>
 		<style id="style6-5" type="text/css"/>
@@ -112,7 +108,7 @@
 		<path style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.22344850999999990;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" d="m 346.40796,499.14786 c 0,83.60943 -67.77883,151.38828 -151.38828,151.38828 -83.60943,0 -151.388268,-67.77885 -151.388268,-151.38828 0,-83.60942 67.778838,-151.38827 151.388268,-151.38827 83.60945,0 151.38828,67.77885 151.38828,151.38827 z" id="path3007-1"/>
 		<path style="fill:#23487f;fill-opacity:0.52352941;fill-rule:nonzero;stroke:#000000;stroke-width:2.22247409999999990;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" d="m 341.40844,499.14787 c 0,80.84827 -65.54048,146.38876 -146.38877,146.38876 -80.84829,0 -146.388746,-65.54049 -146.388746,-146.38876 0,-80.84829 65.540456,-146.38877 146.388746,-146.38877 80.84829,0 146.38877,65.54048 146.38877,146.38877 z" id="path3007-1-7"/>
 		<g style="fill-rule:evenodd" transform="matrix(0.77947544,0,0,0.77781789,-18.114176,50.370955)" id="g2604">
-			<g id="layer6-2" >
+			<g id="layer6-2">
 				<g id="_143372240" transform="matrix(4.5457585,0,0,4.5554456,-141.82447,116.2829)">
 					<g id="g5959" style="fill:#ffffff;stroke:#000000;stroke-width:1.50312603;stroke-miterlimit:4;stroke-dasharray:none" transform="matrix(0.37551372,0,0,0.37551372,53.798942,42.206757)">
 						<path d="M 22.2028,220.572 C 12.7903,213.9784 6.3912,197.3054 0,186.8356 l 15.8244,3.576 3.5235,-14.1676 c 4.5037,13.1553 8.6989,24.8743 17.5623,31.3535 L 22.2028,220.572 z" class="fil1 str0" id="_142189608" style="fill:#ffffff;stroke:#000000;stroke-width:1.50312603;stroke-miterlimit:4;stroke-dasharray:none"/>

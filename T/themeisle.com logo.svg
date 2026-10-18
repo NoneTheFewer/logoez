@@ -477,11 +477,6 @@
 			<stop offset="0.5" stop-color="#f01930"/>
 			<stop offset="1" stop-color="#cb0d42"/>
 		</linearGradient>
-		<linearGradient id="nose" gradientTransform="rotate(-45) translate(-.5 0)">
-			<stop offset="0" stop-color="#FFF"/>
-			<stop offset="0.5" stop-color="#FFF"/>
-			<stop offset="1" stop-color="#ff868a"/>
-		</linearGradient>
 		<clipPath id="nasal">
 			<path fill-rule="evenodd" clip-rule="evenodd" d="M43.126 33.5403C43.126 33.5403 45.2798 32.0235 46.4692 32.6212C47.473 33.1257 47.7949 35.7169 47.7949 35.7169C47.7949 35.7169 46.2871 36.2162 45.6725 35.8932C45.0579 35.5702 43.3822 35.3355 43.126 33.5403"/>
 		</clipPath>
