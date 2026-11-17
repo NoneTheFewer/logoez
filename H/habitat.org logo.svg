@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 205 70" sodipodi:version="0.32" inkscape:version="0.44" sodipodi:docbase="C:\" sodipodi:docname="habitat for humanity.svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205 70">
 	<defs id="defs10390">
 		<clipPath clip-rule="nonzero" id="clp5">
 			<path id="path39" d="M 0,81.647 L 0,0 L 243.64,0 L 243.64,81.647"/>
@@ -8,22 +8,15 @@
 			<path id="path26" d="M -77.29,-36.553 L -77.29,18.404 L 86.705,18.404 L 86.705,-36.553 L -77.29,-36.553 z "/>
 		</clipPath>
 	</defs>
-	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.8" inkscape:cx="116.99544" inkscape:cy="21.467017" inkscape:document-units="px" inkscape:current-layer="layer1" width="205px" height="70px" inkscape:window-width="853" inkscape:window-height="573" inkscape:window-x="0" inkscape:window-y="0"/>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-166.0189,-427.524)">
+	<g id="layer1" transform="translate(-166.0189,-427.524)">
 		<g class="ps00" id="q6" style="fill:none;stroke:none" transform="matrix(1.215841,0,0,-1.215841,103.3259,1321.104)">
 			<g transform="matrix(1,0,0,-1,131.3203,696.9271)" id="xfrm7">
-				<clipPath clip-rule="nonzero" id="clipPath10402">
-					<path id="path10404" d="M -77.29,-36.553 L -77.29,18.404 L 86.705,18.404 L 86.705,-36.553 L -77.29,-36.553 z "/>
-				</clipPath>
 				<g id="g28" clip-path="url(#clp4)">
 					<g transform="matrix(0.6731,0,0,-0.6731,-77.28986,18.40364)" id="xfrm8">
 						<path id="path31" class="ps01" d="M 30.406,46.827 C 30.231,49.231 32.039,51.324 34.445,51.499 C 36.852,51.673 38.944,49.864 39.119,47.457 C 39.294,45.051 37.484,42.96 35.078,42.785 C 32.673,42.612 30.581,44.418 30.406,46.827" style="fill:#314d89;fill-rule:nonzero;stroke:none"/>
 						<path id="path33" class="ps01" d="M 81.672,46.827 C 81.847,49.231 80.037,51.324 77.632,51.499 C 75.224,51.673 73.133,49.864 72.959,47.457 C 72.784,45.051 74.594,42.96 76.998,42.785 C 79.404,42.612 81.498,44.418 81.672,46.827" style="fill:#314d89;fill-rule:nonzero;stroke:none"/>
 						<path id="path35" class="ps01" d="M 96.063,39.977 C 95.55,41.872 92.935,42.16 90.629,41.56 C 88.809,41.085 82.476,39.328 76.854,39.736 C 72.814,40.028 68.865,43.389 66.408,45.689 C 68.849,48.503 71.998,51.522 72.72,52.368 C 73.764,53.585 73.937,55.497 73.068,56.366 C 72.2,57.234 70.635,56.71 69.07,55.668 C 67.509,54.626 61.599,48.676 55.962,48.676 C 50.327,48.676 44.224,54.626 42.659,55.668 C 41.095,56.71 38.834,56.537 37.965,55.668 C 37.097,54.799 37.967,53.585 39.011,52.368 C 39.75,51.504 43.017,48.373 45.477,45.509 C 43.009,43.218 39.159,40.02 35.224,39.736 C 29.602,39.328 23.268,41.085 21.449,41.56 C 19.143,42.16 16.528,41.872 16.014,39.977 C 15.692,38.793 16.697,37.489 18.047,36.608 C 19.39,35.732 26.355,34.378 28.314,31.382 C 30.272,28.388 30.571,5.2197 32.396,4.4433 C 33.726,3.875 36.046,3.875 37.306,4.5166 C 39.074,5.4131 42.056,30.69 43.561,33.937 C 44.394,35.729 46.49,38.409 48.36,40.668 C 49.971,33.118 51.733,4.9951 53.431,4.4072 C 54.715,3.9638 57.271,3.9638 58.298,4.4072 C 59.973,5.1318 61.806,33.996 63.443,40.999 C 65.378,38.676 67.643,35.818 68.517,33.937 C 70.022,30.69 73.003,5.4131 74.77,4.5166 C 76.032,3.875 78.35,3.875 79.682,4.4433 C 81.504,5.2197 81.803,28.388 83.763,31.382 C 85.723,34.378 92.687,35.732 94.03,36.608 C 95.38,37.489 96.384,38.793 96.063,39.977" style="fill:#314d89;fill-rule:nonzero;stroke:none"/>
 						<g class="ps01" id="q9" style="fill:#314d89;fill-rule:nonzero;stroke:none">
-							<clipPath clip-rule="nonzero" id="clipPath10412">
-								<path id="path10414" d="M 0,81.647 L 0,0 L 243.64,0 L 243.64,81.647"/>
-							</clipPath>
 							<g id="g41" clip-path="url(#clp5)">
 								<path id="path43" class="ps01" d="M 51.67,56.097 C 51.67,58.511 53.626,60.464 56.04,60.464 C 58.449,60.464 60.407,58.511 60.407,56.097 C 60.407,53.685 58.449,51.729 56.04,51.729 C 53.626,51.729 51.67,53.685 51.67,56.097" style="fill:#314d89;fill-rule:nonzero;stroke:none"/>
 								<path id="path45" class="ps02" d="M 96.935,55.789 C 99.058,52.42 94.612,51.156 91.217,51.932 C 88.373,52.58 60.483,67.493 56.301,67.877 C 52.133,68.257 27.045,52.833 24.28,51.353 C 20.218,49.181 16.63,49.388 12.879,51.333 C 11.641,51.979 2.0845,57.023 0,58.431 C 2.0845,60.378 31.09,77.793 34.467,79.485 C 38.351,81.434 40.666,82.456 44.936,80.861 C 47.897,79.752 96.055,57.182 96.935,55.789" style="fill:#6db340;fill-rule:nonzero;stroke:none"/>

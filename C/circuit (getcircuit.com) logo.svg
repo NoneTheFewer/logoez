@@ -43,14 +43,6 @@
 			<stop stop-color="#FAFBFF"/>
 			<stop offset="1" stop-color="#E7ECF4"/>
 		</linearGradient>
-		<linearGradient id="linear-gradient-from-circuitBlue-500-to-circuitBlue-600" x1="23.2514" y1="8.65082" x2="23.2514" y2="32.5603" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#286FF5"/>
-			<stop offset="1" stop-color="#0A51D8"/>
-		</linearGradient>
-		<linearGradient id="linear-gradient-from-circuitBlue-400-to-circuitBlue-500" x1="23.2514" y1="8.65082" x2="23.2514" y2="32.5603" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#4C87F7"/>
-			<stop offset="1" stop-color="#286FF5"/>
-		</linearGradient>
 		<linearGradient id="paint2_linear_315_21947" x1="23.2514" y1="2" x2="23.2514" y2="39.2111" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#E7ECF4" stop-opacity="0.81"/>
 			<stop offset="1" stop-color="#B7C2D6" stop-opacity="0.63"/>

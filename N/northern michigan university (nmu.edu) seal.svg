@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 202 202" enable-background="new 0 0 202 202" xml:space="preserve" inkscape:version="0.48.1 " sodipodi:docname="Northern-Michigan-University-Seal.svg">
-	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1680" inkscape:window-height="994" id="namedview380" showgrid="false" inkscape:zoom="3.6825561" inkscape:cx="101" inkscape:cy="101" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 202 202" enable-background="new 0 0 202 202" xml:space="preserve">
 	<pattern x="-206" y="497" width="69" height="69" patternUnits="userSpaceOnUse" id="Polka_Dot_Pattern" viewBox="2.125 -70.896 69 69" overflow="visible">
 		<g id="g4">
 			<polygon fill="none" points="71.125,-1.896 2.125,-1.896 2.125,-70.896 71.125,-70.896   " id="polygon6"/>
@@ -132,7 +131,7 @@
 			</g>
 		</g>
 	</pattern>
-	<path sodipodi:type="arc" style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.10000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3361" sodipodi:cx="100.88101" sodipodi:cy="100.84743" sodipodi:rx="99.794815" sodipodi:ry="99.794815" d="m 200.67583,100.84743 a 99.794815,99.794815 0 1 1 -199.5896331,0 99.794815,99.794815 0 1 1 199.5896331,0 z"/>
+	<path style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.10000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3361" d="m 200.67583,100.84743 a 99.794815,99.794815 0 1 1 -199.5896331,0 99.794815,99.794815 0 1 1 199.5896331,0 z"/>
 	<path fill="none" stroke="#000000" stroke-width="1.5" d="M100.584,157.609c31.296,0,56.667-25.371,56.667-56.667  c0-31.295-25.371-56.666-56.667-56.666c-31.295,0-56.666,25.371-56.666,56.666C43.918,132.238,69.289,157.609,100.584,157.609z   M100.582,154.021c29.314,0,53.079-23.765,53.079-53.079s-23.765-53.079-53.079-53.079s-53.078,23.765-53.078,53.079  S71.268,154.021,100.582,154.021z" id="path236"/>
 	<g id="g238">
 		<defs id="defs240">

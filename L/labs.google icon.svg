@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="B2mpXe" viewBox="0 0 1206 1206" fill="none" sodipodi:docname="labs2.svg" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)">
-	<sodipodi:namedview id="namedview657" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="0.68988391" inkscape:cx="602.27524" inkscape:cy="603.72476" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg655"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="B2mpXe" viewBox="0 0 1206 1206" fill="none">
 	<mask id="mask0-8252-308465" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="285" y="346" width="627" height="638" fill="none">
 		<path d="M901.663 877.104L704.624 535.735V416.875H739.999C759.455 416.875 775.374 400.956 775.374 381.5C775.374 362.044 759.455 346.125 739.999 346.125H704.624H492.374H456.999C437.543 346.125 421.624 362.044 421.624 381.5C421.624 400.956 437.543 416.875 456.999 416.875H492.374V535.735L295.335 877.104C268.096 924.153 302.056 983.229 356.534 983.229H840.464C894.941 983.229 928.901 924.153 901.663 877.104Z" fill="#A2DCFF" id="path345"/>
 	</mask>
@@ -185,41 +184,6 @@
 			<stop stop-color="white" stop-opacity="0" id="stop590"/>
 			<stop offset="0.596645" stop-color="white" id="stop592"/>
 			<stop offset="1" stop-color="white" stop-opacity="0" id="stop594"/>
-		</linearGradient>
-		<linearGradient id="linearGradient603" x1="522.546" y1="365.108" x2="522.885" y2="345.652" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop597"/>
-			<stop offset="0.596645" stop-color="white" id="stop599"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop601"/>
-		</linearGradient>
-		<linearGradient id="linearGradient611" x1="534.844" y1="361.574" x2="535.183" y2="342.119" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop605"/>
-			<stop offset="0.596645" stop-color="white" id="stop607"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop609"/>
-		</linearGradient>
-		<linearGradient id="linearGradient619" x1="517.177" y1="361.574" x2="517.517" y2="342.119" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop613"/>
-			<stop offset="0.596645" stop-color="white" id="stop615"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop617"/>
-		</linearGradient>
-		<linearGradient id="linearGradient627" x1="728.621" y1="426.012" x2="728.704" y2="414.283" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop621"/>
-			<stop offset="0.596645" stop-color="white" id="stop623"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop625"/>
-		</linearGradient>
-		<linearGradient id="linearGradient635" x1="711.586" y1="426.831" x2="711.485" y2="415.102" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop629"/>
-			<stop offset="0.596645" stop-color="white" id="stop631"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop633"/>
-		</linearGradient>
-		<linearGradient id="linearGradient643" x1="756.902" y1="419.711" x2="756.985" y2="407.982" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop637"/>
-			<stop offset="0.596645" stop-color="white" id="stop639"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop641"/>
-		</linearGradient>
-		<linearGradient id="linearGradient651" x1="499.974" y1="423.317" x2="499.942" y2="413.623" gradientUnits="userSpaceOnUse">
-			<stop stop-color="white" stop-opacity="0" id="stop645"/>
-			<stop offset="0.596645" stop-color="white" id="stop647"/>
-			<stop offset="1" stop-color="white" stop-opacity="0" id="stop649"/>
 		</linearGradient>
 	</defs>
 </svg>

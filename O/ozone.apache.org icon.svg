@@ -4,12 +4,6 @@
 		<clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
 			<path id="path16" d="M 0,768 H 1366 V 0 H 0 Z"/>
 		</clipPath>
-		<clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
-			<path id="path24" d="M 462,595 H 849 V 208 H 462 Z"/>
-		</clipPath>
-		<clipPath id="clipPath30" clipPathUnits="userSpaceOnUse">
-			<path id="path28" d="M 462,595 H 849 V 208 H 462 Z"/>
-		</clipPath>
 		<radialGradient id="radialGradient80" spreadMethod="pad" gradientTransform="matrix(186.90102,0,0,-186.90102,653.82983,403.599)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
 			<stop id="stop74" offset="0" style="stop-opacity:1;stop-color:#474747"/>
 			<stop id="stop76" offset="0.70784068" style="stop-opacity:1;stop-color:#474747"/>
@@ -17,12 +11,6 @@
 		</radialGradient>
 		<clipPath id="clipPath90" clipPathUnits="userSpaceOnUse">
 			<path id="path88" d="M 0,768 H 1366 V 0 H 0 Z"/>
-		</clipPath>
-		<clipPath id="clipPath106" clipPathUnits="userSpaceOnUse">
-			<path id="path104" d="M 477,542 H 879 V 137 H 477 Z"/>
-		</clipPath>
-		<clipPath id="clipPath110" clipPathUnits="userSpaceOnUse">
-			<path id="path108" d="M 477,542 H 879 V 137 H 477 Z"/>
 		</clipPath>
 		<radialGradient id="radialGradient160" spreadMethod="pad" gradientTransform="matrix(175.80135,0,0,-175.80135,673.29694,352.89127)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
 			<stop id="stop154" offset="0" style="stop-opacity:1;stop-color:#9cc460"/>

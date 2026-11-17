@@ -83,20 +83,6 @@
 			<stop offset=".92" stop-color="#32336d"/>
 			<stop offset="1" stop-color="#292b66"/>
 		</linearGradient>
-		<linearGradient id="linear-gradient-8" x1="453.67" y1="1274.72" x2="455.84" y2="1274.72" gradientTransform="translate(-999.26 5873.23) scale(4.55 -4.55)" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#292b66"/>
-			<stop offset=".08" stop-color="#2e2f6a"/>
-			<stop offset=".18" stop-color="#3d3c76"/>
-			<stop offset=".29" stop-color="#56518b"/>
-			<stop offset=".4" stop-color="#796ea7"/>
-			<stop offset=".5" stop-color="#9c8cc3"/>
-			<stop offset=".52" stop-color="#9586be"/>
-			<stop offset=".62" stop-color="#6f669e"/>
-			<stop offset=".72" stop-color="#504c86"/>
-			<stop offset=".82" stop-color="#3a3a74"/>
-			<stop offset=".91" stop-color="#2d2f6a"/>
-			<stop offset="1" stop-color="#292b66"/>
-		</linearGradient>
 		<clipPath id="clippath-8">
 			<path d="M 1099.74,66.47 C 1099.74,66.47 1105.14,67.28 1105.14,72.56 C 1105.14,77.42 1101.39,78.86 1101.39,78.86 C 1103.37,79.36 1105.46,79.32 1107.42,78.74 C 1109.04,78.23 1110.27,75.74 1110.27,72.92 C 1110.27,71.36 1109.46,68.63 1107.99,67.4 C 1106.73,66.44 1105.19,65.92 1103.61,65.93 C 1100.67,65.9 1099.74,66.47 1099.74,66.47" style="fill:none; stroke-width:0px;"/>
 		</clipPath>

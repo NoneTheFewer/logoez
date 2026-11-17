@@ -10,33 +10,10 @@
 			<stop id="stop4121" offset="0.5" stop-color="#d2403e" stop-opacity="1"/>
 			<stop id="stop4123" offset="1" stop-color="#bb001a" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient7157">
-			<stop id="stop7161" offset="0" stop-color="#fb8c01" stop-opacity="1"/>
-			<stop id="stop7169" offset="1" stop-color="#e35202" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient2489-0">
-			<stop id="stop2491-8" offset="0" stop-color="#cf2027" stop-opacity="1"/>
-			<stop id="stop3267-9" offset="0.49652803" stop-color="#eb1d2b" stop-opacity="1"/>
-			<stop id="stop2493-2" offset="1" stop-color="#f16276" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient2489">
-			<stop id="stop2491" offset="0" stop-color="#cf2027" stop-opacity="1"/>
-			<stop id="stop3267" offset="0.49652803" stop-color="#eb1d2b" stop-opacity="1"/>
-			<stop id="stop2493" offset="1" stop-color="#f16276" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient7157-9">
-			<stop id="stop7161-4" offset="0" stop-color="#fb8c01" stop-opacity="1"/>
-			<stop id="stop7169-8" offset="1" stop-color="#e35202" stop-opacity="1"/>
-		</linearGradient>
 		<linearGradient id="linearGradient3940">
 			<stop id="stop3942" offset="0" stop-color="#e7530e" stop-opacity="1"/>
 			<stop id="stop3948" offset="0.5" stop-color="#ce3532" stop-opacity="1"/>
 			<stop id="stop3944" offset="1" stop-color="#af0010" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient3940-0">
-			<stop id="stop3942-4" offset="0" stop-color="#e7530e" stop-opacity="1"/>
-			<stop id="stop3948-9" offset="0.5" stop-color="#ce3532" stop-opacity="1"/>
-			<stop id="stop3944-4" offset="1" stop-color="#af0010" stop-opacity="1"/>
 		</linearGradient>
 		<filter color-interpolation-filters="sRGB" id="filter4952">
 			<feFlood result="flood" flood-color="rgb(0,0,0)" flood-opacity="0.32934131736526945" id="feFlood4954"/>
@@ -48,11 +25,6 @@
 		<linearGradient x1="351.06586" y1="-56.726616" x2="416.31168" y2="126.71001" id="linearGradient3135" xlink:href="#linearGradient3940" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="353.10678" y1="-6.2367754" x2="416.31168" y2="126.71001" id="linearGradient3137" xlink:href="#linearGradient3940" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="351.06586" y1="-56.726616" x2="416.31168" y2="126.71001" id="linearGradient3159" xlink:href="#linearGradient4117" gradientUnits="userSpaceOnUse"/>
-		<linearGradient id="linearGradient4117-1">
-			<stop id="stop4119-9" offset="0" stop-color="#e9661b" stop-opacity="1"/>
-			<stop id="stop4121-8" offset="0.5" stop-color="#d2403e" stop-opacity="1"/>
-			<stop id="stop4123-65" offset="1" stop-color="#bb001a" stop-opacity="1"/>
-		</linearGradient>
 		<filter color-interpolation-filters="sRGB" id="filter4952-0">
 			<feFlood result="flood" flood-color="rgb(0,0,0)" flood-opacity="0.32934131736526945" id="feFlood4954-2"/>
 			<feComposite in2="SourceGraphic" operator="in" in="flood" result="composite1" id="feComposite4956-8"/>

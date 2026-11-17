@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 366.427 95.270503">
 	<defs id="defs4">
-		<clipPath id="clipPath4152" clipPathUnits="userSpaceOnUse">
-			<path id="path4154" d="M 0,612 396,612 396,0 0,0 0,612 Z"/>
-		</clipPath>
-		<clipPath id="clipPath4160" clipPathUnits="userSpaceOnUse">
-			<path id="path4162" d="m -18,-18 432,0 0,227.52 -432,0 0,-227.52 z"/>
-		</clipPath>
-		<clipPath id="clipPath4174" clipPathUnits="userSpaceOnUse">
-			<path id="path4176" d="m -18,366.96 432,0 0,263.04 -432,0 0,-263.04 z"/>
-		</clipPath>
 		<clipPath id="clipPath4190" clipPathUnits="userSpaceOnUse">
 			<path id="path4192" d="m -25.3,389.16 447.12,0 0,-131.401 -447.12,0 0,131.401 z"/>
 		</clipPath>
@@ -21,9 +12,6 @@
 				</g>
 			</g>
 		</mask>
-		<clipPath id="clipPath4210" clipPathUnits="userSpaceOnUse">
-			<path id="path4212" d="m -23.5,387.359 443.16,0 0,-127.44 -443.16,0 0,127.44 z"/>
-		</clipPath>
 	</defs>
 	<g id="layer1" transform="translate(-222.26786,-337.99107)">
 		<g transform="matrix(1.25,0,0,-1.25,195.35714,646.29078)" id="g4144">

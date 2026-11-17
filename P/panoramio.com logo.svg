@@ -6,19 +6,11 @@
 			<stop offset="0" id="stop4" stop-color="#ffffff"/>
 			<stop offset="1" id="stop6" stop-color="#c6c8c9"/>
 		</radialGradient>
-		<radialGradient id="radialGradient41" cx="265" cy="449.89001" r="41.251202" fx="265" fy="449.89001" gradientUnits="userSpaceOnUse">
-			<stop offset="0" id="stop37" stop-color="#ffffff"/>
-			<stop offset="1" id="stop39" stop-color="#c6c8c9"/>
-		</radialGradient>
 	</defs>
 	<g id="g23" transform="matrix(0.22881026,0,0,0.2246175,-20.106861,-90.959394)">
 		<g id="g19">
 			<path d="m 262.224,484.266 c 19.872,0 36.072,-16.2 36.072,-36.144 0,-19.8 -16.2,-36 -36.072,-36 -19.872,0 -36.144,16.2 -36.144,36 0,19.944 16.272,36.144 36.144,36.144 z" id="path2" fill="#25549d" stroke="none"/>
 			<defs id="defs9">
-				<radialGradient id="radialGradient52" cx="265" cy="449.89001" r="41.251202" fx="265" fy="449.89001" gradientUnits="userSpaceOnUse">
-					<stop offset="0" id="stop48" stop-color="#ffffff"/>
-					<stop offset="1" id="stop50" stop-color="#c6c8c9"/>
-				</radialGradient>
 			</defs>
 			<path d="m 262.224,475.05 c 14.832,0 26.928,-12.096 26.928,-26.928 0,-14.76 -12.096,-26.856 -26.928,-26.856 -14.832,0 -26.928,12.096 -26.928,26.856 0,14.832 12.096,26.928 26.928,26.928 z" id="path11" fill="url(#1)" stroke="none"/>
 			<path d="m 257.976,442.722 9.504,-18.936 v 20.448 l 18.792,9.864 h -20.088 l -9.72,18.504 V 452.37 l -18.288,-9.648 z" id="path13" fill="#25549d" stroke="none"/>

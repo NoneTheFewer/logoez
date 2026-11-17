@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" focusable="false">
+	<defs>
+		<linearGradient id="gemg" x1="2" y1="3" x2="29" y2="29" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7b3fe4"/>
+			<stop offset=".55" stop-color="#b06ef0"/>
+			<stop offset="1" stop-color="#0ea5a4"/>
+		</linearGradient>
+	</defs>
+	<path d="M6 4 H26 L29 12 L16 29 L3 12 Z" fill="url(#gemg)"/>
+	<g stroke="#fff" stroke-opacity=".6" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round">
+		<path d="M3 12 H29"/>
+		<path d="M11 12 H21"/>
+		<path d="M6 4 L11 12 L16 29"/>
+		<path d="M26 4 L21 12 L16 29"/>
+	</g>
+</svg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 128 128">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
 	<defs id="defs4">
 		<linearGradient id="WhiteTransparent" gradientUnits="userSpaceOnUse">
 			<stop id="stop7" style="stop-color:#ffffff;stop-opacity:1" offset="0"/>
@@ -11,13 +11,13 @@
 			<stop id="stop5789" style="stop-color:#07092d;stop-opacity:0.28804347" offset="1"/>
 		</linearGradient>
 		<filter id="filter8490" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur8492" stdDeviation="2.4163949" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur8492" stdDeviation="2.4163949"/>
 		</filter>
 		<filter id="filter6017-3" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur6019-9" stdDeviation="0.80546496" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur6019-9" stdDeviation="0.80546496"/>
 		</filter>
 		<filter id="filter6031-0" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur6033-8" stdDeviation="3.4903482" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur6033-8" stdDeviation="3.4903482"/>
 		</filter>
 		<linearGradient x1="82.118591" y1="20" x2="60" y2="40" id="linearGradient9175-3" xlink:href="#linearGradient5785-8" gradientUnits="userSpaceOnUse"/>
 		<linearGradient id="linearGradient5785-8" gradientUnits="userSpaceOnUse">
@@ -28,7 +28,7 @@
 			<use transform="translate(1.0095461e-6,0)" id="use9088-0" style="opacity:0.25;fill:#ffffff;fill-opacity:1" x="0" y="0" width="400" height="300" xlink:href="#outline1"/>
 		</clipPath>
 		<filter id="filter8490-0" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur8492-5" stdDeviation="2.4163949" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur8492-5" stdDeviation="2.4163949"/>
 		</filter>
 		<linearGradient x1="33" y1="35" x2="58" y2="60" id="shinySpecular-0" xlink:href="#WhiteTransparent-3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.009184,0,0,1.009184,-0.3890738,-0.3831933)"/>
 		<linearGradient id="WhiteTransparent-3" gradientUnits="userSpaceOnUse">
@@ -43,7 +43,7 @@
 		</linearGradient>
 		<radialGradient cx="132.44434" cy="251.99396" r="30.599579" fx="132.44434" fy="251.99396" id="radialGradient8574-0" xlink:href="#linearGradient8568-7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.0032532,0,0,1.340898,-132.8752,-95.166065)"/>
 		<filter height="1.2284414" y="-0.11422065" width="1.1561583" x="-0.078079157" id="filter8732-3" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur8734-5" stdDeviation="1.9579068" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur8734-5" stdDeviation="1.9579068"/>
 		</filter>
 		<radialGradient cx="210.25" cy="168.5" r="34.25" fx="210.25" fy="168.5" id="radialGradient8744-9" xlink:href="#linearGradient8738-4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.4233577,0,97.164234)"/>
 		<linearGradient id="linearGradient8738-4">
@@ -52,7 +52,7 @@
 		</linearGradient>
 		<radialGradient cx="217.5" cy="182.08189" r="34.25" fx="217.5" fy="182.08189" id="radialGradient8768-6" xlink:href="#linearGradient8738-4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.4233577,0,97.164234)"/>
 		<filter height="1.3508246" y="-0.1754123" width="1.1485243" x="-0.074262142" id="filter8764-9" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur8766-2" stdDeviation="2.1195652" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur8766-2" stdDeviation="2.1195652"/>
 		</filter>
 		<linearGradient x1="231.625" y1="195.1875" x2="231.75" y2="201.5" id="linearGradient8912-9" xlink:href="#linearGradient8866-0" gradientUnits="userSpaceOnUse"/>
 		<linearGradient id="linearGradient8866-0">
@@ -61,7 +61,7 @@
 		</linearGradient>
 		<linearGradient x1="231.37646" y1="195.62132" x2="231.37646" y2="200.07138" id="linearGradient8910-3" xlink:href="#linearGradient8866-0" gradientUnits="userSpaceOnUse"/>
 		<filter height="1.556464" y="-0.27823201" width="1.1708827" x="-0.085441329" id="filter8906-3" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur8908-7" stdDeviation="0.56515877" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur8908-7" stdDeviation="0.56515877"/>
 		</filter>
 		<radialGradient cx="228.21875" cy="204.83229" r="14.09375" fx="228.21875" fy="204.83229" id="radialGradient8922-9" xlink:href="#linearGradient8916-4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.1477455,0,174.56924)"/>
 		<linearGradient id="linearGradient8916-4">
@@ -69,7 +69,7 @@
 			<stop id="stop8920-9" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<filter height="1.9457178" y="-0.47285891" width="1.1397254" x="-0.069862768" id="filter8980-1" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur8982-9" stdDeviation="0.82052366" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur8982-9" stdDeviation="0.82052366"/>
 		</filter>
 		<linearGradient x1="231.625" y1="195.1875" x2="231.75" y2="201.5" id="linearGradient8990-4" xlink:href="#linearGradient8866-0" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="231.37646" y1="195.62132" x2="231.37646" y2="200.07138" id="linearGradient8992-2" xlink:href="#linearGradient8866-0" gradientUnits="userSpaceOnUse"/>
@@ -87,7 +87,7 @@
 			<stop id="stop9044-7" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<filter height="1.3311402" y="-0.1655701" width="1.1523587" x="-0.076179281" id="filter9068-2" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur9070-7" stdDeviation="0.66458488" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur9070-7" stdDeviation="0.66458488"/>
 		</filter>
 		<radialGradient cx="68.39994" cy="21.225746" r="54.783398" fx="68.39994" fy="21.225746" id="radialGradient11553-3" xlink:href="#linearGradient9286-3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7221535,0,0,1.6949765,-49.39526,-14.078057)"/>
 		<linearGradient id="linearGradient9286-3">
@@ -95,7 +95,7 @@
 			<stop id="stop9290-2" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<filter id="filter9298-4" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur9300-4" stdDeviation="0.32610678" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur9300-4" stdDeviation="0.32610678"/>
 		</filter>
 		<linearGradient x1="95.5" y1="208.16444" x2="153.5" y2="223.5" id="linearGradient5905-4" xlink:href="#linearGradient5899-9" gradientUnits="userSpaceOnUse"/>
 		<linearGradient id="linearGradient5899-9">
@@ -103,7 +103,7 @@
 			<stop id="stop5903-3" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<filter height="1.2446715" y="-0.12233575" width="1.165018" x="-0.082508981" id="filter5983-8" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur5985-3" stdDeviation="3.6868363" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur5985-3" stdDeviation="3.6868363"/>
 		</filter>
 		<linearGradient x1="57.225197" y1="76.246338" x2="53.63158" y2="84.480316" id="linearGradient5801-2" xlink:href="#linearGradient5793-9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.8852575,0,0,0.8852575,5.1772151,9.2293372)"/>
 		<linearGradient id="linearGradient5793-9">
@@ -116,7 +116,7 @@
 			<stop id="stop5809-9" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<filter id="filter5845-5" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur5847-5" stdDeviation="1.2409356" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur5847-5" stdDeviation="1.2409356"/>
 		</filter>
 		<linearGradient x1="73.712105" y1="180.47572" x2="82.754066" y2="187.65974" id="linearGradient5822-7" xlink:href="#WhiteTransparent-3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.4927913,0,0,0.4927913,-6.0003885,-9.7225182)"/>
 		<linearGradient id="linearGradient10981-3-9">
@@ -124,7 +124,7 @@
 			<stop id="stop10985-3-7" style="stop-color:#729fcf;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<filter id="filter10997-7-2" color-interpolation-filters="sRGB">
-			<feGaussianBlur id="feGaussianBlur10999-0-7" stdDeviation="2.7696726" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur10999-0-7" stdDeviation="2.7696726"/>
 		</filter>
 		<linearGradient x1="180.81293" y1="217.5" x2="153.70045" y2="144.5" id="linearGradient1539" xlink:href="#linearGradient10981-3-9" gradientUnits="userSpaceOnUse" gradientTransform="translate(-130.16572,-83.352786)"/>
 	</defs>

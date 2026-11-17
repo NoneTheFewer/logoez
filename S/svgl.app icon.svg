@@ -2,14 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" name="SVGL Logo" viewBox="0 0 512 512" fill="none" class="">
 	<rect id="r4" width="512" height="512" x="0" y="0" rx="128" fill="#222" stroke="#FFFFFF" stroke-width="0" stroke-opacity="1" paint-order="stroke"/>
 	<rect width="512" height="512" x="0" y="0" fill="url(#r6)" rx="128" style="mix-blend-mode: overlay;"/>
-	<clipPath id="clip">
-		<use xlink:href="#r4"/>
-	</clipPath>
 	<defs>
-		<linearGradient id="r5" gradientUnits="userSpaceOnUse" gradientTransform="rotate(135)" style="transform-origin: center center;">
-			<stop stop-color="#222"/>
-			<stop offset="1" stop-color="#222222"/>
-		</linearGradient>
 		<radialGradient id="r6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256) rotate(90) scale(512)">
 			<stop stop-color="white"/>
 			<stop offset="1" stop-color="white" stop-opacity="0"/>

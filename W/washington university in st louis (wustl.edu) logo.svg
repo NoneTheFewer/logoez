@@ -1,98 +1,14 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 170.5 55">
 	<defs id="defs107">
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath121">
-			<path d="M 0,0 H 432 V 684 H 0 Z" id="path119"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath129">
-			<path d="M -133.67,728.197 H 223.477 V -323.133 H -133.67 Z" id="path127"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath161">
-			<path d="M -10,694 H 442 V -10 H -10 Z" id="path159"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath181">
-			<path d="M 297.802,383.931 H 399.6 V 491.686 H 297.802 Z" id="path179"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath195">
-			<path d="M 242.2,207.111 H 297 v 52.809 h -54.8 z" id="path193"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath209">
-			<path d="m 123.84,324.103 h 67.4 v 93.185 h -67.4 z" id="path207"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath225">
-			<path d="m 348.92,179.794 h 51.58 v 80.64 h -51.58 z" id="path223"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath241">
-			<path d="m 242.823,323.782 h 54.979 v 60.149 h -54.979 z" id="path239"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath255">
-			<path d="m 190.857,383.931 h 51.237 v 66.714 h -51.237 z" id="path253"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath271">
-			<path d="m 192.52,259.92 h 49.68 v 63.934 h -49.68 z" id="path269"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath289">
-			<path d="M 297,341.074 H 432 V 259.92 H 297 Z" id="path287"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath303">
-			<path d="m 155.25,450.646 h 35.622 v 46.44 H 155.25 Z" id="path301"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath319">
-			<path d="m 100.44,324.034 h 51.237 V 259.92 H 100.44 Z" id="path317"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath333">
-			<path d="m 130.24,175.514 h 62.28 v 84.406 h -62.28 z" id="path331"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath347">
-			<path d="m 297,132.514 h 51.84 v 74.597 H 297 Z" id="path345"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath361">
-			<path d="m 79.92,399.082 h 43.671 v 51.565 H 79.92 Z" id="path359"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath375">
-			<path d="m 192.52,123.949 h 40.5 v 51.565 h -40.5 z" id="path373"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath389">
-			<path d="M 399.629,383.999 H 432 v -43.153 h -32.371 z" id="path387"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath403">
-			<path d="M 400.5,132.514 H 432 v 47.28 h -31.5 z" id="path401"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath417">
-			<path d="M 0,0 H 432 V 684 H 0 Z" id="path415"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath425">
-			<path d="m 144.698,572.294 h 339.84 v -89.28 h -339.84 z" id="path423"/>
-		</clipPath>
 		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask427">
         </mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath445">
-			<path d="m 161.258,558.614 h 261.36 v -59.4 h -261.36 z" id="path443"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath459">
-			<path d="m 147.319,569.583 h 327 v -77 h -327 z" id="path457"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath485">
-			<path d="m 147.319,569.583 h 327 v -77 h -327 z" id="path483"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath489">
-			<path d="m 147.319,569.583 h 326.88 v -76.68 h -326.88 z" id="path487"/>
-		</clipPath>
 		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask491">
         </mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath531">
-			<path d="m 285.825,75.5373 h 142.56 v -54.72 h -142.56 z" id="path529"/>
-		</clipPath>
 		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask533">
         </mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath551">
-			<path d="m 288.345,73.3773 h 137.16 v -49.32 h -137.16 z" id="path549"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath565">
 			<path d="M 290.459,30.5 H 419.315 V 70.904 H 290.459 Z" id="path563"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath831">
-			<path d="m 102.242,126.36 h 40.5 v 49.154 h -40.5 z" id="path829"/>
 		</clipPath>
 	</defs>
 	<g id="g111" transform="matrix(1.3333333,0,0,-1.3333333,0,912)">

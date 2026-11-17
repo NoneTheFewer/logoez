@@ -1,26 +1,8 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 172.66 45.23" inkscape:version="0.47 r22583" sodipodi:docname="New document 1">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172.66 45.23">
 	<defs id="defs4">
-		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10"/>
-		<clipPath id="clipPath3264" clipPathUnits="userSpaceOnUse">
-			<path id="path3266" d="M 0,756 576,756 576,0 0,0 0,756 z"/>
-		</clipPath>
-		<clipPath id="clipPath3254" clipPathUnits="userSpaceOnUse">
-			<path id="path3256" d="m 0,0 79.116,0 0,161.579 L 0,161.579 0,0 z"/>
-		</clipPath>
-		<clipPath id="clipPath2870" clipPathUnits="userSpaceOnUse">
-			<path id="path2872" d="M 0,756 576,756 576,0 0,0 0,756 z"/>
-		</clipPath>
-		<clipPath id="clipPath2832" clipPathUnits="userSpaceOnUse">
-			<path id="path2834" d="M 0,756 576,756 576,0 0,0 0,756 z"/>
-		</clipPath>
-		<inkscape:perspective id="perspective2824" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
-		<inkscape:perspective id="perspective3977" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
 	</defs>
-	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="6.162328" inkscape:cx="84.770081" inkscape:cy="12.63797" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="1680" inkscape:window-height="1000" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1">
-		<sodipodi:guide orientation="0,1" position="283.01944,-49.301787" id="guide3967"/>
-	</sodipodi:namedview>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(956.04876,-92.482237)">
+	<g id="layer1" transform="translate(956.04876,-92.482237)">
 		<g id="g3276" transform="matrix(0,1.1388548,1.0918318,0,-934.86437,118.70304)" style="fill:#000000;fill-opacity:1">
 			<path d="m 0,0 -7.25,8.277 -3.218,0 c -0.889,0 -1.61,-0.722 -1.61,-1.61 l 0,-14.63 4.828,0 0,9.182 7.25,-9.151 0.022,0 0.001,-0.005 0,0.005 3.014,0 c 0.889,0 1.612,0.723 1.612,1.613 l 0,14.628 L 0,8.309 0,0 z" style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path3278"/>
 		</g>

@@ -33,21 +33,5 @@
 			<stop stop-opacity="0"/>
 			<stop offset="1" stop-opacity="0.4"/>
 		</linearGradient>
-		<linearGradient id="paint4_linear_8351_7340" x1="114.559" y1="0.70955" x2="127.635" y2="7.9287" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#191357"/>
-			<stop offset="1" stop-color="#FF0068"/>
-		</linearGradient>
-		<linearGradient id="paint5_linear_8351_7340" x1="131.381" y1="14.4599" x2="129.758" y2="17.8936" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#F0F0F0"/>
-			<stop offset="1" stop-color="#C7C7C7"/>
-		</linearGradient>
-		<linearGradient id="paint6_linear_8351_7340" x1="124.044" y1="10.6686" x2="122.744" y2="13.4177" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#F0F0F0"/>
-			<stop offset="1" stop-color="#C7C7C7"/>
-		</linearGradient>
-		<linearGradient id="paint7_linear_8351_7340" x1="62.5569" y1="20" x2="62.5569" y2="36" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#D6E5F3"/>
-			<stop offset="1" stop-color="white"/>
-		</linearGradient>
 	</defs>
 </svg>

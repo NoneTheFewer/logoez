@@ -25,17 +25,9 @@
 			<stop style="stop-color:#fddd01;stop-opacity:1" offset="0" id="stop1275"/>
 			<stop style="stop-color:#f7a810;stop-opacity:1" offset="1" id="stop1277"/>
 		</linearGradient>
-		<linearGradient id="linearGradient1265">
-			<stop style="stop-color:#212121;stop-opacity:1" offset="0" id="stop1261"/>
-			<stop style="stop-color:#4b4b4b;stop-opacity:1" offset="1" id="stop1263"/>
-		</linearGradient>
 		<linearGradient id="linearGradient1255">
 			<stop style="stop-color:#ececec;stop-opacity:1" offset="0" id="stop1251"/>
 			<stop style="stop-color:#9396a0;stop-opacity:1" offset="1" id="stop1253"/>
-		</linearGradient>
-		<linearGradient id="linearGradient1247">
-			<stop style="stop-color:#ffffff;stop-opacity:1" offset="0" id="stop1243"/>
-			<stop style="stop-color:#f2f2f2;stop-opacity:1" offset="1" id="stop1245"/>
 		</linearGradient>
 		<filter style="color-interpolation-filters:sRGB" id="filter1169" x="-0.066872343" width="1.1337447" y="-0.066872343" height="1.1337447">
 			<feGaussianBlur stdDeviation="0.84129284" id="feGaussianBlur1171"/>
@@ -46,14 +38,11 @@
 		<filter style="color-interpolation-filters:sRGB" id="filter1169-7" x="-0.066872343" width="1.1337447" y="-0.066872343" height="1.1337447">
 			<feGaussianBlur stdDeviation="0.84129284" id="feGaussianBlur1171-5"/>
 		</filter>
-		<linearGradient xlink:href="#linearGradient1247" id="linearGradient1249" x1="1053.5891" y1="481.84277" x2="1154.6044" y2="582.85803" gradientUnits="userSpaceOnUse"/>
 		<linearGradient xlink:href="#linearGradient1255" id="linearGradient1257" x1="279.83121" y1="168.91434" x2="303.61819" y2="154.48178" gradientUnits="userSpaceOnUse"/>
-		<linearGradient xlink:href="#linearGradient1265" id="linearGradient1259" x1="1089.9546" y1="627.30475" x2="1089.9546" y2="935.40125" gradientUnits="userSpaceOnUse"/>
 		<linearGradient xlink:href="#linearGradient1509" id="linearGradient1281" x1="172.12158" y1="151.27455" x2="200.18488" y2="179.33784" gradientUnits="userSpaceOnUse"/>
 		<linearGradient xlink:href="#linearGradient1291" id="linearGradient1293" x1="193.7704" y1="110.11504" x2="216.75558" y2="138.17834" gradientUnits="userSpaceOnUse"/>
 		<linearGradient xlink:href="#linearGradient1279" id="linearGradient1305" x1="235.19719" y1="102.89877" x2="260.5878" y2="125.61668" gradientUnits="userSpaceOnUse"/>
 		<linearGradient xlink:href="#linearGradient1315" id="linearGradient1317" x1="198.04672" y1="93.277061" x2="309.49811" y2="236.8008" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.7795276,0,0,3.7795276,-601.29033,-296.47006)"/>
-		<linearGradient xlink:href="#linearGradient1315" id="linearGradient1421" gradientUnits="userSpaceOnUse" x1="198.04672" y1="93.277061" x2="309.49811" y2="236.8008" gradientTransform="matrix(3.7795276,0,0,3.7795276,-1002.0713,0)"/>
 		<filter style="color-interpolation-filters:sRGB" id="filter1452" x="-0.18356825" width="1.3671365" y="-0.075329497" height="1.150659">
 			<feGaussianBlur stdDeviation="3.1590077" id="feGaussianBlur1454"/>
 		</filter>

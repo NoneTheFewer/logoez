@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -16 139 139" overflow="visible" display="block">
+	<defs>
+		<linearGradient id="blo1g" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" stop-color="#E7D6F3"/>
+			<stop offset=".55" stop-color="#C2A1D4"/>
+			<stop offset="1" stop-color="#9E7BB4"/>
+		</linearGradient>
+		<radialGradient id="blo1s" cx=".3" cy=".2" r=".65">
+			<stop offset="0" stop-color="#fff" stop-opacity=".8"/>
+			<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+		</radialGradient>
+		<filter id="blo1b" x="-40%" y="-40%" width="180%" height="180%">
+			<feGaussianBlur stdDeviation="3"/>
+		</filter>
+	</defs>
+	<ellipse class="shadow" cx="58" cy="108" rx="34.0" ry="5" fill="#000" opacity="0.50" filter="url(#blo1b)"/>
+	<g class="g-body" transform="translate(-0.80 0.00) rotate(0.00 34 80) translate(58 100) scale(0.998 0.998) translate(-58 -100)" opacity="1.00">
+		<path d="M71.625 36.5908C72.0057 48.7287 63.6594 59.878 51.8564 62.8408C44.8654 64.5954 36.9053 62.8118 29.7852 63.8662C28.4154 64.0689 26.1572 66.5331 26.0859 68.0078C25.9579 70.3395 26.0233 72.7154 26.0117 75.0547C25.9906 78.8726 25.998 82.691 26.0371 86.5088C26.0477 88.0425 25.9851 89.5965 26.0391 91.127C26.0867 92.464 26.7228 93.4589 27.6875 94.3457C28.3074 94.9154 29.0882 95.4725 29.9121 95.6934C31.8855 96.2206 41.0257 95.9056 43.6631 95.915L54.1426 95.9209C56.8916 95.922 59.6681 96.0182 62.4023 95.7012C68.7799 94.9634 75.1302 91.7928 79.665 87.2598C83.9449 82.9823 86.5076 78.1887 87.998 72.376C88.5703 70.1432 88.9974 67.8737 88.9932 65.5605C88.99 64.0098 89.0489 62.3555 88.8701 60.8174C88.0767 54.0098 84.6005 47.1948 79.7578 42.3994C77.7787 40.439 74.261 37.5332 71.625 36.5908Z" fill="url(#blo1g)"/>
+		<path d="M71.625 36.5908C72.0057 48.7287 63.6594 59.878 51.8564 62.8408C44.8654 64.5954 36.9053 62.8118 29.7852 63.8662C28.4154 64.0689 26.1572 66.5331 26.0859 68.0078C25.9579 70.3395 26.0233 72.7154 26.0117 75.0547C25.9906 78.8726 25.998 82.691 26.0371 86.5088C26.0477 88.0425 25.9851 89.5965 26.0391 91.127C26.0867 92.464 26.7228 93.4589 27.6875 94.3457C28.3074 94.9154 29.0882 95.4725 29.9121 95.6934C31.8855 96.2206 41.0257 95.9056 43.6631 95.915L54.1426 95.9209C56.8916 95.922 59.6681 96.0182 62.4023 95.7012C68.7799 94.9634 75.1302 91.7928 79.665 87.2598C83.9449 82.9823 86.5076 78.1887 87.998 72.376C88.5703 70.1432 88.9974 67.8737 88.9932 65.5605C88.99 64.0098 89.0489 62.3555 88.8701 60.8174C88.0767 54.0098 84.6005 47.1948 79.7578 42.3994C77.7787 40.439 74.261 37.5332 71.625 36.5908Z" fill="url(#blo1s)"/>
+	</g>
+	<g class="g-head" transform="translate(1.90 -0.02) rotate(5.00 45 60) translate(58 60) scale(1.000) translate(-58 -60)" opacity="1.00">
+		<path d="M48.3535 19.2529C46.1838 18.9062 43.2527 19.0166 40.9951 19.0166L30.9219 19.0215C28.6823 19.9823 27.3625 20.3636 26.292 22.9014C26.074 23.4183 26.0376 24.1309 26.0312 24.6953C25.9772 29.5295 26.0082 34.4035 26.0156 39.2373L26.0244 46.4434C26.0233 49.9479 25.4908 53.2051 29.541 54.7334C30.0715 54.933 30.629 55.0581 31.1934 55.1055C33.2551 55.2723 37.2508 55.0904 39.502 55.1191C41.4683 55.1443 46.1038 55.248 47.8711 55.0332C49.5567 54.832 51.2021 54.3706 52.749 53.667C53.7782 53.1887 54.73 52.5919 55.667 51.9521C59.8084 49.0271 62.1872 45.2728 63.2715 40.3359C63.5011 39.2923 63.3657 38.2331 63.4355 37.2002C63.7097 33.1884 62.2506 29.6507 59.9043 26.4023C57.1437 22.5868 52.9926 20.0172 48.3535 19.2529Z" fill="url(#blo1g)"/>
+		<path d="M48.3535 19.2529C46.1838 18.9062 43.2527 19.0166 40.9951 19.0166L30.9219 19.0215C28.6823 19.9823 27.3625 20.3636 26.292 22.9014C26.074 23.4183 26.0376 24.1309 26.0312 24.6953C25.9772 29.5295 26.0082 34.4035 26.0156 39.2373L26.0244 46.4434C26.0233 49.9479 25.4908 53.2051 29.541 54.7334C30.0715 54.933 30.629 55.0581 31.1934 55.1055C33.2551 55.2723 37.2508 55.0904 39.502 55.1191C41.4683 55.1443 46.1038 55.248 47.8711 55.0332C49.5567 54.832 51.2021 54.3706 52.749 53.667C53.7782 53.1887 54.73 52.5919 55.667 51.9521C59.8084 49.0271 62.1872 45.2728 63.2715 40.3359C63.5011 39.2923 63.3657 38.2331 63.4355 37.2002C63.7097 33.1884 62.2506 29.6507 59.9043 26.4023C57.1437 22.5868 52.9926 20.0172 48.3535 19.2529Z" fill="url(#blo1s)"/>
+		<g class="eyes" transform="translate(3.20 -0.03)">
+			<g class="e e-idle" opacity=" 1">
+				<g class="blink" transform="translate(0 39.5) scale(1 1.00) translate(0 -39.5)">
+					<rect x="36.5" y="32" width="6" height="15" rx="3" fill="#1c1226"/>
+					<rect x="51.5" y="32" width="6" height="15" rx="3" fill="#1c1226"/>
+				</g>
+			</g>
+			<g class="e e-happy" opacity=" 0">
+				<g fill="none" stroke="#1c1226" stroke-width="4" stroke-linecap="round">
+					<path d="M34 44 Q39.5 33 45 44"/>
+					<path d="M49 44 Q54.5 33 60 44"/>
+				</g>
+			</g>
+			<g class="e e-wow" opacity=" 0">
+				<ellipse cx="39.5" cy="40" rx="5.4" ry="9.5" fill="#1c1226"/>
+				<ellipse cx="54.5" cy="40" rx="5.4" ry="9.5" fill="#1c1226"/>
+				<circle cx="41.2" cy="35.6" r="2" fill="#fff"/>
+				<circle cx="56.2" cy="35.6" r="2" fill="#fff"/>
+			</g>
+			<g class="e e-work" opacity=" 0">
+				<rect x="36.5" y="32" width="6" height="15" rx="3" fill="#fff"/>
+				<rect x="51.5" y="32" width="6" height="15" rx="3" fill="#fff"/>
+				<rect class="scan" x="29" y="26" width="36" height="27" rx="11" fill="none" stroke="#fff" stroke-width="1.6" opacity="0.43"/>
+			</g>
+			<g class="e e-oops" opacity=" 0">
+				<g stroke="#1c1226" stroke-width="4" stroke-linecap="round">
+					<path d="M34 35 L44 46 M44 35 L34 46"/>
+					<path d="M49 35 L59 46 M59 35 L49 46"/>
+				</g>
+			</g>
+			<g class="e e-wink" opacity=" 0">
+				<rect x="36.5" y="32" width="6" height="15" rx="3" fill="#1c1226"/>
+				<path d="M49 44 Q54.5 36 60 44" fill="none" stroke="#1c1226" stroke-width="4" stroke-linecap="round"/>
+			</g>
+			<g class="e e-worried" opacity=" 0">
+				<rect x="37" y="34" width="6" height="14" rx="3" fill="#1c1226"/>
+				<rect x="52" y="34" width="6" height="14" rx="3" fill="#1c1226"/>
+				<g stroke="#1c1226" stroke-width="2.6" stroke-linecap="round">
+					<path d="M34.5 29.5 L44.5 26.5"/>
+					<path d="M60.5 29.5 L50.5 26.5"/>
+				</g>
+			</g>
+			<g class="e e-focus" opacity=" 0">
+				<rect x="36.5" y="35" width="6" height="10" rx="3" fill="#fff"/>
+				<rect x="51.5" y="35" width="6" height="10" rx="3" fill="#fff"/>
+				<rect class="scan" x="29" y="29" width="36" height="22" rx="10" fill="none" stroke="#fff" stroke-width="1.6" opacity=".5"/>
+			</g>
+			<g class="e e-patient" opacity=" 0">
+				<rect x="36.5" y="38" width="6" height="8" rx="3" fill="#1c1226"/>
+				<rect x="51.5" y="38" width="6" height="8" rx="3" fill="#1c1226"/>
+				<g stroke="#1c1226" stroke-width="2.4" stroke-linecap="round">
+					<path d="M35 37 H44"/>
+					<path d="M50 37 H59"/>
+				</g>
+			</g>
+			<g class="e e-sleep" opacity=" 0">
+				<g fill="none" stroke="#1c1226" stroke-width="4" stroke-linecap="round">
+					<path d="M33.5 39 Q39.5 46 45.5 39"/>
+					<path d="M48.5 39 Q54.5 46 60.5 39"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g class="heart" opacity="0">
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#F1E6F8"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+		<circle r="2.9" fill="#D9C0EA"/>
+	</g>
+	<g class="orbit" opacity="0.00">
+		<circle r="2.4" fill="#E7D6F3"/>
+		<circle r="3.2" fill="#E7D6F3" opacity=".8"/>
+		<circle r="4" fill="#E7D6F3" opacity=".6"/>
+	</g>
+	<g class="zz" opacity="0.00">
+		<text font-family="Fixel Display, system-ui" font-weight="700" fill="#E7D6F3">z</text>
+		<text font-family="Fixel Display, system-ui" font-weight="700" fill="#E7D6F3">z</text>
+		<text font-family="Fixel Display, system-ui" font-weight="700" fill="#E7D6F3">z</text>
+	</g>
+	<g class="drop" opacity="0.00" transform="translate(68 31.7)">
+		<path d="M0 -5 Q4 1 0 4 Q-4 1 0 -5z" fill="#BFD9FF"/>
+	</g>
+	<g class="spark" opacity="0">
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#E7D6F3"/>
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#F3C6E8"/>
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#E7D6F3"/>
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#F3C6E8"/>
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#E7D6F3"/>
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#F3C6E8"/>
+		<path d="M0 -4 L1.1 -1.1 L4 0 L1.1 1.1 L0 4 L-1.1 1.1 L-4 0 L-1.1 -1.1z" fill="#E7D6F3"/>
+	</g>
+	<g class="prop" opacity="0.00" fill="#E7D6F3" transform="translate(89.71589673762368 15.373009317444085) scale(0.00)"/>
+</svg>

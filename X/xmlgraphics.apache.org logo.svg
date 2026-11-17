@@ -219,18 +219,6 @@
 			<stop offset="0.9257" stop-color="#CFDFE4" id="stop13487"/>
 			<stop offset="1" stop-color="#D8E7EB" id="stop13489"/>
 		</linearGradient>
-		<linearGradient id="AIgd72" gradientUnits="userSpaceOnUse" x1="-3704.9473" y1="-3493.9082" x2="-3688.7896" y2="-3442.3477" gradientTransform="matrix(0.5318 0.0004 -0.0004 0.5318 2110.5286 1859.3658)">
-			<stop offset="0" stop-color="#D8E7EB" id="stop13492"/>
-			<stop offset="0.0849" stop-color="#C9D9DE" id="stop13494"/>
-			<stop offset="0.2184" stop-color="#A5B8C2" id="stop13496"/>
-			<stop offset="0.3836" stop-color="#728896" id="stop13498"/>
-			<stop offset="0.5537" stop-color="#405766" id="stop13500"/>
-			<stop offset="0.6417" stop-color="#667D8B" id="stop13502"/>
-			<stop offset="0.742" stop-color="#92A7B1" id="stop13504"/>
-			<stop offset="0.8374" stop-color="#B7C8D0" id="stop13506"/>
-			<stop offset="0.9257" stop-color="#CFDFE4" id="stop13508"/>
-			<stop offset="1" stop-color="#D8E7EB" id="stop13510"/>
-		</linearGradient>
 	</defs>
 	<g transform="translate(168,0) scale(-1, 1)" opacity="0.7" id="g13951">
 		<g filter="url(#medGlow)" transform="translate(-0.5,-3.5)" fill="#D9D9D9" stroke="#D9D9D9" stroke-width="0.254" id="g13784">

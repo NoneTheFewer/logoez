@@ -21,12 +21,6 @@
 			<stop offset="0.76" stop-color="#00ebeb"/>
 			<stop offset="1" stop-color="#00ebeb"/>
 		</linearGradient>
-		<clipPath id="clip-path" transform="translate(0.01 0.2)">
-			<path d="M137.28,269.57A132.29,132.29,0,1,1,269.57,137.28,132.29,132.29,0,0,1,137.28,269.57Zm96.51-132.29a96.51,96.51,0,1,0-96.51,96.51A96.5,96.5,0,0,0,233.79,137.28Z" style="fill:none"/>
-		</clipPath>
-		<clipPath id="clip-path-2" transform="translate(0.01 0.2)">
-			<rect width="274.57" height="274.57" style="fill:none"/>
-		</clipPath>
 	</defs>
 	<g style="isolation:isolate">
 		<g id="Layer_1" data-name="Layer 1">

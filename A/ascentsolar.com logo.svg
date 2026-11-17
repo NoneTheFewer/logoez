@@ -1,9 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 103.85706 56.888797" sodipodi:docname="Ascent solar BIG.svg" inkscape:version="1.2.1 (9c6d41e, 2022-07-14)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 103.85706 56.888797">
 	<defs id="defs48">
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath402">
-			<path d="m 518.5,29.688 h 30.865 V 63.64 H 518.5 Z" id="path400"/>
-		</clipPath>
 		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath434">
 			<path d="m 54.986,22.658 h 86.4 V 72.64 h -86.4 z" id="path432"/>
 		</clipPath>
@@ -38,19 +35,10 @@
 			<stop style="stop-opacity:1;stop-color:#f9ae26" offset="0.246636" id="stop530"/>
 			<stop style="stop-opacity:1;stop-color:#f9ae26" offset="1" id="stop532"/>
 		</radialGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath690">
-			<path d="M 354.96,476.415 H 557.778 V 331.849 H 354.96 Z" id="path688"/>
-		</clipPath>
 		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="1" id="mask696">
         </mask>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath708">
-			<path d="M 361.421,616.84 H 553.24 V 738 H 361.421 Z" id="path706"/>
-		</clipPath>
 	</defs>
-	<sodipodi:namedview id="namedview46" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="3.1079206" inkscape:cx="86.874805" inkscape:cy="61.455881" inkscape:window-width="1419" inkscape:window-height="690" inkscape:window-x="0" inkscape:window-y="25" inkscape:window-maximized="0" inkscape:current-layer="g52">
-		<inkscape:page x="0" y="0" id="page50" width="103.85706" height="56.888798"/>
-	</sodipodi:namedview>
-	<g id="g52" inkscape:groupmode="layer" inkscape:label="Page 1" transform="matrix(1.3333333,0,0,-1.3333333,-80.598665,90.883998)">
+	<g id="g52" transform="matrix(1.3333333,0,0,-1.3333333,-80.598665,90.883998)">
 		<g id="g424" transform="translate(83.6304,46.528)">
 			<path d="M 0,0 -0.836,4.84 -4.321,0 Z m 0.365,-2.001 h -5.719 l -1.732,-2.657 h -3.051 L -1.978,7.366 H 1.319 L 3.661,-4.658 H 0.847 Z" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path426"/>
 		</g>

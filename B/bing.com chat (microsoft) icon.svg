@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 119.04425 119.04425" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="Bing Chat.svg">
-	<sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:document-units="mm" showgrid="false" inkscape:zoom="0.64052329" inkscape:cx="256.82126" inkscape:cy="464.46399" inkscape:window-width="1284" inkscape:window-height="1012" inkscape:window-x="185" inkscape:window-y="97" inkscape:window-maximized="0" inkscape:current-layer="layer1"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 119.04425 119.04425">
 	<defs id="defs2">
 		<linearGradient id="b" x1="22" x2="22" y1="2" y2="38" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#F9F9F9" id="stop848"/>
@@ -107,7 +106,7 @@
 			<feBlend in2="shape" result="effect1_innerShadow_1360_20280" id="feBlend1014" mode="normal"/>
 		</filter>
 	</defs>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-37.137136,-25.697955)">
+	<g id="layer1" transform="translate(-37.137136,-25.697955)">
 		<g style="fill:none" id="g1126" transform="matrix(2.7556539,0,0,2.7556539,36.034874,25.146824)">
 			<g filter="url(#a)" id="g832">
 				<path fill="url(#b)" d="m 22,2 c 9.941,0 18,8.058 18,17.997 0,9.94 -8.059,17.998 -18,17.998 -2.001,0 -3.956,-0.328 -5.803,-0.956 C 14.5,36.461 12.679,36.19 10.945,36.642 L 5.918,37.95 A 1.53,1.53 0 0 1 4.051,36.084 l 1.307,-5.018 c 0.452,-1.737 0.18,-3.56 -0.4,-5.259 A 17.98,17.98 0 0 1 4,19.997 C 4,10.057 12.059,2 22,2 Z" id="path824" style="fill:url(#b)"/>

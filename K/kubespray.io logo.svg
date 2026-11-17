@@ -1,18 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 130">
 	<defs>
-		<clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
-			<path id="path16" d="m0,720l1280,0l0,-720l-1280,0l0,720z"/>
-		</clipPath>
-		<clipPath id="clipPath510" clipPathUnits="userSpaceOnUse">
-			<path id="path508" d="m0,720l1280,0l0,-720l-1280,0l0,720z"/>
-		</clipPath>
-		<clipPath id="clipPath518" clipPathUnits="userSpaceOnUse">
-			<path id="path516" d="m80.333,608.499l52.426,0l0,-23.87l-52.426,0l0,23.87z"/>
-		</clipPath>
-		<clipPath id="clipPath534" clipPathUnits="userSpaceOnUse">
-			<path id="path532" d="m724.334,608.499l93.213,0l0,-23.87l-93.213,0l0,23.87z"/>
-		</clipPath>
 	</defs>
 	<g>
 		<rect x="-1" y="-1" width="682" height="132" id="canvas_background" fill="none"/>

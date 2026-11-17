@@ -17,30 +17,15 @@
 			<stop style="stop-color:#197cf1;stop-opacity:1" offset="0" id="stop3084"/>
 			<stop style="stop-color:#20bcfa;stop-opacity:1" offset="1" id="stop3086"/>
 		</linearGradient>
-		<linearGradient id="linearGradient2864">
-			<stop style="stop-color:#b4b4b4;stop-opacity:1" offset="0" id="stop2860"/>
-			<stop style="stop-color:#ffffff;stop-opacity:1" offset="1" id="stop2862"/>
-		</linearGradient>
 		<linearGradient id="linearGradient1005">
 			<stop id="stop1001" offset="0" style="stop-color:#3c3c3c;stop-opacity:1"/>
 			<stop id="stop1003" offset="1" style="stop-color:#606163;stop-opacity:1"/>
 		</linearGradient>
-		<linearGradient gradientUnits="userSpaceOnUse" y2="-57.553936" x2="24" y1="36" x1="24" id="linearGradient843" xlink:href="#linearGradient2864"/>
 		<linearGradient gradientUnits="userSpaceOnUse" y2="6.8976331" x2="24" y1="39" x1="24" id="linearGradient1007" xlink:href="#Blue_Circle"/>
 		<linearGradient y2="-3.871201" x2="24" y1="39" x1="24" gradientUnits="userSpaceOnUse" id="linearGradient2895" xlink:href="#linearGradient1005"/>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipath_lpe_path-effect2978">
-			<path id="lpe_path-effect2978" style="fill:url(#linearGradient2895);stroke-opacity:0" class="powerclip" d="M -1,-1 H 49 V 49 H -1 Z M 41,24 A 17,17 0 0 0 24,7 17,17 0 0 0 7,24 17,17 0 0 0 24,41 17,17 0 0 0 41,24"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipath_lpe_path-effect2989">
-			<path id="lpe_path-effect2989" style="fill:url(#linearGradient2895);stroke-opacity:0" class="powerclip" d="M -1,-1 H 49 V 49 H -1 Z M 41,24 A 17,17 0 0 0 24,7 17,17 0 0 0 7,24 17,17 0 0 0 24,41 17,17 0 0 0 41,24"/>
-		</clipPath>
-		<clipPath id="clipath_lpe_path-effect3007" clipPathUnits="userSpaceOnUse">
-			<path d="M -1,-1 H 49 V 49 H -1 Z M 41,24 A 17,17 0 0 0 24,7 17,17 0 0 0 7,24 17,17 0 0 0 24,41 17,17 0 0 0 41,24" class="powerclip" style="fill:url(#linearGradient2895);stroke-opacity:0" id="lpe_path-effect3007"/>
-		</clipPath>
 		<linearGradient y2="4.8234935" x2="24" y1="36" x1="24" gradientUnits="userSpaceOnUse" id="linearGradient3016" xlink:href="#linearGradient3094"/>
 		<linearGradient gradientUnits="userSpaceOnUse" y2="14.400394" x2="28.069801" y1="23.984707" x1="28.069801" id="linearGradient3146" xlink:href="#linearGradient3152"/>
 		<linearGradient gradientUnits="userSpaceOnUse" y2="46.672771" x2="46.983944" y1="24.173649" x1="24.484821" id="linearGradient5067" xlink:href="#Hand_Shadow"/>
-		<linearGradient y2="6.8976331" x2="24" y1="39" x1="24" gradientUnits="userSpaceOnUse" id="linearGradient5683" xlink:href="#Blue_Circle"/>
 		<linearGradient y2="4.8234935" x2="24" y1="36" x1="24" gradientUnits="userSpaceOnUse" id="linearGradient5692" xlink:href="#linearGradient3094" gradientTransform="translate(0,1)"/>
 	</defs>
 	<g id="layer7">

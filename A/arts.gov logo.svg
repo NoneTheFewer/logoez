@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 1728 864" xml:space="preserve">
-	<metadata>
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title>National Endowment for the Arts (NEA) Logo Horizontal</dc:title>
-				<dc:date>2018</dc:date>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 864" xml:space="preserve">
 	<polygon points="1327.3 612.78 1327.3 627.26 66.933 627.26 66.933 612.78" fill="#fff"/>
 	<polygon points="1327.3 598.24 1327.3 612.73 66.933 612.73 66.933 598.24" fill="#db2532"/>
 	<polygon points="1327.3 627.31 1327.3 641.8 66.933 641.8 66.933 627.31" fill="#007db6"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 200">
 	<defs id="defs3452">
 		<linearGradient id="linearGradient5417">
 			<stop offset="0" id="stop5413" stop-color="#263c5c" stop-opacity="1"/>
@@ -25,41 +25,9 @@
 			<stop id="stop4726" offset="0" stop-color="#263c5c" stop-opacity="1"/>
 			<stop id="stop4728" offset="1" stop-color="#263c5c" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient4724">
-			<stop id="stop4720" offset="0" stop-color="#263c5c" stop-opacity="1"/>
-			<stop id="stop4722" offset="1" stop-color="#263c5c" stop-opacity="1"/>
-		</linearGradient>
 		<linearGradient id="linearGradient4718">
 			<stop id="stop4714" offset="0" stop-color="#263c5c" stop-opacity="1"/>
 			<stop id="stop4716" offset="1" stop-color="#263c5c" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient915">
-			<stop id="stop911" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop913" offset="1" stop-color="#45455a" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient909">
-			<stop id="stop905" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop907" offset="1" stop-color="#45455a" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient903">
-			<stop id="stop899" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop901" offset="1" stop-color="#45455a" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient897">
-			<stop id="stop893" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop895" offset="1" stop-color="#45455a" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient891">
-			<stop id="stop887" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop889" offset="1" stop-color="#45455a" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient885">
-			<stop id="stop881" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop883" offset="1" stop-color="#45455a" stop-opacity="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient879">
-			<stop id="stop875" offset="0" stop-color="#49496f" stop-opacity="1"/>
-			<stop id="stop877" offset="1" stop-color="#45455a" stop-opacity="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient3734-3-6">
 			<stop offset="0" id="stop3736" stop-color="#49496f" stop-opacity="1"/>

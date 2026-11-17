@@ -32,9 +32,6 @@
 				<defs>
 					<path id="SVGID_3_" d="M60.1 188.4h10.5v7H60.1z"/>
 				</defs>
-				<clipPath id="SVGID_4_">
-					<use xlink:href="#SVGID_3_" overflow="visible"/>
-				</clipPath>
 			</g>
 		</g>
 		<g>
@@ -56,9 +53,6 @@
 				<defs>
 					<path id="SVGID_7_" d="M30.4 67.9h69.9v5.2H30.4z"/>
 				</defs>
-				<clipPath id="SVGID_8_">
-					<use xlink:href="#SVGID_7_" overflow="visible"/>
-				</clipPath>
 			</g>
 		</g>
 		<g>
@@ -72,9 +66,6 @@
 				<defs>
 					<path id="SVGID_11_" d="M28.6 67.9h71.6v27.9H28.6z"/>
 				</defs>
-				<clipPath id="SVGID_12_">
-					<use xlink:href="#SVGID_11_" overflow="visible"/>
-				</clipPath>
 			</g>
 		</g>
 		<path d="M617.7 89.1h-49.3v50.8h-22.3V20.4h22.3v49.2h49.3V20.4h22.4v119.5h-22.4z" class="st0"/>

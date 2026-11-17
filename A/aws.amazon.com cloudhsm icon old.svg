@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.375 85" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<use xlink:href="#A" x="2.188" y="2.5"/>
+	<symbol id="A" overflow="visible">
+		<g stroke="none">
+			<path d="M7.091 61.815L0 63.444V16.556l7.091-3.346 10.698 14.946L7.091 61.815z" fill="#4b612c"/>
+			<path d="M16.233 27.942l-9.142-1.063V13.21l9.142 2.176v12.556z" fill="#759c3e"/>
+			<g fill="#4b612c">
+				<path d="M53.644 25.922l14.748 2.02-5.504-14.732-9.245 2.205v10.507zM20.211 62.224L34.99 80l9.492-56.839L34.99 0 20.211 6.995v55.229z"/>
+				<path d="M0 63.444L34.99 80l11.388-31.844L34.99 16.322 0 26.127v37.317z"/>
+				<path d="M41.421 28.156l26.972 9.083-5.504 29.551-12.842-3.054-8.626-35.58z"/>
+			</g>
+			<g fill="#759c3e">
+				<path d="M50.047 72.878L34.99 80V0l15.057 7.122v65.756zm12.842-6.087L70 63.434V16.566l-7.111-3.356v53.581z"/>
+				<path d="M70 40H34.99V16.322L70 26.127V40z"/>
+			</g>
+		</g>
+	</symbol>
+</svg>

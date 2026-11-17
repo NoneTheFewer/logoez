@@ -31,9 +31,6 @@
 		<defs>
 			<path id="SVGID_5464_" d="M 7.3,4.0 L 372.6,4.0 L 372.6,82.0 L 7.3,82.0 L 7.3,4.0"/>
 		</defs>
-		<clipPath id="SVGID_2827_">
-			<use xlink:href="#SVGID_5464_" style="overflow:visible"/>
-		</clipPath>
 	</g>
 	<path d="M 37.9,62.5 L 37.9,78.4 L 65.7,62.3 L 65.7,46.5 L 37.9,62.5" style="clip-path:url(#SVGID_6277_);fill:#6abc4c"/>
 	<path d="M 50.3,32.0 L 64.0,24.0 L 37.9,8.9 L 37.9,24.8 L 50.3,32.0" style="clip-path:url(#SVGID_6277_);fill:#ea4724"/>

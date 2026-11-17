@@ -1,15 +1,14 @@
 <?xml version="1.0" ?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 600 89.227814" fill="none" sodipodi:docname="meilisearch.svg" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 600 89.227814" fill="none">
 	<defs id="defs1700">
 		<linearGradient id="paint2_linear_569_4938" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#FF5CAA" id="stop913"/>
 			<stop offset="1" stop-color="#FF4E62" id="stop915"/>
 		</linearGradient>
-		<linearGradient inkscape:collect="always" xlink:href="#paint2_linear_569_4938" id="linearGradient1884" gradientUnits="userSpaceOnUse" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientTransform="translate(77.009667,-25.664984)"/>
-		<linearGradient inkscape:collect="always" xlink:href="#paint2_linear_569_4938" id="linearGradient1886" gradientUnits="userSpaceOnUse" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientTransform="translate(77.009667,-25.664984)"/>
-		<linearGradient inkscape:collect="always" xlink:href="#paint2_linear_569_4938" id="linearGradient1888" gradientUnits="userSpaceOnUse" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientTransform="translate(77.009667,-25.664984)"/>
+		<linearGradient xlink:href="#paint2_linear_569_4938" id="linearGradient1884" gradientUnits="userSpaceOnUse" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientTransform="translate(77.009667,-25.664984)"/>
+		<linearGradient xlink:href="#paint2_linear_569_4938" id="linearGradient1886" gradientUnits="userSpaceOnUse" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientTransform="translate(77.009667,-25.664984)"/>
+		<linearGradient xlink:href="#paint2_linear_569_4938" id="linearGradient1888" gradientUnits="userSpaceOnUse" x1="60.012699" y1="-2.17168" x2="-1.9685299e-06" y2="31.732201" gradientTransform="translate(77.009667,-25.664984)"/>
 	</defs>
-	<sodipodi:namedview id="namedview1698" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" showgrid="false" inkscape:zoom="6.7840376" inkscape:cx="106.5" inkscape:cy="15.846021" inkscape:window-width="2460" inkscape:window-height="1563" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1696" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0"/>
 	<g id="g1896" transform="matrix(2.5495894,0,0,2.5495894,-196.34303,64.156641)">
 		<path d="m 77.009667,9.833316 11.0875,-28.3681 c 1.5625,-3.99764 5.4158,-6.628735 9.7079,-6.628735 h 6.684503 L 93.402067,3.204516 c -1.5625,3.9977 -5.4158,6.6288 -9.70789,6.6288 z" fill="url(#paint0_linear_569_4938)" id="path897" style="fill:url(#linearGradient1884)"/>
 		<path d="m 93.275567,9.833416 11.087503,-28.36812 c 1.5624,-3.99763 5.4157,-6.628732 9.7078,-6.628732 h 6.6846 l -11.0876,28.368052 c -1.5624,3.9977 -5.4157,6.6288 -9.707803,6.6288 z" fill="url(#paint1_linear_569_4938)" id="path899" style="fill:url(#linearGradient1886)"/>

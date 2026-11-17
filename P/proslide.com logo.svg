@@ -1,31 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 237.23622 42.606232" inkscape:version="0.47 r22583" sodipodi:docname="New document 1">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 237.23622 42.606232">
 	<defs id="defs4">
-		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10"/>
-		<clipPath id="clipPath4648" clipPathUnits="userSpaceOnUse">
-			<path id="path4650" d="m 36,36 720,0 0,917.427 -720,0 L 36,36 z"/>
-		</clipPath>
-		<clipPath id="clipPath3956" clipPathUnits="userSpaceOnUse">
-			<path id="path3958" d="m 48.339,934.129 0,-79.958 171.828,5.882 -2.846,79.861 -168.982,-5.785 z"/>
-		</clipPath>
-		<clipPath id="clipPath3942" clipPathUnits="userSpaceOnUse">
-			<path id="path3944" d="m 48.339,933.097 0,-29.396 c 2.737,-0.28 8.503,-1.828 8.79,-9.885 l 0,0 c 0.315,-8.846 -6.533,-9.882 -8.79,-9.984 l 0,0 0,-19.903 0.311,-8.738 170.862,5.849 -1.02,28.638 c 0,0 -9.846,-0.338 -10.189,9.312 l 0,0 c -0.344,9.65 9.479,10.609 9.479,10.609 l 0,0 -1.043,29.261 -168.4,-5.763 z"/>
-		</clipPath>
-		<clipPath id="clipPath3292" clipPathUnits="userSpaceOnUse">
-			<path id="path3294" d="m 412.614,934.373 2.853,-80.064 172.537,5.907 -2.853,80.063 -172.537,-5.906 z"/>
-		</clipPath>
-		<clipPath id="clipPath3260" clipPathUnits="userSpaceOnUse">
-			<path id="path3262" d="m 36,36 720,0 0,917.427 -720,0 L 36,36 z"/>
-		</clipPath>
-		<clipPath id="clipPath3222" clipPathUnits="userSpaceOnUse">
-			<path id="path3224" d="m 412.614,934.373 2.853,-80.064 172.537,5.907 -2.853,80.063 -172.537,-5.906 z"/>
-		</clipPath>
-		<clipPath id="clipPath3208" clipPathUnits="userSpaceOnUse">
-			<path id="path3210" d="m 413.271,933.359 1.046,-29.335 c 0,0 9.856,0.651 10.235,-9.96 l 0,0 c 0.378,-10.611 -9.524,-10.012 -9.524,-10.012 l 0,0 1.023,-28.711 171.296,5.864 -1.023,28.71 c 0,0 -9.87,-0.338 -10.215,9.336 l 0,0 c -0.344,9.674 9.504,10.636 9.504,10.636 l 0,0 -1.045,29.336 -171.297,-5.864 z"/>
-		</clipPath>
-		<clipPath id="clipPath3162" clipPathUnits="userSpaceOnUse">
-			<path id="path3164" d="m 36,36 720,0 0,917.427 -720,0 L 36,36 z"/>
-		</clipPath>
 		<clipPath id="clipPath3148" clipPathUnits="userSpaceOnUse">
 			<path id="path3150" d="m 549.72,60.764 189.79,0 0,34.084 -189.79,0 0,-34.084 z"/>
 		</clipPath>
@@ -35,35 +10,6 @@
 		<clipPath id="clipPath3006" clipPathUnits="userSpaceOnUse">
 			<path id="path3008" d="m 549.72,60.764 189.79,0 0,34.084 -189.79,0 0,-34.084 z"/>
 		</clipPath>
-		<clipPath id="clipPath2978" clipPathUnits="userSpaceOnUse">
-			<path id="path2980" d="m 36,36 720,0 0,917.427 -720,0 L 36,36 z"/>
-		</clipPath>
-		<clipPath id="clipPath2928" clipPathUnits="userSpaceOnUse">
-			<path id="path2930" d="m 36,36 720,0 0,917.427 -720,0 L 36,36 z"/>
-		</clipPath>
-		<clipPath id="clipPath2908" clipPathUnits="userSpaceOnUse">
-			<path id="path2910" d="m 36,36 720,0 0,917.427 -720,0 L 36,36 z"/>
-		</clipPath>
-		<clipPath id="clipPath2894" clipPathUnits="userSpaceOnUse">
-			<path id="path2896" d="m 72,369.83 352.913,0 0,566.17 L 72,936 72,369.83 z"/>
-		</clipPath>
-		<clipPath id="clipPath2886" clipPathUnits="userSpaceOnUse">
-			<path id="path2888" d="m -32768,32767 65535,0 0,-65535 -65535,0 0,65535 z"/>
-		</clipPath>
-		<clipPath id="clipPath2876" clipPathUnits="userSpaceOnUse">
-			<path id="path2878" d="m 36,398.491 352.913,0 0,554.936 -352.913,0 0,-554.936 z"/>
-		</clipPath>
-		<clipPath id="clipPath2862" clipPathUnits="userSpaceOnUse">
-			<path id="path2864" d="m 439.787,369.83 352.914,0 0,566.17 -352.914,0 0,-566.17 z"/>
-		</clipPath>
-		<clipPath id="clipPath2854" clipPathUnits="userSpaceOnUse">
-			<path id="path2856" d="m -32768,32767 65535,0 0,-65535 -65535,0 0,65535 z"/>
-		</clipPath>
-		<clipPath id="clipPath2844" clipPathUnits="userSpaceOnUse">
-			<path id="path2846" d="m 403.787,398.491 352.213,0 0,554.936 -352.213,0 0,-554.936 z"/>
-		</clipPath>
-		<inkscape:perspective id="perspective2824" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
-		<inkscape:perspective id="perspective6788" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
 		<clipPath id="clipPath3148-4" clipPathUnits="userSpaceOnUse">
 			<path id="path3150-0" d="m 549.72,60.764 189.79,0 0,34.084 -189.79,0 0,-34.084 z"/>
 		</clipPath>
@@ -74,17 +20,7 @@
 			<path id="path3008-8" d="m 549.72,60.764 189.79,0 0,34.084 -189.79,0 0,-34.084 z"/>
 		</clipPath>
 	</defs>
-	<sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.98994949" inkscape:cx="57.848542" inkscape:cy="181.52871" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1440" inkscape:window-height="838" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1"/>
-	<metadata id="metadata7">
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-				<dc:title/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
-	<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-457.16884,-1012.8763)">
+	<g id="layer1" transform="translate(-457.16884,-1012.8763)">
 		<g id="g2990" transform="matrix(1.25,0,0,1.2251965,-229.98244,-104.4526)">
 			<g id="g2992" transform="translate(604.275,912.581)">
 				<path d="m 0,0 c 4.774,0 8.421,2.318 8.421,6.441 0,4.232 -3.94,6.919 -8.091,6.919 -0.917,0 -1.834,-0.11 -2.679,-0.516 3.156,-0.186 6.57,-2.137 6.57,-5.664 0,-3.24 -2.275,-4.528 -5.212,-4.528 -0.88,0 -1.725,0.072 -2.57,0.219 l 0,16.608 c 0,2.065 -0.036,3.535 1.909,4.637 l 0,0.114 -7.318,0 0,-0.114 c 1.877,-0.659 1.655,-3.383 1.655,-5.039 l 0,-13.876 c 0,-1.655 0.222,-4.341 -1.619,-5.08 l 0,-0.11 L 0,0" style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path2994"/>

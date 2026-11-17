@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 132.29166 31.750001">
+	<defs id="defs2">
+		<linearGradient id="linearGradient929">
+			<stop offset="0" id="stop925" stop-color="#1a4886" stop-opacity="1"/>
+			<stop offset="1" id="stop927" stop-color="#1a4886" stop-opacity="0"/>
+		</linearGradient>
+		<rect x="223.43733" y="161.29716" width="1.3363476" height="33.408691" id="rect909"/>
+		<linearGradient xlink:href="#linearGradient929" id="linearGradient931" x1="63.623211" y1="53.476784" x2="178.06932" y2="53.476784" gradientUnits="userSpaceOnUse"/>
+	</defs>
+	<g id="layer1">
+		<g aria-label="VERTS" transform="matrix(0.59768928,0,-0.13137096,0.3986943,-0.68258721,-15.463004)" id="text849" font-size="64.102px" line-height="1.25" font-family="Florida-Serial-Black" letter-spacing="1.98438px" fill="#1a4886" fill-opacity="1" stroke-width="1.60255">
+			<path d="m 69.635233,67.157323 h 14.42295 l 4.230732,26.922838 4.294834,-26.922838 H 107.0067 L 96.49397,113.37486 H 80.083859 Z" id="path878" fill="#1a4886" fill-opacity="1" stroke-width="1.60255"/>
+			<path d="M 109.69609,113.37486 V 67.157323 h 25.4485 v 12.051175 h -10.64093 v 5.064058 h 9.7435 v 11.538359 h -9.7435 v 5.576875 h 10.64093 v 11.98707 z" id="path880" fill="#1a4886" fill-opacity="1" stroke-width="1.60255"/>
+			<path d="M 139.88526,113.37486 V 67.157323 h 16.2819 q 7.94865,0 12.37169,3.974323 4.48714,3.910222 4.48714,10.961442 0,7.884546 -5.70508,11.538359 l 6.53841,19.743413 h -15.12808 l -3.14099,-16.858823 h -0.89743 v 16.858823 z m 14.80756,-34.74328 v 8.717872 h 0.51281 0.96153 q 1.15384,0 1.66666,-0.384612 0.51281,-0.384612 0.89742,-1.538448 0.44872,-1.153836 0.44872,-2.435876 0,-4.423038 -3.0128,-4.423038 z" id="path882" fill="#1a4886" fill-opacity="1" stroke-width="1.60255"/>
+			<path d="M 175.58716,80.105926 V 67.157323 h 28.65359 v 12.948603 h -6.79481 V 113.37486 H 182.70248 V 80.105926 Z" id="path884" fill="#1a4886" fill-opacity="1" stroke-width="1.60255"/>
+			<path d="m 232.9555,68.888076 v 14.10244 q -4.67945,-3.910222 -8.78198,-3.910222 -2.94869,0 -2.94869,2.435876 0,1.089734 0.89743,1.858958 0.89743,0.769224 4.29483,2.371774 4.93586,2.371774 6.85892,5.256364 1.92306,2.884589 1.92306,7.948647 0,6.858917 -4.23073,10.897337 -4.23074,4.03843 -11.34606,4.03843 -3.58971,0 -7.56403,-1.08974 -1.08974,-0.2564 -1.98716,-0.51281 -0.83333,-0.32051 -2.82049,-1.15384 V 96.387833 q 0.96153,0.96153 1.66665,1.538448 0.44871,0.384612 1.47435,1.089734 3.3333,2.115365 6.28199,2.115365 3.2692,0 3.2692,-2.371773 0,-0.64102 -0.38461,-1.28204 -0.38461,-0.705122 -1.60255,-1.346142 -0.64102,-0.32051 -2.56408,-1.217938 -4.99995,-2.179467 -7.17942,-5.192261 -2.11537,-3.076896 -2.11537,-7.948648 0,-6.858914 4.42304,-10.89734 4.42304,-4.038425 11.79477,-4.038425 2.88459,0 5.25636,0.448714 2.43588,0.448714 5.38457,1.602549 z" id="path886" fill="#1a4886" fill-opacity="1" stroke-width="1.60255"/>
+		</g>
+		<g aria-label="E" transform="matrix(0.59768928,0,-0.13137096,0.3986943,-0.68258721,-15.463004)" id="text849-5" font-size="97.3188px" line-height="1.25" font-family="Florida-Serial-Black" letter-spacing="3.01266px" fill="#1a4886" fill-opacity="1" stroke-width="2.43297">
+			<path d="M 28.775059,113.88768 V 43.720824 H 177.99352 V 62.016759 H 51.255702 v 7.688185 H 66.04816 V 87.222328 H 51.255702 v 8.466736 h 16.154921 v 18.198616 z" id="path875" fill="url(#linearGradient931)" fill-opacity="1" stroke-width="2.43297"/>
+		</g>
+		<g aria-label="AIR" transform="matrix(0.50542144,0,-0.11840788,0.47147843,-1.972041,-49.917595)" id="text905" font-style="normal" font-variant="normal" font-weight="bold" font-stretch="normal" font-size="23.0511px" line-height="1.25" font-family="'Eurostile Extended'" letter-spacing="2.55544px" fill="#fec133" fill-opacity="1" stroke-width="0.576276">
+			<path d="m 235.14316,125.43755 h -5.20955 l 8.57501,-15.37508 h 6.316 l 8.3906,15.37508 h -5.16345 l -1.45222,-2.78918 h -9.93502 z m 3.158,-5.97023 h 6.59261 l -3.2963,-6.08549 z" id="path933" font-style="normal" font-variant="normal" font-weight="bold" font-stretch="normal" font-family="'Eurostile Extended'" fill="#fec133" fill-opacity="1" stroke-width="0.576276"/>
+			<path d="m 258.53678,125.43755 v -15.37508 h 4.67938 v 15.37508 z" id="path935" font-style="normal" font-variant="normal" font-weight="bold" font-stretch="normal" font-family="'Eurostile Extended'" fill="#fec133" fill-opacity="1" stroke-width="0.576276"/>
+			<path d="m 284.09719,110.06247 q 2.78919,0 3.94174,1.0834 0.59933,0.53018 0.899,1.45222 0.29966,0.92204 0.29966,2.32816 v 0.25356 q 0,0.96815 -0.11526,1.61358 -0.11525,0.64543 -0.46102,1.17561 -0.34576,0.53017 -0.80679,0.82984 -0.32271,0.18441 -1.93629,0.73763 1.56748,0.20746 2.35121,0.82984 0.78374,0.59933 0.78374,2.1207 v 2.95054 h -4.74853 v -1.47527 q 0,-1.10645 -0.20746,-1.77493 -0.1844,-0.69153 -1.82103,-0.69153 h -7.81433 v 3.94173 h -4.67937 v -15.37508 z m -1.95934,7.69907 q 1.59053,0 1.9824,-0.39187 0.39186,-0.39187 0.39186,-1.75189 0,-0.78373 -0.16135,-1.10645 -0.13831,-0.34576 -0.62238,-0.53017 l -0.76069,-0.16136 -0.71458,-0.023 h -0.36882 -7.42246 v 3.96479 h 7.07669 z" id="path937" font-style="normal" font-variant="normal" font-weight="bold" font-stretch="normal" font-family="'Eurostile Extended'" fill="#fec133" fill-opacity="1" stroke-width="0.576276"/>
+		</g>
+		<text xml:space="preserve" id="text907" font-size="10.5833px" line-height="1.25" font-family="Eurostile" white-space="pre" shape-inside="url(#rect909)"/>
+	</g>
+</svg>

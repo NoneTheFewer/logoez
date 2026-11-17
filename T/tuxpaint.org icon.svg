@@ -1,8 +1,6 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 701.19739 625.41107" inkscape:version="0.47 r22583" sodipodi:docname="tuxpaint-icon.svg">
-	<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview41" showgrid="false" inkscape:zoom="0.31072952" inkscape:cx="341.87043" inkscape:cy="113.72971" inkscape:window-x="97" inkscape:window-y="76" inkscape:window-maximized="0" inkscape:current-layer="svg827"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 701.19739 625.41107">
 	<defs id="defs829">
-		<inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective45"/>
 		<linearGradient id="linearGradient888">
 			<stop style="stop-color:#ffe06c;stop-opacity:1;" offset="0" id="stop889"/>
 			<stop style="stop-color:#dea400;stop-opacity:1;" offset="1" id="stop890"/>
@@ -10,10 +8,6 @@
 		<linearGradient id="linearGradient882">
 			<stop style="stop-color:#f54182;stop-opacity:1;" offset="0" id="stop883"/>
 			<stop style="stop-color:#350714;stop-opacity:1;" offset="1" id="stop884"/>
-		</linearGradient>
-		<linearGradient id="linearGradient869">
-			<stop style="stop-color:#ffcb7e;stop-opacity:1;" offset="0" id="stop870"/>
-			<stop style="stop-color:#6a5318;stop-opacity:1;" offset="1" id="stop871"/>
 		</linearGradient>
 		<linearGradient id="linearGradient842">
 			<stop style="stop-color:#e9ba73;stop-opacity:1;" offset="0" id="stop843"/>
@@ -24,12 +18,9 @@
 			<stop style="stop-color:#ffcb32;stop-opacity:1;" offset="1" id="stop839"/>
 		</linearGradient>
 		<radialGradient cx="381.29867" cy="593.75594" r="113.25515" fx="386.17806" fy="596.01457" id="radialGradient840" xlink:href="#linearGradient882" gradientTransform="scale(1.1165774,0.89559398)" gradientUnits="userSpaceOnUse"/>
-		<radialGradient cx="0.3493976" cy="0.4453125" r="0.56970376" fx="0.3493976" fy="0.4453125" id="radialGradient841" xlink:href="#linearGradient888" spreadMethod="pad"/>
 		<linearGradient x1="585.47313" y1="489.43571" x2="578.42898" y2="521.89751" id="linearGradient845" xlink:href="#linearGradient842" gradientTransform="scale(0.92856294,1.0769329)" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="513.00278" y1="645.42102" x2="521.72137" y2="615.19617" id="linearGradient864" xlink:href="#linearGradient837" gradientTransform="scale(1.128704,0.88597186)" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="540.40474" y1="790.11204" x2="551.2872" y2="768.24637" id="linearGradient874" xlink:href="#linearGradient837" gradientTransform="scale(1.3177775,0.75885347)" gradientUnits="userSpaceOnUse"/>
-		<linearGradient x1="0.27848101" y1="0.6953125" x2="0.42405063" y2="0.9609375" id="linearGradient880" xlink:href="#linearGradient882"/>
-		<linearGradient x1="0.52531648" y1="0.578125" x2="0.50632912" y2="0.7890625" id="linearGradient886" xlink:href="#linearGradient882"/>
 	</defs>
 	<path d="m 407.02305,202.14399 0,0 c -437.19986,835.72821 2.54482,-40.7171 7.63446,-48.86052 5.08963,-8.14342 12.21513,-22.39441 30.02886,-25.95715 17.81373,-3.56275 21.37647,8.14342 29.51989,20.35855 8.14342,12.21513 1.01793,27.48404 1.01793,27.48404 0,0 1.52689,3.56275 2.54482,1.01793 1.01793,-2.54482 5.5986,-33.08265 23.41233,-40.20814 17.81373,-7.12549 19.34062,-8.65238 35.1185,-3.56274 15.77788,5.08963 22.90337,37.15435 23.41233,43.26191 0.50897,6.10757 -2.03585,54.45913 -32.06471,76.85353 -30.02886,22.3944 -41.22607,-2.03585 -38.17228,-1.01793 3.05378,1.01793 -23.9213,-11.70616 -22.39441,-13.74202 1.52689,-2.03585 -5.5986,-12.21513 -5.08964,-10.17927 0.50897,2.03585 -8.65238,-1.52689 -6.61652,3.56274 2.03585,5.08964 -22.90337,-4.07171 -25.95716,-3.05378 -3.05378,1.01793 -18.83165,-6.61653 -19.34062,-10.17927 -0.50896,-3.56275 -3.05378,-15.77788 -3.05378,-15.77788 z" style="fill:#d1a3c7;fill-rule:evenodd;stroke:#000000;stroke-width:1pt" id="path849"/>
 	<g style="" id="g626" transform="translate(-30.17681,-14.499722)">

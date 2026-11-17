@@ -1423,7 +1423,6 @@
 			<stop id="stop5543" style="stop-color:white;stop-opacity:1" offset="0.875"/>
 			<stop id="stop5545" style="stop-color:white;stop-opacity:1" offset="1"/>
 		</linearGradient>
-		<radialGradient cx="0" cy="0" r="1" fx="0" fy="0" id="radialGradient15466" xlink:href="#radial1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-52.384318,52.791593,0,116.90363,700.25839)"/>
 		<linearGradient x1="0.230469" y1="0" x2="1.46875" y2="0" id="linearGradient15611" xlink:href="#linear6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(37.792639,-25.94014,25.94014,37.792639,92.350466,716.99439)"/>
 		<radialGradient cx="0" cy="0" r="1" fx="0" fy="0" id="radialGradient15613" xlink:href="#radial1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-52.384318,52.791593,0,116.90363,700.25839)"/>
 		<linearGradient x1="-0.59765601" y1="0" x2="1.433594" y2="0" id="linearGradient15615" xlink:href="#linear7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-30.951376,22.79367,-22.79367,-30.951376,127.67497,692.60321)"/>
@@ -1465,38 +1464,38 @@
 			<path d="M 176.98437,694.27344 L 176.98437,665.42969 L 156.86719,665.42969 L 156.86719,694.27344 L 176.98437,694.27344" id="path11530" style="fill:url(#linearGradient15623);fill-rule:nonzero;stroke:none"/>
 		</g>
 		<g transform="matrix(0,0.80864913,-0.80864913,0,532.05472,226.61516)" id="g11534" style="fill:white;fill-opacity:1">
-			<use id="use11536" x="188.91734" y="765.75616" width="595.27557" height="841.88977" xlink:href="#glyph4-1"/>
-			<use id="use11538" x="188.91734" y="759.96173" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
-			<use id="use11540" x="188.91734" y="757.86969" width="595.27557" height="841.88977" xlink:href="#glyph4-3"/>
-			<use id="use11542" x="188.91734" y="753.94904" width="595.27557" height="841.88977" xlink:href="#glyph4-4"/>
-			<use id="use11544" x="188.91734" y="750.99915" width="595.27557" height="841.88977" xlink:href="#glyph4-5"/>
-			<use id="use11546" x="188.91734" y="747.90625" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
-			<use id="use11548" x="188.91734" y="745.81427" width="595.27557" height="841.88977" xlink:href="#glyph4-6"/>
-			<use id="use11550" x="188.91734" y="741.03571" width="595.27557" height="841.88977" xlink:href="#glyph4-7"/>
-			<use id="use11552" x="188.91734" y="736.26471" width="595.27557" height="841.88977" xlink:href="#glyph4-8"/>
-			<use id="use11554" x="188.91734" y="732.12579" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
-			<use id="use11556" x="188.91734" y="730.03381" width="595.27557" height="841.88977" xlink:href="#glyph4-9"/>
-			<use id="use11558" x="188.91734" y="725.42834" width="595.27557" height="841.88977" xlink:href="#glyph4-10"/>
-			<use id="use11560" x="188.91734" y="720.65735" width="595.27557" height="841.88977" xlink:href="#glyph4-11"/>
-			<use id="use11562" x="188.91734" y="718.26428" width="595.27557" height="841.88977" xlink:href="#glyph4-12"/>
-			<use id="use11564" x="188.91734" y="713.01166" width="595.27557" height="841.88977" xlink:href="#glyph4-7"/>
-			<use id="use11566" x="188.91734" y="708.24066" width="595.27557" height="841.88977" xlink:href="#glyph4-6"/>
-			<use id="use11568" x="188.91734" y="703.46216" width="595.27557" height="841.88977" xlink:href="#glyph4-13"/>
-			<use id="use11570" x="188.91734" y="698.84912" width="595.27557" height="841.88977" xlink:href="#glyph4-10"/>
-			<use id="use11572" x="188.91734" y="694.07812" width="595.27557" height="841.88977" xlink:href="#glyph4-13"/>
-			<use id="use11574" x="188.91734" y="689.46515" width="595.27557" height="841.88977" xlink:href="#glyph4-11"/>
-			<use id="use11576" x="188.91734" y="687.07214" width="595.27557" height="841.88977" xlink:href="#glyph4-14"/>
-			<use id="use11578" x="188.91734" y="682.29358" width="595.27557" height="841.88977" xlink:href="#glyph4-15"/>
-			<use id="use11580" x="188.91734" y="677.66559" width="595.27557" height="841.88977" xlink:href="#glyph4-11"/>
-			<use id="use11582" x="188.91734" y="675.27252" width="595.27557" height="841.88977" xlink:href="#glyph4-16"/>
-			<use id="use11584" x="188.91734" y="669.44043" width="595.27557" height="841.88977" xlink:href="#glyph4-17"/>
-			<use id="use11586" x="188.91734" y="663.81158" width="595.27557" height="841.88977" xlink:href="#glyph4-18"/>
-			<use id="use11588" x="188.91734" y="658.3031" width="595.27557" height="841.88977" xlink:href="#glyph4-19"/>
-			<use id="use11590" x="188.91734" y="655.76709" width="595.27557" height="841.88977" xlink:href="#glyph4-20"/>
-			<use id="use11592" x="188.91734" y="651.5755" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
-			<use id="use11594" x="188.91734" y="649.48346" width="595.27557" height="841.88977" xlink:href="#glyph4-10"/>
-			<use id="use11596" x="188.91734" y="644.71246" width="595.27557" height="841.88977" xlink:href="#glyph4-7"/>
-			<use id="use11598" x="188.91734" y="639.94147" width="595.27557" height="841.88977" xlink:href="#glyph4-21"/>
+			<use x="188.91734" y="765.75616" width="595.27557" height="841.88977" xlink:href="#glyph4-1"/>
+			<use x="188.91734" y="759.96173" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
+			<use x="188.91734" y="757.86969" width="595.27557" height="841.88977" xlink:href="#glyph4-3"/>
+			<use x="188.91734" y="753.94904" width="595.27557" height="841.88977" xlink:href="#glyph4-4"/>
+			<use x="188.91734" y="750.99915" width="595.27557" height="841.88977" xlink:href="#glyph4-5"/>
+			<use x="188.91734" y="747.90625" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
+			<use x="188.91734" y="745.81427" width="595.27557" height="841.88977" xlink:href="#glyph4-6"/>
+			<use x="188.91734" y="741.03571" width="595.27557" height="841.88977" xlink:href="#glyph4-7"/>
+			<use x="188.91734" y="736.26471" width="595.27557" height="841.88977" xlink:href="#glyph4-8"/>
+			<use x="188.91734" y="732.12579" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
+			<use x="188.91734" y="730.03381" width="595.27557" height="841.88977" xlink:href="#glyph4-9"/>
+			<use x="188.91734" y="725.42834" width="595.27557" height="841.88977" xlink:href="#glyph4-10"/>
+			<use x="188.91734" y="720.65735" width="595.27557" height="841.88977" xlink:href="#glyph4-11"/>
+			<use x="188.91734" y="718.26428" width="595.27557" height="841.88977" xlink:href="#glyph4-12"/>
+			<use x="188.91734" y="713.01166" width="595.27557" height="841.88977" xlink:href="#glyph4-7"/>
+			<use x="188.91734" y="708.24066" width="595.27557" height="841.88977" xlink:href="#glyph4-6"/>
+			<use x="188.91734" y="703.46216" width="595.27557" height="841.88977" xlink:href="#glyph4-13"/>
+			<use x="188.91734" y="698.84912" width="595.27557" height="841.88977" xlink:href="#glyph4-10"/>
+			<use x="188.91734" y="694.07812" width="595.27557" height="841.88977" xlink:href="#glyph4-13"/>
+			<use x="188.91734" y="689.46515" width="595.27557" height="841.88977" xlink:href="#glyph4-11"/>
+			<use x="188.91734" y="687.07214" width="595.27557" height="841.88977" xlink:href="#glyph4-14"/>
+			<use x="188.91734" y="682.29358" width="595.27557" height="841.88977" xlink:href="#glyph4-15"/>
+			<use x="188.91734" y="677.66559" width="595.27557" height="841.88977" xlink:href="#glyph4-11"/>
+			<use x="188.91734" y="675.27252" width="595.27557" height="841.88977" xlink:href="#glyph4-16"/>
+			<use x="188.91734" y="669.44043" width="595.27557" height="841.88977" xlink:href="#glyph4-17"/>
+			<use x="188.91734" y="663.81158" width="595.27557" height="841.88977" xlink:href="#glyph4-18"/>
+			<use x="188.91734" y="658.3031" width="595.27557" height="841.88977" xlink:href="#glyph4-19"/>
+			<use x="188.91734" y="655.76709" width="595.27557" height="841.88977" xlink:href="#glyph4-20"/>
+			<use x="188.91734" y="651.5755" width="595.27557" height="841.88977" xlink:href="#glyph4-2"/>
+			<use x="188.91734" y="649.48346" width="595.27557" height="841.88977" xlink:href="#glyph4-10"/>
+			<use x="188.91734" y="644.71246" width="595.27557" height="841.88977" xlink:href="#glyph4-7"/>
+			<use x="188.91734" y="639.94147" width="595.27557" height="841.88977" xlink:href="#glyph4-21"/>
 		</g>
 	</g>
 </svg>

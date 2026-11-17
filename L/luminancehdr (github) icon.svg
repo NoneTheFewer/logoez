@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 320 320">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 320">
 	<defs id="defs4">
 		<linearGradient id="linearGradient3693">
 			<stop id="stop3695" style="stop-color:#a40000;stop-opacity:1" offset="0"/>
@@ -32,48 +32,37 @@
 			<stop id="stop3315" style="stop-color:#eceaec;stop-opacity:1" offset="1"/>
 		</linearGradient>
 		<filter id="filter3307">
-			<feGaussianBlur inkscape:collect="always" stdDeviation="0.90550225" id="feGaussianBlur3309"/>
+			<feGaussianBlur stdDeviation="0.90550225" id="feGaussianBlur3309"/>
 		</filter>
 		<filter id="filter3397">
-			<feGaussianBlur inkscape:collect="always" stdDeviation="0.30214706" id="feGaussianBlur3399"/>
+			<feGaussianBlur stdDeviation="0.30214706" id="feGaussianBlur3399"/>
 		</filter>
 		<mask id="mask3532">
 			<rect width="255.646" height="255.784" x="324.26031" y="64.350067" id="rect3534" style="fill:#c8f9f9;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
 		</mask>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3538" xlink:href="#linearGradient3311" gradientUnits="userSpaceOnUse"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3540" xlink:href="#linearGradient3327" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076174e-6)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3599" xlink:href="#linearGradient3609" gradientUnits="userSpaceOnUse" gradientTransform="translate(-276.14926,264.01847)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3607" xlink:href="#linearGradient3601" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076183e-6)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3229" xlink:href="#linearGradient3693" gradientUnits="userSpaceOnUse" gradientTransform="translate(101.16511,-1.16141)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3239" xlink:href="#linearGradient3685" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076227e-6)"/>
+		<filter id="filter3253">
+			<feGaussianBlur id="feGaussianBlur3255" stdDeviation="0.63928732"/>
+		</filter>
 		<filter id="filter3253">
 			<feGaussianBlur id="feGaussianBlur3255" stdDeviation="0.63928732" inkscape:collect="always"/>
 		</filter>
 		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3274" xlink:href="#linearGradient3609" gradientUnits="userSpaceOnUse" gradientTransform="translate(-291.82193,208.19683)"/>
 		<filter id="filter3300">
-			<feGaussianBlur id="feGaussianBlur3302" stdDeviation="0.63928732" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3302" stdDeviation="0.63928732"/>
 		</filter>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3321" xlink:href="#linearGradient3311" gradientUnits="userSpaceOnUse" gradientTransform="translate(-324.32035,-65.108225)"/>
 		<filter id="filter3339">
-			<feGaussianBlur id="feGaussianBlur3341" stdDeviation="1.3235374" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3341" stdDeviation="1.3235374"/>
 		</filter>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3353" xlink:href="#linearGradient3311" gradientUnits="userSpaceOnUse" gradientTransform="translate(-324.32035,-65.108225)"/>
 		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3355" xlink:href="#linearGradient3327" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076174e-6)"/>
 		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3365" xlink:href="#linearGradient3311" gradientUnits="userSpaceOnUse" gradientTransform="translate(-324.32035,-65.108225)"/>
 		<filter id="filter3372">
-			<feGaussianBlur id="feGaussianBlur3374" stdDeviation="0.63928732" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3374" stdDeviation="0.63928732"/>
 		</filter>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3386" xlink:href="#linearGradient3693" gradientUnits="userSpaceOnUse" gradientTransform="translate(101.16511,-1.16141)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3388" xlink:href="#linearGradient3685" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076227e-6)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3398" xlink:href="#linearGradient3693" gradientUnits="userSpaceOnUse" gradientTransform="translate(101.16511,-1.16141)"/>
 		<filter id="filter3400">
-			<feGaussianBlur id="feGaussianBlur3402" stdDeviation="1.3235374" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3402" stdDeviation="1.3235374"/>
 		</filter>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3414" xlink:href="#linearGradient3609" gradientUnits="userSpaceOnUse" gradientTransform="translate(-291.82193,208.19683)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3416" xlink:href="#linearGradient3601" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076183e-6)"/>
-		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3426" xlink:href="#linearGradient3609" gradientUnits="userSpaceOnUse" gradientTransform="translate(-291.82193,208.19683)"/>
 		<filter id="filter3428">
-			<feGaussianBlur id="feGaussianBlur3430" stdDeviation="1.3235374" inkscape:collect="always"/>
+			<feGaussianBlur id="feGaussianBlur3430" stdDeviation="1.3235374"/>
 		</filter>
 		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3442" xlink:href="#linearGradient3609" gradientUnits="userSpaceOnUse" gradientTransform="translate(-291.82193,208.19683)"/>
 		<linearGradient x1="324.26031" y1="64.134064" x2="574.43298" y2="314.30673" id="linearGradient3444" xlink:href="#linearGradient3601" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.999969,1.8076183e-6)"/>

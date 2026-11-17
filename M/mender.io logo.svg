@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" stroke-miterlimit="10" viewBox="0 0 749.999 252.469" xml:space="preserve">
-	<defs/>
+<svg xmlns="http://www.w3.org/2000/svg" stroke-miterlimit="10" viewBox="0 0 749.999 252.469" xml:space="preserve">
 	<clipPath id="ArtboardFrame">
 		<rect height="252.469" width="749.999" x="0" y="0"/>
 	</clipPath>
-	<g clip-path="url(#ArtboardFrame)" id="Original-NT" vectornator:layerName="Original +NT">
+	<g clip-path="url(#ArtboardFrame)" id="Original-NT" >
 		<clipPath id="ClipPath">
 			<path d="M0 0L750 0L750 252.469L0 252.469L0 0Z" fill-rule="evenodd"/>
 		</clipPath>

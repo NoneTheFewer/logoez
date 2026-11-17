@@ -1,4 +1,10 @@
 <?xml version="1.0" ?>
+<<<<<<< HEAD
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+	<title>AskVerdict — 3D / Apple-style</title>
+	<defs>
+		<linearGradient id="g" x1="50%" y1="0%" x2="50%" y2="100%">
+=======
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 	<title>AskVerdict</title>
 	<path d="M12 3.42L4.5 7.97 12 12.47Z" fill="url(#lobe-icons-ask-verdict-_R_0_)" fill-opacity="0.7"/>
@@ -8,9 +14,32 @@
 	<path d="M5.3 16.83L12 19.55 18.7 16.83 18.7 18.38 12 20.77 5.3 18.38Z" fill="url(#lobe-icons-ask-verdict-_R_0_)" fill-opacity="0.62"/>
 	<defs>
 		<linearGradient id="lobe-icons-ask-verdict-_R_0_" x1="50%" x2="50%" y1="0%" y2="100%">
+>>>>>>> origin/main
 			<stop offset="0%" stop-color="#FAD460"/>
 			<stop offset="45%" stop-color="#E8A317"/>
 			<stop offset="100%" stop-color="#B8751A"/>
 		</linearGradient>
+<<<<<<< HEAD
+		<linearGradient id="bg" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop offset="0%" stop-color="#1e1a0e"/>
+			<stop offset="100%" stop-color="#080808"/>
+		</linearGradient>
+		<linearGradient id="gloss" x1="0%" y1="0%" x2="0%" y2="100%">
+			<stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+			<stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
 	</defs>
+	<!-- Satin background -->
+	<rect width="512" height="512" rx="110" fill="url(#bg)"/>
+	<!-- Gloss strip -->
+	<rect width="512" height="180" rx="110" fill="url(#gloss)"/>
+	<!-- Icon geometry -->
+	<path d="M256 73 L96 170 L256 266 Z" fill="url(#g)" fill-opacity="0.7"/>
+	<path d="M256 73 L416 170 L256 266 Z" fill="url(#g)"/>
+	<path d="M256 140 L309 191 L279 191 L256 165 L231 191 L201 191 Z" fill="#0a0800" fill-opacity="0.52"/>
+	<path d="M96 296 L256 359 L416 296 L416 333 L256 396 L96 333 Z" fill="url(#g)" fill-opacity="0.82"/>
+	<path d="M113 359 L256 417 L399 359 L399 392 L256 443 L113 392 Z" fill="url(#g)" fill-opacity="0.62"/>
+=======
+	</defs>
+>>>>>>> origin/main
 </svg>

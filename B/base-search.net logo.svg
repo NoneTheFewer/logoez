@@ -9,11 +9,6 @@
 			<stop id="stop3951" style="stop-color:#a1a1a1;stop-opacity:1" offset="0"/>
 			<stop id="stop3953" style="stop-color:#a1a1a1;stop-opacity:0" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient3917">
-			<stop id="stop3919" style="stop-color:#ff9f0a;stop-opacity:1" offset="0"/>
-			<stop id="stop3921" style="stop-color:#ff9f0a;stop-opacity:0" offset="1"/>
-		</linearGradient>
-		<linearGradient x1="230" y1="145" x2="232" y2="280" id="linearGradient3923" xlink:href="#linearGradient3917" gradientUnits="userSpaceOnUse"/>
 		<linearGradient x1="113" y1="128" x2="110" y2="464" id="linearGradient3955" xlink:href="#linearGradient3949" gradientUnits="userSpaceOnUse" gradientTransform="translate(-0.999717,-0.99998)"/>
 		<linearGradient x1="220" y1="138" x2="222" y2="316" id="linearGradient3967" xlink:href="#linearGradient3961" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.00004,-0.99999)"/>
 		<filter x="-0.20965087" y="-0.28062308" width="1.4193017" height="1.5612462" color-interpolation-filters="sRGB" id="filter3904">

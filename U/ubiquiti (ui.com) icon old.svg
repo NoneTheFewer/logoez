@@ -13,9 +13,6 @@
 		<clipPath clipPathUnits="userSpaceOnUse" id="b">
 			<path d="M 61.723,52.808 C 58.267,52.965 55.608,53.842 53.548,55.111 C 54.943,49.056 60.16,46.082 60.412,45.941 L 61.95,45.093 C 73.718,45.879 80.606,53.476 80.606,63.41 L 80.606,65.563 C 77.809,56.437 71.299,52.377 61.723,52.808"/>
 		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="d">
-			<path d="M 6.998,7.392 L 116.078,7.392 L 116.078,96.455 L 6.998,96.455 L 6.998,7.392"/>
-		</clipPath>
 		<linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(53.548 55.328) scale(27.057)" spreadMethod="pad" id="c">
 			<stop offset="0" stop-color="#656263"/>
 			<stop offset="1" stop-color="#a7a5a6"/>

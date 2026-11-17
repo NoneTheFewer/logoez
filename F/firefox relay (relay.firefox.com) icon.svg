@@ -1,21 +1,9 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 77.2 79.73">
 	<defs>
-		<linearGradient id="a" x1="460.66" y1="-120.15" x2="449.39" y2="-109.49" gradientTransform="matrix(1 0 0 -1 -389 -47.01)" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#054096" stop-opacity=".5"/>
-			<stop offset=".1" stop-color="#173ba1" stop-opacity=".44"/>
-			<stop offset=".29" stop-color="#3434b3" stop-opacity=".33"/>
-			<stop offset=".49" stop-color="#482ec1" stop-opacity=".22"/>
-			<stop offset=".68" stop-color="#552bc8" stop-opacity=".11"/>
-			<stop offset=".86" stop-color="#592acb" stop-opacity="0"/>
-		</linearGradient>
 		<linearGradient id="b" x1="3.39" y1="42.56" x2="73.6" y2="42.56" gradientTransform="matrix(1 0 0 -1 0 82.99)" gradientUnits="userSpaceOnUse">
 			<stop offset="0" stop-color="#9059ff"/>
 			<stop offset="1" stop-color="#f770ff"/>
-		</linearGradient>
-		<linearGradient id="c" x1="40.92" y1="20.28" x2="81.59" y2="3.07" gradientTransform="matrix(1 0 0 -1 0 82.99)" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#54ffbd"/>
-			<stop offset="1" stop-color="#0df"/>
 		</linearGradient>
 	</defs>
 	<path d="M70.19 18.69l-28.4-16a6.81 6.81 0 00-6.5 0l-28.5 16a6.68 6.68 0 00-3.4 5.8v31.9a6.56 6.56 0 003.4 5.8l28.4 15.9a6.29 6.29 0 003.3.9 6.56 6.56 0 003.3-.9l28.4-15.9a6.68 6.68 0 003.4-5.8v-31.9a6.38 6.38 0 00-3.4-5.8z" transform="translate(-3.39 -1.87)" fill="url(#b)"/>

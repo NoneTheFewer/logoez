@@ -1,15 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" viewBox="0 0 1731 500">
 	<defs>
-		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
-			<path d="M-1621.17 447.33L-922.8 447.33L-922.8 1013.57L-1621.17 1013.57L-1621.17 447.33Z"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
-			<path d="M-153.35 577.39L660.09 577.39L660.09 1174.46L-153.35 1174.46L-153.35 577.39Z"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
-			<path d="M-153.35 577.39L660.09 577.39L660.09 1174.46L-153.35 1174.46L-153.35 577.39Z"/>
-		</clipPath>
 	</defs>
 	<style>
 		.shp0 { fill: #4b2b6d } 

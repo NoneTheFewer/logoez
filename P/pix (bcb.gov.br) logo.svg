@@ -1,56 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 237.76514 84.263428">
 	<defs id="defs853">
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1420">
-			<path d="M 0,1080 H 1920 V 0 H 0 Z" id="path1418"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1428">
-			<path d="M 2.31224,1078.65 H 1921.71 V 0.354599 H 2.31224 Z" id="path1426"/>
-		</clipPath>
-		<radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2279.4458,0,0,1280.5419,962.0127,539.50366)" spreadMethod="pad" id="radialGradient1438">
-			<stop offset="0" id="stop1434" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="1" id="stop1436" stop-opacity="1" stop-color="#000000"/>
-		</radialGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1460">
-			<path d="M 1.52588e-5,1083.19 H 1921.71 V -3.05673 H 1.52588e-5 Z" id="path1458"/>
-		</clipPath>
-		<radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2282.1917,0,0,1289.9785,960.85657,540.06549)" spreadMethod="pad" id="radialGradient1470">
-			<stop offset="0" id="stop1466" stop-opacity="1" stop-color="#ffffff"/>
-			<stop offset="1" id="stop1468" stop-opacity="1" stop-color="#000000"/>
-		</radialGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1492">
-			<path d="M 11.7831,1078.21 H 1910.67 V 42.0222 H 11.7831 Z" id="path1490"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1496">
-			<path d="M 11.7831,1017.59 H 1879.91 V 42.0222 H 11.7831 Z" id="path1494"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1500">
-			<path d="M 121.596,1078.21 H 1910.67 V 117.8 H 121.596 Z" id="path1498"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2268">
-			<path d="M 0,1080 H 1920 V 0 H 0 Z" id="path2266"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2280">
-			<path d="m 1609.83,82.2588 h 26.48 V 63.5831 h -26.48 z" id="path2278"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2296">
-			<path d="m 1600.18,103.19 h 22.86 V 76.7676 h -22.86 z" id="path2294"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2312">
-			<path d="m 1618.19,89.9323 h 22.12 V 63.6456 h -22.12 z" id="path2310"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2328">
-			<path d="m 1604.2,103.117 h 26.46 V 84.441 h -26.46 z" id="path2326"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2474">
-			<path d="M 0,1080 H 1920 V 0 H 0 Z" id="path2472"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2482">
-			<path d="M 1258.575,-1094.026 926.826,-9.01 H 0 v -1085.016 z" id="path2480"/>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2490">
-			<path d="M -307.943,-1106.382 H 1369.67 V 12.027 H -307.943 Z" id="path2488"/>
-		</clipPath>
 	</defs>
 	<g transform="translate(-535.59399,-20.808825)" id="layer1">
 		<path d="m 633.42119,99.489186 v -48.3242 c 0,-8.89177 7.20795,-16.09972 16.09936,-16.09972 l 14.2681,0.0215 c 8.86566,0.0176 16.04363,7.20972 16.04363,16.07573 v 10.28594 c 0,8.89176 -7.20831,16.09972 -16.09972,16.09972 h -20.1616" id="path2356" fill="none" stroke="#939598" stroke-width="2.97638607" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="none" stroke-opacity="1"/>

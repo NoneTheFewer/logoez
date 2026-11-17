@@ -1,23 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.42857 82.14286">
 	<defs id="defs8651">
-		<linearGradient x1="0" y1="0" x2="1" y2="0" id="linearGradient8807" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-30.757034,302.41644,0,30.561706,578.2946)" spreadMethod="pad">
-			<stop id="stop8809" style="stop-color:#0994dc;stop-opacity:1" offset="0"/>
-			<stop id="stop8811" style="stop-color:#2e3192;stop-opacity:1" offset="0.81999999"/>
-			<stop id="stop8813" style="stop-color:#0994dc;stop-opacity:1" offset="1"/>
-		</linearGradient>
-		<clipPath id="clipPath8769">
-			<path d="m -11.339,606.614 864.567,0 0,-182.006 -864.567,0 0,182.006 z" id="path8771"/>
-		</clipPath>
-		<clipPath id="clipPath8703">
-			<path d="m 670.669,204.25 9.769,0 0,16.463 -9.769,0 0,-16.463 z" id="path8705"/>
-		</clipPath>
-		<clipPath id="clipPath8691">
-			<path d="m 270.269,403.982 c 8.511,-16.727 25.062,-33.405 32.031,-53.3 -0.135,-9.444 27.78,-44.816 19.732,-43.819 -20.877,0 -38.907,0.256 -58.938,0.256 -22.97,0 -73.841,-12.397 -44.076,27.675 14.209,19.129 23.221,69.445 51.251,69.188" id="path8693"/>
-		</clipPath>
-		<clipPath id="clipPath8679">
-			<path d="m -11.339,606.614 864.567,0 0,-617.953 -864.567,0 0,617.953 z" id="path8681"/>
-		</clipPath>
 	</defs>
 	<g transform="translate(-429.35708,-192.16336)" id="layer1">
 		<g transform="matrix(1.25,0,0,-1.25,-176.18087,904.40918)" id="g8665">

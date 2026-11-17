@@ -1,12 +1,6 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
 	<defs>
-		<clipPath id="shadow">
-			<circle fill="#4f8df5" cx="16" cy="16" r="14.2"/>
-		</clipPath>
-		<clipPath id="yellow">
-			<polygon points=" 0,31.35 8.35,22.99 8.35,12.4 0,5.7"/>
-		</clipPath>
 		<filter id="shade" x="-1" width="100" y="0">
 			<feGaussianBlur in="SourceGraphic" stdDeviation=".25"/>
 		</filter>

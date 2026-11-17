@@ -26,20 +26,6 @@
 			<stop id="stop4652" offset="0.40611771" style="stop-color:#006592;stop-opacity:1;"/>
 			<stop style="stop-color:#01aef0;stop-opacity:1;" offset="1" id="stop4646"/>
 		</linearGradient>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath5659">
-			<g id="use5661">
-				<path style="fill:url(#linearGradient5693);fill-opacity:1;stroke-width:0.120265" d="m 139.3859,192.0746 c 0.77307,-0.22957 1.48562,-0.84966 1.91818,-1.66929 0.40862,-1.21404 0.62082,-2.78583 0.0378,-3.91625 -0.58686,-1.12005 -1.39766,-1.71538 -2.59116,-1.90254 -1.30748,-0.20503 -2.5819,0.17949 -3.29801,0.99509 -0.51801,0.58999 -0.6945,0.96543 -0.86773,1.84598 -0.62983,3.20138 1.78803,5.54174 4.80089,4.64701 z" id="path5689"/>
-			</g>
-		</clipPath>
-		<clipPath clipPathUnits="userSpaceOnUse" id="clipPath5675">
-			<g id="use5677">
-				<g id="g5683" clip-path="url(#clipPath5659)">
-					<g id="g5681">
-						<path style="fill:url(#linearGradient5687);fill-opacity:1;stroke-width:0.120265" d="m 139.3859,192.0746 c 0.77307,-0.22957 1.48562,-0.84966 1.91818,-1.66929 0.40862,-1.21404 0.62082,-2.78583 0.0378,-3.91625 -0.58686,-1.12005 -1.39766,-1.71538 -2.59116,-1.90254 -1.30748,-0.20503 -2.5819,0.17949 -3.29801,0.99509 -0.51801,0.58999 -0.6945,0.96543 -0.86773,1.84598 -0.62983,3.20138 1.78803,5.54174 4.80089,4.64701 z" id="path5679"/>
-					</g>
-				</g>
-			</g>
-		</clipPath>
 		<linearGradient xlink:href="#linearGradient5614" id="linearGradient5687" gradientUnits="userSpaceOnUse" x1="134.48447" y1="188.3996" x2="141.70061" y2="188.3996"/>
 		<linearGradient xlink:href="#linearGradient5614" id="linearGradient5693" gradientUnits="userSpaceOnUse" x1="134.48447" y1="188.3996" x2="141.70061" y2="188.3996"/>
 	</defs>

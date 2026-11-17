@@ -26,12 +26,6 @@
 			</defs>
 			<use xlink:href="#SVGID_1_" overflow="visible" fill="#0099D8"/>
 			<use xlink:href="#SVGID_2_" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#0099D8"/>
-			<clipPath id="SVGID_3_">
-				<use xlink:href="#SVGID_1_" overflow="visible"/>
-			</clipPath>
-			<clipPath id="SVGID_4_" clip-path="url(#SVGID_3_)">
-				<use xlink:href="#SVGID_2_" overflow="visible"/>
-			</clipPath>
 		</g>
 		<g>
 			<line fill="none" stroke="#0099D8" stroke-width="5.728" x1="58.25" y1="191.605" x2="616.977" y2="191.605"/>

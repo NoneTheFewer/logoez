@@ -16,9 +16,5 @@
 	<path d="M1262.2 70.8h-21.3V56.1h59.7v14.7h-21.3v55.4h-17.2V70.8z" class="a"/>
 	<path d="M1352 56.1h43.9v14.7h-26.8v12.7h21.4v14.7h-21.4v13.2h28.2v14.7H1352V56.1z" class="a"/>
 	<defs>
-		<linearGradient id="MyGradient">
-			<stop offset="5%" stop-color="#F60"/>
-			<stop offset="95%" stop-color="#FF6"/>
-		</linearGradient>
 	</defs>
 </svg>

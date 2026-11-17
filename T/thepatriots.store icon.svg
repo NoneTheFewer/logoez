@@ -1,11 +1,8 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 170">
 	<rect fill="lightgrey" height="100%" width="100%"/>
-	&quot;
+	"
 	<defs>
-		<clipPath id="clip1">
-			<path d="M 732 331 L 773.851563 331 L 773.851563 398 L 732 398 Z M 732 331 "/>
-		</clipPath>
 		<clipPath id="clip2">
 			<path d="M 81 578 L 242 578 L 242 737.570313 L 81 737.570313 Z M 81 578 "/>
 		</clipPath>
