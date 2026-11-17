@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+	<defs>
+		<linearGradient id="logoL" x1="20%" y1="0%" x2="80%" y2="100%">
+			<stop offset="0%" stop-color="#A78BFA"/>
+			<stop offset="50%" stop-color="#F5A8C5"/>
+			<stop offset="100%" stop-color="#FFC267"/>
+		</linearGradient>
+		<linearGradient id="logoR" x1="20%" y1="100%" x2="80%" y2="0%">
+			<stop offset="0%" stop-color="#5CD4E7"/>
+			<stop offset="50%" stop-color="#7BE9F6"/>
+			<stop offset="100%" stop-color="#86EFAC"/>
+		</linearGradient>
+	</defs>
+	<path d="M 14 14 L 30 14 L 22 30 Z" fill="url(#logoL)" stroke="url(#logoL)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+	<path d="M 50 50 L 34 50 L 42 34 Z" fill="url(#logoR)" stroke="url(#logoR)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

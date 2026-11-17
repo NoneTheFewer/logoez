@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.375 85" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+	<style>.B{stroke:none}.C{fill:#e05243}.D{fill:#8c3123}</style>
+	<use xlink:href="#A" x="2.188" y="2.5"/>
+	<symbol id="A" overflow="visible">
+		<g fill="#5e1f18" class="B">
+			<path d="M34.995 35.669L60.17 18.937 70 35.318l-23.794.927-11.212-.576z"/>
+			<path d="M34.995 35.668L9.82 21.902 0 35.317l23.783.927 11.212-.576z"/>
+		</g>
+		<g fill="#f2b0a9">
+			<path d="M34.995 44.332L9.82 62.917 0 44.683l23.783-.927 11.212.576z" class="B"/>
+			<path d="M34.995 44.332L60.17 62.917 70 44.683l-23.794-.927-11.212.576z" class="B"/>
+		</g>
+		<path d="M60.169 34.381l9.831.937V16.566l-9.831 2.371v15.444z" class="B C"/>
+		<path d="M24.546 19.951l35.624-.322V34.38l-25.175 1.288-10.449-15.717z" class="B D"/>
+		<path d="M60.169 45.62L70 44.683v18.751l-9.831-.839V45.62z" class="B C"/>
+		<path d="M26.112 59.766l34.057-2.878V45.62l-25.175-1.288-8.883 15.434z" class="B D"/>
+		<path d="M34.995 19.629l-29.379.185L9.82 34.38l25.175 1.288V19.629z" class="B C"/>
+		<path d="M9.82 34.381L0 35.317V16.566l9.82.615v17.2zm0 11.239L0 44.683v18.751l9.82-.976V45.62z" class="B D"/>
+		<g class="C">
+			<path d="M34.995 61.113L9.82 56.888V45.62l25.175-1.288v16.78z" class="B"/>
+			<path d="M49.783 30.156l-14.787-2.088-13.973 12.439 13.973 11.561 14.787-2.117V30.156z" class="B"/>
+		</g>
+		<path d="M20.208 30.156l14.787-2.088v24l-14.787-2.117V30.156z" class="B D"/>
+		<path d="M60.169 23.112l-25.175 3.873L9.82 23.112 34.995 0l25.175 23.112z" fill="#5e1f18" class="B"/>
+		<path d="M60.169 56.888l-25.175-3.873L9.82 56.888 34.995 80l25.175-23.112z" fill="#f2b0a9" class="B"/>
+		<path d="M70 54.059l-35.005 9.942v16L70 63.435v-9.376z" class="B C"/>
+		<path d="M0 54.059l34.995 9.942v16L0 63.435v-9.376z" class="B D"/>
+		<path d="M70 25.942L34.995 16V0L70 16.566v9.376z" class="B C"/>
+		<path d="M0 25.942L34.995 16V0L0 16.566v9.376z" class="B D"/>
+	</symbol>
+</svg>

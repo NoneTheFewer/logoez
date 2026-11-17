@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185.16 186">
+	<defs>
+		<linearGradient id="myGradient" gradientTransform="rotate(85)" x1="-0.7">
+			<stop offset="45%" stop-color="#199581"/>
+			<stop offset="65%" stop-color="#2df9c3"/>
+		</linearGradient>
+		<path id="slice" fill="url(#myGradient)" d="m136.22,33.48c20.41,7.41,43.62,25.82,48.17,52.42,4.52,26.37-11.66,50.38-28.2,64.11,18.29-34.01,9.32-89.27-19.97-116.53Z"/>
+	</defs>
+	<use href="#slice"/>
+	<use href="#slice" transform="rotate(72 90 92)"/>
+	<use href="#slice" transform="rotate(144 90 92 )"/>
+	<use href="#slice" transform="rotate(216 90 92 )"/>
+	<use href="#slice" transform="rotate(288 90 92 )"/>
+</svg>
