@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.8 35.8" fill="none">
+	<style>
+		.cls0 { fill: #061B36; }
+		.cls1 { fill: url(#front-logo-horizontal_svg__paint0_linear_662_2108); }
+		.cls2 { fill: url(#front-logo-horizontal_svg__paint1_linear_662_2108); }
+	</style>
+	<g transform="translate(5.25 0)">
+		<path d="M.072 5.97C.072 2.673 2.754 0 6.062 0h19.21v8.496a2.99 2.99 0 01-2.995 2.985h-7.805a2.875 2.875 0 00-2.88 2.87v18.542a2.99 2.99 0 01-2.995 2.985H.072V5.97z" class="cls0"/>
+		<ellipse cx="14.545" cy="14.423" rx="7.75" ry="7.776" transform="rotate(90 14.545 14.423)" class="cls1"/>
+		<ellipse opacity="0.5" cx="14.545" cy="14.423" rx="7.75" ry="7.776" transform="rotate(90 14.545 14.423)" class="cls2"/>
+	</g>
+	<defs>
+		<linearGradient id="front-logo-horizontal_svg__paint0_linear_662_2108" x1="8.735" y1="19.899" x2="20.509" y2="8.246" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF0057" stop-opacity="0.16"/>
+			<stop offset="0.861" stop-color="#FF0057"/>
+		</linearGradient>
+		<linearGradient id="front-logo-horizontal_svg__paint1_linear_662_2108" x1="8.735" y1="19.899" x2="20.509" y2="8.246" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF0057" stop-opacity="0.16"/>
+			<stop offset="0.861" stop-color="#FF0057"/>
+		</linearGradient>
+	</defs>
+</svg>

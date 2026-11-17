@@ -134,12 +134,6 @@
 			<feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
 			<feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"/>
 		</filter>
-		<filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-130">
-			<feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
-		</filter>
-		<filter x="inf%" y="inf%" width="0.0%" height="0.0%" filterUnits="objectBoundingBox" id="filter-131">
-			<feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
-		</filter>
 		<path d="M19.3053211,8.87424494 C24.4085405,8.87424494 28.5455172,12.5338782 28.5455172,17.0482646 C28.5455172,21.5626509 24.4085405,25.2222842 19.3053211,25.2222842 C14.2021017,25.2222842 10.065125,21.5626509 10.065125,17.0482646 C10.065125,12.5338782 14.2021017,8.87424494 19.3053211,8.87424494 Z M19.3053211,13.494343 C17.1462667,13.494343 15.3960074,15.0059306 15.3960074,16.8705685 C15.3960074,18.7352063 17.1462667,20.246794 19.3053211,20.246794 C21.4643754,20.246794 23.2146348,18.7352063 23.2146348,16.8705685 C23.2146348,15.0059306 21.4643754,13.494343 19.3053211,13.494343 Z" id="path-132"/>
 		<filter x="-16.2%" y="-18.4%" width="132.5%" height="136.7%" filterUnits="objectBoundingBox" id="filter-133">
 			<feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"/>

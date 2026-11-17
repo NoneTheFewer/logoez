@@ -9,29 +9,13 @@
 			<stop style="stop-color:#2abfff;stop-opacity:1" offset="0" id="stop6534"/>
 			<stop style="stop-color:#0c7ed9;stop-opacity:1" offset="1" id="stop6536"/>
 		</linearGradient>
-		<defs id="defs4256">
-			<path id="XMLID_12_" d="m 107.254,17.442 c 14.297,9.621 30.156,17.29 63.152,3.648 L 154.15,77.255 c -27.541,12.922 -49.002,6.278 -63.283,-3.398 z"/>
-		</defs>
-		<defs id="defs4305">
-			<path id="XMLID_16_" d="M 63.135,134.475 C 48.804,124.827 33.267,117.01 0.193,130.682 L 16.238,74.603 c 33.079,-13.68 49.107,-6.4 63.426,3.303 z"/>
-		</defs>
-		<defs id="defs4351">
-			<path id="XMLID_20_" d="M 35.432,7.781 35.25,7.729 c 0.07,-0.238 0.234,-0.323 0.298,-0.35 l 0.027,-0.008 c 10e-4,10e-4 -0.06,0.126 -0.143,0.41 z"/>
-		</defs>
-		<defs id="defs4526">
-			<path id="XMLID_35_" d="m 88.131,83.682 c 14.313,9.633 29.822,16.309 62.76,4.969 l -15.703,54.578 c -28.98,12.742 -48.541,5.09 -63.201,-3.77 z"/>
-		</defs>
-		<path id="path6085" d="m 107.254,17.442 c 14.297,9.621 30.156,17.29 63.152,3.648 L 154.15,77.255 c -27.541,12.922 -49.002,6.278 -63.283,-3.398 z"/>
-		<path id="path6087" d="M 63.135,134.475 C 48.804,124.827 33.267,117.01 0.193,130.682 L 16.238,74.603 c 33.079,-13.68 49.107,-6.4 63.426,3.303 z"/>
-		<path id="path6089" d="M 35.432,7.781 35.25,7.729 c 0.07,-0.238 0.234,-0.323 0.298,-0.35 l 0.027,-0.008 c 10e-4,10e-4 -0.06,0.126 -0.143,0.41 z"/>
-		<path id="path6091" d="m 88.131,83.682 c 14.313,9.633 29.822,16.309 62.76,4.969 l -15.703,54.578 c -28.98,12.742 -48.541,5.09 -63.201,-3.77 z"/>
 		<linearGradient xlink:href="#linearGradient6538" id="linearGradient6540" x1="374.28571" y1="511.42856" x2="1688.5714" y2="1488.5714" gradientUnits="userSpaceOnUse"/>
 		<filter style="color-interpolation-filters:sRGB" id="filter6558" x="-0.039610434" width="1.0792209" y="-0.060898393" height="1.1217968">
-			<feGaussianBlur stdDeviation="5.085059" id="feGaussianBlur6560"/>
+			<feGaussianBlur stdDeviation="5.085059"/>
 		</filter>
 		<linearGradient xlink:href="#linearGradient6567" id="linearGradient6569" x1="274.28571" y1="88.571426" x2="1648.5714" y2="280" gradientUnits="userSpaceOnUse"/>
 		<filter style="color-interpolation-filters:sRGB" id="filter6624" x="-0.037908591" width="1.0758172" y="-0.12256575" height="1.2451315">
-			<feGaussianBlur stdDeviation="17.359192" id="feGaussianBlur6626"/>
+			<feGaussianBlur stdDeviation="17.359192"/>
 		</filter>
 	</defs>
 	<g id="layer1" transform="translate(-1006.1607,-926.04497)">

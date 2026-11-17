@@ -1,16 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 489.34396 164.37984">
-	<defs id="defs2">
-		<linearGradient id="linearGradient2923">
-			<stop offset="0" id="stop2919" stop-color="#333333" stop-opacity="1"/>
-			<stop offset="1" id="stop2921" stop-color="#333333" stop-opacity="0"/>
-		</linearGradient>
-		<polygon id="path-1" points="1.0665514e-14,211.88996 1.0665514e-14,0.722 224.34221,0.722 224.34221,211.88996 "/>
-		<polygon id="path-1-9" points="1.0665514e-14,211.88996 1.0665514e-14,0.722 224.34221,0.722 224.34221,211.88996 "/>
-		<mask id="mask-2-5" fill="#ffffff">
-			<use xlink:href="#path-1-9" id="use1449-7" x="0" y="0" width="100%" height="100%"/>
-		</mask>
-	</defs>
 	<g id="layer1" transform="translate(41.740181,-144.76196)">
 		<g id="g1671" transform="translate(94.494048,133.04762)">
 			<path d="m 562.01172,484.52344 c 10.37667,3.55062 20.43161,7.0098 29.76758,10.26367 h 92.66992 c -8.91141,-2.16397 -17.997,-4.39587 -27.10547,-6.65039 -29.82019,-1.14822 -60.01455,-2.42851 -95.33203,-3.61328 z" id="path1624" transform="scale(0.26458333)" fill="#ff6600" fill-rule="evenodd" stroke="none" stroke-width="0.999999px" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1"/>

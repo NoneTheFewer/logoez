@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 151.50538 126.58111">
-	<defs id="defs2">
-		<linearGradient id="linearGradient947">
-			<stop style="stop-color:#efad35;stop-opacity:1" offset="0" id="stop943"/>
-			<stop style="stop-color:#dd8728;stop-opacity:1" offset="1" id="stop945"/>
-		</linearGradient>
-		<linearGradient xlink:href="#linearGradient947" id="linearGradient949" x1="-48.744682" y1="80.911835" x2="-48.744682" y2="180.30365" gradientUnits="userSpaceOnUse" gradientTransform="translate(126.83823,0.50489445)"/>
-		<linearGradient xlink:href="#linearGradient947" id="linearGradient973" x1="26.387691" y1="113.63008" x2="47.09705" y2="113.63008" gradientUnits="userSpaceOnUse" gradientTransform="translate(127.55698,1.5326215)"/>
-	</defs>
-	<g id="layer1" transform="translate(-15.521142,-15.917622)">
-		<g id="g847" transform="translate(-7.6274933,-51.49289)">
-			<circle style="fill:#ffb0f8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00401579;stroke-linecap:round;stroke-linejoin:bevel" id="path852-6" cx="55.39954" cy="93.313789" r="0.49146888"/>
-			<path id="path852" style="fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:#525251;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 86.22701,68.4106 C 51.90792,68.52757 24.14867,96.38156 24.14863,130.70085 C 24.1486,165.10311 52.03714,192.99166 86.4394,192.99162 C 118.31636,192.99159 145.04944,168.92565 148.38756,137.22396 L 148.38756,137.22396 L 86.42597,130.7179 L 120.50554,80.89821 L 121.56905,79.26213 C 111.21775,72.19271 98.9744,68.41074 86.4394,68.410600000001 C 86.3686,68.41048 86.29781,68.41048 86.2270100000001,68.410600000001 L 86.22701,68.4106"/>
-			<circle style="fill:#525251;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.537299;stroke-linecap:round;stroke-linejoin:bevel" id="path1039" cx="78.684944" cy="97.034592" r="8.5379353"/>
-			<circle style="fill:url(#linearGradient973);fill-opacity:1;fill-rule:evenodd;stroke:#525251;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path965" cx="164.29935" cy="115.1627" r="9.3546801"/>
-		</g>
-	</g>
+    <defs>
+        <linearGradient id="linearGradient947">
+            <stop style="stop-color:#efad35;stop-opacity:1" offset="0" id="stop943" />
+            <stop style="stop-color:#dd8728;stop-opacity:1" offset="1" id="stop945" />
+        </linearGradient>
+        <linearGradient xlink:href="#linearGradient947" id="linearGradient949" x1="-48.744682" y1="80.911835" x2="-48.744682" y2="180.30365" gradientUnits="userSpaceOnUse" gradientTransform="translate(126.83823,0.50489445)" />
+        <linearGradient xlink:href="#linearGradient947" id="linearGradient973" x1="26.387691" y1="113.63008" x2="47.09705" y2="113.63008" gradientUnits="userSpaceOnUse" gradientTransform="translate(127.55698,1.5326215)" />
+    </defs>
+    <g id="layer1" transform="translate(-15.521142,-15.917622)">
+        <g id="g847" transform="translate(-7.6274933,-51.49289)">
+            <circle style="fill:#ffb0f8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00401579;stroke-linecap:round;stroke-linejoin:bevel" id="path852-6" cx="55.39954" cy="93.313789" r="0.49146888" />
+            <path id="path852" style="fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:#525251;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 86.22701,68.4106 C 51.90792,68.52757 24.14867,96.38156 24.14863,130.70085 C 24.1486,165.10311 52.03714,192.99166 86.4394,192.99162 C 118.31636,192.99159 145.04944,168.92565 148.38756,137.22396 L 148.38756,137.22396 L 86.42597,130.7179 L 120.50554,80.89821 L 121.56905,79.26213 C 111.21775,72.19271 98.9744,68.41074 86.4394,68.410600000001 C 86.3686,68.41048 86.29781,68.41048 86.2270100000001,68.410600000001 L 86.22701,68.4106" />
+            <circle style="fill:#525251;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.537299;stroke-linecap:round;stroke-linejoin:bevel" id="path1039" cx="78.684944" cy="97.034592" r="8.5379353" />
+            <circle style="fill:url(#linearGradient973);fill-opacity:1;fill-rule:evenodd;stroke:#525251;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path965" cx="164.29935" cy="115.1627" r="9.3546801" />
+        </g>
+    </g>
 </svg>

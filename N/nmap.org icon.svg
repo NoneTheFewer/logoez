@@ -6,23 +6,10 @@
 		.cls2 { fill: #4aaee6; }
 	</style>
 	<defs>
-		<clipPath>
-			<rect width="384" height="384"/>
-		</clipPath>
 		<linearGradient id="a" x1="193.38" x2="193.84" y1="71.815" y2="290.49" gradientTransform="translate(0 15.672)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#80c6ed" offset="0"/>
 			<stop stop-color="#fff" offset=".5"/>
 			<stop stop-color="#80c6ed" offset="1"/>
-		</linearGradient>
-		<linearGradient id="f" x1="45.448" x2="45.448" y1="92.54" y2="7.0165" gradientTransform="scale(1.0059 .99417)" gradientUnits="userSpaceOnUse">
-			<stop offset="0"/>
-			<stop stop-opacity=".58824" offset="1"/>
-		</linearGradient>
-		<linearGradient x1="15.594" x2="111.61" y1="61.448" y2="61.448" gradientTransform="matrix(.70315 0 0 .69956 3.1971 4.0472)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
-			<stop stop-color="#ffc730" stop-opacity="0" offset="0"/>
-			<stop stop-color="#ffc730" offset=".2202"/>
-			<stop stop-color="#ffc730" offset=".56107"/>
-			<stop stop-color="#ffc730" stop-opacity="0" offset="1"/>
 		</linearGradient>
 	</defs>
 	<g transform="matrix(1.0589 0 0 1.0589 -11.305 -11.579)">

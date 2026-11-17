@@ -43,6 +43,10 @@
 		<filter id="filter3253">
 			<feGaussianBlur id="feGaussianBlur3255" stdDeviation="0.63928732"/>
 		</filter>
+		<filter id="filter3253">
+			<feGaussianBlur id="feGaussianBlur3255" stdDeviation="0.63928732" inkscape:collect="always"/>
+		</filter>
+		<linearGradient x1="324.26031" y1="64.134064" x2="579.90649" y2="319.91772" id="linearGradient3274" xlink:href="#linearGradient3609" gradientUnits="userSpaceOnUse" gradientTransform="translate(-291.82193,208.19683)"/>
 		<filter id="filter3300">
 			<feGaussianBlur id="feGaussianBlur3302" stdDeviation="0.63928732"/>
 		</filter>

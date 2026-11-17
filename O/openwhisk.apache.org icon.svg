@@ -1,22 +1,9 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 465.05054 305.03073">
-	<defs id="defs4816">
-		<color-profile name="Adobe-RGB--1998-" xlink:href="/System/Library/ColorSync/Profiles/AdobeRGB1998.icc" id="color-profile3144"/>
-		<color-profile id="color-profile4516" xlink:href="/System/Library/ColorSync/Profiles/AdobeRGB1998.icc" name="Adobe-RGB--1998-"/>
-		<color-profile name="Adobe-RGB--1998-" xlink:href="/System/Library/ColorSync/Profiles/AdobeRGB1998.icc" id="color-profile4566"/>
-		<color-profile id="color-profile4940" xlink:href="/System/Library/ColorSync/Profiles/AdobeRGB1998.icc" name="Adobe-RGB--1998-"/>
-	</defs>
-	<rect x="-3.0287452" height="312.74371" width="472.01105" id="rect316" style="display:none;fill:#27558f;fill-opacity:0.94117647;stroke:none;stroke-width:1;stroke-opacity:1"/>
-	<text id="text133" y="18.152016" x="437.64542" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0028801px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:none;fill:#325c80;fill-opacity:1;stroke:none;stroke-width:1.59402001" xml:space="preserve">
-		<tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0028801px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#325c80;fill-opacity:1;stroke-width:1.59402001" y="18.152016" x="437.64542" id="tspan131">TM</tspan>
-	</text>
-	<g style="display:none;stroke-width:0.24340019" id="g2552-6" transform="matrix(15.428316,0,0,15.493285,-1.5873152,-18.212558)">
-		<path transform="translate(0.1028831,1.175636)" style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24340019;stroke-opacity:1" clip-path="none" d="M 14.67265,19.78891 L 4.82046,2.21922 L -0.12608,11.07576 L 4.7387,19.78891 L 14.67265,19.78891" id="polygon2422-7"/>
-	</g>
-	<g style="display:inline;stroke-width:0.27429447" transform="matrix(6.3071665,0,0,5.3545025,-49.879637,-62.863546)" id="g2788">
-		<polygon transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" style="display:inline;fill:#008571;stroke-width:0.24340019" points="15.537455,0.002953125 25.270444,17.22644 30.142665,8.6119277 25.27587,-0.00012304688 " id="polygon99-8"/>
-		<polygon transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" style="display:inline;fill:#6eedd8;stroke-width:0.24340019" points="10.758253,8.6133428 20.405514,8.608776 15.537636,0.0031376953 " id="polygon101-4" clip-path="none" mask="none"/>
-		<polygon transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" style="display:inline;fill:#325c80;stroke-width:0.24340019" points="0,11.075757 4.8203765,19.687808 14.465952,19.684116 4.8258021,2.4612451 " id="polygon103-1"/>
-		<polygon id="polygon233-7" points="14.466073,19.684547 19.291272,11.074342 9.6456963,11.077418 " style="display:inline;fill:#5aaafa;stroke-width:0.24340019" transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)"/>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 465.05054 305.03073">
+    <g stroke-width="0.27429447" transform="matrix(6.3071665,0,0,5.3545025,-49.879637,-62.863546)">
+        <polygon transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" fill="#008571" stroke-width="0.24340019" points="15.537455,0.002953125 25.270444,17.22644 30.142665,8.6119277 25.27587,-0.00012304688 " />
+        <polygon transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" fill="#6eedd8" stroke-width="0.24340019" points="10.758253,8.6133428 20.405514,8.608776 15.537636,0.0031376953 " />
+        <polygon transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" fill="#325c80" stroke-width="0.24340019" points="0,11.075757 4.8203765,19.687808 14.465952,19.684116 4.8258021,2.4612451 " />
+        <polygon points="14.466073,19.684547 19.291272,11.074342 9.6456963,11.077418 " fill="#5aaafa" stroke-width="0.24340019" transform="matrix(2.4461563,0,0,2.8935059,7.9084066,11.740671)" />
+    </g>
 </svg>
